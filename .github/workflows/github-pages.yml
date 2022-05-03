@@ -19,4 +19,4 @@ jobs:
       - uses: helaili/jekyll-action@2.3.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          jekyll_build_options: --config _config.yml
+          jekyll_build_options: --config _config.yml,_config.github.yml
