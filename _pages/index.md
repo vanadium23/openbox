@@ -5,18 +5,18 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Открытый ящик Чернова
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Вы находитесь на главной странице моего цифрового архива. Здесь собраны материалы из интернетов и упакованы в формат Digital Garden.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Последние обновления
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+{% for note in site.notes limit:5 %}
+- <a href="{{ note.url }}">{{ note.title }}</a>
+{% endfor %}
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+---
+
+## Граф заметок
+
+{% include notes_graph.html %}
