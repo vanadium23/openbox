@@ -23,9 +23,6 @@ permalink:           pretty
 relative_permalinks: false
 keep_history: [.git]
 
-plugins:
-  - jekyll-last-modified-at
-
 sass:
   sass_dir:          _sass
   style:            :compressed
