@@ -21,10 +21,11 @@ Discipline:: [[system design]]
 ## Quotes
 
 ```expander
-path:"Openbox/quotes" AND [[Domain-Driven Design Distilled]]
+path:"Openbox/quotes" content:("Domain-Driven Design Distilled")
 ```
  
 - [[202205081256]]
+- [[202205081303]]
 - [[202205081312]]
 - [[202205081318]]
 - [[202205081322]]
