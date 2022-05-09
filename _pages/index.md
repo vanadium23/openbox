@@ -11,7 +11,8 @@ permalink: /
 
 ## Последние обновления
 
-{% for note in site.notes limit:5 %}
+{% assign latest_notes = site.notes | sort: 'last_modified_at' | reverse %}
+{% for note in latest_notes limit:5 %}
 - <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
 {% endfor %}
 
