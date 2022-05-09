@@ -20,3 +20,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_build_options: --config _config.yml,_config.github.yml
+          keep_history: true
