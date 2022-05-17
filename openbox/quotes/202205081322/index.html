@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/" />
+  <link rel="canonical" href="/openbox/quotes/202205081322/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Chernov Open 📦">
+  <meta name="description" content="  Avoid Integration Train Wrecks When a client Bounded Context (C1) integrates with a service Bounded Context (S1), C1 should usually not be making a synchro...">
 
   <meta property="og:site_name" content="Chernov Open 📦">
 
@@ -16,23 +16,26 @@
   <link rel="stylesheet" href="/openbox/assets/css/base.css">
 
   
-  <meta property="og:description" content="Chernov Open 📦"/>
+  <meta property="og:description" content="  Avoid Integration Train Wrecks When a client Bounded Context (C1) integrates with a service Bounded Context (S1), C1 should usually not be making a synchro..."/>
   
 
   
-  <meta property="og:title" content="Крышка">
+  <meta property="og:title" content="Avoid Integration Train Wrecks">
   <meta property="og:type" content="article">
   
 
   
+  <meta property="article:published_time" content="2022-05-08T10:22:00+00:00">
+  <meta property="article:author" content="/">
+  
 
-  <meta property="og:url" content="/" />
+  <meta property="og:url" content="/openbox/quotes/202205081322/" />
 
   
 
   <title>
     
-      Chernov Open 📦
+      Avoid Integration Train Wrecks &mdash; Chernov Open 📦
     
   </title>
 </head>
@@ -50,66 +53,54 @@
 </div>
 </nav>
     <div class="container">
-      <main><content>
-  <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+      <main><article>
+  <header class="Heading">
+    <h1 class="Heading-title">Avoid Integration Train Wrecks</h1>
+    <div class="Heading-additional">
+      
+      <time datetime="2022-05-17T19:35:38+00:00">
+        Последнее обновление 2022-05-17
+        
+      </time>
+      
+    </div>
+  </header>
+
+  <div id="notes-entry-container">
+    <content>
+      <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body>
-<h1 id="открытый-ящик-чернова">Открытый ящик Чернова</h1>
+<blockquote>
+  <p>Avoid Integration Train Wrecks When a client Bounded Context (C1) integrates with a service Bounded Context (S1), C1 should usually not be making a synchronous, blocking request to S1 as a direct result of handling a request made to it. That is, while some other client (C0) makes a blocking request to C1, don’t allow C1 to make a blocking request to S1. Doing so has a very high potential for causing an integration train wreck between C0, C1, and S1. This can be avoided by using asynchronous messaging.</p>
+</blockquote>
 
-<p>Вы находитесь на главной странице моего <a class="internal-link" href="/openbox/openbox/czifrovoj-arhiv/">цифрового архива</a>. Здесь собраны материалы из интернетов и упакованы в формат <a class="internal-link" href="/openbox/openbox/digital-garden/">Digital Garden</a>. Можно подробнее почитать <a class="internal-link" href="/openbox/openbox/o-prichinah-vedeniya-arhiva/">o причинах ведения архива</a>.</p>
-
-<h2 id="последние-обновления">Последние обновления</h2>
-
-<ul>
-  <li>
-    <p><a href="/openbox/openbox/ekzokorteks/" target="blank">Экзокортекс</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/czifrovoj-arhiv/" target="blank">Цифровой архив</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/tezis-kak-nazvanie-zametki/" target="blank">Тезис как название заметки</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/tegi-neeffektivnaya-sistema/" target="blank">Теги неэффективная система</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/ne-bud-plyushkinym/" target="blank">Не будь плюшкиным</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/myshlenie-pismom/" target="blank">Мышление письмом</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/myshlenie-dolzhno-proishodit-vo-vne/" target="blank">Мышление должно происходить во вне</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/kryshka/" target="blank">Крышка</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/vedenie-zametok/" target="blank">Ведение заметок</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/refs/the-logic-of-failure/" target="blank">The logic of failure</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/quotes/202205081303/" target="blank">Innovation does not end, when maintenance begins.</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/quotes/202205081256/" target="blank">Don’t limit Domain to nouns</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/quotes/202205081312/" target="blank">202205081312</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/quotes/202205081322/" target="blank">Avoid Integration Train Wrecks</a></p>
-  </li>
-  <li>
-    <p><a href="/openbox/openbox/refs/domain-driven-design-distilled/" target="blank">Domain Driven design distilled</a></p>
-  </li>
-</ul>
-
+<p>Link:: <a class="internal-link" href="/openbox/openbox/refs/domain-driven-design-distilled/">Domain-Driven Design Distilled</a></p>
 </body></html>
 
-</content>
+    </content>
+
+    
+    <side class="backlink">
+      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
+      <div class="backlink-boxes">
+      
+        <div class="backlink-box">
+        <a class="internal-link" href="/openbox/openbox/refs/domain-driven-design-distilled/">Domain Driven design distilled</a><br>
+        <div>%%
+start_date:: 2022-05-02
+due_date:: 
+finish_date::
+Role:: [[разработчик]]
+Discipline:: [[system design]]
+%%
+</div>
+        </div>
+      
+      </div>
+    </side>
+    
+  </div>
+</article>
 </main>
       <footer></footer>
     </div>
