@@ -1,15 +1,176 @@
-.highlight  {
-  background: #f8f8f8;
-  padding: 1px 1em;
-  border-radius: 3px;
-  font-size: 1em;
-  font-size: 0.9em;
-  overflow: auto;
-  margin: 1em -1em;
+/* blog css */
+
+:root {
+  --color-bg: #ffffff;
+  --color-bg-text: #000;
+  --color-bg-text-additional: rgba(0, 0, 0, .54);
+  --color-primary: teal;
+  --color-primary-text: #fff;
+  --color-link: #4183C4;
 }
 
+[data-theme="dark"] {
+  --color-bg: #292a2d;
+  --color-bg-text: #fff;
+  --color-bg-text-additional: rgba(255, 255, 255, .54);
+  --color-primary: #e37467;
+  --color-primary-text: #000;
+  --color-link: coral;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background: var(--color-bg);
+  color: var(--color-bg-text);
+}
+
+main {
+  flex-grow: 1;
+  max-width: 38rem;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 0.3rem;
+}
+
+pre {
+  overflow-x: auto;
+  border: 0.1rem solid var(--color-primary);
+  padding: 1rem;
+}
+
+code {
+  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.Banner {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.Banner-item--title {
+  flex-grow: 1;
+}
+
+.Banner-link {
+  font-size: 1.25rem;
+  color: var(--color-primary-text);
+  padding: 0.5rem 1rem;
+}
+
+.Heading-title {
+  margin: 1.5rem 0.5rem 0 0;
+}
+
+.Heading-link {
+  color: inherit;
+}
+
+.Heading-additional {
+  font-size: small;
+  color: var(--color-bg-text-additional);
+}
+
+.Tags {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1.5rem 0;
+  padding: 0;
+}
+
+.Tags-item {
+  border-radius: 0.2rem;
+  margin: 0.2rem;
+  padding: 0 0.3rem;
+}
+
+.Tags-link {
+  color: var(--color-primary-text);
+}
+
+.Pagination {
+  font-size: 1.25rem;
+  color: inherit;
+}
+
+.Pagination--right {
+  float: right;
+}
+
+.Footer {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.u-wrapper {
+  max-width: 50rem;
+  margin: auto;
+}
+
+.u-padding {
+  padding: 0 1rem;
+}
+
+.u-background {
+  background: var(--color-primary);
+}
+
+.u-clickable {
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.home .u-padding > article {
+  padding-bottom: 1em;
+  border-bottom: 1px solid var(--color-primary);
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-bottom: 1px solid var(--color-primary);
+}
+
+
+
+.highlight  {
+    background: #f8f8f8;
+    padding: 1px 1em;
+    border-radius: 3px;
+    font-size: 1em;
+    font-size: 0.9em;
+    overflow: auto;
+    margin: 1em -1em;
+}
+
+/* highlights for code */
+
 div.highlight {
-  display: grid;
+    display: grid;
 }
 
 .highlight .c { color: #999988; font-style: italic } /* Comment */
@@ -71,3 +232,17 @@ div.highlight {
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+/* digital archive */
+
+.invalid-link {
+  color: #444444;
+  cursor: help;
+  background: #fafafa;
+  padding: 0 0.1em;
+}
+
+.invalid-link-brackets {
+  color: #ccc;
+  cursor: help;
+}
