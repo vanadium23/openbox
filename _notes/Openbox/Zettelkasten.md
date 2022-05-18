@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/openbox/zettelkasten/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/zettelkasten/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

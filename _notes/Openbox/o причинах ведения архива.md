@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"О причинах ведения [публичного] архива","permalink":"/openbox/o-prichinah-vedeniya-arhiva/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"title":"О причинах ведения [публичного] архива","permalink":"/o-prichinah-vedeniya-arhiva/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

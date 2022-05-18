@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/openbox/evergreen/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/evergreen/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

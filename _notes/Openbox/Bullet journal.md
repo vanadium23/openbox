@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/openbox/bullet-journal/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bullet-journal/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

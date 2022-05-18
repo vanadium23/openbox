@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/openbox/digital-garden/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/digital-garden/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

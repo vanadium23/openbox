@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/openbox/para/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/para/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

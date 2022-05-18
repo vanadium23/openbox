@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books"],"rating":4,"alias":["Логика неудачи"],"permalink":"/openbox/refs/the-logic-of-failure/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books"],"rating":4,"alias":["Логика неудачи"],"permalink":"/refs/the-logic-of-failure/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # The logic of failure

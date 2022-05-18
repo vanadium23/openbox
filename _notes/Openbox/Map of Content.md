@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["MOC"],"permalink":"/openbox/map-of-content/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":["MOC"],"permalink":"/map-of-content/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
