@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-18T19:33:17+03:00","permalink":"//refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-18T19:33:17+03:00","permalink":"/openbox/refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # How to make sense of any mess
