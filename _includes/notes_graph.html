@@ -6,7 +6,6 @@
 
   .nodes circle {
     cursor: pointer;
-    fill: #8b88e6;
     transition: all 0.15s ease-out;
   }
 
@@ -31,6 +30,9 @@
     background: #fcfcfc;
     border-radius: 4px;
     height: auto;
+
+    --g-node-active: red;
+    --g-node: var(--color-primary);
   }
 </style>
 
@@ -71,6 +73,25 @@
         nodeSize[el.id] = weight;
       });
     };
+
+    const pathColors = [{
+      '/quotes': 'gray'
+    }];
+    const color = (d) => {
+    if (isCurrentPath(d)) {
+      return 'var(--g-node-active)'
+    }
+
+    for (const pathColor of pathColors) {
+      const path = Object.keys(pathColor)[0]
+      const colour = pathColor[path]
+      if (d.path.startsWith(path)) {
+        return colour
+      }
+    }
+
+    return 'var(--g-node)'
+  }
 
     const onClick = (d) => {
       window.location = d.path
@@ -243,6 +264,7 @@
         .attr("r", (d) => {
           return nodeSize[d.id];
         })
+        .attr('fill', color)
         .on("click", onClick)
         .on("mouseover", onMouseover)
         .on("mouseout", onMouseout)
