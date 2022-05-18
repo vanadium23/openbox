@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-18T19:33:43+03:00","permalink":"/refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-18T20:14:28+03:00","permalink":"/refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # How to make sense of any mess
@@ -22,7 +22,7 @@ path:"Openbox/quotes" content:("How to make sense of any mess")
  
 - [[202204161856]] 
 - [[202204161857]] 
-- [[202204161859]] 
+- [[202204161859]] Questions to identify the mess
 - [[202204171822]] 
 - [[202204171825]] 
 - [[202204171826]] 
