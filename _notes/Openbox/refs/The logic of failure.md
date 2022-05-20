@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books"],"rating":4,"alias":["Логика неудачи"],"permalink":"/refs/the-logic-of-failure/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books"],"category":"book","rating":4,"alias":["Логика неудачи"],"date":"2022-05-01T09:43:54+03:00","modified_at":"2022-05-20T22:56:42+03:00","permalink":"/refs/the-logic-of-failure/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # The logic of failure
@@ -9,9 +9,7 @@ due_date:: 2022-04-10
 finish_date:: 2022-04-03
 completed:: true
 
-%%
-Discipline:: [[системное мышление]]
-%%
+
 
 
 ## Summary
@@ -40,7 +38,7 @@ Discipline:: [[системное мышление]]
 ## Quotes
 
 ```dataview
-LIST FROM "Zettel" and [[The logic of failure]]
+LIST FROM "Trash/Zettel" and [[The logic of failure]]
 SORT file.name
 ```
 
