@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"rating":null,"modified_at":"2022-05-18T08:06:12+03:00","date":"2022-05-03T12:57:45+03:00","permalink":"/refs/domain-driven-design-distilled/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books/inbox"],"category":"book","rating":null,"modified_at":"2022-05-20T22:56:59+03:00","date":"2022-05-03T12:57:45+03:00","permalink":"/refs/domain-driven-design-distilled/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
