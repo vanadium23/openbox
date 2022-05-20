@@ -15,6 +15,10 @@ use_html_extension:  false
 # set to `false` to open non-internal links in current tab.
 open_external_links_in_new_tab: true
 
+# exclude quotes path
+quotes:
+  exclude_categories: ["book"]
+
 permalink:           pretty
 relative_permalinks: false
 keep_history: [.git]

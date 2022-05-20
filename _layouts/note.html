@@ -31,7 +31,7 @@ layout: default
       <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
       <div class="backlink-boxes">
       {% for backlink in page.backlinks %}
-        {% unless backlink.url contains "quotes" %}
+        {% unless backlink.url contains "quotes" and site.quotes.exclude_categories contains page.category %}
         <div class="backlink-box">
         <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
         <div>{{ backlink.excerpt | strip_html | truncatewords: 15 }}</div>
