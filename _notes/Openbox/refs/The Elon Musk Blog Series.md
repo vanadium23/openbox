@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["books/inbox"],"rating":5,"date":"2022-05-20T19:52:23+03:00","modified_at":"2022-05-20T19:54:33+03:00","permalink":"/refs/the-elon-musk-blog-series/","dgHomeLink":false,"dgPassFrontmatter":true,"category":"book"}
+{"dg-publish":true,"tags":["books/inbox"],"category":"book","rating":5,"date":"2022-05-20T19:52:23+03:00","modified_at":"2022-05-20T22:57:08+03:00","permalink":"/refs/the-elon-musk-blog-series/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -22,11 +22,10 @@ path:"Openbox/quotes" content:("The Elon Musk Blog Series")
 - [[202205102011]] Prisoner dillema with future generations
 - [[202205102033]] Elon Musk compares GM and Tesla
 - [[202205111203]] 
-- [[202205111444]] 
-- [[202205111748]] 
-- [[202205120851]] 
+- [[202205111444]] Mars is a backup for the humanity
+- [[202205111748]] All a company is a bunch of people together to create a product or service
 - [[202205120907]] 
-- [[202205121005]] 
+- [[202205121005]] Reality box with feedback loops
 - [[202205121020]] 
 - [[202205121151]] 
 - [[202205121153]] 
