@@ -19,6 +19,11 @@ open_external_links_in_new_tab: true
 quotes:
   exclude_categories: ["book"]
 
+telegram_publisher:
+  # api_token: ''
+  chat_id: '112776829'
+  published_timedelta: 60
+
 permalink:           pretty
 relative_permalinks: false
 keep_history: [.git]

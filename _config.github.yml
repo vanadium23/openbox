@@ -1,2 +1,6 @@
 baseurl:             '/openbox'
 cloudflare_analytics: '7507913639b540edbde55792995b90d8'
+telegram_publisher:
+  # api_token: ''
+  # chat_id: '@chernov_sharit'
+  published_timedelta: 5
