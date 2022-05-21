@@ -1,0 +1,40 @@
+require "net/http"
+require "uri"
+require "json"
+require "date"
+
+
+class TelegramPublisher < Jekyll::Generator
+    priority :low
+
+    def generate(site)
+        api_token = site.config['telegram_publisher']['api_token'] || ENV['TELEGRAM_PUBLISHER_TOKEN']
+        chat_id = site.config['telegram_publisher']['chat_id']
+        published_timedelta = site.config['telegram_publisher']['published_timedelta'] || 5
+
+        if api_token && chat_id then
+            note_to_publish = site.collections['notes'].docs.select {
+                |note| note.data['tch-publish'] && note.data['published_at']
+            }
+            note_to_publish.each do |current_note|
+                # calculate minutes for published
+                published_at = DateTime.iso8601(current_note.data['published_at'])
+                now = DateTime.now
+                minutes = ((now - published_at) * 24 * 60).to_i
+
+                if minutes >= 0 && minutes < published_timedelta then
+                    message = current_note.content
+                    result = send_telegram_message(api_token, chat_id, message)
+                end
+            end
+        end
+    end
+end
+
+def send_telegram_message(api_token, chat_id, message)
+    url = URI.parse("https://api.telegram.org/bot" + api_token + "/sendMessage")
+    params = { chat_id: chat_id, text: message, 'parse_mode': 'html' }.to_json
+    response = Net::HTTP.post(url, params, 'Content-Type': 'application/json')
+    response_body = JSON.parse(response.body)
+    return response_body["ok"] == true
+end
