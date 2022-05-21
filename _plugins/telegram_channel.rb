@@ -8,13 +8,17 @@ class TelegramPublisher < Jekyll::Generator
     priority :low
 
     def generate(site)
-        api_token = site.config['telegram_publisher']['api_token'] || ENV['TELEGRAM_PUBLISHER_TOKEN']
-        chat_id = site.config['telegram_publisher']['chat_id']
-        published_timedelta = site.config['telegram_publisher']['published_timedelta'] || 5
+        tgp_config = site.config['telegram_publisher']
+        api_token = tgp_config['api_token'] || ENV['TELEGRAM_PUBLISHER_TOKEN']
+        chat_id = tgp_config['chat_id']
+        published_timedelta = tgp_config['published_timedelta'] || 5
+        tags_for_publish = tgp_config['tags'] || []
 
         if api_token && chat_id then
             note_to_publish = site.collections['notes'].docs.select {
-                |note| note.data['tch-publish'] && note.data['published_at']
+                |note| (
+                    note.data['tch-publish'] || tags_for_publish.intersection(note.data['tags'])
+                ) && note.data['published_at']
             }
             note_to_publish.each do |current_note|
                 # calculate minutes for published

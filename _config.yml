@@ -23,6 +23,8 @@ telegram_publisher:
   # api_token: ''
   chat_id: '112776829'
   published_timedelta: 60
+  tags:
+    - chernov_sharit
 
 permalink:           pretty
 relative_permalinks: false
