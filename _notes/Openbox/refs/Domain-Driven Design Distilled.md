@@ -8,10 +8,6 @@
 ## Summary
 
 
-## Highlights
-
-
-
 ## Quotes
 
 ```expander
@@ -21,7 +17,7 @@ path:"Openbox/quotes" content:("Domain-Driven Design Distilled")
 - [[202205081256]] Don't limit Domain to nouns
 - [[202205081303]] Innovation does not end, when maintenance begins.
 - [[202205081312]] Subdomain must be within one Domain
-- [[202205081318]] 
+- [[202205081318]] Признаки Big Ball of Mud
 - [[202205081322]] Avoid Integration Train Wrecks
  
 <-->
