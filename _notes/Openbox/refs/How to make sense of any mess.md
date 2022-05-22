@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"tags":["books"],"category":"book","rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-20T22:56:55+03:00","permalink":"/refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"up":[["Books"]],"tags":["books"],"category":"book","rating":3,"date":"2022-04-16T18:53:11+03:00","modified_at":"2022-05-22T18:37:30+03:00","permalink":"/refs/how-to-make-sense-of-any-mess/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
