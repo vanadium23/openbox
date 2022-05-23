@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/quotes/202205111748/" />
+  <link rel="canonical" href="/refs/202205231239/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="  When I asked Musk about his knowledge of business, he scolded me, explaining, “I don’t know what a business is. All a company is a bunch of people together...">
+  <meta name="description" content="Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/">
 
   <meta property="og:site_name" content="Chernov Open 📦">
 
@@ -16,26 +16,26 @@
   <link rel="stylesheet" href="/openbox/assets/css/base.css">
 
   
-  <meta property="og:description" content="  When I asked Musk about his knowledge of business, he scolded me, explaining, “I don’t know what a business is. All a company is a bunch of people together..."/>
+  <meta property="og:description" content="Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/"/>
   
 
   
-  <meta property="og:title" content="All a company is a bunch of people together to create a product or service">
+  <meta property="og:title" content="202205231239">
   <meta property="og:type" content="article">
   
 
   
-  <meta property="article:published_time" content="2022-05-11T14:48:00+00:00">
+  <meta property="article:published_time" content="2022-05-23T09:39:56+00:00">
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/quotes/202205111748/" />
+  <meta property="og:url" content="/refs/202205231239/" />
 
   
 
   <title>
     
-      All a company is a bunch of people together to create a product or service &mdash; Chernov Open 📦
+      202205231239 &mdash; Chernov Open 📦
     
   </title>
 </head>
@@ -55,17 +55,17 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">All a company is a bunch of people together to create a product or service</h1>
+    <h1 class="Heading-title">202205231239</h1>
     <div class="Heading-additional">
       
-      <time datetime="2022-05-11T14:48:00+00:00">
-        Создано 2022-05-11
+      <time datetime="2022-05-23T09:39:56+00:00">
+        Создано 2022-05-23
         
       </time>&middot;
       
       
-      <time datetime="2022-05-20T19:21:38+00:00">
-        Обновлено 2022-05-20
+      <time datetime="2022-05-23T09:41:25+00:00">
+        Обновлено 2022-05-23
         
       </time>
       
@@ -76,49 +76,53 @@
     <content>
       <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body>
-<blockquote>
-  <p>When I asked Musk about his knowledge of business, he scolded me, explaining, “I don’t know what a business is. All a company is a bunch of people together to create a product or service. There’s no such thing as a business, just pursuit of a goal—a group of people pursuing a goal.”</p>
-</blockquote>
+<p>Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/</p>
 
-<p>Link:: <a class="internal-link" href="/openbox/refs/the-elon-musk-blog-series/">The Elon Musk Blog Series</a></p>
+<h2 id="заметки">Заметки</h2>
 
-<hr>
+<p>Пример настройки pre-commit для python:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">repos</span><span class="pi">:</span>
+<span class="pi">-</span>   <span class="na">repo</span><span class="pi">:</span> <span class="s">https://github.com/psf/black</span>
+    <span class="na">rev</span><span class="pi">:</span> <span class="s">stable</span>
+    <span class="na">hooks</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">black</span>
+      <span class="na">language_version</span><span class="pi">:</span> <span class="s">python3.6</span>
+<span class="pi">-</span>   <span class="na">repo</span><span class="pi">:</span> <span class="s">https://gitlab.com/pycqa/flake8</span>
+    <span class="na">rev</span><span class="pi">:</span> <span class="s">3.7.9</span>
+    <span class="na">hooks</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">flake8</span>
+</code></pre></div></div>
 
-<p>Дополнительное описание к тому, что такое <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  предпринимательство  <span class="invalid-link-brackets">]]</span></span>.</p>
+<p>Black:</p>
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[tool.black]</span>
+<span class="py">line-length</span> <span class="p">=</span> <span class="mi">79</span>
+<span class="py">include</span> <span class="p">=</span> <span class="s">'\.pyi?$'</span>
+<span class="py">exclude</span> <span class="p">=</span> <span class="s">'''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''</span>
+</code></pre></div></div>
+
+<p>Flake8:</p>
+<div class="language-ini highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[flake8]</span>
+<span class="py">ignore</span> <span class="p">=</span> <span class="s">E203, E266, E501, W503, F403, F401</span>
+<span class="py">max-line-length</span> <span class="p">=</span> <span class="s">79</span>
+<span class="py">max-complexity</span> <span class="p">=</span> <span class="s">18</span>
+<span class="py">select</span> <span class="p">=</span> <span class="s">B,C,E,F,W,T4,B9</span>
+</code></pre></div></div>
 </body></html>
 
     </content>
 
-    
-    <side class="backlink">
-      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
-      <div class="backlink-boxes">
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/refs/the-elon-musk-blog-series/">The elon musk blog series</a><br>
-        <div>Summary
-</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/shelves/czitatnik/">Цитатник</a><br>
-        <div>
-  
-    
-      Здесь собраны все цитаты из [[цифровой архив
-      цифрового архива]].
-    
-  
-
-</div>
-        </div>
-        
-      
-      </div>
-    </side>
     
   </div>
 </article>
