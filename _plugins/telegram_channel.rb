@@ -5,7 +5,7 @@ require "date"
 
 
 class TelegramPublisher < Jekyll::Generator
-    priority :low
+    priority :high
 
     def generate(site)
         tgp_config = site.config['telegram_publisher']
@@ -33,7 +33,7 @@ class TelegramPublisher < Jekyll::Generator
                 Jekyll.logger.debug "Check #{title} need publish #{minutes} minutes ago"
 
                 if minutes >= 0 && minutes < published_timedelta then
-                    message = current_note.content
+                    message = prepare_telegram_message(current_note.content)
                     result = send_telegram_message(api_token, chat_id, message)
                     if result["ok"] == true
                         Jekyll.logger.info "Sended to telegram #{title}"
@@ -44,6 +44,12 @@ class TelegramPublisher < Jekyll::Generator
             end
         end
     end
+end
+
+def prepare_telegram_message(message)
+    output = message.gsub(/\[\[([^\]|]+)\|([^\]|]+)\]\]/, '\2')
+    output = output.gsub(/\[\[([^\]]+)\]\]/, '\1')
+    return output
 end
 
 def send_telegram_message(api_token, chat_id, message)
