@@ -13,6 +13,9 @@ class TelegramPublisher < Jekyll::Generator
         chat_id = tgp_config['chat_id']
         published_timedelta = tgp_config['published_timedelta'] || 5
         tags_for_publish = tgp_config['tags'] || []
+        params = "chat_id=#{chat_id}, tags=#{tags_for_publish}, timedelta=#{published_timedelta}"
+
+        Jekyll.logger.info  "Start telegram publisher with #{params}"
 
         if api_token && chat_id then
             note_to_publish = site.collections['notes'].docs.select {
@@ -25,10 +28,18 @@ class TelegramPublisher < Jekyll::Generator
                 published_at = DateTime.iso8601(current_note.data['published_at'])
                 now = DateTime.now
                 minutes = ((now - published_at) * 24 * 60).to_i
+                title = current_note.data['title']
+
+                Jekyll.logger.debug "Check #{title} need publish #{minutes} minutes ago"
 
                 if minutes >= 0 && minutes < published_timedelta then
                     message = current_note.content
                     result = send_telegram_message(api_token, chat_id, message)
+                    if result["ok"] == true
+                        Jekyll.logger.info "Sended to telegram #{title}"
+                    else
+                        Jekyll.logger.error "Error on sending telegram #{title}: #{result}"
+                    end
                 end
             end
         end
@@ -40,5 +51,5 @@ def send_telegram_message(api_token, chat_id, message)
     params = { chat_id: chat_id, text: message, 'parse_mode': 'html' }.to_json
     response = Net::HTTP.post(url, params, 'Content-Type': 'application/json')
     response_body = JSON.parse(response.body)
-    return response_body["ok"] == true
+    return response_body
 end
