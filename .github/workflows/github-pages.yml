@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+  schedule:
+    # schedule for chernov_sharit channel
+    - cron: "2 16 * * *"
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
