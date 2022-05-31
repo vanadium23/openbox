@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/o-prichinah-vedeniya-arhiva/" />
+  <link rel="canonical" href="/prefer-duplication-over-the-wrong-abstraction/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="У меня было несколько попыток что-то писать: блог, подкаст, канал. И всё оказалось не то, так как имеет сопротивление для публикации. С другой стороны, веден...">
+  <meta name="description" content="Часто в [[programming|разработке]] ставят принцип [[don’t repeat yourself]] во главу угла, и используют его при любой возможности.Хотя на самом деле, нужно н...">
 
   <meta property="og:site_name" content="Chernov Open 📦">
 
@@ -16,26 +16,26 @@
   <link rel="stylesheet" href="/openbox/assets/css/base.css">
 
   
-  <meta property="og:description" content="У меня было несколько попыток что-то писать: блог, подкаст, канал. И всё оказалось не то, так как имеет сопротивление для публикации. С другой стороны, веден..."/>
+  <meta property="og:description" content="Часто в [[programming|разработке]] ставят принцип [[don’t repeat yourself]] во главу угла, и используют его при любой возможности.Хотя на самом деле, нужно н..."/>
   
 
   
-  <meta property="og:title" content="О причинах ведения [публичного] архива">
+  <meta property="og:title" content="Prefer duplication over the wrong abstraction">
   <meta property="og:type" content="article">
   
 
   
-  <meta property="article:published_time" content="2022-05-31T06:13:40+00:00">
+  <meta property="article:published_time" content="2022-01-11T06:42:40+00:00">
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/o-prichinah-vedeniya-arhiva/" />
+  <meta property="og:url" content="/prefer-duplication-over-the-wrong-abstraction/" />
 
   
 
   <title>
     
-      О причинах ведения [публичного] архива &mdash; Chernov Open 📦
+      Prefer duplication over the wrong abstraction &mdash; Chernov Open 📦
     
   </title>
 </head>
@@ -55,14 +55,19 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">О причинах ведения [публичного] архива</h1>
+    <h1 class="Heading-title">Prefer duplication over the wrong abstraction</h1>
     <div class="Heading-additional">
       
-      <time datetime="2022-05-31T06:13:40+00:00">
-        Создано 2022-05-31
+      <time datetime="2022-01-11T06:42:40+00:00">
+        Создано 2022-01-11
         
       </time>&middot;
       
+      
+      <time datetime="2022-01-11T06:42:40+00:00">
+        Обновлено 2022-01-11
+        
+      </time>
       
     </div>
   </header>
@@ -71,19 +76,17 @@
     <content>
       <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body>
-<p>У меня было несколько попыток что-то писать: <a href="https://vanadium23.me/" target="blank">блог</a>, <a href="https://anchor.fm/fiveminutepython/" target="blank">подкаст</a>, <a href="https://t.me/chernov_sharit" target="blank">канал</a>. И всё оказалось не то, так как имеет сопротивление для публикации. С другой стороны, ведение заметок в Obsidian привело к накоплению <del>хлама</del> заметок. В результате иногда в ходе обсуждения хочется скинуть ссылку на уже готовую заметку.</p>
+<p>Часто в <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  programming|разработке  <span class="invalid-link-brackets">]]</span></span> ставят принцип <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  don’t repeat yourself  <span class="invalid-link-brackets">]]</span></span> во главу угла, и используют его при любой возможности.
+Хотя на самом деле, нужно не бояться скопировать свой код, если это место никак друг с другом не связано.
+В дальнейшем это позволит проще расширять код, так как друг с другом он никак не связан.
+Экстремум в обратной стороне лежит в копировании, когда заведомо одинаковые строки копируются множество раз.
+Тоже самое можно сказать и про организацию знаний, потому что лучше <a class="internal-link" href="/openbox/organizovyvat-znaniya-vokrug-konczepczij/">организовывать знания вокруг концепций</a>.</p>
 
-<p>В дополнение к этому, последние 5 лет заметен устойчивый тренд <a class="internal-link" href="/openbox/vedenie-zametok/">ведения заметок</a> в виде персональных баз знаний. Можно называть это ренессансом формата wiki только уже в личном формате. А можно соотнести с количеством сгенерированного контента в цифровом формате и придти к выводу, что информация обесценилась. И наоборот стала важнее, потому что знать не равно делать.</p>
+<h2 id="источники">Источники</h2>
 
-<p>Это привело к тому, что есть <a href="https://github.com/KasperZutterman/Second-Brain" target="blank">много публичных цифровых садов</a>. И в них чаще можно найти полезную и главное емкую информацию, чем в официальных ресурсах. Сравните для примера <a href="https://kubernetes.io/docs/home/" target="blank">официальную документацию k8s</a> и <a href="https://notes.ole.dev/ressurser/snippets/kubernetes-cheatsheet/" target="blank">cheatsheet</a> .<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>Здесь можно сказать, что у документации и заметки разные цели и аудитории. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
-    </li>
-  </ol>
-</div>
+<ul>
+  <li><a href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction" target="blank">Source</a></li>
+</ul>
 </body></html>
 
     </content>
