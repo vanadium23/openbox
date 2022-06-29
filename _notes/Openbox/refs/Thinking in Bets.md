@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"title":"Thinking in Bets","category":"book","tags":["books/inbox"],"rating":3,"date":"2022-06-04T10:14:53+03:00","modified_at":"2022-06-14T20:03:53+03:00","permalink":"/refs/thinking-in-bets/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Thinking in Bets","category":"book","tags":["books/inbox"],"rating":3,"date":"2022-06-04T10:14:53+03:00","modified_at":"2022-06-25T11:29:41+03:00","permalink":"/refs/thinking-in-bets/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
 
 
 
-## Цитата
+## Цитаты
 
 ```expander
 path:"Openbox/quotes" content:("Thinking in Bets")
@@ -53,5 +53,5 @@ path:"Openbox/quotes" content:("Thinking in Bets")
 ## Tasks
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels 📅 2022-06-19 ✅ 2022-06-19
-- [ ] #task Написать выдержку из книги
+- [ ] #task Написать выдержку из книги 📅 2022-07-03
 - [ ] #task Доработать свои заметки на основе идей из книг
