@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"Thinking in Bets","category":"book","tags":["books/inbox"],"rating":3,"date":"2022-06-04T10:14:53+03:00","modified_at":"2022-06-25T11:29:41+03:00","permalink":"/refs/thinking-in-bets/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"title":"Thinking in Bets","category":"book","tags":["books"],"rating":3,"date":"2022-06-04T10:14:53+03:00","modified_at":"2022-07-04T09:09:29+03:00","permalink":"/refs/thinking-in-bets/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
