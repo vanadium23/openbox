@@ -3,11 +3,11 @@
   <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="/refs/202206250340/" />
+  <link rel="canonical" href="/python/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Link:: https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/">
+  <meta name="description" content="  “Python is a second best language for all” (c) don’t know">
 
   <meta property="og:site_name" content="Chernov Open 📦">
 
@@ -16,26 +16,26 @@
   <link rel="stylesheet" href="/openbox/assets/css/base.css">
 
   
-  <meta property="og:description" content="Link:: https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/"/>
+  <meta property="og:description" content="  “Python is a second best language for all” (c) don’t know"/>
   
 
   
-  <meta property="og:title" content="Return error objects in python">
+  <meta property="og:title" content="Python">
   <meta property="og:type" content="article">
   
 
   
-  <meta property="article:published_time" content="2022-06-25T12:40:17+00:00">
+  <meta property="article:published_time" content="2022-06-06T06:04:28+00:00">
   <meta property="article:author" content="/">
   
 
-  <meta property="og:url" content="/refs/202206250340/" />
+  <meta property="og:url" content="/python/" />
 
   
 
   <title>
     
-      Return error objects in python &mdash; Chernov Open 📦
+      Python &mdash; Chernov Open 📦
     
   </title>
 </head>
@@ -55,17 +55,17 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">Return error objects in python</h1>
+    <h1 class="Heading-title">Python</h1>
     <div class="Heading-additional">
       
-      <time datetime="2022-06-25T12:40:17+00:00">
-        Создано 2022-06-25
+      <time datetime="2022-06-06T06:04:28+00:00">
+        Создано 2022-06-06
         
       </time>&middot;
       
       
-      <time datetime="2022-06-27T05:54:23+00:00">
-        Обновлено 2022-06-27
+      <time datetime="2022-08-01T16:27:05+00:00">
+        Обновлено 2022-08-01
         
       </time>
       
@@ -76,17 +76,58 @@
     <content>
       <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body>
-<p>Link:: https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/</p>
+<blockquote>
+  <p>“Python is a second best language for all” (c) don’t know</p>
+</blockquote>
 
-<p><strong>TL;DR:</strong> Возврат ошибок позволяет пользователю библиотеке реже совершать ошибки. Общий подход к дизайну должен следовать правилу “pit of success”.</p>
+<p>Язык программирования разработанный Гвидо ван Россумом в качестве ответа на запрос простоты яыка в среде математиков.
+Хорош исходя из описание для всего, но в первую очередь использутся в качестве языка для <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  backend|backend  <span class="invalid-link-brackets">]]</span></span> разработки, для <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  machine learning|machine learning  <span class="invalid-link-brackets">]]</span></span> и для написани <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  cli|cli  <span class="invalid-link-brackets">]]</span></span> тулзов.</p>
 
-<h2 id="заметки">Заметки</h2>
+<h2 id="менеджмент-зависимостей">Менеджмент зависимостей</h2>
 
-<p>После выхода <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  golang  <span class="invalid-link-brackets">]]</span></span> был пик популярности статей об обработке ошибок. Кто-то делал мемы про <code class="language-plaintext highlighter-rouge">err != nil</code>, кто-то возводил его в абсолют, кто-то говорил о возврате exit code из C. А теперь мы видим, что с учётом добавленного pattern matching и встроенных dataclass, концепция <span title="Ссылка на заметку не найдена." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  возврат ошибок вместо исключений  <span class="invalid-link-brackets">]]</span></span> приезжает в <a class="internal-link" href="/openbox/python/">python</a>.</p>
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python <span class="nt">-m</span> venv .venv <span class="c"># создание виртуальной среды</span>
+<span class="c"># с помощью pip</span>
+pip <span class="nb">install </span>lib
+pip freeze <span class="o">&gt;</span> requirements.txt
+<span class="c"># с помощью pip-tools</span>
+<span class="nb">echo </span>lib <span class="o">&gt;&gt;</span> requirements.in
+pip-compile <span class="nt">-o</span> requirements.txt requirements.in
+pip <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
+<span class="c"># дописать poetry</span>
+</code></pre></div></div>
+
+<h2 id="полезности">Полезности</h2>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># дописать удаление pyc и pycache</span>
+find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.py[co]"</span> <span class="nt">-delete</span>
+find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">-name</span> <span class="s2">"__pycache__"</span> <span class="nt">-delete</span>
+</code></pre></div></div>
 </body></html>
 
     </content>
 
+    
+    <side class="backlink">
+      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
+      <div class="backlink-boxes">
+      
+        
+        <div class="backlink-box">
+        <a class="internal-link" href="/openbox/refs/202206250340/">Return error objects in python</a><br>
+        <div>Link:: https://lukeplant.me.uk/blog/posts/raising-exceptions-or-returning-error-objects-in-python/
+</div>
+        </div>
+        
+      
+        
+        <div class="backlink-box">
+        <a class="internal-link" href="/openbox/unittest-vs-pytest/">Unittest vs pytest</a><br>
+        <div>В [[python]] есть несколько библиотек для написания тестов. Двумя наиболее популярными являются pytest и unittest...</div>
+        </div>
+        
+      
+      </div>
+    </side>
     
   </div>
 </article>
