@@ -64,8 +64,8 @@
       </time>&middot;
       
       
-      <time datetime="2022-08-01T16:27:05+00:00">
-        Обновлено 2022-08-01
+      <time datetime="2022-08-10T05:56:24+00:00">
+        Обновлено 2022-08-10
         
       </time>
       
@@ -98,9 +98,23 @@ pip <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
 
 <h2 id="полезности">Полезности</h2>
 
-<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># дописать удаление pyc и pycache</span>
-find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.py[co]"</span> <span class="nt">-delete</span>
+<p>Удаление кеша от CPython:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.py[co]"</span> <span class="nt">-delete</span>
 find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">-name</span> <span class="s2">"__pycache__"</span> <span class="nt">-delete</span>
+</code></pre></div></div>
+
+<h2 id="сниппеты">Сниппеты</h2>
+
+<p>Использование стека вместо рекурсии:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">work</span> <span class="o">=</span> <span class="p">[</span><span class="n">create_initial_work</span><span class="p">()]</span>
+<span class="k">while</span> <span class="n">work</span><span class="p">:</span>
+    <span class="n">work_item</span> <span class="o">=</span> <span class="n">work</span><span class="p">.</span><span class="n">pop</span><span class="p">()</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="n">process</span><span class="p">(</span><span class="n">work_item</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">is_done</span><span class="p">(</span><span class="n">result</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">result</span>
+    <span class="n">work</span><span class="p">.</span><span class="n">push</span><span class="p">(</span><span class="n">result</span><span class="p">.</span><span class="n">pieces</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+    <span class="n">work</span><span class="p">.</span><span class="n">push</span><span class="p">(</span><span class="n">result</span><span class="p">.</span><span class="n">pieces</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
 </code></pre></div></div>
 </body></html>
 
