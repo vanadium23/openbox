@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2022-08-01T19:27:05+03:00","permalink":"/python/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2022-08-10T08:56:24+03:00","permalink":"/python/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
@@ -24,8 +24,23 @@ pip install -r requirements.txt
 
 ## Полезности
 
+Удаление кеша от CPython:
+
 ```shell
-# дописать удаление pyc и pycache
 find . -type f -name "*.py[co]" -delete
 find . -type d -name "__pycache__" -delete
+```
+
+## Сниппеты
+
+Использование стека вместо рекурсии:
+```python
+work = [create_initial_work()]
+while work:
+    work_item = work.pop()
+    result = process(work_item)
+    if is_done(result):
+        return result
+    work.push(result.pieces[0])
+    work.push(result.pieces[1])
 ```
