@@ -1,0 +1,7 @@
+---
+layout: none
+---
+{
+    "nodes": {{ site.data.graph_nodes | jsonify }},
+    "links": {{ site.data.graph_edges | jsonify }}
+}
