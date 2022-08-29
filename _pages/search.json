@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
@@ -21,15 +21,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
-      "title"    : "Digital garden",
+      "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
@@ -425,6 +425,14 @@
     } ,
   
     {
+      "title"    : "При каждом измерении перестают существовать все истории, кроме одной",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109012316/",
+      "date"     : "2021-09-01 20:16:00 +0000"
+    } ,
+  
+    {
       "title"    : "Создание разумного объяснения",
       "category" : "",
       "tags"     : "quotes",
@@ -518,14 +526,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109070848/",
       "date"     : "2021-09-07 05:48:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Особенности передачи мемов",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109070851/",
-      "date"     : "2021-09-07 05:51:00 +0000"
     } ,
   
     {
@@ -761,19 +761,19 @@
     } ,
   
     {
-      "title"    : "Evergreen",
+      "title"    : "Digital garden",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
-      "title"    : "При каждом измерении перестают существовать все истории, кроме одной",
+      "title"    : "Особенности передачи мемов",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109012316/",
-      "date"     : "2021-09-01 20:16:00 +0000"
+      "url"      : "/openbox/quotes/202109070851/",
+      "date"     : "2021-09-07 05:51:00 +0000"
     } ,
   
     {
@@ -845,14 +845,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kriticheskaya-czep-proekta/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные в заметках",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1385,14 +1377,6 @@
     } ,
   
     {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -1681,14 +1665,6 @@
     } ,
   
     {
-      "title"    : "Excel",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/excel/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Invert model",
       "category" : "",
       "tags"     : "",
@@ -1857,14 +1833,6 @@
     } ,
   
     {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -1893,14 +1861,6 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3033,6 +2993,14 @@
     } ,
   
     {
+      "title"    : "The explosive child",
+      "category" : "book",
+      "tags"     : "books/inbox",
+      "url"      : "/openbox/refs/the-explosive-child/",
+      "date"     : "2022-06-15 06:12:05 +0000"
+    } ,
+  
+    {
       "title"    : "Стратегия подразумевает открытый перечень проблем",
       "category" : "",
       "tags"     : "quotes",
@@ -3249,22 +3217,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-08-28 16:03:18 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Уточнённая цель",
       "category" : "",
       "tags"     : "quotes",
@@ -3294,6 +3246,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206261151/",
       "date"     : "2022-06-26 08:51:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-08-29 06:52:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в заметках",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -3329,14 +3297,6 @@
     } ,
   
     {
-      "title"    : "Сильная позиция избавляет от стратегии",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206300952/",
-      "date"     : "2022-06-30 06:52:36 +0000"
-    } ,
-  
-    {
       "title"    : "Избранные статьи",
       "category" : "",
       "tags"     : "",
@@ -3349,7 +3309,55 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Excel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/excel/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Сильная позиция избавляет от стратегии",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206300952/",
+      "date"     : "2022-06-30 06:52:36 +0000"
     } ,
   
     {
@@ -3917,7 +3925,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } ,
   
     {
@@ -3925,7 +3933,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-08-28 16:03:18 +0000"
+      "date"     : "2022-08-29 06:52:02 +0000"
     } 
   
 ]
