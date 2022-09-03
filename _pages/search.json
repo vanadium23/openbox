@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -29,7 +29,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -833,6 +841,14 @@
     } ,
   
     {
+      "title"    : "Критическая цепь проекта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriticheskaya-czep-proekta/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Метаданные в заметках",
       "category" : "",
       "tags"     : "",
@@ -1097,6 +1113,14 @@
     } ,
   
     {
+      "title"    : "Объяснить по цепочке для сложных сущностей",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041108/",
+      "date"     : "2021-10-04 08:08:00 +0000"
+    } ,
+  
+    {
       "title"    : "Шпаргалка - как не перегрузить",
       "category" : "",
       "tags"     : "quotes",
@@ -1249,27 +1273,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-03 10:10:47 +0000"
-    } ,
-  
-    {
       "title"    : "Map of content",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/map-of-content/",
       "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Объяснить по цепочке для сложных сущностей",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041108/",
-      "date"     : "2021-10-04 08:08:00 +0000"
     } ,
   
     {
@@ -1529,6 +1537,14 @@
     } ,
   
     {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1721,6 +1737,14 @@
     } ,
   
     {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -1877,14 +1901,6 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3249,27 +3265,19 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-03 10:32:07 +0000"
+    } ,
+  
+    {
       "title"    : "Убрать неизвестность для реализации проекта",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206261142/",
       "date"     : "2022-06-26 08:42:30 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-03 10:10:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -3293,23 +3301,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
-      "title"    : "Критическая цепь проекта",
+      "title"    : "Вести дневник",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/kriticheskaya-czep-proekta/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
+      "url"      : "/openbox/vesti-dnevnik/",
+      "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
     {
@@ -3937,11 +3937,19 @@
     } ,
   
     {
+      "title"    : "Five simple rules for running a meeting",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208181414/",
+      "date"     : "2022-08-18 11:14:21 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } ,
   
     {
@@ -3949,7 +3957,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-03 10:10:47 +0000"
+      "date"     : "2022-09-03 10:32:07 +0000"
     } 
   
 ]
