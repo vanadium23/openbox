@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -21,7 +21,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -270,14 +278,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220913/",
       "date"     : "2021-08-22 06:13:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Markdown ADR template",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108221100/",
-      "date"     : "2021-08-22 08:00:00 +0000"
     } ,
   
     {
@@ -529,6 +529,14 @@
     } ,
   
     {
+      "title"    : "Особенности передачи мемов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109070851/",
+      "date"     : "2021-09-07 05:51:00 +0000"
+    } ,
+  
+    {
       "title"    : "Поиск устаревших мемов в себе",
       "category" : "",
       "tags"     : "quotes",
@@ -761,19 +769,11 @@
     } ,
   
     {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-02 16:03:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Особенности передачи мемов",
+      "title"    : "Markdown ADR template",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109070851/",
-      "date"     : "2021-09-07 05:51:00 +0000"
+      "url"      : "/openbox/quotes/202108221100/",
+      "date"     : "2021-08-22 08:00:00 +0000"
     } ,
   
     {
@@ -845,6 +845,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kriticheskaya-czep-proekta/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в заметках",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1153,14 +1161,6 @@
     } ,
   
     {
-      "title"    : "Парцелляция",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042029/",
-      "date"     : "2021-10-04 17:29:00 +0000"
-    } ,
-  
-    {
       "title"    : "Запятые как признак слишком длинного предложения",
       "category" : "",
       "tags"     : "quotes",
@@ -1345,6 +1345,14 @@
     } ,
   
     {
+      "title"    : "Парцелляция",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110042029/",
+      "date"     : "2021-10-04 17:29:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -1374,6 +1382,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110242321/",
       "date"     : "2021-10-24 20:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
     } ,
   
     {
@@ -1585,6 +1601,14 @@
     } ,
   
     {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -1661,6 +1685,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/correlation-doesn-t-imply-causation/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Excel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/excel/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -1745,14 +1777,6 @@
     } ,
   
     {
-      "title"    : "Список личных качеств",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-lichnyh-kachestv/",
-      "date"     : "2022-01-19 06:50:19 +0000"
-    } ,
-  
-    {
       "title"    : "Приёмы фантастических рассказов",
       "category" : "",
       "tags"     : "quotes",
@@ -1833,6 +1857,14 @@
     } ,
   
     {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -1861,6 +1893,14 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -2433,14 +2473,6 @@
     } ,
   
     {
-      "title"    : "Настройки pre-commit для python",
-      "category" : "",
-      "tags"     : "refs/article",
-      "url"      : "/openbox/refs/202205231239/",
-      "date"     : "2022-05-23 09:39:56 +0000"
-    } ,
-  
-    {
       "title"    : "Self-confidence is not know-it-all.",
       "category" : "",
       "tags"     : "quotes",
@@ -2526,14 +2558,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202205280939/",
       "date"     : "2022-05-28 18:39:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Functional options are slow",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202205280946/",
-      "date"     : "2022-05-28 18:46:57 +0000"
     } ,
   
     {
@@ -2646,14 +2670,6 @@
       "tags"     : "",
       "url"      : "/openbox/organizacziya-lichnyh-del/",
       "date"     : "2022-05-31 18:30:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуализация результатов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vizualizacziya-rezultatov/",
-      "date"     : "2022-05-31 18:41:39 +0000"
     } ,
   
     {
@@ -2878,14 +2894,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206090940/",
       "date"     : "2022-06-09 06:40:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Активное обучение",
-      "category" : "",
-      "tags"     : "refs/article",
-      "url"      : "/openbox/refs/202206100908/",
-      "date"     : "2022-06-10 06:08:22 +0000"
     } ,
   
     {
@@ -3185,14 +3193,6 @@
     } ,
   
     {
-      "title"    : "Return error objects in python",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202206250340/",
-      "date"     : "2022-06-25 12:40:17 +0000"
-    } ,
-  
-    {
       "title"    : "Стратегический рычаг",
       "category" : "",
       "tags"     : "quotes",
@@ -3214,6 +3214,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206260923/",
       "date"     : "2022-06-26 06:23:18 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -3249,22 +3257,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-02 16:03:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные в заметках",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Метаданные для заметок проектов",
       "category" : "",
       "tags"     : "",
@@ -3294,62 +3286,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206300945/",
       "date"     : "2022-06-30 06:45:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Избранные статьи",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/articles/",
-      "date"     : "2022-08-07 08:40:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-02 16:03:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Excel",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/excel/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
     {
@@ -3478,6 +3414,70 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207231003/",
       "date"     : "2022-07-23 07:03:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Избранные статьи",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/articles/",
+      "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-03 10:08:44 +0000"
+    } ,
+  
+    {
+      "title"    : "Список личных качеств",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-lichnyh-kachestv/",
+      "date"     : "2022-01-19 06:50:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Настройки pre-commit для python",
+      "category" : "",
+      "tags"     : "refs/article",
+      "url"      : "/openbox/refs/202205231239/",
+      "date"     : "2022-05-23 09:39:56 +0000"
+    } ,
+  
+    {
+      "title"    : "Functional options are slow",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202205280946/",
+      "date"     : "2022-05-28 18:46:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуализация результатов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vizualizacziya-rezultatov/",
+      "date"     : "2022-05-31 18:41:39 +0000"
+    } ,
+  
+    {
+      "title"    : "Активное обучение",
+      "category" : "",
+      "tags"     : "refs/article",
+      "url"      : "/openbox/refs/202206100908/",
+      "date"     : "2022-06-10 06:08:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Return error objects in python",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202206250340/",
+      "date"     : "2022-06-25 12:40:17 +0000"
     } ,
   
     {
@@ -3921,11 +3921,19 @@
     } ,
   
     {
+      "title"    : "Few people for sync, broader for async",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208181406/",
+      "date"     : "2022-08-18 11:06:07 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } ,
   
     {
@@ -3933,7 +3941,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-02 16:03:22 +0000"
+      "date"     : "2022-09-03 10:08:44 +0000"
     } 
   
 ]
