@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -37,7 +37,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Пространство смыслов амодально",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108220819/",
+      "date"     : "2021-08-22 05:19:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Star methology",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/star-methology/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -45,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -230,14 +246,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108180939/",
       "date"     : "2021-08-18 06:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Пространство смыслов амодально",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220819/",
-      "date"     : "2021-08-22 05:19:00 +0000"
     } ,
   
     {
@@ -766,14 +774,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109230040/",
       "date"     : "2021-09-22 21:40:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Star methology",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/star-methology/",
-      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -1537,14 +1537,6 @@
     } ,
   
     {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1597,14 +1589,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -1865,6 +1849,14 @@
     } ,
   
     {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -1893,14 +1885,6 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3281,6 +3265,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-03 10:33:29 +0000"
+    } ,
+  
+    {
       "title"    : "Linear algebra guide",
       "category" : "",
       "tags"     : "refs/article",
@@ -3294,22 +3286,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207041043/",
       "date"     : "2022-07-04 07:43:46 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-03 10:33:02 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
     } ,
   
     {
@@ -3334,6 +3310,38 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207050643/",
       "date"     : "2022-07-05 03:43:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-03 10:33:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
+      "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
     {
@@ -3465,22 +3473,6 @@
     } ,
   
     {
-      "title"    : "Избранные статьи",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/articles/",
-      "date"     : "2022-08-07 08:40:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-03 10:33:02 +0000"
-    } ,
-  
-    {
       "title"    : "Quantum solves learning with errors",
       "category" : "",
       "tags"     : "quotes",
@@ -3550,14 +3542,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208010837/",
       "date"     : "2022-08-01 05:37:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Why GNOME and GNOME 3 and Unity happened",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208020758/",
-      "date"     : "2022-08-02 04:58:46 +0000"
     } ,
   
     {
@@ -3646,6 +3630,14 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208071137/",
       "date"     : "2022-08-07 08:37:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Избранные статьи",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/articles/",
+      "date"     : "2022-08-07 08:40:54 +0000"
     } ,
   
     {
@@ -3905,11 +3897,19 @@
     } ,
   
     {
+      "title"    : "Offline fo remote is a critical part",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208252140/",
+      "date"     : "2022-08-25 18:40:31 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } ,
   
     {
@@ -3961,11 +3961,19 @@
     } ,
   
     {
+      "title"    : "Why GNOME and GNOME 3 and Unity happened",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208020758/",
+      "date"     : "2022-08-02 04:58:46 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-03 10:33:02 +0000"
+      "date"     : "2022-09-03 10:33:29 +0000"
     } 
   
 ]
