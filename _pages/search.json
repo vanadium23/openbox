@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
     } ,
   
     {
@@ -21,7 +21,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-09-05 15:26:02 +0000"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
     } ,
   
     {
@@ -329,6 +337,14 @@
     } ,
   
     {
+      "title"    : "Набор самых важных решений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108261125/",
+      "date"     : "2021-08-26 08:25:00 +0000"
+    } ,
+  
+    {
       "title"    : "Мышление как моделирование, вывод, демоделирование",
       "category" : "",
       "tags"     : "quotes",
@@ -398,6 +414,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109011835/",
       "date"     : "2021-09-01 15:35:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Разные времена — это частный случай разных вселенных",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109012308/",
+      "date"     : "2021-09-01 20:08:00 +0000"
     } ,
   
     {
@@ -910,6 +934,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231045/",
       "date"     : "2021-09-23 07:45:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Находить правду в статистике",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231048/",
+      "date"     : "2021-09-23 07:48:00 +0000"
     } ,
   
     {
@@ -1569,14 +1601,6 @@
     } ,
   
     {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -1641,38 +1665,6 @@
     } ,
   
     {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 15:23:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Набор самых важных решений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108261125/",
-      "date"     : "2021-08-26 08:25:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Разные времена — это частный случай разных вселенных",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109012308/",
-      "date"     : "2021-09-01 20:08:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Находить правду в статистике",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231048/",
-      "date"     : "2021-09-23 07:48:00 +0000"
-    } ,
-  
-    {
       "title"    : "Console",
       "category" : "",
       "tags"     : "",
@@ -1733,14 +1725,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2062,14 +2046,6 @@
       "tags"     : "books",
       "url"      : "/openbox/refs/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -2446,14 +2422,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202205210527/",
       "date"     : "2022-05-21 14:27:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
     } ,
   
     {
@@ -2853,14 +2821,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/refs/cynefin/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести проектный дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
       "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
@@ -3457,30 +3417,6 @@
     } ,
   
     {
-      "title"    : "Избранные статьи",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/articles/",
-      "date"     : "2022-08-07 08:40:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 15:23:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 15:23:08 +0000"
-    } ,
-  
-    {
       "title"    : "Лидер должен снижать энтропию",
       "category" : "",
       "tags"     : "quotes",
@@ -3502,6 +3438,46 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207231209/",
       "date"     : "2022-07-23 09:09:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Избранные статьи",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/articles/",
+      "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 15:26:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-05 15:26:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -4105,6 +4081,14 @@
     } ,
   
     {
+      "title"    : "Комментировать только свои мысли",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208281000/",
+      "date"     : "2022-08-28 07:01:00 +0000"
+    } ,
+  
+    {
       "title"    : "Defensive work gains no political credit",
       "category" : "",
       "tags"     : "quotes",
@@ -4125,7 +4109,31 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести проектный дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -4133,7 +4141,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 15:23:08 +0000"
+      "date"     : "2022-09-05 15:26:02 +0000"
     } 
   
 ]
