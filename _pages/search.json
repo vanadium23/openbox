@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
@@ -21,7 +21,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
@@ -29,15 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 15:16:47 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
@@ -262,14 +262,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220911/",
       "date"     : "2021-08-22 06:11:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Принципы адекватности мышления",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220913/",
-      "date"     : "2021-08-22 06:13:00 +0000"
     } ,
   
     {
@@ -777,6 +769,22 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2022-09-05 15:18:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Принципы адекватности мышления",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108220913/",
+      "date"     : "2021-08-22 06:13:00 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -829,14 +837,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-povysit-lyubopytstvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Критическая цепь проекта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriticheskaya-czep-proekta/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -894,6 +894,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231038/",
       "date"     : "2021-09-23 07:38:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Чтобы называть вещи своими именами, нужен характер",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231039/",
+      "date"     : "2021-09-23 07:39:00 +0000"
     } ,
   
     {
@@ -1038,6 +1046,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109290737/",
       "date"     : "2021-09-29 04:37:00 +0000"
+    } ,
+  
+    {
+      "title"    : "People don’t know everything we can do to make things better",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109290922/",
+      "date"     : "2021-09-29 06:22:00 +0000"
     } ,
   
     {
@@ -1361,6 +1377,14 @@
     } ,
   
     {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -1529,6 +1553,14 @@
     } ,
   
     {
+      "title"    : "Prefer duplication over the wrong abstraction",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Адаптация подходов под себя",
       "category" : "",
       "tags"     : "",
@@ -1557,6 +1589,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obyasnenie-prichin/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -1638,38 +1678,6 @@
       "tags"     : "",
       "url"      : "/openbox/correlation-doesn-t-imply-causation/",
       "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 15:16:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Чтобы называть вещи своими именами, нужен характер",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231039/",
-      "date"     : "2021-09-23 07:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "People don’t know everything we can do to make things better",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109290922/",
-      "date"     : "2021-09-29 06:22:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Prefer duplication over the wrong abstraction",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
-      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -1846,6 +1854,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201281058/",
       "date"     : "2022-01-28 07:58:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
     } ,
   
     {
@@ -2665,14 +2681,6 @@
     } ,
   
     {
-      "title"    : "Организация личных дел",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-lichnyh-del/",
-      "date"     : "2022-05-31 18:30:38 +0000"
-    } ,
-  
-    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -3417,14 +3425,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 15:16:47 +0000"
-    } ,
-  
-    {
       "title"    : "Ориентиры для переходного периода",
       "category" : "",
       "tags"     : "quotes",
@@ -3441,35 +3441,35 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 15:18:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Критическая цепь проекта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriticheskaya-czep-proekta/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
-      "title"    : "Организовывать знания вокруг концепций",
+      "title"    : "Организация личных дел",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
+      "url"      : "/openbox/organizacziya-lichnyh-del/",
+      "date"     : "2022-05-31 18:30:38 +0000"
     } ,
   
     {
@@ -4073,6 +4073,14 @@
     } ,
   
     {
+      "title"    : "План Б работает в рамках психологического возраста",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208272043/",
+      "date"     : "2022-08-27 17:43:07 +0000"
+    } ,
+  
+    {
       "title"    : "Defensive work gains no political credit",
       "category" : "",
       "tags"     : "quotes",
@@ -4093,7 +4101,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } ,
   
     {
@@ -4101,7 +4109,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 15:16:47 +0000"
+      "date"     : "2022-09-05 15:18:38 +0000"
     } 
   
 ]
