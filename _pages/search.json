@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -29,7 +29,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -217,6 +225,14 @@
     } ,
   
     {
+      "title"    : "Нужда-настойчивость-назойливость",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108180939/",
+      "date"     : "2021-08-18 06:39:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пространство смыслов амодально",
       "category" : "",
       "tags"     : "quotes",
@@ -342,6 +358,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108262348/",
       "date"     : "2021-08-26 20:48:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Текст как конвеер мышления для людей",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108280839/",
+      "date"     : "2021-08-28 05:39:00 +0000"
     } ,
   
     {
@@ -1033,6 +1057,14 @@
     } ,
   
     {
+      "title"    : "People don’t know everything we can do to make things better",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109290922/",
+      "date"     : "2021-09-29 06:22:00 +0000"
+    } ,
+  
+    {
       "title"    : "Seesawing transformation",
       "category" : "",
       "tags"     : "quotes",
@@ -1505,6 +1537,14 @@
     } ,
   
     {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1646,38 +1686,6 @@
       "tags"     : "",
       "url"      : "/openbox/correlation-doesn-t-imply-causation/",
       "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 15:07:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Нужда-настойчивость-назойливость",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108180939/",
-      "date"     : "2021-08-18 06:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Текст как конвеер мышления для людей",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108280839/",
-      "date"     : "2021-08-28 05:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "People don’t know everything we can do to make things better",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109290922/",
-      "date"     : "2021-09-29 06:22:00 +0000"
     } ,
   
     {
@@ -3337,14 +3345,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 15:07:07 +0000"
-    } ,
-  
-    {
       "title"    : "Пример согласованности политики и целей",
       "category" : "",
       "tags"     : "quotes",
@@ -3377,27 +3377,19 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 15:07:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
       "title"    : "Преимущество частной компании перед публичной",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207091119/",
       "date"     : "2022-07-09 08:19:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -3673,14 +3665,6 @@
     } ,
   
     {
-      "title"    : "Facebook decline",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071129/",
-      "date"     : "2022-08-07 08:29:43 +0000"
-    } ,
-  
-    {
       "title"    : "Why is the Nuclear Power Industry Stagnant?",
       "category" : "",
       "tags"     : "refs/article, chernov_sharit",
@@ -3694,6 +3678,22 @@
       "tags"     : "",
       "url"      : "/openbox/shelves/articles/",
       "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-05 15:08:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Facebook decline",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071129/",
+      "date"     : "2022-08-07 08:29:43 +0000"
     } ,
   
     {
@@ -3977,6 +3977,14 @@
     } ,
   
     {
+      "title"    : "Адаптивность не развивается за счёт наказаний",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208240842/",
+      "date"     : "2022-08-24 05:42:14 +0000"
+    } ,
+  
+    {
       "title"    : "If the discussion didn’t happen on the email list, then it never really happened.",
       "category" : "",
       "tags"     : "quotes",
@@ -4037,7 +4045,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } ,
   
     {
@@ -4045,7 +4053,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 15:07:07 +0000"
+      "date"     : "2022-09-05 15:08:55 +0000"
     } 
   
 ]
