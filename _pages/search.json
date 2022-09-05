@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -1401,6 +1401,14 @@
     } ,
   
     {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
       "title"    : "Указывать в тексте ограничения",
       "category" : "",
       "tags"     : "quotes",
@@ -1585,10 +1593,10 @@
     } ,
   
     {
-      "title"    : "Понимать предметную область",
+      "title"    : "Объяснение причин",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "url"      : "/openbox/obyasnenie-prichin/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -1685,6 +1693,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/invert-model/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Искреняя похвала",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/iskrenyaya-pohvala/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2417,14 +2433,6 @@
     } ,
   
     {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
-    } ,
-  
-    {
       "title"    : "Zotero Obsidian workflow",
       "category" : "",
       "tags"     : "quotes",
@@ -2798,14 +2806,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206060900/",
       "date"     : "2022-06-06 06:00:31 +0000"
-    } ,
-  
-    {
-      "title"    : "Css snippets",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -3305,11 +3305,43 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 14:41:58 +0000"
+    } ,
+  
+    {
       "title"    : "Пример согласованности политики и целей",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207041043/",
       "date"     : "2022-07-04 07:43:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Css snippets",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/css-snippets/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-05 14:41:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -3334,14 +3366,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207050643/",
       "date"     : "2022-07-05 03:43:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 13:54:06 +0000"
     } ,
   
     {
@@ -3937,6 +3961,14 @@
     } ,
   
     {
+      "title"    : "Defensive work gains no political credit",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209011539/",
+      "date"     : "2022-09-01 12:39:53 +0000"
+    } ,
+  
+    {
       "title"    : "Сп профессиональный рост",
       "category" : "",
       "tags"     : "courses",
@@ -3945,35 +3977,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
+      "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 13:54:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Объяснение причин",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Искреняя похвала",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/iskrenyaya-pohvala/",
-      "date"     : "2022-01-16 08:19:50 +0000"
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2022-09-05 14:41:58 +0000"
     } ,
   
     {
@@ -3985,6 +3993,14 @@
     } ,
   
     {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
+    } ,
+  
+    {
       "title"    : "Вести проектный дневник",
       "category" : "",
       "tags"     : "",
@@ -3993,19 +4009,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 13:54:06 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 13:54:06 +0000"
+      "date"     : "2022-09-05 14:41:58 +0000"
     } 
   
 ]
