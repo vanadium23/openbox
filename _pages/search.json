@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -21,15 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 15:08:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -37,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -45,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -209,14 +201,6 @@
     } ,
   
     {
-      "title"    : "Универсальный объяснитель как надмножество универсального конструктора",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108152018/",
-      "date"     : "2021-08-15 17:18:00 +0000"
-    } ,
-  
-    {
       "title"    : "Скачок к универсальности",
       "category" : "",
       "tags"     : "quotes",
@@ -238,14 +222,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220819/",
       "date"     : "2021-08-22 05:19:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуальная коммуникация",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220831/",
-      "date"     : "2021-08-22 05:31:00 +0000"
     } ,
   
     {
@@ -574,14 +550,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109091244/",
       "date"     : "2021-09-09 09:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Творчество для репликации мемов",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109091247/",
-      "date"     : "2021-09-09 09:47:00 +0000"
     } ,
   
     {
@@ -1025,14 +993,6 @@
     } ,
   
     {
-      "title"    : "Poincaré recurrence theorem",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109282304/",
-      "date"     : "2021-09-28 20:04:00 +0000"
-    } ,
-  
-    {
       "title"    : "Irreversibility as impossibility to distinguish",
       "category" : "",
       "tags"     : "quotes",
@@ -1241,14 +1201,6 @@
     } ,
   
     {
-      "title"    : "Автору придётся разобраться, кто его читатель",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110191231/",
-      "date"     : "2021-10-19 09:31:00 +0000"
-    } ,
-  
-    {
       "title"    : "Построение объяснений в тексте",
       "category" : "",
       "tags"     : "quotes",
@@ -1278,6 +1230,54 @@
       "tags"     : "",
       "url"      : "/openbox/map-of-content/",
       "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-09-05 15:09:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Универсальный объяснитель как надмножество универсального конструктора",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108152018/",
+      "date"     : "2021-08-15 17:18:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуальная коммуникация",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108220831/",
+      "date"     : "2021-08-22 05:31:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Творчество для репликации мемов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109091247/",
+      "date"     : "2021-09-09 09:47:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Poincaré recurrence theorem",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109282304/",
+      "date"     : "2021-09-28 20:04:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Автору придётся разобраться, кто его читатель",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110191231/",
+      "date"     : "2021-10-19 09:31:00 +0000"
     } ,
   
     {
@@ -1537,14 +1537,6 @@
     } ,
   
     {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1597,14 +1589,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3385,14 +3369,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 15:08:55 +0000"
-    } ,
-  
-    {
       "title"    : "Эксперимент серебряная машина",
       "category" : "",
       "tags"     : "quotes",
@@ -3422,6 +3398,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207170924/",
       "date"     : "2022-07-17 06:24:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 15:09:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -3665,14 +3665,6 @@
     } ,
   
     {
-      "title"    : "Why is the Nuclear Power Industry Stagnant?",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071137/",
-      "date"     : "2022-08-07 08:37:08 +0000"
-    } ,
-  
-    {
       "title"    : "Избранные статьи",
       "category" : "",
       "tags"     : "",
@@ -3685,7 +3677,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -3694,6 +3686,14 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208071129/",
       "date"     : "2022-08-07 08:29:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Why is the Nuclear Power Industry Stagnant?",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071137/",
+      "date"     : "2022-08-07 08:37:08 +0000"
     } ,
   
     {
@@ -4009,6 +4009,14 @@
     } ,
   
     {
+      "title"    : "Метод совместного принятия решений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208262152/",
+      "date"     : "2022-08-26 18:52:50 +0000"
+    } ,
+  
+    {
       "title"    : "Сначала платите временем себе, потому что его не вернуть",
       "category" : "",
       "tags"     : "quotes",
@@ -4045,7 +4053,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } ,
   
     {
@@ -4053,7 +4061,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 15:08:55 +0000"
+      "date"     : "2022-09-05 15:09:37 +0000"
     } 
   
 ]
