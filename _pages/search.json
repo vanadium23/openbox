@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -29,7 +29,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -553,46 +561,6 @@
     } ,
   
     {
-      "title"    : "Говорим о проблемах честно, но не грубо",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231040/",
-      "date"     : "2021-09-23 07:40:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Теги неэффективная система",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Процесс согласования",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201150958/",
-      "date"     : "2022-01-15 06:58:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Css snippets",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-05 15:19:15 +0000"
-    } ,
-  
-    {
       "title"    : "Репликатором выступает значение, а не звучание",
       "category" : "",
       "tags"     : "quotes",
@@ -942,6 +910,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231039/",
       "date"     : "2021-09-23 07:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Говорим о проблемах честно, но не грубо",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231040/",
+      "date"     : "2021-09-23 07:40:00 +0000"
     } ,
   
     {
@@ -1305,6 +1281,14 @@
     } ,
   
     {
+      "title"    : "Теги неэффективная система",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
       "title"    : "Здравый смысл в тексте",
       "category" : "",
       "tags"     : "quotes",
@@ -1617,6 +1601,14 @@
     } ,
   
     {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -1646,6 +1638,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201122255/",
       "date"     : "2022-01-12 19:55:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Процесс согласования",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201150958/",
+      "date"     : "2022-01-15 06:58:00 +0000"
     } ,
   
     {
@@ -2681,6 +2681,14 @@
     } ,
   
     {
+      "title"    : "Организация личных дел",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-lichnyh-del/",
+      "date"     : "2022-05-31 18:30:38 +0000"
+    } ,
+  
+    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -2814,6 +2822,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206060900/",
       "date"     : "2022-06-06 06:00:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Css snippets",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/css-snippets/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -3401,6 +3417,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-05 15:21:19 +0000"
+    } ,
+  
+    {
       "title"    : "Первый шаг - упорная работа",
       "category" : "",
       "tags"     : "quotes",
@@ -3425,6 +3449,22 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-05 15:21:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
       "title"    : "Режим аттрактора",
       "category" : "",
       "tags"     : "quotes",
@@ -3438,46 +3478,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207231012/",
       "date"     : "2022-07-23 07:12:05 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-05 15:19:15 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-05 15:19:15 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Организация личных дел",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-lichnyh-del/",
-      "date"     : "2022-05-31 18:30:38 +0000"
     } ,
   
     {
@@ -4089,6 +4089,14 @@
     } ,
   
     {
+      "title"    : "Три способа решения проблем",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208272309/",
+      "date"     : "2022-08-27 20:09:32 +0000"
+    } ,
+  
+    {
       "title"    : "Defensive work gains no political credit",
       "category" : "",
       "tags"     : "quotes",
@@ -4109,7 +4117,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } ,
   
     {
@@ -4117,7 +4125,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-05 15:19:15 +0000"
+      "date"     : "2022-09-05 15:21:19 +0000"
     } 
   
 ]
