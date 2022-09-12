@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } ,
   
     {
@@ -214,6 +214,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108152019/",
       "date"     : "2021-08-15 17:19:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Нужда-настойчивость-назойливость",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108180939/",
+      "date"     : "2021-08-18 06:39:00 +0000"
     } ,
   
     {
@@ -825,18 +833,18 @@
     } ,
   
     {
-      "title"    : "Метаданные в заметках",
+      "title"    : "Критическая цепь проекта",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
+      "url"      : "/openbox/kriticheskaya-czep-proekta/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
-      "title"    : "Обработка входящей информации",
+      "title"    : "Метаданные в заметках",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1177,14 +1185,6 @@
     } ,
   
     {
-      "title"    : "Ставь ограничения на издержки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
-      "date"     : "2021-10-11 08:40:52 +0000"
-    } ,
-  
-    {
       "title"    : "Система оценок",
       "category" : "",
       "tags"     : "",
@@ -1329,6 +1329,22 @@
     } ,
   
     {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2022-09-12 17:43:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Ставь ограничения на издержки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
+      "date"     : "2021-10-11 08:40:52 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -1374,14 +1390,6 @@
       "tags"     : "",
       "url"      : "/openbox/konczeptualnoe-prostranstvo/",
       "date"     : "2021-10-25 08:48:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
     } ,
   
     {
@@ -1561,14 +1569,6 @@
     } ,
   
     {
-      "title"    : "Объяснение причин",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Понимать предметную область",
       "category" : "",
       "tags"     : "",
@@ -1657,22 +1657,6 @@
     } ,
   
     {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-12 17:42:37 +0000"
-    } ,
-  
-    {
-      "title"    : "Нужда-настойчивость-назойливость",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108180939/",
-      "date"     : "2021-08-18 06:39:00 +0000"
-    } ,
-  
-    {
       "title"    : "Excel",
       "category" : "",
       "tags"     : "",
@@ -1693,14 +1677,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/iskrenyaya-pohvala/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -1862,22 +1838,6 @@
       "tags"     : "",
       "url"      : "/openbox/opisanie/",
       "date"     : "2022-01-30 10:44:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Сигмоида как функция развития",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
-      "date"     : "2022-01-30 17:55:04 +0000"
-    } ,
-  
-    {
-      "title"    : "Правила качественной коммуникации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
-      "date"     : "2022-02-06 10:27:56 +0000"
     } ,
   
     {
@@ -2046,14 +2006,6 @@
       "tags"     : "books",
       "url"      : "/openbox/refs/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -2841,14 +2793,6 @@
     } ,
   
     {
-      "title"    : "Вести проектный дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Организация удалённой работы",
       "category" : "",
       "tags"     : "",
@@ -3465,14 +3409,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-12 17:42:37 +0000"
-    } ,
-  
-    {
       "title"    : "Не одно гениальное решение, а десятки небольших изменений",
       "category" : "",
       "tags"     : "quotes",
@@ -3494,30 +3430,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207251722/",
       "date"     : "2022-07-25 14:22:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-12 17:42:37 +0000"
-    } ,
-  
-    {
-      "title"    : "Критическая цепь проекта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriticheskaya-czep-proekta/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
     } ,
   
     {
@@ -3590,6 +3502,22 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208010837/",
       "date"     : "2022-08-01 05:37:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-12 17:43:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
     } ,
   
     {
@@ -4137,6 +4065,14 @@
     } ,
   
     {
+      "title"    : "Knowledge workers can take months to get up",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208292148/",
+      "date"     : "2022-08-29 18:48:31 +0000"
+    } ,
+  
+    {
       "title"    : "Defensive work gains no political credit",
       "category" : "",
       "tags"     : "quotes",
@@ -4153,11 +4089,83 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-12 17:43:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснение причин",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obyasnenie-prichin/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Сигмоида как функция развития",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
+      "date"     : "2022-01-30 17:55:04 +0000"
+    } ,
+  
+    {
+      "title"    : "Правила качественной коммуникации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
+      "date"     : "2022-02-06 10:27:56 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести проектный дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -4165,7 +4173,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-12 17:42:37 +0000"
+      "date"     : "2022-09-12 17:43:06 +0000"
     } 
   
 ]
