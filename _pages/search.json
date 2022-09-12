@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -37,15 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-12 17:44:13 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -1537,6 +1529,14 @@
     } ,
   
     {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1686,6 +1686,14 @@
       "tags"     : "",
       "url"      : "/openbox/invert-model/",
       "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -1885,6 +1893,14 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3449,6 +3465,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-12 17:44:35 +0000"
+    } ,
+  
+    {
       "title"    : "Инертность правил меняется руководством",
       "category" : "",
       "tags"     : "quotes",
@@ -3465,14 +3489,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-12 17:44:13 +0000"
-    } ,
-  
-    {
       "title"    : "Как выглядит игр без культурных предубеждений?",
       "category" : "",
       "tags"     : "quotes",
@@ -3486,6 +3502,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207251722/",
       "date"     : "2022-07-25 14:22:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-12 17:44:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -3518,38 +3550,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207301313/",
       "date"     : "2022-07-30 10:13:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-12 17:44:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
     {
@@ -4161,6 +4161,14 @@
     } ,
   
     {
+      "title"    : "In many cases, knowing the right person is more valuable than knowing the right answer.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208292211/",
+      "date"     : "2022-08-29 19:11:22 +0000"
+    } ,
+  
+    {
       "title"    : "Defensive work gains no political credit",
       "category" : "",
       "tags"     : "quotes",
@@ -4181,7 +4189,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } ,
   
     {
@@ -4189,7 +4197,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-12 17:44:13 +0000"
+      "date"     : "2022-09-12 17:44:35 +0000"
     } 
   
 ]
