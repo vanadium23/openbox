@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -1729,6 +1729,14 @@
     } ,
   
     {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -1885,6 +1893,14 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3577,6 +3593,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-13 06:36:00 +0000"
+    } ,
+  
+    {
       "title"    : "Написание кода было простой частью задачи",
       "category" : "",
       "tags"     : "quotes",
@@ -3598,6 +3622,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208032116/",
       "date"     : "2022-08-03 18:16:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-13 06:36:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -3638,46 +3678,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208071129/",
       "date"     : "2022-08-07 08:29:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-13 06:34:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-13 06:34:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
     {
@@ -4289,6 +4289,14 @@
     } ,
   
     {
+      "title"    : "three simple concepts in marketing, product design and customer service",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209012150/",
+      "date"     : "2022-09-01 18:50:40 +0000"
+    } ,
+  
+    {
       "title"    : "Сп профессиональный рост",
       "category" : "",
       "tags"     : "courses",
@@ -4301,7 +4309,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } ,
   
     {
@@ -4309,7 +4317,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-13 06:34:59 +0000"
+      "date"     : "2022-09-13 06:36:00 +0000"
     } 
   
 ]
