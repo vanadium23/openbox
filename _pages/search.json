@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -37,7 +37,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -1529,6 +1537,14 @@
     } ,
   
     {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
       "title"    : "Основные приемы разрешения противоречий",
       "category" : "",
       "tags"     : "quotes",
@@ -1686,14 +1702,6 @@
       "tags"     : "",
       "url"      : "/openbox/invert-model/",
       "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-13 06:31:29 +0000"
     } ,
   
     {
@@ -3577,27 +3585,19 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-13 06:31:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
       "title"    : "Nuclear energy is clean",
       "category" : "",
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208020806/",
       "date"     : "2022-08-02 05:06:34 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -3673,11 +3673,19 @@
     } ,
   
     {
+      "title"    : "Избранные статьи",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/articles/",
+      "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -3686,14 +3694,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208071137/",
       "date"     : "2022-08-07 08:37:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Избранные статьи",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/articles/",
-      "date"     : "2022-08-07 08:40:54 +0000"
     } ,
   
     {
@@ -4225,6 +4225,22 @@
     } ,
   
     {
+      "title"    : "If you can’t change the system, there’s no point in continuing to put energy into changing it",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209011549/",
+      "date"     : "2022-09-01 12:49:32 +0000"
+    } ,
+  
+    {
+      "title"    : "Do the right thing, wait to get fired",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209011550/",
+      "date"     : "2022-09-01 12:50:26 +0000"
+    } ,
+  
+    {
       "title"    : "Сп профессиональный рост",
       "category" : "",
       "tags"     : "courses",
@@ -4237,7 +4253,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } ,
   
     {
@@ -4245,7 +4261,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-13 06:31:29 +0000"
+      "date"     : "2022-09-13 06:32:12 +0000"
     } 
   
 ]
