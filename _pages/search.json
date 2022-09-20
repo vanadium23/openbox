@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -1737,14 +1737,6 @@
     } ,
   
     {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -2062,6 +2054,14 @@
       "tags"     : "books",
       "url"      : "/openbox/refs/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -2430,6 +2430,14 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202205210527/",
       "date"     : "2022-05-21 14:27:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
     } ,
   
     {
@@ -2809,6 +2817,14 @@
     } ,
   
     {
+      "title"    : "Менеджмент",
+      "category" : "",
+      "tags"     : "competencies, disciplines, skills",
+      "url"      : "/openbox/competencies/menedzhment/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Python",
       "category" : "",
       "tags"     : "",
@@ -2821,6 +2837,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/refs/cynefin/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести проектный дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
       "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
@@ -3601,38 +3625,6 @@
     } ,
   
     {
-      "title"    : "Система оценок навыков",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208070910/",
-      "date"     : "2022-08-07 06:10:58 +0000"
-    } ,
-  
-    {
-      "title"    : "Why I built dictionary app",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071121/",
-      "date"     : "2022-08-07 08:21:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Facebook decline",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071129/",
-      "date"     : "2022-08-07 08:29:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Why is the Nuclear Power Industry Stagnant?",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071137/",
-      "date"     : "2022-08-07 08:37:08 +0000"
-    } ,
-  
-    {
       "title"    : "Избранные статьи",
       "category" : "",
       "tags"     : "",
@@ -3645,7 +3637,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -3677,7 +3669,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -3686,6 +3678,46 @@
       "tags"     : "",
       "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Система оценок навыков",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208070910/",
+      "date"     : "2022-08-07 06:10:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Why I built dictionary app",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071121/",
+      "date"     : "2022-08-07 08:21:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Facebook decline",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071129/",
+      "date"     : "2022-08-07 08:29:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Why is the Nuclear Power Industry Stagnant?",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071137/",
+      "date"     : "2022-08-07 08:37:08 +0000"
     } ,
   
     {
@@ -4325,31 +4357,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-20 16:50:03 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести проектный дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-proektnyj-dnevnik/",
-      "date"     : "2022-06-06 06:04:28 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } ,
   
     {
@@ -4357,7 +4365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-20 16:50:03 +0000"
+      "date"     : "2022-09-20 16:52:54 +0000"
     } 
   
 ]
