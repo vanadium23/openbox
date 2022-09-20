@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -1693,6 +1693,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/invert-model/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "задача руководителя",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/20220116111950/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3633,19 +3641,11 @@
     } ,
   
     {
-      "title"    : "Science and Human Values",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/refs/science-and-human-values/",
-      "date"     : "2022-08-07 12:17:12 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -3665,11 +3665,19 @@
     } ,
   
     {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -3678,6 +3686,14 @@
       "tags"     : "",
       "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Science and Human Values",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/science-and-human-values/",
+      "date"     : "2022-08-07 12:17:12 +0000"
     } ,
   
     {
@@ -4305,19 +4321,11 @@
     } ,
   
     {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } ,
   
     {
@@ -4349,7 +4357,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-20 16:30:18 +0000"
+      "date"     : "2022-09-20 16:50:03 +0000"
     } 
   
 ]
