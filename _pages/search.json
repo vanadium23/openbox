@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -182,6 +182,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108141806/",
       "date"     : "2021-08-14 15:06:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснения не образуют иерархию, а работают на любом уровне.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141807/",
+      "date"     : "2021-08-14 15:07:00 +0000"
     } ,
   
     {
@@ -769,14 +777,6 @@
     } ,
   
     {
-      "title"    : "Объяснения не образуют иерархию, а работают на любом уровне.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141807/",
-      "date"     : "2021-08-14 15:07:00 +0000"
-    } ,
-  
-    {
       "title"    : "Linked list",
       "category" : "",
       "tags"     : "",
@@ -854,22 +854,6 @@
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Irreversibility as impossibility to distinguish",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109282306/",
-      "date"     : "2021-09-28 20:06:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2022-09-24 16:03:25 +0000"
     } ,
   
     {
@@ -1046,6 +1030,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109282304/",
       "date"     : "2021-09-28 20:04:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Irreversibility as impossibility to distinguish",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109282306/",
+      "date"     : "2021-09-28 20:06:00 +0000"
     } ,
   
     {
@@ -1473,6 +1465,14 @@
     } ,
   
     {
+      "title"    : "Грустные правды жизни",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/grustnye-pravdy-zhizni/",
+      "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
       "title"    : "Intermediate packets in the wild",
       "category" : "",
       "tags"     : "",
@@ -1597,14 +1597,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -1741,14 +1733,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -1909,6 +1893,14 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -2078,14 +2070,6 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
     } ,
   
     {
@@ -3297,6 +3281,14 @@
     } ,
   
     {
+      "title"    : "Метаданные для заметок проектов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
+      "date"     : "2022-06-26 18:41:21 +0000"
+    } ,
+  
+    {
       "title"    : "Уточнённая цель работает только в контексте",
       "category" : "",
       "tags"     : "quotes",
@@ -3633,6 +3625,70 @@
     } ,
   
     {
+      "title"    : "Избранные статьи",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/articles/",
+      "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2022-09-25 16:03:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Css snippets",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/css-snippets/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2022-09-25 16:03:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Система оценок навыков",
       "category" : "",
       "tags"     : "quotes",
@@ -3662,14 +3718,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202208071137/",
       "date"     : "2022-08-07 08:37:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Избранные статьи",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/articles/",
-      "date"     : "2022-08-07 08:40:54 +0000"
     } ,
   
     {
@@ -4305,59 +4353,11 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2022-09-24 16:03:25 +0000"
-    } ,
-  
-    {
-      "title"    : "Грустные правды жизни",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/grustnye-pravdy-zhizni/",
-      "date"     : "2021-10-31 06:13:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Css snippets",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные для заметок проектов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
-      "date"     : "2022-06-26 18:41:21 +0000"
-    } ,
-  
-    {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } ,
   
     {
@@ -4365,7 +4365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2022-09-24 16:03:25 +0000"
+      "date"     : "2022-09-25 16:03:22 +0000"
     } 
   
 ]
