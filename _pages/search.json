@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -78,6 +78,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108032331/",
       "date"     : "2021-08-03 20:31:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Поиск устаревших мемов в себе",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109070900/",
+      "date"     : "2021-09-07 06:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -553,14 +569,6 @@
     } ,
   
     {
-      "title"    : "Поиск устаревших мемов в себе",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109070900/",
-      "date"     : "2021-09-07 06:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Сначала гипотеза, потом опыт",
       "category" : "",
       "tags"     : "quotes",
@@ -809,19 +817,11 @@
     } ,
   
     {
-      "title"    : "Учитывайте подготовку читателя",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041106/",
-      "date"     : "2021-10-04 08:06:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -1129,6 +1129,14 @@
     } ,
   
     {
+      "title"    : "Учитывайте подготовку читателя",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041106/",
+      "date"     : "2021-10-04 08:06:00 +0000"
+    } ,
+  
+    {
       "title"    : "Объяснить по цепочке для сложных сущностей",
       "category" : "",
       "tags"     : "quotes",
@@ -1358,14 +1366,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -2093,7 +2093,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } ,
   
     {
@@ -4473,6 +4473,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 07:50:28 +0000"
+    } ,
+  
+    {
       "title"    : "Unit test for architecture violations",
       "category" : "",
       "tags"     : "quotes",
@@ -4609,11 +4617,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
+      "title"    : "Spike and stabilize",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301021535/",
+      "date"     : "2023-01-02 12:35:22 +0000"
     } ,
   
     {
@@ -4621,7 +4629,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 07:50:02 +0000"
+      "date"     : "2023-01-03 07:50:28 +0000"
     } 
   
 ]
