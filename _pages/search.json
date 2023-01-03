@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -37,15 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 06:56:53 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -89,11 +81,11 @@
     } ,
   
     {
-      "title"    : "Make process policies explicit",
+      "title"    : "Seesawing transformation",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110241035/",
-      "date"     : "2021-10-24 07:35:00 +0000"
+      "url"      : "/openbox/quotes/202109290952/",
+      "date"     : "2021-09-29 06:52:00 +0000"
     } ,
   
     {
@@ -142,14 +134,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122025/",
       "date"     : "2021-08-12 17:25:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Неодарвинизм - это теория репликаторов.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122027/",
-      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -342,14 +326,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108261116/",
       "date"     : "2021-08-26 08:16:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Разговор с самим собой из прошлого",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108261118/",
-      "date"     : "2021-08-26 08:18:00 +0000"
     } ,
   
     {
@@ -829,7 +805,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -1097,14 +1073,6 @@
     } ,
   
     {
-      "title"    : "Seesawing transformation",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109290952/",
-      "date"     : "2021-09-29 06:52:00 +0000"
-    } ,
-  
-    {
       "title"    : "Prevent corrupting a software group",
       "category" : "",
       "tags"     : "quotes",
@@ -1366,6 +1334,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241001/",
       "date"     : "2021-10-24 07:01:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Make process policies explicit",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110241035/",
+      "date"     : "2021-10-24 07:35:00 +0000"
     } ,
   
     {
@@ -2101,7 +2077,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } ,
   
     {
@@ -2718,6 +2694,30 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-03 06:57:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Неодарвинизм - это теория репликаторов.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122027/",
+      "date"     : "2021-08-12 17:27:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Разговор с самим собой из прошлого",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108261118/",
+      "date"     : "2021-08-26 08:18:00 +0000"
     } ,
   
     {
@@ -4305,14 +4305,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 06:56:53 +0000"
-    } ,
-  
-    {
       "title"    : "the marketer represents the antithesis of engineering culture",
       "category" : "",
       "tags"     : "quotes",
@@ -4417,6 +4409,22 @@
     } ,
   
     {
+      "title"    : "An architectural fitness function",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209031505/",
+      "date"     : "2022-09-03 12:05:34 +0000"
+    } ,
+  
+    {
+      "title"    : "System is the product of the interactions",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209031506/",
+      "date"     : "2022-09-03 12:06:54 +0000"
+    } ,
+  
+    {
       "title"    : "Сп профессиональный рост",
       "category" : "",
       "tags"     : "courses",
@@ -4433,11 +4441,19 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 06:57:31 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 06:56:53 +0000"
+      "date"     : "2023-01-03 06:57:31 +0000"
     } 
   
 ]
