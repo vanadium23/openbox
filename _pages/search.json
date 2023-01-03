@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -37,7 +37,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -81,11 +89,11 @@
     } ,
   
     {
-      "title"    : "Репликатором выступает значение, а не звучание",
+      "title"    : "Connection between work and information systems",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109081540/",
-      "date"     : "2021-09-08 12:40:00 +0000"
+      "url"      : "/openbox/quotes/202109290737/",
+      "date"     : "2021-09-29 04:37:00 +0000"
     } ,
   
     {
@@ -489,6 +497,14 @@
     } ,
   
     {
+      "title"    : "Linked list",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/linked-list/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Для исправления теории социально выбора надо смоделировать творчество",
       "category" : "",
       "tags"     : "quotes",
@@ -574,6 +590,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109081537/",
       "date"     : "2021-09-08 12:37:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Репликатором выступает значение, а не звучание",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109081540/",
+      "date"     : "2021-09-08 12:40:00 +0000"
     } ,
   
     {
@@ -785,14 +809,6 @@
     } ,
   
     {
-      "title"    : "Linked list",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/linked-list/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -809,19 +825,11 @@
     } ,
   
     {
-      "title"    : "Парцелляция",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042029/",
-      "date"     : "2021-10-04 17:29:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } ,
   
     {
@@ -1073,14 +1081,6 @@
     } ,
   
     {
-      "title"    : "Connection between work and information systems",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109290737/",
-      "date"     : "2021-09-29 04:37:00 +0000"
-    } ,
-  
-    {
       "title"    : "People don’t know everything we can do to make things better",
       "category" : "",
       "tags"     : "quotes",
@@ -1185,6 +1185,14 @@
     } ,
   
     {
+      "title"    : "Парцелляция",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110042029/",
+      "date"     : "2021-10-04 17:29:00 +0000"
+    } ,
+  
+    {
       "title"    : "Запятые как признак слишком длинного предложения",
       "category" : "",
       "tags"     : "quotes",
@@ -1230,6 +1238,14 @@
       "tags"     : "",
       "url"      : "/openbox/sistema-oczenok/",
       "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Понятийный минимум",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponyatijnyj-minimum/",
+      "date"     : "2021-10-18 20:24:50 +0000"
     } ,
   
     {
@@ -1497,6 +1513,14 @@
     } ,
   
     {
+      "title"    : "Перцентили лучше средних",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/perczentili-luchshe-srednih/",
+      "date"     : "2021-11-07 08:28:06 +0000"
+    } ,
+  
+    {
       "title"    : "Состояние потока",
       "category" : "",
       "tags"     : "",
@@ -1729,6 +1753,14 @@
     } ,
   
     {
+      "title"    : "Мыслекарта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myslekarta/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Рынок труда   индикатор всего рынка",
       "category" : "",
       "tags"     : "",
@@ -1737,10 +1769,10 @@
     } ,
   
     {
-      "title"    : "Требования к интеллекту",
+      "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "url"      : "/openbox/ekzistenczializm/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -1766,14 +1798,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201170955/",
       "date"     : "2022-01-17 06:55:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Список личных качеств",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-lichnyh-kachestv/",
-      "date"     : "2022-01-19 06:50:19 +0000"
     } ,
   
     {
@@ -2061,7 +2085,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Список личных качеств",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-lichnyh-kachestv/",
+      "date"     : "2022-01-19 06:50:19 +0000"
     } ,
   
     {
@@ -2078,6 +2118,14 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
     } ,
   
     {
@@ -2670,14 +2718,6 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 06:58:47 +0000"
     } ,
   
     {
@@ -4265,6 +4305,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 06:59:23 +0000"
+    } ,
+  
+    {
       "title"    : "the marketer represents the antithesis of engineering culture",
       "category" : "",
       "tags"     : "quotes",
@@ -4385,7 +4433,7 @@
     } ,
   
     {
-      "title"    : "Fitnes function categories",
+      "title"    : "Fitness function categories",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209031514/",
@@ -4393,51 +4441,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
+      "title"    : "202209031515",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 06:58:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Понятийный минимум",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponyatijnyj-minimum/",
-      "date"     : "2021-10-18 20:24:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Перцентили лучше средних",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/perczentili-luchshe-srednih/",
-      "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Мыслекарта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209031515/",
+      "date"     : "2022-09-03 12:15:31 +0000"
     } ,
   
     {
@@ -4461,7 +4469,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 06:58:47 +0000"
+      "date"     : "2023-01-03 06:59:23 +0000"
     } 
   
 ]
