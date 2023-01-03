@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -81,11 +81,11 @@
     } ,
   
     {
-      "title"    : "Про ложь и брехню",
+      "title"    : "Markdown ADR template",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231045/",
-      "date"     : "2021-09-23 07:45:00 +0000"
+      "url"      : "/openbox/quotes/202108221100/",
+      "date"     : "2021-08-22 08:00:00 +0000"
     } ,
   
     {
@@ -209,6 +209,14 @@
     } ,
   
     {
+      "title"    : "Универсальность проще достигнуть через ограниченный набор правил",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141811/",
+      "date"     : "2021-08-14 15:11:00 +0000"
+    } ,
+  
+    {
       "title"    : "Система принимаем ошибки как должное и исправляет их",
       "category" : "",
       "tags"     : "quotes",
@@ -286,14 +294,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220913/",
       "date"     : "2021-08-22 06:13:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Markdown ADR template",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108221100/",
-      "date"     : "2021-08-22 08:00:00 +0000"
     } ,
   
     {
@@ -801,11 +801,19 @@
     } ,
   
     {
+      "title"    : "Three different kinds of irreversibility in physics",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109271246/",
+      "date"     : "2021-09-27 09:46:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -937,6 +945,14 @@
     } ,
   
     {
+      "title"    : "Про ложь и брехню",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231045/",
+      "date"     : "2021-09-23 07:45:00 +0000"
+    } ,
+  
+    {
       "title"    : "Находить правду в статистике",
       "category" : "",
       "tags"     : "quotes",
@@ -990,14 +1006,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109271144/",
       "date"     : "2021-09-27 08:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Three different kinds of irreversibility in physics",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271246/",
-      "date"     : "2021-09-27 09:46:00 +0000"
     } ,
   
     {
@@ -1289,6 +1297,14 @@
     } ,
   
     {
+      "title"    : "Здравый смысл в тексте",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110211614/",
+      "date"     : "2021-10-21 13:14:00 +0000"
+    } ,
+  
+    {
       "title"    : "Сначала текст, потом правила",
       "category" : "",
       "tags"     : "quotes",
@@ -1342,14 +1358,6 @@
       "tags"     : "",
       "url"      : "/openbox/gtd/",
       "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Здравый смысл в тексте",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110211614/",
-      "date"     : "2021-10-21 13:14:00 +0000"
     } ,
   
     {
@@ -1693,15 +1701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 07:20:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Универсальность проще достигнуть через ограниченный набор правил",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141811/",
-      "date"     : "2021-08-14 15:11:00 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -2101,7 +2101,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } ,
   
     {
@@ -4353,14 +4353,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 07:20:42 +0000"
-    } ,
-  
-    {
       "title"    : "Architects must determine the most important -ilities.",
       "category" : "",
       "tags"     : "quotes",
@@ -4505,6 +4497,14 @@
     } ,
   
     {
+      "title"    : "The microkernel architecture",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209052223/",
+      "date"     : "2022-09-05 19:23:39 +0000"
+    } ,
+  
+    {
       "title"    : "Критерий поппера",
       "category" : "",
       "tags"     : "",
@@ -4513,11 +4513,19 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 07:22:02 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 07:20:42 +0000"
+      "date"     : "2023-01-03 07:22:02 +0000"
     } 
   
 ]
