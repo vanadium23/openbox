@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -809,11 +809,19 @@
     } ,
   
     {
+      "title"    : "Учитывайте подготовку читателя",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041106/",
+      "date"     : "2021-10-04 08:06:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -1118,14 +1126,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110041105/",
       "date"     : "2021-10-04 08:05:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Учитывайте подготовку читателя",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041106/",
-      "date"     : "2021-10-04 08:06:00 +0000"
     } ,
   
     {
@@ -1761,6 +1761,14 @@
     } ,
   
     {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -2085,15 +2093,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 07:49:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -4601,11 +4601,19 @@
     } ,
   
     {
+      "title"    : "Culture questions from architect",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301021531/",
+      "date"     : "2023-01-02 12:31:07 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } ,
   
     {
@@ -4613,7 +4621,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 07:49:33 +0000"
+      "date"     : "2023-01-03 07:50:02 +0000"
     } 
   
 ]
