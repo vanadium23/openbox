@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -286,6 +294,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108221100/",
       "date"     : "2021-08-22 08:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Splitting existing database by functional borders",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108240847/",
+      "date"     : "2021-08-24 05:47:00 +0000"
     } ,
   
     {
@@ -797,7 +813,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } ,
   
     {
@@ -1281,22 +1297,6 @@
     } ,
   
     {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 08:02:52 +0000"
-    } ,
-  
-    {
-      "title"    : "Splitting existing database by functional borders",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108240847/",
-      "date"     : "2021-08-24 05:47:00 +0000"
-    } ,
-  
-    {
       "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
@@ -1769,14 +1769,6 @@
     } ,
   
     {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Развитие целей личности",
       "category" : "",
       "tags"     : "quotes",
@@ -2089,14 +2081,6 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 08:02:52 +0000"
-    } ,
-  
-    {
       "title"    : "Цифровой архив",
       "category" : "",
       "tags"     : "",
@@ -2110,22 +2094,6 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление должно происходить во вне",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -2478,14 +2446,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202205210527/",
       "date"     : "2022-05-21 14:27:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
     } ,
   
     {
@@ -2910,6 +2870,14 @@
       "tags"     : "",
       "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
       "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Архитектура сервиса",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/arhitektura-servisa/",
+      "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
     {
@@ -4537,6 +4505,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 08:03:31 +0000"
+    } ,
+  
+    {
       "title"    : "Architectural verification as fitness functions",
       "category" : "",
       "tags"     : "quotes",
@@ -4558,14 +4534,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209181637/",
       "date"     : "2022-09-18 13:37:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 08:02:52 +0000"
     } ,
   
     {
@@ -4657,11 +4625,51 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-01-03 08:03:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 08:02:52 +0000"
+      "date"     : "2023-01-03 08:03:31 +0000"
     } 
   
 ]
