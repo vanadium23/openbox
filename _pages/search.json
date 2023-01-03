@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 07:24:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -29,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -37,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -45,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -81,27 +73,27 @@
     } ,
   
     {
-      "title"    : "Интересность мышления измеряется оставленными артефактами",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108280853/",
-      "date"     : "2021-08-28 05:53:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Css snippets",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Система жизнеобеспечение людей сделана знаниями людей.",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108040757/",
       "date"     : "2021-08-04 04:57:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Репликатором выступает значение, а не звучание",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109081540/",
+      "date"     : "2021-09-08 12:40:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -401,6 +393,14 @@
     } ,
   
     {
+      "title"    : "Интересность мышления измеряется оставленными артефактами",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108280853/",
+      "date"     : "2021-08-28 05:53:00 +0000"
+    } ,
+  
+    {
       "title"    : "Универсальность работы с текстами",
       "category" : "",
       "tags"     : "quotes",
@@ -577,14 +577,6 @@
     } ,
   
     {
-      "title"    : "Репликатором выступает значение, а не звучание",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109081540/",
-      "date"     : "2021-09-08 12:40:00 +0000"
-    } ,
-  
-    {
       "title"    : "Коэволюция мемов и генов",
       "category" : "",
       "tags"     : "quotes",
@@ -614,14 +606,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109132012/",
       "date"     : "2021-09-13 17:12:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Рост идёт от проблем к более интересным проблемам",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109132013/",
-      "date"     : "2021-09-13 17:13:00 +0000"
     } ,
   
     {
@@ -817,19 +801,11 @@
     } ,
   
     {
-      "title"    : "Парцелляция",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042029/",
-      "date"     : "2021-10-04 17:29:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } ,
   
     {
@@ -1193,6 +1169,14 @@
     } ,
   
     {
+      "title"    : "Парцелляция",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110042029/",
+      "date"     : "2021-10-04 17:29:00 +0000"
+    } ,
+  
+    {
       "title"    : "Запятые как признак слишком длинного предложения",
       "category" : "",
       "tags"     : "quotes",
@@ -1297,6 +1281,22 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-01-03 07:36:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Рост идёт от проблем к более интересным проблемам",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109132013/",
+      "date"     : "2021-09-13 17:13:00 +0000"
+    } ,
+  
+    {
       "title"    : "Map of content",
       "category" : "",
       "tags"     : "",
@@ -1366,14 +1366,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -1510,6 +1502,14 @@
       "tags"     : "",
       "url"      : "/openbox/pragmatizm/",
       "date"     : "2021-11-02 11:40:24 +0000"
+    } ,
+  
+    {
+      "title"    : "Перцентили лучше средних",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/perczentili-luchshe-srednih/",
+      "date"     : "2021-11-07 08:28:06 +0000"
     } ,
   
     {
@@ -1953,14 +1953,6 @@
     } ,
   
     {
-      "title"    : "Language and perception",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202204171822/",
-      "date"     : "2022-04-17 15:22:00 +0000"
-    } ,
-  
-    {
       "title"    : "Questions to determine who matters",
       "category" : "",
       "tags"     : "",
@@ -2085,7 +2077,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Language and perception",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202204171822/",
+      "date"     : "2022-04-17 15:22:00 +0000"
     } ,
   
     {
@@ -2102,6 +2110,22 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -2849,6 +2873,14 @@
     } ,
   
     {
+      "title"    : "Css snippets",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/css-snippets/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Python",
       "category" : "",
       "tags"     : "",
@@ -3070,6 +3102,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206160805/",
       "date"     : "2022-06-16 05:05:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Технический долг",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnicheskij-dolg/",
+      "date"     : "2022-06-16 06:46:20 +0000"
     } ,
   
     {
@@ -4353,6 +4393,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-03 07:36:46 +0000"
+    } ,
+  
+    {
       "title"    : "Boundaries depends on the purpose of the discussion",
       "category" : "",
       "tags"     : "quotes",
@@ -4497,51 +4545,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 07:24:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Перцентили лучше средних",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/perczentili-luchshe-srednih/",
-      "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление должно происходить во вне",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 07:24:47 +0000"
+      "date"     : "2023-01-03 07:36:46 +0000"
     } 
   
 ]
