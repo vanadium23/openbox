@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -62,6 +62,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142030/",
       "date"     : "2021-06-14 16:30:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Концептуальная модель",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106142031/",
+      "date"     : "2021-06-14 17:30:55 +0000"
     } ,
   
     {
@@ -829,7 +837,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -2937,14 +2945,6 @@
     } ,
   
     {
-      "title"    : "Чеклист интеграции внешних систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
-      "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
       "title"    : "Несогласие для поиска истины",
       "category" : "",
       "tags"     : "quotes",
@@ -4545,19 +4545,19 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 16:18:03 +0000"
-    } ,
-  
-    {
       "title"    : "The list of -ilities",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209071935/",
       "date"     : "2022-09-07 16:35:24 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 16:18:55 +0000"
     } ,
   
     {
@@ -4709,7 +4709,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Чеклист интеграции внешних систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
+      "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
     {
@@ -4717,7 +4725,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 16:18:03 +0000"
+      "date"     : "2023-01-08 16:18:55 +0000"
     } 
   
 ]
