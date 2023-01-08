@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -86,6 +86,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142032/",
       "date"     : "2021-06-14 17:31:05 +0000"
+    } ,
+  
+    {
+      "title"    : "Универсальный обучающий алгоритм",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106172039/",
+      "date"     : "2021-06-17 17:32:29 +0000"
     } ,
   
     {
@@ -853,7 +861,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -1270,6 +1278,14 @@
       "tags"     : "",
       "url"      : "/openbox/sistema-oczenok/",
       "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Понятийный минимум",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponyatijnyj-minimum/",
+      "date"     : "2021-10-18 20:24:50 +0000"
     } ,
   
     {
@@ -1801,6 +1817,14 @@
     } ,
   
     {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Развитие целей личности",
       "category" : "",
       "tags"     : "quotes",
@@ -1822,6 +1846,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201170955/",
       "date"     : "2022-01-17 06:55:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Список личных качеств",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-lichnyh-kachestv/",
+      "date"     : "2022-01-19 06:50:19 +0000"
     } ,
   
     {
@@ -1941,6 +1973,14 @@
       "category" : "book",
       "tags"     : "books/inbox",
       "url"      : "/openbox/refs/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -2113,11 +2153,11 @@
     } ,
   
     {
-      "title"    : "Мышление должно происходить во вне",
+      "title"    : "Мышление письмом",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
     } ,
   
     {
@@ -4513,6 +4553,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 16:22:33 +0000"
+    } ,
+  
+    {
       "title"    : "Adding evolvability to existing architectures depends on three factors",
       "category" : "",
       "tags"     : "quotes",
@@ -4641,59 +4689,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 16:20:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Понятийный минимум",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponyatijnyj-minimum/",
-      "date"     : "2021-10-18 20:24:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Список личных качеств",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-lichnyh-kachestv/",
-      "date"     : "2022-01-19 06:50:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } ,
   
     {
@@ -4702,6 +4702,14 @@
       "tags"     : "",
       "url"      : "/openbox/ekzistenczializm/",
       "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -4741,7 +4749,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 16:20:48 +0000"
+      "date"     : "2023-01-08 16:22:33 +0000"
     } 
   
 ]
