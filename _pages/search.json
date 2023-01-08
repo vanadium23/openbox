@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -246,6 +246,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106222052/",
       "date"     : "2021-06-22 16:52:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Иголка в глубиннах гиперпространства",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106222053/",
+      "date"     : "2021-06-22 16:53:00 +0000"
     } ,
   
     {
@@ -1009,19 +1017,11 @@
     } ,
   
     {
-      "title"    : "Парцелляция",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042029/",
-      "date"     : "2021-10-04 17:29:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } ,
   
     {
@@ -1382,6 +1382,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110042026/",
       "date"     : "2021-10-04 17:26:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Парцелляция",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110042029/",
+      "date"     : "2021-10-04 17:29:00 +0000"
     } ,
   
     {
@@ -3121,14 +3129,6 @@
     } ,
   
     {
-      "title"    : "Чеклист интеграции внешних систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
-      "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
       "title"    : "Несогласие для поиска истины",
       "category" : "",
       "tags"     : "quotes",
@@ -4761,14 +4761,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 17:03:08 +0000"
-    } ,
-  
-    {
       "title"    : "Finding the correct service granularity is key for decomposing.",
       "category" : "",
       "tags"     : "quotes",
@@ -4905,11 +4897,27 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 17:05:48 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
+    } ,
+  
+    {
+      "title"    : "Чеклист интеграции внешних систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
+      "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
     {
@@ -4917,7 +4925,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 17:03:08 +0000"
+      "date"     : "2023-01-08 17:05:48 +0000"
     } 
   
 ]
