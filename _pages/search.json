@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -37,15 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 16:44:02 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -158,6 +150,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106212043/",
       "date"     : "2021-06-21 16:43:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Индукция - противоположность дедукции",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212044/",
+      "date"     : "2021-06-21 16:44:00 +0000"
     } ,
   
     {
@@ -286,14 +286,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108141444/",
       "date"     : "2021-08-14 11:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Числа объективно существуют, но не являются физическими объектами.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141802/",
-      "date"     : "2021-08-14 15:02:00 +0000"
     } ,
   
     {
@@ -486,6 +478,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108262346/",
       "date"     : "2021-08-26 20:46:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Remote developer productivity",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221228/",
+      "date"     : "2021-09-22 09:28:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод &quot;чтобы что&quot;",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chtoby-chto/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Architecture decision record",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/architecture-decision-record/",
+      "date"     : "2021-10-21 07:09:08 +0000"
     } ,
   
     {
@@ -785,14 +801,6 @@
     } ,
   
     {
-      "title"    : "Remote developer productivity",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221228/",
-      "date"     : "2021-09-22 09:28:00 +0000"
-    } ,
-  
-    {
       "title"    : "Если текст можно упростить, его следует упростить",
       "category" : "",
       "tags"     : "quotes",
@@ -941,7 +949,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -1021,14 +1029,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/uchyoba-vprok/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Метод &quot;чтобы что&quot;",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chtoby-chto/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1409,14 +1409,6 @@
     } ,
   
     {
-      "title"    : "Architecture decision record",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/architecture-decision-record/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
       "title"    : "Map of content",
       "category" : "",
       "tags"     : "",
@@ -1494,6 +1486,22 @@
       "tags"     : "",
       "url"      : "/openbox/gtd/",
       "date"     : "2021-10-24 15:05:42 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-08 16:44:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Числа объективно существуют, но не являются физическими объектами.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141802/",
+      "date"     : "2021-08-14 15:02:00 +0000"
     } ,
   
     {
@@ -3045,14 +3053,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
-      "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Чеклист интеграции внешних систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
       "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
@@ -4821,7 +4821,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } ,
   
     {
@@ -4829,7 +4829,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Чеклист интеграции внешних систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
+      "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
     {
@@ -4837,7 +4845,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 16:44:02 +0000"
+      "date"     : "2023-01-08 16:44:40 +0000"
     } 
   
 ]
