@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -37,7 +37,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -70,6 +78,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142031/",
       "date"     : "2021-06-14 17:30:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Унылый текст не вредит хорошему продукту",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221308/",
+      "date"     : "2021-09-22 10:08:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Correlation doesn’t imply causation",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
+      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -158,6 +182,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106212044/",
       "date"     : "2021-06-21 16:44:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Хорошее дерево решений даёт низкую энтропию",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212045/",
+      "date"     : "2021-06-21 16:45:00 +0000"
     } ,
   
     {
@@ -286,6 +318,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108141444/",
       "date"     : "2021-08-14 11:44:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Числа объективно существуют, но не являются физическими объектами.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141802/",
+      "date"     : "2021-08-14 15:02:00 +0000"
     } ,
   
     {
@@ -478,30 +518,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108262346/",
       "date"     : "2021-08-26 20:46:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Remote developer productivity",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221228/",
-      "date"     : "2021-09-22 09:28:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Метод &quot;чтобы что&quot;",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chtoby-chto/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Architecture decision record",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/architecture-decision-record/",
-      "date"     : "2021-10-21 07:09:08 +0000"
     } ,
   
     {
@@ -801,6 +817,14 @@
     } ,
   
     {
+      "title"    : "Remote developer productivity",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221228/",
+      "date"     : "2021-09-22 09:28:00 +0000"
+    } ,
+  
+    {
       "title"    : "Если текст можно упростить, его следует упростить",
       "category" : "",
       "tags"     : "quotes",
@@ -873,14 +897,6 @@
     } ,
   
     {
-      "title"    : "Унылый текст не вредит хорошему продукту",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221308/",
-      "date"     : "2021-09-22 10:08:00 +0000"
-    } ,
-  
-    {
       "title"    : "Авторы прикрывают канцеляризмами неудобную правду",
       "category" : "",
       "tags"     : "quotes",
@@ -949,7 +965,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -1029,6 +1045,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/uchyoba-vprok/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод &quot;чтобы что&quot;",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chtoby-chto/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1409,6 +1433,14 @@
     } ,
   
     {
+      "title"    : "Architecture decision record",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/architecture-decision-record/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
       "title"    : "Map of content",
       "category" : "",
       "tags"     : "",
@@ -1486,22 +1518,6 @@
       "tags"     : "",
       "url"      : "/openbox/gtd/",
       "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 16:44:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Числа объективно существуют, но не являются физическими объектами.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141802/",
-      "date"     : "2021-08-14 15:02:00 +0000"
     } ,
   
     {
@@ -1837,14 +1853,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/console/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Correlation doesn’t imply causation",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3849,14 +3857,6 @@
     } ,
   
     {
-      "title"    : "Facebook decline",
-      "category" : "",
-      "tags"     : "refs/article, chernov_sharit",
-      "url"      : "/openbox/refs/202208071129/",
-      "date"     : "2022-08-07 08:29:43 +0000"
-    } ,
-  
-    {
       "title"    : "Why is the Nuclear Power Industry Stagnant?",
       "category" : "",
       "tags"     : "refs/article, chernov_sharit",
@@ -4305,14 +4305,6 @@
     } ,
   
     {
-      "title"    : "Building Evolutionary Architectures",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/refs/building-evolutionary-architectures/",
-      "date"     : "2022-08-29 07:04:30 +0000"
-    } ,
-  
-    {
       "title"    : "Strong teams carefully seeded by team leads and founders",
       "category" : "",
       "tags"     : "quotes",
@@ -4689,6 +4681,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 16:45:23 +0000"
+    } ,
+  
+    {
       "title"    : "Finding the correct service granularity is key for decomposing.",
       "category" : "",
       "tags"     : "quotes",
@@ -4702,14 +4702,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209181637/",
       "date"     : "2022-09-18 13:37:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
     } ,
   
     {
@@ -4817,19 +4809,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 16:44:40 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } ,
   
     {
@@ -4841,11 +4825,35 @@
     } ,
   
     {
+      "title"    : "Facebook decline",
+      "category" : "",
+      "tags"     : "refs/article, chernov_sharit",
+      "url"      : "/openbox/refs/202208071129/",
+      "date"     : "2022-08-07 08:29:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Building Evolutionary Architectures",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/building-evolutionary-architectures/",
+      "date"     : "2022-08-29 07:04:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 16:44:40 +0000"
+      "date"     : "2023-01-08 16:45:23 +0000"
     } 
   
 ]
