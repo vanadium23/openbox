@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -353,27 +361,11 @@
     } ,
   
     {
-      "title"    : "Округляйте цифры до полезного читателю уровня точности",
+      "title"    : "Кластеры можно объединять в кластеры",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231044/",
-      "date"     : "2021-09-23 07:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "url"      : "/openbox/quotes/202106282102/",
+      "date"     : "2021-06-28 17:02:00 +0000"
     } ,
   
     {
@@ -1137,19 +1129,11 @@
     } ,
   
     {
-      "title"    : "Universal meens appliable to whole universe",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109281911/",
-      "date"     : "2021-09-28 16:11:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -1273,6 +1257,14 @@
     } ,
   
     {
+      "title"    : "Округляйте цифры до полезного читателю уровня точности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231044/",
+      "date"     : "2021-09-23 07:44:00 +0000"
+    } ,
+  
+    {
       "title"    : "Про ложь и брехню",
       "category" : "",
       "tags"     : "quotes",
@@ -1358,6 +1350,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109281907/",
       "date"     : "2021-09-28 16:07:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Universal meens appliable to whole universe",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109281911/",
+      "date"     : "2021-09-28 16:11:00 +0000"
     } ,
   
     {
@@ -1678,6 +1678,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -2102,14 +2110,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201170955/",
       "date"     : "2022-01-17 06:55:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Список личных качеств",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-lichnyh-kachestv/",
-      "date"     : "2022-01-19 06:50:19 +0000"
     } ,
   
     {
@@ -4881,14 +4881,6 @@
     } ,
   
     {
-      "title"    : "Набор правил компактнее дерева решений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212047/",
-      "date"     : "2022-12-04 17:35:35 +0000"
-    } ,
-  
-    {
       "title"    : "Слова не имеют смысла без реальных вещей",
       "category" : "",
       "tags"     : "quotes",
@@ -4985,11 +4977,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
+      "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -5009,6 +5001,14 @@
     } ,
   
     {
+      "title"    : "Список личных качеств",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-lichnyh-kachestv/",
+      "date"     : "2022-01-19 06:50:19 +0000"
+    } ,
+  
+    {
       "title"    : "Мышление письмом",
       "category" : "",
       "tags"     : "",
@@ -5025,11 +5025,19 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Набор правил компактнее дерева решений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212047/",
+      "date"     : "2022-12-04 17:35:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 17:20:58 +0000"
     } ,
   
     {
@@ -5037,7 +5045,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 17:19:55 +0000"
+      "date"     : "2023-01-08 17:20:58 +0000"
     } 
   
 ]
