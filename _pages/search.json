@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 17:18:27 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -29,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -37,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -45,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -358,6 +350,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106262101/",
       "date"     : "2021-06-26 17:01:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Округляйте цифры до полезного читателю уровня точности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231044/",
+      "date"     : "2021-09-23 07:44:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -1121,11 +1137,19 @@
     } ,
   
     {
+      "title"    : "Universal meens appliable to whole universe",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109281911/",
+      "date"     : "2021-09-28 16:11:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -1249,14 +1273,6 @@
     } ,
   
     {
-      "title"    : "Округляйте цифры до полезного читателю уровня точности",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231044/",
-      "date"     : "2021-09-23 07:44:00 +0000"
-    } ,
-  
-    {
       "title"    : "Про ложь и брехню",
       "category" : "",
       "tags"     : "quotes",
@@ -1342,14 +1358,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109281907/",
       "date"     : "2021-09-28 16:07:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Universal meens appliable to whole universe",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109281911/",
-      "date"     : "2021-09-28 16:11:00 +0000"
     } ,
   
     {
@@ -1545,6 +1553,14 @@
     } ,
   
     {
+      "title"    : "Понятийный минимум",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponyatijnyj-minimum/",
+      "date"     : "2021-10-18 20:24:50 +0000"
+    } ,
+  
+    {
       "title"    : "Хорошая структура",
       "category" : "",
       "tags"     : "quotes",
@@ -1662,14 +1678,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -2398,6 +2406,14 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -4873,6 +4889,14 @@
     } ,
   
     {
+      "title"    : "Слова не имеют смысла без реальных вещей",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282101/",
+      "date"     : "2022-12-04 17:40:22 +0000"
+    } ,
+  
+    {
       "title"    : "Always fully understand at least one abstraction layer below",
       "category" : "",
       "tags"     : "quotes",
@@ -4965,23 +4989,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 17:18:27 +0000"
-    } ,
-  
-    {
-      "title"    : "Понятийный минимум",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponyatijnyj-minimum/",
-      "date"     : "2021-10-18 20:24:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } ,
   
     {
@@ -5009,14 +5017,6 @@
     } ,
   
     {
-      "title"    : "Мышление должно происходить во вне",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
-    } ,
-  
-    {
       "title"    : "Бесконечная регрессия",
       "category" : "",
       "tags"     : "",
@@ -5025,11 +5025,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-01-08 17:19:55 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 17:18:27 +0000"
+      "date"     : "2023-01-08 17:19:55 +0000"
     } 
   
 ]
