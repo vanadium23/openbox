@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -126,6 +126,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106202044/",
       "date"     : "2021-06-20 16:44:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Текст упрощается от малого к большому",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221245/",
+      "date"     : "2021-09-22 09:45:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -254,6 +270,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106222053/",
       "date"     : "2021-06-22 16:53:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Многоярусные разреженные автокодировщики как AGI",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106222054/",
+      "date"     : "2021-06-22 16:54:00 +0000"
     } ,
   
     {
@@ -881,14 +905,6 @@
     } ,
   
     {
-      "title"    : "Текст упрощается от малого к большому",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221245/",
-      "date"     : "2021-09-22 09:45:00 +0000"
-    } ,
-  
-    {
       "title"    : "Удобно проверять текст чтением вслух",
       "category" : "",
       "tags"     : "quotes",
@@ -1021,7 +1037,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -1566,14 +1582,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -4377,14 +4385,6 @@
     } ,
   
     {
-      "title"    : "Building Evolutionary Architectures",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/refs/building-evolutionary-architectures/",
-      "date"     : "2022-08-29 07:04:30 +0000"
-    } ,
-  
-    {
       "title"    : "Strong teams carefully seeded by team leads and founders",
       "category" : "",
       "tags"     : "quotes",
@@ -4769,19 +4769,19 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 17:07:03 +0000"
+    } ,
+  
+    {
       "title"    : "Remove feature flags aggressively",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209181637/",
       "date"     : "2022-09-18 13:37:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
     } ,
   
     {
@@ -4897,19 +4897,11 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 17:05:48 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } ,
   
     {
@@ -4921,11 +4913,27 @@
     } ,
   
     {
+      "title"    : "Building Evolutionary Architectures",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/building-evolutionary-architectures/",
+      "date"     : "2022-08-29 07:04:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 17:05:48 +0000"
+      "date"     : "2023-01-08 17:07:03 +0000"
     } 
   
 ]
