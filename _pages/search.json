@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -893,7 +893,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -3001,6 +3001,14 @@
     } ,
   
     {
+      "title"    : "Чеклист интеграции внешних систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
+      "date"     : "2022-06-06 07:27:11 +0000"
+    } ,
+  
+    {
       "title"    : "Несогласие для поиска истины",
       "category" : "",
       "tags"     : "quotes",
@@ -4609,14 +4617,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 16:32:54 +0000"
-    } ,
-  
-    {
       "title"    : "Old data schema couples to the past",
       "category" : "",
       "tags"     : "quotes",
@@ -4641,6 +4641,22 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 16:34:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Finding the correct service granularity is key for decomposing.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209181625/",
+      "date"     : "2022-09-18 13:25:44 +0000"
+    } ,
+  
+    {
       "title"    : "Remove feature flags aggressively",
       "category" : "",
       "tags"     : "quotes",
@@ -4649,11 +4665,27 @@
     } ,
   
     {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Architecture tends toward always adding, never removing, or decommissioning.",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202212041703/",
       "date"     : "2022-12-04 14:03:36 +0000"
+    } ,
+  
+    {
+      "title"    : "Обучение без знаний невозможно",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106202048/",
+      "date"     : "2022-12-04 17:33:41 +0000"
     } ,
   
     {
@@ -4749,31 +4781,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 16:32:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Чеклист интеграции внешних систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
-      "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Finding the correct service granularity is key for decomposing.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209181625/",
-      "date"     : "2022-09-18 13:25:44 +0000"
-    } ,
-  
-    {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } ,
   
     {
@@ -4781,7 +4789,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 16:32:54 +0000"
+      "date"     : "2023-01-08 16:34:41 +0000"
     } 
   
 ]
