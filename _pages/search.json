@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -809,11 +809,11 @@
     } ,
   
     {
-      "title"    : "Учитывайте подготовку читателя",
+      "title"    : "Genome is an abstract catalyst",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041106/",
-      "date"     : "2021-10-04 08:06:00 +0000"
+      "url"      : "/openbox/quotes/202109271133/",
+      "date"     : "2021-09-27 08:33:00 +0000"
     } ,
   
     {
@@ -821,7 +821,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -985,14 +985,6 @@
     } ,
   
     {
-      "title"    : "Genome is an abstract catalyst",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271133/",
-      "date"     : "2021-09-27 08:33:00 +0000"
-    } ,
-  
-    {
       "title"    : "Abstract catalyst must be mad of knowledge",
       "category" : "",
       "tags"     : "quotes",
@@ -1126,6 +1118,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110041105/",
       "date"     : "2021-10-04 08:05:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Учитывайте подготовку читателя",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041106/",
+      "date"     : "2021-10-04 08:06:00 +0000"
     } ,
   
     {
@@ -1681,14 +1681,6 @@
     } ,
   
     {
-      "title"    : "Correlation doesn’t imply causation",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Excel",
       "category" : "",
       "tags"     : "",
@@ -1729,18 +1721,18 @@
     } ,
   
     {
-      "title"    : "Рынок труда   индикатор всего рынка",
+      "title"    : "Мыслекарта",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
-      "title"    : "Требования к интеллекту",
+      "title"    : "Рынок труда   индикатор всего рынка",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2070,6 +2062,14 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
     } ,
   
     {
@@ -2422,14 +2422,6 @@
       "tags"     : "refs/article, chernov_sharit",
       "url"      : "/openbox/refs/202205210527/",
       "date"     : "2022-05-21 14:27:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
     } ,
   
     {
@@ -4593,6 +4585,14 @@
     } ,
   
     {
+      "title"    : "Декомпозиция монолита",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/dekompozicziya-monolita/",
+      "date"     : "2023-01-03 07:38:28 +0000"
+    } ,
+  
+    {
       "title"    : "Rename to rebuild",
       "category" : "",
       "tags"     : "",
@@ -4613,7 +4613,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } ,
   
     {
@@ -4633,10 +4633,10 @@
     } ,
   
     {
-      "title"    : "Мыслекарта",
+      "title"    : "Correlation doesn’t imply causation",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
+      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -4645,7 +4645,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -4657,14 +4665,6 @@
     } ,
   
     {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
-    } ,
-  
-    {
       "title"    : "Мышление должно происходить во вне",
       "category" : "",
       "tags"     : "",
@@ -4673,11 +4673,19 @@
     } ,
   
     {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-03 08:27:50 +0000"
+      "date"     : "2023-01-08 15:59:58 +0000"
     } 
   
 ]
