@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -382,6 +382,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282104/",
       "date"     : "2021-06-28 17:04:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Обучение с подкреплений должен иметь шум",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282105/",
+      "date"     : "2021-06-28 17:05:00 +0000"
     } ,
   
     {
@@ -1157,7 +1165,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -2113,14 +2121,6 @@
     } ,
   
     {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Развитие целей личности",
       "category" : "",
       "tags"     : "quotes",
@@ -2817,14 +2817,6 @@
     } ,
   
     {
-      "title"    : "Бесконечная регрессия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/beskonechnaya-regressiya/",
-      "date"     : "2022-05-21 15:09:51 +0000"
-    } ,
-  
-    {
       "title"    : "Zotero Obsidian workflow",
       "category" : "",
       "tags"     : "quotes",
@@ -2838,14 +2830,6 @@
       "tags"     : "",
       "url"      : "/openbox/karta-realnosti/",
       "date"     : "2022-05-22 14:42:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Знать не значит уметь",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/znat-ne-znachit-umet/",
-      "date"     : "2022-05-22 18:27:37 +0000"
     } ,
   
     {
@@ -4889,14 +4873,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-08 17:22:54 +0000"
-    } ,
-  
-    {
       "title"    : "Finding the correct service granularity is key for decomposing.",
       "category" : "",
       "tags"     : "quotes",
@@ -4913,11 +4889,11 @@
     } ,
   
     {
-      "title"    : "Критерий поппера",
+      "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-08 17:24:29 +0000"
     } ,
   
     {
@@ -5045,7 +5021,31 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Бесконечная регрессия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/beskonechnaya-regressiya/",
+      "date"     : "2022-05-21 15:09:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Знать не значит уметь",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/znat-ne-znachit-umet/",
+      "date"     : "2022-05-22 18:27:37 +0000"
     } ,
   
     {
@@ -5057,11 +5057,19 @@
     } ,
   
     {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-08 17:22:54 +0000"
+      "date"     : "2023-01-08 17:24:29 +0000"
     } 
   
 ]
