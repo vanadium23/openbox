@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -1241,6 +1241,14 @@
     } ,
   
     {
+      "title"    : "Сглаженные углы создают ложь",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109230037/",
+      "date"     : "2021-09-22 21:37:00 +0000"
+    } ,
+  
+    {
       "title"    : "Важные нюансы объясняйте подробно",
       "category" : "",
       "tags"     : "quotes",
@@ -1254,14 +1262,6 @@
       "tags"     : "",
       "url"      : "/openbox/star-methology/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Сглаженные углы создают ложь",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109230037/",
-      "date"     : "2021-09-22 21:37:00 +0000"
     } ,
   
     {
@@ -1293,7 +1293,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -2574,6 +2574,14 @@
       "tags"     : "",
       "url"      : "/openbox/kryshka/",
       "date"     : "2022-05-07 16:55:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -5089,14 +5097,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-12 07:41:19 +0000"
-    } ,
-  
-    {
       "title"    : "Different stacks to avoid coupling",
       "category" : "",
       "tags"     : "quotes",
@@ -5185,7 +5185,7 @@
     } ,
   
     {
-      "title"    : "202301121138",
+      "title"    : "Уровни проблем в менеджменте",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202301121138/",
@@ -5193,11 +5193,19 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Менеджер - это тоже архитектор",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301121142/",
+      "date"     : "2023-01-12 07:42:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-12 07:44:06 +0000"
     } ,
   
     {
@@ -5225,14 +5233,6 @@
     } ,
   
     {
-      "title"    : "Мышление должно происходить во вне",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
-    } ,
-  
-    {
       "title"    : "Бесконечная регрессия",
       "category" : "",
       "tags"     : "",
@@ -5241,11 +5241,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-01-12 07:44:06 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-12 07:41:19 +0000"
+      "date"     : "2023-01-12 07:44:06 +0000"
     } 
   
 ]
