@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -1365,7 +1365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -1969,6 +1969,14 @@
     } ,
   
     {
+      "title"    : "Грустные правды жизни",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/grustnye-pravdy-zhizni/",
+      "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
       "title"    : "Intermediate packets in the wild",
       "category" : "",
       "tags"     : "",
@@ -2569,14 +2577,6 @@
     } ,
   
     {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
-    } ,
-  
-    {
       "title"    : "Крышка",
       "category" : "",
       "tags"     : "",
@@ -2881,6 +2881,14 @@
     } ,
   
     {
+      "title"    : "Пример Китая с остатками рисами для собственных нужд",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205142239/",
+      "date"     : "2022-05-14 19:39:00 +0000"
+    } ,
+  
+    {
       "title"    : "Инвестиции требуют сбережений",
       "category" : "",
       "tags"     : "",
@@ -3161,6 +3169,14 @@
     } ,
   
     {
+      "title"    : "Реакция на потери примерно в два раза острее, чем приобретения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202205300755/",
+      "date"     : "2022-05-30 04:55:30 +0000"
+    } ,
+  
+    {
       "title"    : "Domain driven design",
       "category" : "",
       "tags"     : "",
@@ -3321,26 +3337,10 @@
     } ,
   
     {
-      "title"    : "Менеджмент",
-      "category" : "",
-      "tags"     : "competencies, disciplines, skills",
-      "url"      : "/openbox/competencies/menedzhment/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Css snippets",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Python",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/python/",
       "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
@@ -4149,31 +4149,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-15 17:04:17 +0000"
-    } ,
-  
-    {
-      "title"    : "Грустные правды жизни",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/grustnye-pravdy-zhizni/",
-      "date"     : "2021-10-31 06:13:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Пример Китая с остатками рисами для собственных нужд",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205142239/",
-      "date"     : "2022-05-14 19:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Реакция на потери примерно в два раза острее, чем приобретения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202205300755/",
-      "date"     : "2022-05-30 04:55:30 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } ,
   
     {
@@ -5249,11 +5225,43 @@
     } ,
   
     {
+      "title"    : "Брать или не брать. Как собеседовать разработчика.",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/brat-ili-ne-brat-kak-sobesedovat-razrabotchika/",
+      "date"     : "2023-01-15 16:52:35 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Менеджмент",
+      "category" : "",
+      "tags"     : "competencies, disciplines, skills",
+      "url"      : "/openbox/competencies/menedzhment/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Python",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/python/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -5277,7 +5285,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-15 17:04:17 +0000"
+      "date"     : "2023-01-15 17:04:52 +0000"
     } 
   
 ]
