@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-01-15T11:54:13+04:00","modified_at":"2023-01-15T11:54:18+04:00","permalink":"/obsidian-command-center/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-01-15T11:54:13+04:00","modified_at":"2023-01-15T11:55:53+04:00","permalink":"/obsidian-command-center/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
