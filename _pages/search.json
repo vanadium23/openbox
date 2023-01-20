@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -409,11 +409,11 @@
     } ,
   
     {
-      "title"    : "Творчество для репликации мемов",
+      "title"    : "Принципы адекватности мышления",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109091247/",
-      "date"     : "2021-09-09 09:47:00 +0000"
+      "url"      : "/openbox/quotes/202108220913/",
+      "date"     : "2021-08-22 06:13:00 +0000"
     } ,
   
     {
@@ -769,14 +769,6 @@
     } ,
   
     {
-      "title"    : "Принципы адекватности мышления",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220913/",
-      "date"     : "2021-08-22 06:13:00 +0000"
-    } ,
-  
-    {
       "title"    : "Markdown ADR template",
       "category" : "",
       "tags"     : "quotes",
@@ -1073,6 +1065,14 @@
     } ,
   
     {
+      "title"    : "Творчество для репликации мемов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109091247/",
+      "date"     : "2021-09-09 09:47:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пессимизм убивает творчество",
       "category" : "",
       "tags"     : "quotes",
@@ -1289,11 +1289,11 @@
     } ,
   
     {
-      "title"    : "Объяснить по цепочке для сложных сущностей",
+      "title"    : "Intermediate packets in the wild",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041108/",
-      "date"     : "2021-10-04 08:08:00 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202111021639/",
+      "date"     : "2021-11-02 05:34:55 +0000"
     } ,
   
     {
@@ -1301,7 +1301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -1614,6 +1614,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110041106/",
       "date"     : "2021-10-04 08:06:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснить по цепочке для сложных сущностей",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041108/",
+      "date"     : "2021-10-04 08:08:00 +0000"
     } ,
   
     {
@@ -1961,14 +1969,6 @@
     } ,
   
     {
-      "title"    : "Intermediate packets in the wild",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202111021639/",
-      "date"     : "2021-11-02 05:34:55 +0000"
-    } ,
-  
-    {
       "title"    : "Прагматизм",
       "category" : "",
       "tags"     : "",
@@ -2013,14 +2013,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/opredelenie-zadachi-v-spiske-del/",
-      "date"     : "2022-01-05 13:43:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Проектирование через команды",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/proektirovanie-cherez-komandy/",
       "date"     : "2022-01-05 13:43:41 +0000"
     } ,
   
@@ -2569,6 +2561,14 @@
     } ,
   
     {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
+    } ,
+  
+    {
       "title"    : "Крышка",
       "category" : "",
       "tags"     : "",
@@ -2993,14 +2993,6 @@
     } ,
   
     {
-      "title"    : "Criticism is just part of the process of making a better product",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202205231949/",
-      "date"     : "2022-05-23 16:49:19 +0000"
-    } ,
-  
-    {
       "title"    : "The key to learning from your mistakes is to document your failures",
       "category" : "",
       "tags"     : "quotes",
@@ -3381,7 +3373,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -5137,6 +5129,14 @@
     } ,
   
     {
+      "title"    : "Culture questions from architect",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301021531/",
+      "date"     : "2023-01-02 12:31:07 +0000"
+    } ,
+  
+    {
       "title"    : "Spike and stabilize",
       "category" : "",
       "tags"     : "quotes",
@@ -5201,6 +5201,14 @@
     } ,
   
     {
+      "title"    : "Software architecture",
+      "category" : "",
+      "tags"     : "competencies",
+      "url"      : "/openbox/competencies/software-architecture/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "System design",
       "category" : "",
       "tags"     : "competencies, skills",
@@ -5213,7 +5221,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Проектирование через команды",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/proektirovanie-cherez-komandy/",
+      "date"     : "2022-01-05 13:43:41 +0000"
     } ,
   
     {
@@ -5253,15 +5269,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-20 07:40:14 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } ,
   
     {
@@ -5270,6 +5278,14 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202205151152/",
       "date"     : "2022-05-15 08:52:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Criticism is just part of the process of making a better product",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202205231949/",
+      "date"     : "2022-05-23 16:49:19 +0000"
     } ,
   
     {
@@ -5286,14 +5302,6 @@
       "tags"     : "quotes, refs/article",
       "url"      : "/openbox/quotes/202301012200/",
       "date"     : "2023-01-01 18:00:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Culture questions from architect",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301021531/",
-      "date"     : "2023-01-02 12:31:07 +0000"
     } ,
   
     {
@@ -5317,7 +5325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-20 07:40:14 +0000"
+      "date"     : "2023-01-20 07:48:57 +0000"
     } 
   
 ]
