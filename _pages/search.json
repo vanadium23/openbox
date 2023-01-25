@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -37,7 +37,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -409,22 +417,6 @@
     } ,
   
     {
-      "title"    : "Проблема волшебника страны Оз",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022216/",
-      "date"     : "2021-07-02 18:16:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Architecture decision record",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/architecture-decision-record/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
       "title"    : "Повсеместные сети",
       "category" : "",
       "tags"     : "quotes",
@@ -502,6 +494,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107022214/",
       "date"     : "2021-07-02 18:14:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Проблема волшебника страны Оз",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022216/",
+      "date"     : "2021-07-02 18:16:00 +0000"
     } ,
   
     {
@@ -1289,11 +1289,11 @@
     } ,
   
     {
-      "title"    : "Ultra vague end goal with many dimensions",
+      "title"    : "Abstract catalyst as a recipe",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110221601/",
-      "date"     : "2021-10-22 13:01:00 +0000"
+      "url"      : "/openbox/quotes/202109271143/",
+      "date"     : "2021-09-27 08:43:00 +0000"
     } ,
   
     {
@@ -1301,7 +1301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -1325,6 +1325,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Зачем нужно творчество",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1470,14 +1478,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109271141/",
       "date"     : "2021-09-27 08:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Abstract catalyst as a recipe",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271143/",
-      "date"     : "2021-09-27 08:43:00 +0000"
     } ,
   
     {
@@ -1761,6 +1761,14 @@
     } ,
   
     {
+      "title"    : "Architecture decision record",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/architecture-decision-record/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
       "title"    : "Map of content",
       "category" : "",
       "tags"     : "",
@@ -1798,6 +1806,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110211616/",
       "date"     : "2021-10-21 13:16:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ultra vague end goal with many dimensions",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110221601/",
+      "date"     : "2021-10-22 13:01:00 +0000"
     } ,
   
     {
@@ -1917,6 +1933,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/redukczionizm/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
       "date"     : "2021-10-26 06:11:20 +0000"
     } ,
   
@@ -2061,6 +2085,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3353,6 +3385,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-01-25 07:22:29 +0000"
+    } ,
+  
+    {
       "title"    : "Организация удалённой работы",
       "category" : "",
       "tags"     : "",
@@ -3373,7 +3413,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } ,
   
     {
@@ -4129,6 +4169,14 @@
     } ,
   
     {
+      "title"    : "Организация мониторинга",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-monitoringa/",
+      "date"     : "2022-08-03 15:11:04 +0000"
+    } ,
+  
+    {
       "title"    : "Быть помешанным - полезная черта",
       "category" : "",
       "tags"     : "quotes",
@@ -4422,14 +4470,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208181406/",
       "date"     : "2022-08-18 11:06:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Sidebar after the meeting",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208181411/",
-      "date"     : "2022-08-18 11:11:18 +0000"
     } ,
   
     {
@@ -5161,6 +5201,14 @@
     } ,
   
     {
+      "title"    : "Renme to rebuild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/renme-to-rebuild/",
+      "date"     : "2023-01-03 07:54:07 +0000"
+    } ,
+  
+    {
       "title"    : "Вопросы при недостаточном развитие людей",
       "category" : "",
       "tags"     : "quotes",
@@ -5209,99 +5257,11 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-22 16:28:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Зачем нужно творчество",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Цикл непрерывных улучшений",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/refs/czikl-nepreryvnyh-uluchshenij/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian command center",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-command-center/",
-      "date"     : "2023-01-15 07:54:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Брать или не брать. Как собеседовать разработчика.",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/refs/brat-ili-ne-brat-kak-sobesedovat-razrabotchika/",
-      "date"     : "2023-01-15 16:52:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Постановка привычки через слайдер затрат",
+      "title"    : "Sidebar after the meeting",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301162101/",
-      "date"     : "2023-01-16 17:01:35 +0000"
-    } ,
-  
-    {
-      "title"    : "15 лет построения персональной wiki",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301221959/",
-      "date"     : "2023-01-22 15:59:17 +0000"
-    } ,
-  
-    {
-      "title"    : "Масштабируемая конфигурация nginx create",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301222027/",
-      "date"     : "2023-01-22 16:27:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-22 16:28:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Организация мониторинга",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-monitoringa/",
-      "date"     : "2022-08-03 15:11:04 +0000"
+      "url"      : "/openbox/quotes/202208181411/",
+      "date"     : "2022-08-18 11:11:18 +0000"
     } ,
   
     {
@@ -5321,11 +5281,19 @@
     } ,
   
     {
-      "title"    : "Renme to rebuild",
+      "title"    : "Цикл непрерывных улучшений",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/renme-to-rebuild/",
-      "date"     : "2023-01-03 07:54:07 +0000"
+      "url"      : "/openbox/refs/czikl-nepreryvnyh-uluchshenij/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian command center",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-command-center/",
+      "date"     : "2023-01-15 07:54:13 +0000"
     } ,
   
     {
@@ -5337,6 +5305,22 @@
     } ,
   
     {
+      "title"    : "Брать или не брать. Как собеседовать разработчика.",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/brat-ili-ne-brat-kak-sobesedovat-razrabotchika/",
+      "date"     : "2023-01-15 16:52:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Постановка привычки через слайдер затрат",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301162101/",
+      "date"     : "2023-01-16 17:01:35 +0000"
+    } ,
+  
+    {
       "title"    : "Метод опорных векторов",
       "category" : "",
       "tags"     : "",
@@ -5345,11 +5329,35 @@
     } ,
   
     {
+      "title"    : "15 лет построения персональной wiki",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301221959/",
+      "date"     : "2023-01-22 15:59:17 +0000"
+    } ,
+  
+    {
+      "title"    : "Масштабируемая конфигурация nginx create",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301222027/",
+      "date"     : "2023-01-22 16:27:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Список платёжных систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
+      "date"     : "2023-01-25 06:58:38 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-22 16:28:39 +0000"
+      "date"     : "2023-01-25 07:22:29 +0000"
     } 
   
 ]
