@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -21,15 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-27 13:51:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -37,7 +29,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -1273,11 +1273,19 @@
     } ,
   
     {
-      "title"    : "Abstract catalyst as a recipe",
+      "title"    : "Банк данных",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/bank-dannyh/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Timeboxing questions",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271143/",
-      "date"     : "2021-09-27 08:43:00 +0000"
+      "url"      : "/openbox/quotes/202110101340/",
+      "date"     : "2021-10-10 10:40:00 +0000"
     } ,
   
     {
@@ -1285,7 +1293,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -1341,14 +1349,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Обработка входящей информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1462,6 +1462,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109271141/",
       "date"     : "2021-09-27 08:41:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Abstract catalyst as a recipe",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109271143/",
+      "date"     : "2021-09-27 08:43:00 +0000"
     } ,
   
     {
@@ -1670,14 +1678,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110061614/",
       "date"     : "2021-10-06 13:14:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Timeboxing questions",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110101340/",
-      "date"     : "2021-10-10 10:40:00 +0000"
     } ,
   
     {
@@ -1921,6 +1921,14 @@
     } ,
   
     {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
       "title"    : "Timeboxing",
       "category" : "",
       "tags"     : "",
@@ -2061,14 +2069,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3365,7 +3365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -3389,7 +3389,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } ,
   
     {
@@ -5153,22 +5153,6 @@
     } ,
   
     {
-      "title"    : "Go slow to go fast",
-      "category" : "",
-      "tags"     : "quotes, refs/article",
-      "url"      : "/openbox/quotes/202301012200/",
-      "date"     : "2023-01-01 18:00:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Culture questions from architect",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301021531/",
-      "date"     : "2023-01-02 12:31:07 +0000"
-    } ,
-  
-    {
       "title"    : "Spike and stabilize",
       "category" : "",
       "tags"     : "quotes",
@@ -5257,27 +5241,19 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
+      "title"    : "Go slow to go fast",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "tags"     : "quotes, refs/article",
+      "url"      : "/openbox/quotes/202301012200/",
+      "date"     : "2023-01-01 18:00:39 +0000"
     } ,
   
     {
-      "title"    : "Банк данных",
+      "title"    : "Culture questions from architect",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/bank-dannyh/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301021531/",
+      "date"     : "2023-01-02 12:31:07 +0000"
     } ,
   
     {
@@ -5361,6 +5337,30 @@
     } ,
   
     {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2023-01-27 16:41:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "django",
       "category" : "",
       "tags"     : "",
@@ -5369,11 +5369,19 @@
     } ,
   
     {
+      "title"    : "2023 01 27 воскресная уборка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
+      "date"     : "2023-01-27 16:03:37 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-27 13:51:51 +0000"
+      "date"     : "2023-01-27 16:41:29 +0000"
     } 
   
 ]
