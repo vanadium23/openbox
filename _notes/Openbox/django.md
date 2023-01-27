@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-01-27T17:48:31+04:00","permalink":"/django/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-01-27T17:48:37+04:00","title":"django","permalink":"/django/","dgPassFrontmatter":true}
 ---
 
 
