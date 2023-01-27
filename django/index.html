@@ -10,20 +10,20 @@
   
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Digital garden | Chernov Open 📦</title>
+<title>Django | Chernov Open 📦</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Digital garden" />
+<meta property="og:title" content="Django" />
 <meta property="og:locale" content="ru_RU" />
-<meta name="description" content="Цифровой сад (digital garden) - один из способов [[ведение заметок|ведения заметок]]. Основной подход заключается в следующих пунктах: [[заметки должны быть сильносвязаны между собой]]. заметки выращиваются и со временем вырастают в вечнозелёные/evergreen. заметки используются для обучения." />
-<meta property="og:description" content="Цифровой сад (digital garden) - один из способов [[ведение заметок|ведения заметок]]. Основной подход заключается в следующих пунктах: [[заметки должны быть сильносвязаны между собой]]. заметки выращиваются и со временем вырастают в вечнозелёные/evergreen. заметки используются для обучения." />
+<meta name="description" content="Один из web-фреймворков на [[python]]. Отличается тем, что внутри есть всё для типичного сайта: авторизация, админка, работа с путями и шаблонами. Дополнительно можно обвесить [[drf]] или [[celery]]." />
+<meta property="og:description" content="Один из web-фреймворков на [[python]]. Отличается тем, что внутри есть всё для типичного сайта: авторизация, админка, работа с путями и шаблонами. Дополнительно можно обвесить [[drf]] или [[celery]]." />
 <meta property="og:site_name" content="Chernov Open 📦" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-01-27T13:49:19+00:00" />
+<meta property="article:published_time" content="2023-01-27T13:40:44+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Digital garden" />
+<meta property="twitter:title" content="Django" />
 <meta name="twitter:site" content="@vanadium23" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-01-27T13:49:19+00:00","datePublished":"2023-01-27T13:49:19+00:00","description":"Цифровой сад (digital garden) - один из способов [[ведение заметок|ведения заметок]]. Основной подход заключается в следующих пунктах: [[заметки должны быть сильносвязаны между собой]]. заметки выращиваются и со временем вырастают в вечнозелёные/evergreen. заметки используются для обучения.","headline":"Digital garden","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/digital-garden/"},"url":"/openbox/digital-garden/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-01-27T13:40:44+00:00","datePublished":"2023-01-27T13:40:44+00:00","description":"Один из web-фреймворков на [[python]]. Отличается тем, что внутри есть всё для типичного сайта: авторизация, админка, работа с путями и шаблонами. Дополнительно можно обвесить [[drf]] или [[celery]].","headline":"Django","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/django/"},"url":"/openbox/django/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -49,86 +49,44 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">Digital garden</h1>
+    <h1 class="Heading-title">Django</h1>
     <div class="Heading-additional">
       
-      <time datetime="2023-01-27T13:49:19+00:00">
+      <time datetime="2023-01-27T13:40:44+00:00">
         Создано 2023-01-27
         
       </time>&middot;
       
+      
+      <time datetime="2023-01-27T13:48:31+00:00">
+        Обновлено 2023-01-27
+        
+      </time>
       
     </div>
   </header>
 
   <div id="notes-entry-container">
     <content>
-      <p>Цифровой сад (digital garden) - один из способов <a href="/openbox/vedenie-zametok/">ведения заметок</a>. Основной подход заключается в следующих пунктах:</p>
-<ol>
-  <li><a href="/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/">заметки должны быть сильносвязаны между собой</a>.</li>
-  <li>заметки выращиваются и со временем вырастают в вечнозелёные/evergreen.</li>
-  <li>заметки используются для обучения.</li>
-</ol>
+      <p>Один из web-фреймворков на <a href="/openbox/python/">python</a>. Отличается тем, что внутри есть всё для типичного сайта: авторизация, админка, работа с путями и шаблонами. Дополнительно можно обвесить <span title="Article not found" class="invalid-link">[[drf]]</span> или <span title="Article not found" class="invalid-link">[[celery]]</span>.</p>
 
-<p>Этот подход тесно связан с <a href="/openbox/evergreen/">evergreen</a> в своей терминологии и основной философии, что намекает на их близкое родство.</p>
+<p>Основная документация лежит на сайте <a href="https://docs.djangoproject.com/">docs djangoproject</a>.</p>
 
-<h2 id="дополнительные-ссылки">Дополнительные ссылки</h2>
+<h2 id="orm">ORM</h2>
 
-<ul>
-  <li><a href="https://maggieappleton.com/garden-history">A Brief History &amp; Ethos of the Digital Garden</a></li>
-</ul>
+<p>Типичные CRUD операции можно выполнять с помощью встроенного ORMa, но переход на сырой SQL потом требует много вложений. Начиная где-то с версии 2.х, авторы решили переносить все возможность SQL в ORM: https://docs.djangoproject.com/en/4.1/ref/models/expressions/.</p>
+
+<p>Из наиболее используемого, теперь можно фильтровать prefetch на уровне запроса, а не цикла:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">django.db.models</span> <span class="kn">import</span> <span class="n">Prefetch</span>
+<span class="n">vegetarian_pizzas</span> <span class="o">=</span> <span class="n">Pizza</span><span class="p">.</span><span class="n">objects</span><span class="p">.</span><span class="nb">filter</span><span class="p">(</span><span class="n">vegetarian</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">Restaurant</span><span class="p">.</span><span class="n">objects</span><span class="p">.</span><span class="n">prefetch_related</span><span class="p">(</span>
+        <span class="n">Prefetch</span><span class="p">(</span><span class="s">'pizzas'</span><span class="p">,</span> <span class="n">to_attr</span><span class="o">=</span><span class="s">'menu'</span><span class="p">),</span>
+        <span class="n">Prefetch</span><span class="p">(</span><span class="s">'pizzas'</span><span class="p">,</span> <span class="n">queryset</span><span class="o">=</span><span class="n">vegetarian_pizzas</span><span class="p">,</span> <span class="n">to_attr</span><span class="o">=</span><span class="s">'vegetarian_menu'</span><span class="p">))</span>
+</code></pre></div></div>
 
     </content>
 
-    
-    <side class="backlink">
-      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
-      <div class="backlink-boxes">
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/evergreen/">Evergreen</a><br>
-        <div>Это метод [[ведение заметок]], которая напоминает как проращивается дерево. В дальнейшем это перешло в тренд...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/vedenie-zametok/">Ведение заметок</a><br>
-        <div>Для начала стоит определиться с целью ведения заметок. Она может быть персональная в виде сохранения...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/obrabotka-vhodyashhej-informaczii/">Обработка входящей информации</a><br>
-        <div>Что же, я писал свою статью про [[2018-03-31-keep-pocket-clean]]. Теперь можно с помощью [[obsidian]] нарисовать более...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/czifrovoj-arhiv/">Цифровой архив</a><br>
-        <div>Под цифровым архивом будем понимать способ [[ведение заметок ведения заметок]], где совмещается хранение собственных записей...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/quotes/202205101826/">Knowledge as a tree</a><br>
-        <div>I’ve heard people compare knowledge of a topic to a tree. If you don’t fully...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/quotes/202107022201/">Каждый клик в интернете - рассказ компьютеру о себе</a><br>
-        <div>вы каждый раз делаете это на двух уровнях. Первый — желание немедленно получить то, что...</div>
-        </div>
-        
-      
-      </div>
-    </side>
     
   </div>
 </article>
