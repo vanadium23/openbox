@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"alias":["цифровой садик"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-01-28T20:38:30+04:00","permalink":"/digital-garden/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,6 +9,11 @@
 3. заметки используются для обучения.
 
 Этот подход тесно связан с [[evergreen]] в своей терминологии и основной философии, что намекает на их близкое родство.
+
+## Публичные примеры цифровых садов
+
+- http://www.michurin.net/
+- https://www.alexeyshmalko.com/
 
 ## Дополнительные ссылки
 
