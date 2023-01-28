@@ -12,7 +12,7 @@ update: ## Update Quartz to the latest version on Github
 	git checkout -p upstream/main -- _includes _layouts _pages _plugins .github assets Gemfile Makefile
 
 install:
-	bundle
+	bundle install --no-system
 
 serve:
 	bundle exec jekyll serve -w

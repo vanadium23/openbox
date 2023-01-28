@@ -30,6 +30,7 @@ class WikiLinksConverter < Jekyll::Generator
                     filename = wl_match[0]
                     title = wl_match[3]
 
+
                     no_title = title.nil?
                     no_note = note_index[filename].nil?
 
@@ -37,13 +38,13 @@ class WikiLinksConverter < Jekyll::Generator
                         pattern = "\[\[#{filename}\]\]"
                         replacement = "<span title='#{tooltip}' class='invalid-link'>\[\[#{filename}\]\]</span>"
                     elsif not no_title and no_note
-                        pattern = "\[\[#{filename}\|#{title}\]\]"
+                        pattern = /\[\[#{filename}\\?\|#{title}\]\]/
                         replacement = "<span title='#{tooltip}' class='invalid-link'>\[\[#{title}\]\]</span>"
                     elsif no_title and not no_note
                         pattern = "\[\[#{filename}\]\]"
                         replacement = "\[#{filename}\](#{site.baseurl}#{note_index[filename].url})"
                     else
-                        pattern = "\[\[#{filename}\|#{title}\]\]"
+                        pattern = /\[\[#{filename}\\?\|#{title}\]\]/
                         replacement = "\[#{title}\](#{site.baseurl}#{note_index[filename].url})"
                     end
 
@@ -73,7 +74,7 @@ module WikiLinks
     REGEX_LINK_TYPE       = /\s*::\s*/
     REGEX_LINK_HEADER     = /\#/
     REGEX_LINK_BLOCK      = /\#\^/
-    REGEX_LINK_LABEL      = /\|/
+    REGEX_LINK_LABEL      = /\\?\|/
 
     # wikitext usable char requirements
     REGEX_LINK_TYPE_CHARS = /[^\n\s\!\#\^\|\]]+/i
