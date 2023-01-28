@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -21,7 +21,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -29,15 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-01-28 16:36:15 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -526,6 +526,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107141452/",
       "date"     : "2021-07-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Законы природы - это разумные объяснения.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108020821/",
+      "date"     : "2021-08-02 05:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Опыт — не источник для вывода теорий.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108020826/",
+      "date"     : "2021-08-02 05:26:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Наука предсказывает события, которые были невозможны.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108020831/",
+      "date"     : "2021-08-02 05:31:00 +0000"
     } ,
   
     {
@@ -1289,19 +1313,11 @@
     } ,
   
     {
-      "title"    : "Design review instead of code review",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111271936/",
-      "date"     : "2021-11-27 16:36:00 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -1357,6 +1373,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1985,6 +2009,14 @@
     } ,
   
     {
+      "title"    : "Layers for progressive summarization",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/trash/zettel/202111061143/",
+      "date"     : "2021-11-06 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Перцентили лучше средних",
       "category" : "",
       "tags"     : "",
@@ -2006,6 +2038,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202111152022/",
       "date"     : "2021-11-15 17:22:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Design review instead of code review",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111271936/",
+      "date"     : "2021-11-27 16:36:00 +0000"
     } ,
   
     {
@@ -3373,7 +3413,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -3397,7 +3437,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
@@ -5249,6 +5289,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-01-28 16:36:44 +0000"
+    } ,
+  
+    {
       "title"    : "Цикл непрерывных улучшений",
       "category" : "",
       "tags"     : "",
@@ -5337,30 +5385,6 @@
     } ,
   
     {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-28 16:36:15 +0000"
-    } ,
-  
-    {
-      "title"    : "Обработка входящей информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "django",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/django/",
-      "date"     : "2023-01-27 13:40:44 +0000"
-    } ,
-  
-    {
       "title"    : "2023 01 27 воскресная уборка",
       "category" : "",
       "tags"     : "",
@@ -5373,15 +5397,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-01-28 16:36:15 +0000"
+      "date"     : "2023-01-28 16:36:44 +0000"
     } ,
   
     {
-      "title"    : "Layers for progressive summarization",
+      "title"    : "django",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/trash/zettel/202111061143/",
-      "date"     : "2021-11-06 09:31:40 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/django/",
+      "date"     : "2023-01-27 13:40:44 +0000"
     } 
   
 ]
