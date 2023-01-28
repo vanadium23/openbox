@@ -29,15 +29,15 @@
 
 | File                                                                               | status    | file.cday  | finish_date | книгодни        |
 | ---------------------------------------------------------------------------------- | --------- | ---------- | ----------- | --------------- |
-| [[Openbox/refs/Domain-Driven Design Distilled.md\|Domain-Driven Design Distilled]] | Completed | 2023-01-14 | 2022-05-29  | 3 weeks, 6 days |
-| [[Openbox/refs/How to make sense of any mess.md\|How to make sense of any mess]]   | Completed | 2023-01-14 | 2022-04-30  | 2 weeks         |
+| [[Domain-Driven Design Distilled\|Domain-Driven Design Distilled]] | Completed | 2023-01-14 | 2022-05-29  | 3 weeks, 6 days |
+| [[How to make sense of any mess\|How to make sense of any mess]]   | Completed | 2023-01-14 | 2022-04-30  | 2 weeks         |
 
 
 ### Курсы
 
 | File                                                                         | status    | file.cday  | finish_date |
 | ---------------------------------------------------------------------------- | --------- | ---------- | ----------- |
-| [[Life/Education/courses/Grokking System Design.md\|Grokking System Design]] | Discarded | 2023-01-14 | 2021-12-31  |
+| [[Grokking System Design\|Grokking System Design]] | Discarded | 2023-01-14 | 2021-12-31  |
 
 
 
