@@ -1,12 +1,8 @@
 ---
-{"dg-publish":true,"tags":["competencies","skills","disciplines"],"date":"2022-09-05T11:04:30+04:00","modified_at":"2023-01-20T11:36:27+04:00","permalink":"/competencies/software-engineering/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["competencies","skills","disciplines"],"date":"2022-09-05T11:04:30+04:00","modified_at":"2023-01-29T21:27:23+04:00","permalink":"/competencies/software-engineering/","dgPassFrontmatter":true}
 ---
 
 
-> [!INFO]
-> Текущий уровень развития компетенции и планы на будущее.
-> Current:: `$= dv.view("progress-skill", {offset: 0, file: "software engineering"})`
-> Next:: `$= dv.view("progress-skill", {offset: 1, file: "software engineering"})`
 
 
 Это мета заметка по тому, что такое разработка ПО вообще. Какие у меня есть мысли по поводу него, и зачем оно нужно.
@@ -20,6 +16,7 @@
 - [[computer science]] - на русском языке, информатика. Наука об алгоритмах и дата структурах в программировании.
 - [[network]] - необходимо знать про сети.
 - [[system design]] - дисциплина по выстраиванию крупных систем.
+- [[software architecture]] - проектирование любого ПО в общем виде.
 
 ## Где изучать
 
@@ -27,16 +24,12 @@
 
 | File                                                                         | status | file.cday  | finish_date | книгодни |
 | ---------------------------------------------------------------------------- | ------ | ---------- | ----------- | -------- |
-| [[Openbox/refs/Modern Software Engineering.md\|Modern Software Engineering]] | Todo   | 2023-01-14 | \-          | \-       |
+| [[Modern Software Engineering\|Modern Software Engineering]] | Todo   | 2023-01-14 | \-          | \-       |
 
 
 ### Курсы
 
 | File                                                                   | status | file.cday  | finish_date |
 | ---------------------------------------------------------------------- | ------ | ---------- | ----------- |
-| [[Life/Education/How to design a program.md\|How to design a program]] | \-     | 2023-01-14 | \-          |
-
-
----
-
+| [[How to design a program\|How to design a program]] | \-     | 2023-01-14 | \-          |
 
