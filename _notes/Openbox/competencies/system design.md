@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"up":"[[software architecture]]","tags":["competencies","skills"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-01-20T11:39:34+04:00","permalink":"/competencies/system-design/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[software architecture]]","tags":["competencies","skills"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-01-29T21:41:34+04:00","permalink":"/competencies/system-design/","dgPassFrontmatter":true}
 ---
 
 
-> [!INFO]
-> Текущий уровень развития компетенции и планы на будущее.
-> Current:: `$= dv.view("progress-skill", {offset: 0, file: "system design"})`
-> Next:: `$= dv.view("progress-skill", {offset: 1, file: "system design"})`
+
 
 
 В данном случае, под системой понимают ряд сервис, который соединён друг с другом. Такой подход напоминает разработку [[архитектура сервиса]], но только для более узкой задачи.
@@ -42,5 +39,3 @@
 
 
 ---
-
-
