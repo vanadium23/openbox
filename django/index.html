@@ -58,8 +58,8 @@
       </time>&middot;
       
       
-      <time datetime="2023-01-27T13:48:37+00:00">
-        Обновлено 2023-01-27
+      <time datetime="2023-02-02T13:57:47+00:00">
+        Обновлено 2023-02-02
         
       </time>
       
@@ -83,6 +83,32 @@
 <span class="n">Restaurant</span><span class="p">.</span><span class="n">objects</span><span class="p">.</span><span class="n">prefetch_related</span><span class="p">(</span>
         <span class="n">Prefetch</span><span class="p">(</span><span class="s">'pizzas'</span><span class="p">,</span> <span class="n">to_attr</span><span class="o">=</span><span class="s">'menu'</span><span class="p">),</span>
         <span class="n">Prefetch</span><span class="p">(</span><span class="s">'pizzas'</span><span class="p">,</span> <span class="n">queryset</span><span class="o">=</span><span class="n">vegetarian_pizzas</span><span class="p">,</span> <span class="n">to_attr</span><span class="o">=</span><span class="s">'vegetarian_menu'</span><span class="p">))</span>
+</code></pre></div></div>
+
+<h2 id="админка">Админка</h2>
+
+<p>Добавить новый url в админку</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">django.contrib</span> <span class="kn">import</span> <span class="n">admin</span>
+<span class="kn">from</span> <span class="nn">django.template.response</span> <span class="kn">import</span> <span class="n">TemplateResponse</span>
+<span class="kn">from</span> <span class="nn">django.urls</span> <span class="kn">import</span> <span class="n">path</span>
+
+<span class="k">class</span> <span class="nc">MyModelAdmin</span><span class="p">(</span><span class="n">admin</span><span class="p">.</span><span class="n">ModelAdmin</span><span class="p">):</span>
+    <span class="k">def</span> <span class="nf">get_urls</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="n">urls</span> <span class="o">=</span> <span class="nb">super</span><span class="p">().</span><span class="n">get_urls</span><span class="p">()</span>
+        <span class="n">my_urls</span> <span class="o">=</span> <span class="p">[</span>
+            <span class="n">path</span><span class="p">(</span><span class="s">'my_view/'</span><span class="p">,</span> <span class="bp">self</span><span class="p">.</span><span class="n">admin_site</span><span class="p">.</span><span class="n">admin_view</span><span class="p">(</span><span class="bp">self</span><span class="p">.</span><span class="n">my_view</span><span class="p">))</span>
+        <span class="p">]</span>
+        <span class="k">return</span> <span class="n">my_urls</span> <span class="o">+</span> <span class="n">urls</span>
+
+    <span class="k">def</span> <span class="nf">my_view</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">request</span><span class="p">):</span>
+        <span class="c1"># ...
+</span>        <span class="n">context</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span>
+           <span class="c1"># Include common variables for rendering the admin template.
+</span>           <span class="bp">self</span><span class="p">.</span><span class="n">admin_site</span><span class="p">.</span><span class="n">each_context</span><span class="p">(</span><span class="n">request</span><span class="p">),</span>
+           <span class="c1"># Anything else you want in the context...
+</span>           <span class="n">key</span><span class="o">=</span><span class="n">value</span><span class="p">,</span>
+        <span class="p">)</span>
+        <span class="k">return</span> <span class="n">TemplateResponse</span><span class="p">(</span><span class="n">request</span><span class="p">,</span> <span class="s">"sometemplate.html"</span><span class="p">,</span> <span class="n">context</span><span class="p">)</span>
 </code></pre></div></div>
 
     </content>
