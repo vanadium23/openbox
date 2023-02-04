@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-01-27T17:48:37+04:00","title":"django","permalink":"/django/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-02-02T17:57:47+04:00","title":"django","permalink":"/django/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,4 +19,31 @@ vegetarian_pizzas = Pizza.objects.filter(vegetarian=True)
 Restaurant.objects.prefetch_related(
         Prefetch('pizzas', to_attr='menu'),
         Prefetch('pizzas', queryset=vegetarian_pizzas, to_attr='vegetarian_menu'))
+```
+
+## Админка
+
+Добавить новый url в админку
+```python
+from django.contrib import admin
+from django.template.response import TemplateResponse
+from django.urls import path
+
+class MyModelAdmin(admin.ModelAdmin):
+    def get_urls(self):
+        urls = super().get_urls()
+        my_urls = [
+            path('my_view/', self.admin_site.admin_view(self.my_view))
+        ]
+        return my_urls + urls
+
+    def my_view(self, request):
+        # ...
+        context = dict(
+           # Include common variables for rendering the admin template.
+           self.admin_site.each_context(request),
+           # Anything else you want in the context...
+           key=value,
+        )
+        return TemplateResponse(request, "sometemplate.html", context)
 ```
