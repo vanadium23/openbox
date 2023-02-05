@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2022-08-10T08:56:24+03:00","permalink":"/python/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-02-05T11:57:23+04:00","permalink":"/python/","dgPassFrontmatter":true}
 ---
 
 
 > "Python is a second best language for all" (c) don't know
 
 Язык программирования разработанный Гвидо ван Россумом в качестве ответа на запрос простоты яыка в среде математиков.
-Хорош исходя из описание для всего, но в первую очередь используется в качестве языка для [[backend|backend]] разработки, для [[machine learning|machine learning]] и для написания [[cli|cli]] утилит.
+Хорош исходя из описание для всего, но в первую очередь используется в качестве языка для [[backend]] разработки, для [[machine learning]] и для написания [[cli]] утилит.
 
 ## Менеджмент зависимостей
 
@@ -44,3 +44,9 @@ while work:
     work.push(result.pieces[0])
     work.push(result.pieces[1])
 ```
+
+## Типовые структуры данных
+
+- collections.defaultdict - словарь для которого устанавливаются дефолтные значения в случае отсутствия
+- collections.deque - оптимизированная двухсторонная очередь (stack + queue)
+- heapq.heapify - priority queue на основе хипа
