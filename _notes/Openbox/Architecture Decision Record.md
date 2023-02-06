@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2021-10-21T10:09:08+03:00","modified_at":"2022-06-02T08:42:03+03:00","permalink":"/architecture-decision-record/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2021-10-21T10:09:08+03:00","modified_at":"2023-02-06T14:05:26+04:00","alias":["adr"],"permalink":"/architecture-decision-record/","dgPassFrontmatter":true}
 ---
 
 
