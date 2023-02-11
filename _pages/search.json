@@ -5,7 +5,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
+    } ,
+  
+    {
+      "title"    : "Para",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/para/",
+      "date"     : "2023-02-11 09:43:17 +0000"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
     } ,
   
     {
@@ -1345,6 +1353,14 @@
     } ,
   
     {
+      "title"    : "Как повысить любопытство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Критическая цепь проекта",
       "category" : "",
       "tags"     : "",
@@ -1937,6 +1953,14 @@
     } ,
   
     {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
       "title"    : "Timeboxing",
       "category" : "",
       "tags"     : "",
@@ -2049,14 +2073,6 @@
     } ,
   
     {
-      "title"    : "Ladder of casuality",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Prefer duplication over the wrong abstraction",
       "category" : "",
       "tags"     : "",
@@ -2077,6 +2093,22 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/delegirovanie/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Как преодолеть противоречия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2205,6 +2237,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/iskrenyaya-pohvala/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2550,6 +2590,14 @@
       "tags"     : "books",
       "url"      : "/openbox/refs/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -2993,14 +3041,6 @@
     } ,
   
     {
-      "title"    : "The key to learning from your mistakes is to document your failures",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202205232001/",
-      "date"     : "2022-05-23 17:01:44 +0000"
-    } ,
-  
-    {
       "title"    : "Openness for ability to influence",
       "category" : "",
       "tags"     : "quotes",
@@ -3342,22 +3382,6 @@
       "tags"     : "",
       "url"      : "/openbox/vesti-proektnyj-dnevnik/",
       "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Unittest vs pytest",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/unittest-vs-pytest/",
-      "date"     : "2022-07-04 18:38:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-02-11 09:42:01 +0000"
     } ,
   
     {
@@ -3878,6 +3902,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207041049/",
       "date"     : "2022-07-04 07:49:59 +0000"
+    } ,
+  
+    {
+      "title"    : "Unittest vs pytest",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/unittest-vs-pytest/",
+      "date"     : "2022-07-04 18:38:20 +0000"
     } ,
   
     {
@@ -4969,6 +5001,22 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-02-11 09:43:17 +0000"
+    } ,
+  
+    {
+      "title"    : "The key to learning from your mistakes is to document your failures",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202205232001/",
+      "date"     : "2022-05-23 17:01:44 +0000"
+    } ,
+  
+    {
       "title"    : "Before restructuring, try to improve modularization",
       "category" : "",
       "tags"     : "quotes",
@@ -5137,6 +5185,14 @@
     } ,
   
     {
+      "title"    : "Culture questions from architect",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301021531/",
+      "date"     : "2023-01-02 12:31:07 +0000"
+    } ,
+  
+    {
       "title"    : "Spike and stabilize",
       "category" : "",
       "tags"     : "quotes",
@@ -5217,6 +5273,14 @@
     } ,
   
     {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Цикл непрерывных улучшений",
       "category" : "",
       "tags"     : "",
@@ -5265,6 +5329,14 @@
     } ,
   
     {
+      "title"    : "Метод опорных векторов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metod-opornyh-vektorov/",
+      "date"     : "2023-01-22 12:53:19 +0000"
+    } ,
+  
+    {
       "title"    : "15 лет построения персональной wiki",
       "category" : "",
       "tags"     : "quotes",
@@ -5289,6 +5361,14 @@
     } ,
   
     {
+      "title"    : "2023 01 26 идеи черновиков",
+      "category" : "",
+      "tags"     : "chernov_sharit",
+      "url"      : "/openbox/chernov-sharit/2023-01-26-idei-chernovikov/",
+      "date"     : "2023-01-26 16:35:17 +0000"
+    } ,
+  
+    {
       "title"    : "django",
       "category" : "",
       "tags"     : "",
@@ -5297,11 +5377,11 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
+      "title"    : "Ladder of casuality",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "url"      : "/openbox/ladder-of-casuality/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -5326,6 +5406,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302011212/",
       "date"     : "2023-02-01 08:12:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Progressive summarization",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/progressive-summarization/",
+      "date"     : "2023-02-02 05:59:58 +0000"
     } ,
   
     {
@@ -5361,107 +5449,11 @@
     } ,
   
     {
-      "title"    : "Para",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/para/",
-      "date"     : "2023-02-11 09:42:01 +0000"
-    } ,
-  
-    {
-      "title"    : "Culture questions from architect",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301021531/",
-      "date"     : "2023-01-02 12:31:07 +0000"
-    } ,
-  
-    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-02-11 09:42:01 +0000"
-    } ,
-  
-    {
-      "title"    : "Как повысить любопытство",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Обработка входящей информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Как преодолеть противоречия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Метод опорных векторов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metod-opornyh-vektorov/",
-      "date"     : "2023-01-22 12:53:19 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 01 26 идеи черновиков",
-      "category" : "",
-      "tags"     : "chernov_sharit",
-      "url"      : "/openbox/chernov-sharit/2023-01-26-idei-chernovikov/",
-      "date"     : "2023-01-26 16:35:17 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
     } ,
   
     {
@@ -5473,11 +5465,27 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-02-11 09:43:17 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
     } ,
   
     {
@@ -5485,7 +5493,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-02-11 09:42:01 +0000"
+      "date"     : "2023-02-11 09:43:17 +0000"
     } 
   
 ]
