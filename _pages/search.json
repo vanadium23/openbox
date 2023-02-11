@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -1977,14 +1977,6 @@
     } ,
   
     {
-      "title"    : "Грустные правды жизни",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/grustnye-pravdy-zhizni/",
-      "date"     : "2021-10-31 06:13:54 +0000"
-    } ,
-  
-    {
       "title"    : "Intermediate packets in the wild",
       "category" : "",
       "tags"     : "",
@@ -2073,6 +2065,14 @@
     } ,
   
     {
+      "title"    : "Ladder of casuality",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ladder-of-casuality/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Prefer duplication over the wrong abstraction",
       "category" : "",
       "tags"     : "",
@@ -2101,14 +2101,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3041,6 +3033,14 @@
     } ,
   
     {
+      "title"    : "The key to learning from your mistakes is to document your failures",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202205232001/",
+      "date"     : "2022-05-23 17:01:44 +0000"
+    } ,
+  
+    {
       "title"    : "Openness for ability to influence",
       "category" : "",
       "tags"     : "quotes",
@@ -3398,6 +3398,14 @@
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
       "date"     : "2022-06-06 07:27:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5001,22 +5009,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-02-11 09:43:17 +0000"
-    } ,
-  
-    {
-      "title"    : "The key to learning from your mistakes is to document your failures",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202205232001/",
-      "date"     : "2022-05-23 17:01:44 +0000"
-    } ,
-  
-    {
       "title"    : "Before restructuring, try to improve modularization",
       "category" : "",
       "tags"     : "quotes",
@@ -5369,6 +5361,14 @@
     } ,
   
     {
+      "title"    : "Building a Second Brain Book",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/refs/building-a-second-brain-book/",
+      "date"     : "2023-01-26 17:14:59 +0000"
+    } ,
+  
+    {
       "title"    : "django",
       "category" : "",
       "tags"     : "",
@@ -5377,11 +5377,19 @@
     } ,
   
     {
-      "title"    : "Ladder of casuality",
+      "title"    : "2023 01 27 воскресная уборка",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
+      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
+      "date"     : "2023-01-27 16:03:37 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5453,23 +5461,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-02-11 09:43:17 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 01 27 воскресная уборка",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
-      "date"     : "2023-01-27 16:03:37 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5481,11 +5473,27 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Грустные правды жизни",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "url"      : "/openbox/grustnye-pravdy-zhizni/",
+      "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5493,7 +5501,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-02-11 09:43:17 +0000"
+      "date"     : "2023-02-11 09:44:12 +0000"
     } 
   
 ]
