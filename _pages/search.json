@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -29,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -1353,14 +1353,6 @@
     } ,
   
     {
-      "title"    : "Как повысить любопытство",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Критическая цепь проекта",
       "category" : "",
       "tags"     : "",
@@ -1953,14 +1945,6 @@
     } ,
   
     {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
       "title"    : "Timeboxing",
       "category" : "",
       "tags"     : "",
@@ -2097,10 +2081,10 @@
     } ,
   
     {
-      "title"    : "Как преодолеть противоречия",
+      "title"    : "Модели письма",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2229,14 +2213,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/iskrenyaya-pohvala/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2582,14 +2558,6 @@
       "tags"     : "books",
       "url"      : "/openbox/refs/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -3398,14 +3366,6 @@
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
       "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5321,14 +5281,6 @@
     } ,
   
     {
-      "title"    : "Метод опорных векторов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metod-opornyh-vektorov/",
-      "date"     : "2023-01-22 12:53:19 +0000"
-    } ,
-  
-    {
       "title"    : "15 лет построения персональной wiki",
       "category" : "",
       "tags"     : "quotes",
@@ -5374,22 +5326,6 @@
       "tags"     : "",
       "url"      : "/openbox/django/",
       "date"     : "2023-01-27 13:40:44 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 01 27 воскресная уборка",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
-      "date"     : "2023-01-27 16:03:37 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-02-11 09:44:12 +0000"
     } ,
   
     {
@@ -5449,6 +5385,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-02-11 17:14:06 +0000"
+    } ,
+  
+    {
       "title"    : "Code",
       "category" : "",
       "tags"     : "",
@@ -5457,11 +5401,75 @@
     } ,
   
     {
+      "title"    : "Как преодолеть противоречия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Как повысить любопытство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод опорных векторов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metod-opornyh-vektorov/",
+      "date"     : "2023-01-22 12:53:19 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 01 27 воскресная уборка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
+      "date"     : "2023-01-27 16:03:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -5481,19 +5489,19 @@
     } ,
   
     {
-      "title"    : "Модели письма",
+      "title"    : "Структурирование заметок",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
+      "url"      : "/openbox/strukturirovanie-zametok/",
+      "date"     : "2023-02-11 17:06:27 +0000"
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
+      "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-02-11 17:14:06 +0000"
     } ,
   
     {
@@ -5501,7 +5509,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-02-11 09:44:12 +0000"
+      "date"     : "2023-02-11 17:14:06 +0000"
     } 
   
 ]
