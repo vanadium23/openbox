@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -29,15 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-02-12 13:29:12 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -457,22 +449,6 @@
     } ,
   
     {
-      "title"    : "Принятие решений как поиск наилучших объяснений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109041111/",
-      "date"     : "2021-09-04 08:11:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Architecture decision record",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/architecture-decision-record/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
       "title"    : "Последствия падения ценности труда",
       "category" : "",
       "tags"     : "quotes",
@@ -598,6 +574,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108040757/",
       "date"     : "2021-08-04 04:57:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Architecture decision record",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/architecture-decision-record/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Domain driven design",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/domain-driven-design/",
+      "date"     : "2022-05-30 15:59:16 +0000"
     } ,
   
     {
@@ -1009,6 +1001,14 @@
     } ,
   
     {
+      "title"    : "Принятие решений как поиск наилучших объяснений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109041111/",
+      "date"     : "2021-09-04 08:11:00 +0000"
+    } ,
+  
+    {
       "title"    : "Научные теории сложно менять, потому что не зависят от культуры",
       "category" : "",
       "tags"     : "quotes",
@@ -1297,11 +1297,19 @@
     } ,
   
     {
+      "title"    : "Irreversibility as impossibility to distinguish",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109282306/",
+      "date"     : "2021-09-28 20:06:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -1534,14 +1542,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109282304/",
       "date"     : "2021-09-28 20:04:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Irreversibility as impossibility to distinguish",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109282306/",
-      "date"     : "2021-09-28 20:06:00 +0000"
     } ,
   
     {
@@ -1933,14 +1933,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/redukczionizm/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
       "date"     : "2021-10-26 06:11:20 +0000"
     } ,
   
@@ -3017,6 +3009,14 @@
     } ,
   
     {
+      "title"    : "Codebase a communication",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202205240925/",
+      "date"     : "2022-05-24 06:25:43 +0000"
+    } ,
+  
+    {
       "title"    : "Sour dough analogy to company culture",
       "category" : "",
       "tags"     : "quotes",
@@ -3030,6 +3030,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202205282136/",
       "date"     : "2022-05-28 18:36:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Python stdlib changes",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202205280939/",
+      "date"     : "2022-05-28 18:39:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Functional options are slow",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202205280946/",
+      "date"     : "2022-05-28 18:46:57 +0000"
     } ,
   
     {
@@ -3118,14 +3134,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202205300755/",
       "date"     : "2022-05-30 04:55:30 +0000"
-    } ,
-  
-    {
-      "title"    : "Domain driven design",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/domain-driven-design/",
-      "date"     : "2022-05-30 15:59:16 +0000"
     } ,
   
     {
@@ -3301,7 +3309,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } ,
   
     {
@@ -3318,22 +3326,6 @@
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
       "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Code",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/code/",
-      "date"     : "2023-02-11 09:23:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-02-12 13:29:12 +0000"
     } ,
   
     {
@@ -3398,6 +3390,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206090940/",
       "date"     : "2022-06-09 06:40:47 +0000"
+    } ,
+  
+    {
+      "title"    : "Активное обучение",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202206100908/",
+      "date"     : "2022-06-10 06:08:22 +0000"
     } ,
   
     {
@@ -3657,6 +3657,14 @@
     } ,
   
     {
+      "title"    : "500 mile email",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202206240853/",
+      "date"     : "2022-06-24 05:53:48 +0000"
+    } ,
+  
+    {
       "title"    : "Децентрилизация принятия решений не всесильна",
       "category" : "",
       "tags"     : "quotes",
@@ -3670,6 +3678,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206251202/",
       "date"     : "2022-06-25 09:02:44 +0000"
+    } ,
+  
+    {
+      "title"    : "Return error objects in python",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202206250340/",
+      "date"     : "2022-06-25 12:40:17 +0000"
     } ,
   
     {
@@ -3777,6 +3793,14 @@
     } ,
   
     {
+      "title"    : "Linear algebra guide",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202207030955/",
+      "date"     : "2022-07-03 18:55:46 +0000"
+    } ,
+  
+    {
       "title"    : "Пример согласованности политики и целей",
       "category" : "",
       "tags"     : "quotes",
@@ -3830,6 +3854,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207091134/",
       "date"     : "2022-07-09 08:34:33 +0000"
+    } ,
+  
+    {
+      "title"    : "3 секрета жизнестойких людей",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202207120821/",
+      "date"     : "2022-07-12 05:21:10 +0000"
     } ,
   
     {
@@ -3937,6 +3969,14 @@
     } ,
   
     {
+      "title"    : "Всё теперь подписка",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202207250801/",
+      "date"     : "2022-07-25 17:01:03 +0000"
+    } ,
+  
+    {
       "title"    : "Одна хорошая игра лучше, чем две отличные",
       "category" : "",
       "tags"     : "quotes",
@@ -3974,6 +4014,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202207311721/",
       "date"     : "2022-07-31 14:21:48 +0000"
+    } ,
+  
+    {
+      "title"    : "How Layoffs Work: Behind the scenes",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208010837/",
+      "date"     : "2022-08-01 05:37:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Why GNOME and GNOME 3 and Unity happened",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208020758/",
+      "date"     : "2022-08-02 04:58:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Nuclear energy is clean",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208020806/",
+      "date"     : "2022-08-02 05:06:34 +0000"
     } ,
   
     {
@@ -4033,11 +4097,43 @@
     } ,
   
     {
+      "title"    : "Why I built dictionary app",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208071121/",
+      "date"     : "2022-08-07 08:21:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Facebook decline",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208071129/",
+      "date"     : "2022-08-07 08:29:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Why is the Nuclear Power Industry Stagnant?",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208071137/",
+      "date"     : "2022-08-07 08:37:08 +0000"
+    } ,
+  
+    {
       "title"    : "Избранные статьи",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/shelves/articles/",
       "date"     : "2022-08-07 08:40:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Data and System Visualization Tools",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208070625/",
+      "date"     : "2022-08-07 15:25:34 +0000"
     } ,
   
     {
@@ -5121,6 +5217,22 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-02-12 13:29:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
       "title"    : "django",
       "category" : "",
       "tags"     : "",
@@ -5193,6 +5305,14 @@
     } ,
   
     {
+      "title"    : "Code",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/code/",
+      "date"     : "2023-02-11 09:23:35 +0000"
+    } ,
+  
+    {
       "title"    : "Структурирование заметок",
       "category" : "",
       "tags"     : "",
@@ -5201,11 +5321,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-02-12 13:29:37 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-02-12 13:29:12 +0000"
+      "date"     : "2023-02-12 13:29:37 +0000"
     } 
   
 ]
