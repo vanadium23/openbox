@@ -10,20 +10,20 @@
   
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Федиатрия | Chernov Open 📦</title>
+<title>Настройки pre-commit для python | Chernov Open 📦</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Федиатрия" />
+<meta property="og:title" content="Настройки pre-commit для python" />
 <meta property="og:locale" content="ru_RU" />
-<meta name="description" content="Книга направлена на два важных аспекта воспитания детей в первые полтора года жизни: тревожность родителей из-за понятия нормы в здравоохранение. организация здорового развития ребёнка в первую очередь физического, но и психологического." />
-<meta property="og:description" content="Книга направлена на два важных аспекта воспитания детей в первые полтора года жизни: тревожность родителей из-за понятия нормы в здравоохранение. организация здорового развития ребёнка в первую очередь физического, но и психологического." />
+<meta name="description" content="Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/" />
+<meta property="og:description" content="Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/" />
 <meta property="og:site_name" content="Chernov Open 📦" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-05-27T06:44:48+00:00" />
+<meta property="article:published_time" content="2022-05-23T09:39:56+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Федиатрия" />
+<meta property="twitter:title" content="Настройки pre-commit для python" />
 <meta name="twitter:site" content="@vanadium23" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-27T06:44:48+00:00","datePublished":"2022-05-27T06:44:48+00:00","description":"Книга направлена на два важных аспекта воспитания детей в первые полтора года жизни: тревожность родителей из-за понятия нормы в здравоохранение. организация здорового развития ребёнка в первую очередь физического, но и психологического.","headline":"Федиатрия","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/refs/fediatriya/"},"url":"/openbox/refs/fediatriya/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-23T09:39:56+00:00","datePublished":"2022-05-23T09:39:56+00:00","description":"Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/","headline":"Настройки pre-commit для python","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/articles/202205231239/"},"url":"/openbox/articles/202205231239/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -49,17 +49,17 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">Федиатрия</h1>
+    <h1 class="Heading-title">Настройки pre-commit для python</h1>
     <div class="Heading-additional">
       
-      <time datetime="2022-05-27T06:44:48+00:00">
-        Создано 2022-05-27
+      <time datetime="2022-05-23T09:39:56+00:00">
+        Создано 2022-05-23
         
       </time>&middot;
       
       
-      <time datetime="2022-06-02T06:22:51+00:00">
-        Обновлено 2022-06-02
+      <time datetime="2022-08-07T08:52:20+00:00">
+        Обновлено 2022-08-07
         
       </time>
       
@@ -68,45 +68,49 @@
 
   <div id="notes-entry-container">
     <content>
-      <p>Книга направлена на два важных аспекта воспитания детей в первые полтора года жизни:</p>
-<ol>
-  <li>тревожность родителей из-за понятия нормы в здравоохранение.</li>
-  <li>организация здорового развития ребёнка в первую очередь физического, но и психологического.</li>
-</ol>
+      <p>Link:: https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/</p>
 
-<p>В книге описаны наиболее частые проблемы со здоровьем, которые можно встретить на ранних этапах. Перечислены какие из них являются критическими для осмотра врачом, а с какими организму стоит разбираться самостоятельно.</p>
+<h2 id="заметки">Заметки</h2>
 
-<p>Главным материалом можно считать главу про прививки. Удивительно, сколько вакцин наделало человечество и сколько их надо успеть сделать в первый год жизни ребёнка. Часть из них производится только зарубежом.</p>
+<p>Пример настройки pre-commit для python:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">repos</span><span class="pi">:</span>
+<span class="pi">-</span>   <span class="na">repo</span><span class="pi">:</span> <span class="s">https://github.com/psf/black</span>
+    <span class="na">rev</span><span class="pi">:</span> <span class="s">stable</span>
+    <span class="na">hooks</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">black</span>
+      <span class="na">language_version</span><span class="pi">:</span> <span class="s">python3.6</span>
+<span class="pi">-</span>   <span class="na">repo</span><span class="pi">:</span> <span class="s">https://gitlab.com/pycqa/flake8</span>
+    <span class="na">rev</span><span class="pi">:</span> <span class="s">3.7.9</span>
+    <span class="na">hooks</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">id</span><span class="pi">:</span> <span class="s">flake8</span>
+</code></pre></div></div>
 
-<p>Ещё одним важным аспектом является организация быта. В первую очередь климат в доме, который должен быть в пределах 55% влажности и 18-20 градусов. Это сильно расходится с нормой в московских квартирах, в качестве первого решения идёт отказ от батарей зимой. Во-вторых, предоставлен перечень покупок перед рождением ребёнка, где пытаются объяснить почему не всё то, что рекламирует в реальности требуется ребёнку.</p>
+<p>Black:</p>
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[tool.black]</span>
+<span class="py">line-length</span> <span class="p">=</span> <span class="mi">79</span>
+<span class="py">include</span> <span class="p">=</span> <span class="s">'\.pyi?$'</span>
+<span class="py">exclude</span> <span class="p">=</span> <span class="s">'''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''</span>
+</code></pre></div></div>
 
-<p>В конце книги предоставлен перечень рекомендуемой литературы, которую можно поделить на три части:</p>
-<ol>
-  <li>воспитание детей</li>
-  <li>история медицины</li>
-  <li>дополнительные книги по здоровью ребёнка</li>
-</ol>
-
-<p>Итого книгу лучше держать под рукой как методичку, но перепроверять информацию на актуальность с выбранными врачом.</p>
-
-<h2 id="quotes">Quotes</h2>
-
-<ul>
-  <li><a href="/openbox/quotes/202205131050/">202205131050</a> Требуется ли вмешательство ребёнку?</li>
-  <li><a href="/openbox/quotes/202205131118/">202205131118</a> Письменный этикет при общении с врачом</li>
-  <li><a href="/openbox/quotes/202205131148/">202205131148</a> При походах к врачу лучше доверие, чем запрет эмоций</li>
-  <li><a href="/openbox/quotes/202205131151/">202205131151</a> Иногда лучше вообще не обращаться к врачу</li>
-  <li><a href="/openbox/quotes/202205131849/">202205131849</a> Успех успокоение зависит от собственного спокойствия</li>
-  <li><a href="/openbox/quotes/202205131852/">202205131852</a> Способ проверки одевания</li>
-  <li><a href="/openbox/quotes/202205141708/">202205141708</a> Ребёнку надо предлагать еду</li>
-</ul>
-
-<h2 id="tasks">Tasks</h2>
-
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />#task Обработать все выдержки из книги в рамках Zettels 📅 2022-05-29 ✅ 2022-05-29</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />#task Написать выдержку из книги 📅 2022-06-02 ✅ 2022-06-02</li>
-</ul>
+<p>Flake8:</p>
+<div class="language-ini highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[flake8]</span>
+<span class="py">ignore</span> <span class="p">=</span> <span class="s">E203, E266, E501, W503, F403, F401</span>
+<span class="py">max-line-length</span> <span class="p">=</span> <span class="s">79</span>
+<span class="py">max-complexity</span> <span class="p">=</span> <span class="s">18</span>
+<span class="py">select</span> <span class="p">=</span> <span class="s">B,C,E,F,W,T4,B9</span>
+</code></pre></div></div>
 
     </content>
 
@@ -116,17 +120,18 @@
       <div class="backlink-boxes">
       
         
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
+        <div class="backlink-box">
+        <a class="internal-link" href="/openbox/shelves/articles/">Избранные статьи</a><br>
+        <div>
+  
+    
+      Все сохранённые избранные статьи для чтения, включая опубликованные в [[Chernov sharit
+      Chernov sharit]].
+    
+  
+
+</div>
+        </div>
         
       
       </div>
