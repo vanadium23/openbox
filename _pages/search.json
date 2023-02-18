@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -37,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -45,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -905,6 +905,30 @@
     } ,
   
     {
+      "title"    : "Критерий Поппера для политики",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109041110/",
+      "date"     : "2021-09-04 08:10:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Творчество для репликации мемов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109091247/",
+      "date"     : "2021-09-09 09:47:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Star methology",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/star-methology/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Интересность мышления измеряется оставленными артефактами",
       "category" : "",
       "tags"     : "quotes",
@@ -918,14 +942,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108280855/",
       "date"     : "2021-08-28 05:55:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Star methology",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/star-methology/",
-      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -1017,14 +1033,6 @@
     } ,
   
     {
-      "title"    : "Критерий Поппера для политики",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109041110/",
-      "date"     : "2021-09-04 08:10:00 +0000"
-    } ,
-  
-    {
       "title"    : "Принятие решений как поиск наилучших объяснений",
       "category" : "",
       "tags"     : "quotes",
@@ -1110,14 +1118,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109091244/",
       "date"     : "2021-09-09 09:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Творчество для репликации мемов",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109091247/",
-      "date"     : "2021-09-09 09:47:00 +0000"
     } ,
   
     {
@@ -1329,11 +1329,11 @@
     } ,
   
     {
-      "title"    : "Метод Шерлока Холмса",
+      "title"    : "Метод совместного принятия решений",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201241924/",
-      "date"     : "2022-01-24 16:24:00 +0000"
+      "url"      : "/openbox/quotes/202208262152/",
+      "date"     : "2022-08-26 18:52:50 +0000"
     } ,
   
     {
@@ -1341,7 +1341,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -1937,6 +1937,14 @@
     } ,
   
     {
+      "title"    : "Layers for progressive summarization",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111061143/",
+      "date"     : "2021-11-06 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Prefer duplication over the wrong abstraction",
       "category" : "",
       "tags"     : "",
@@ -1945,19 +1953,11 @@
     } ,
   
     {
-      "title"    : "Correlation doesn’t imply causation",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -2054,14 +2054,6 @@
       "tags"     : "",
       "url"      : "/openbox/pragmatizm/",
       "date"     : "2021-11-02 11:40:24 +0000"
-    } ,
-  
-    {
-      "title"    : "Layers for progressive summarization",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111061143/",
-      "date"     : "2021-11-06 09:31:40 +0000"
     } ,
   
     {
@@ -2257,6 +2249,14 @@
     } ,
   
     {
+      "title"    : "Correlation doesn’t imply causation",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Excel",
       "category" : "",
       "tags"     : "",
@@ -2374,6 +2374,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201221220/",
       "date"     : "2022-01-22 09:20:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод Шерлока Холмса",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201241924/",
+      "date"     : "2022-01-24 16:24:00 +0000"
     } ,
   
     {
@@ -4593,14 +4601,6 @@
     } ,
   
     {
-      "title"    : "Метод совместного принятия решений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208262152/",
-      "date"     : "2022-08-26 18:52:50 +0000"
-    } ,
-  
-    {
       "title"    : "Разница планов в выяснение двух точек зрения",
       "category" : "",
       "tags"     : "quotes",
@@ -5361,11 +5361,27 @@
     } ,
   
     {
+      "title"    : "Optimized UnionFind",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301161147/",
+      "date"     : "2023-01-16 07:47:20 +0000"
+    } ,
+  
+    {
       "title"    : "Постановка привычки через слайдер затрат",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202301162101/",
       "date"     : "2023-01-16 17:01:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Find smallest string",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301191013/",
+      "date"     : "2023-01-19 06:13:24 +0000"
     } ,
   
     {
@@ -5525,7 +5541,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } ,
   
     {
@@ -5533,7 +5549,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-02-18 06:08:49 +0000"
+      "date"     : "2023-02-18 06:10:02 +0000"
     } 
   
 ]

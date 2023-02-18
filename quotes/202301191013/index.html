@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/svg+xml" href="/openbox/assets/open-cardboard-box.svg">
+  <link rel="stylesheet" href="/openbox/assets/css/base.css">
+
+  
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Find smallest string | Chernov Open 📦</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Find smallest string" />
+<meta property="og:locale" content="ru_RU" />
+<meta name="description" content="You are given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string." />
+<meta property="og:description" content="You are given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string." />
+<meta property="og:site_name" content="Chernov Open 📦" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-01-19T06:13:24+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Find smallest string" />
+<meta name="twitter:site" content="@vanadium23" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-01-19T06:13:24+00:00","datePublished":"2023-01-19T06:13:24+00:00","description":"You are given a string s, and an array of pairs of indices in the string pairs where pairs[i] = [a, b] indicates 2 indices(0-indexed) of the string.","headline":"Find smallest string","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/quotes/202301191013/"},"url":"/openbox/quotes/202301191013/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <nav class="u-background"><div class="u-wrapper Banner">
+    <a class="Banner-link u-clickable" href="/openbox/">
+        Chernov Open 📦
+    </a>
+    <ul class="Banner">
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/graph">Граф 🌐</a>
+            </li>
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/search">Поиск 🔍</a>
+            </li>
+        
+    </ul>
+</div>
+</nav>
+    <div class="container">
+      <main><article>
+  <header class="Heading">
+    <h1 class="Heading-title">Find smallest string</h1>
+    <div class="Heading-additional">
+      
+      <time datetime="2023-01-19T06:13:24+00:00">
+        Создано 2023-01-19
+        
+      </time>&middot;
+      
+      
+      <time datetime="2023-02-18T06:09:34+00:00">
+        Обновлено 2023-02-18
+        
+      </time>
+      
+    </div>
+  </header>
+
+  <div id="notes-entry-container">
+    <content>
+      <p>You are given a string <code class="language-plaintext highlighter-rouge">s</code>, and an array of pairs of indices in the string <code class="language-plaintext highlighter-rouge">pairs</code> where <code class="language-plaintext highlighter-rouge">pairs[i] = [a, b]</code> indicates 2 indices(0-indexed) of the string.</p>
+
+<p>You can swap the characters at any pair of indices in the given <code class="language-plaintext highlighter-rouge">pairs</code> <strong>any number of times</strong>.</p>
+
+<hr />
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">UnionFind</span><span class="p">:</span>
+    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">n</span><span class="p">):</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">size</span> <span class="o">=</span> <span class="n">n</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">parent</span> <span class="o">=</span> <span class="p">[</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">n</span><span class="p">)]</span>
+        
+    <span class="k">def</span> <span class="nf">find</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">u</span><span class="p">):</span>
+        <span class="k">if</span> <span class="n">u</span> <span class="o">!=</span> <span class="bp">self</span><span class="p">.</span><span class="n">parent</span><span class="p">[</span><span class="n">u</span><span class="p">]:</span>
+            <span class="bp">self</span><span class="p">.</span><span class="n">parent</span><span class="p">[</span><span class="n">u</span><span class="p">]</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="bp">self</span><span class="p">.</span><span class="n">parent</span><span class="p">[</span><span class="n">u</span><span class="p">])</span>  <span class="c1"># Path compression
+</span>        <span class="k">return</span> <span class="bp">self</span><span class="p">.</span><span class="n">parent</span><span class="p">[</span><span class="n">u</span><span class="p">]</span>
+    
+    <span class="k">def</span> <span class="nf">union</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">u</span><span class="p">,</span> <span class="n">v</span><span class="p">):</span>
+        <span class="n">pu</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="n">u</span><span class="p">)</span>
+        <span class="n">pv</span> <span class="o">=</span> <span class="bp">self</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="n">v</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">pu</span> <span class="o">==</span> <span class="n">pv</span><span class="p">:</span> <span class="k">return</span> <span class="bp">False</span>
+        <span class="bp">self</span><span class="p">.</span><span class="n">parent</span><span class="p">[</span><span class="n">pu</span><span class="p">]</span> <span class="o">=</span> <span class="n">pv</span>
+        <span class="k">return</span> <span class="bp">True</span>
+    
+    <span class="k">def</span> <span class="nf">getGroups</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="n">groups</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">list</span><span class="p">)</span>
+        <span class="k">for</span> <span class="n">u</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="bp">self</span><span class="p">.</span><span class="n">size</span><span class="p">):</span>
+            <span class="n">groups</span><span class="p">[</span><span class="bp">self</span><span class="p">.</span><span class="n">find</span><span class="p">(</span><span class="n">u</span><span class="p">)].</span><span class="n">append</span><span class="p">(</span><span class="n">u</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">groups</span><span class="p">.</span><span class="n">values</span><span class="p">()</span>
+        
+
+<span class="k">class</span> <span class="nc">Solution</span><span class="p">:</span>
+    <span class="k">def</span> <span class="nf">smallestStringWithSwaps</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">s</span><span class="p">:</span> <span class="nb">str</span><span class="p">,</span> <span class="n">pairs</span><span class="p">:</span> <span class="n">List</span><span class="p">[</span><span class="n">List</span><span class="p">[</span><span class="nb">int</span><span class="p">]])</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+        <span class="n">n</span><span class="p">,</span> <span class="n">m</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">),</span> <span class="nb">len</span><span class="p">(</span><span class="n">pairs</span><span class="p">)</span>
+        <span class="n">uf</span> <span class="o">=</span> <span class="n">UnionFind</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+        <span class="k">for</span> <span class="n">u</span><span class="p">,</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">pairs</span><span class="p">:</span>
+            <span class="n">uf</span><span class="p">.</span><span class="n">union</span><span class="p">(</span><span class="n">u</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span>
+            
+        <span class="n">groups</span> <span class="o">=</span> <span class="n">uf</span><span class="p">.</span><span class="n">getGroups</span><span class="p">()</span>
+        <span class="n">res</span> <span class="o">=</span> <span class="p">[</span><span class="s">'-'</span><span class="p">]</span> <span class="o">*</span> <span class="n">n</span>
+        <span class="k">for</span> <span class="n">group</span> <span class="ow">in</span> <span class="n">groups</span><span class="p">:</span>
+            <span class="n">chars</span> <span class="o">=</span> <span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">group</span><span class="p">]</span>
+            <span class="n">chars</span><span class="p">.</span><span class="n">sort</span><span class="p">()</span>
+            <span class="n">group</span><span class="p">.</span><span class="n">sort</span><span class="p">()</span>
+            <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">c</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">group</span><span class="p">,</span> <span class="n">chars</span><span class="p">):</span>
+                <span class="n">res</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+        <span class="k">return</span> <span class="s">""</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="n">res</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Link:: <span title="Note not found" class="invalid-link">[[Leetcode Detailed Graph]]</span></p>
+
+    </content>
+
+    
+  </div>
+</article>
+</main>
+      <footer></footer>
+    </div>
+
+    <!-- https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_includes/link-previews.html -->
+<!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+    content a.internal-link {
+        border-color: #8b88e6;
+        background-color: #efefff;
+    }
+
+    #tooltip-wrapper {
+        background: white;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        font-size: 0.8em;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        transition: opacity 100ms;
+    }
+
+    #tooltip-wrapper:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 90%);
+        width: 100%;
+        height: 75px;
+    }
+
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+    <div id='tooltip-content'>
+    </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+    const tooltipContentSelector = "main";
+    const tooltipLinksQuery = "main a";
+
+    var opacityTimeout;
+    var contentTimeout;
+    var transitionDurationMs = 100;
+
+    var iframe = document.getElementById('link-preview-iframe')
+    var tooltipWrapper = document.getElementById('tooltip-wrapper')
+    var tooltipContent = document.getElementById('tooltip-content')
+
+    function hideTooltip() {
+        opacityTimeout = setTimeout(function () {
+            tooltipWrapper.style.opacity = 0;
+            contentTimeout = setTimeout(function () {
+                tooltipContent.innerHTML = '';
+                tooltipWrapper.style.display = 'none';
+            }, transitionDurationMs + 1);
+        }, transitionDurationMs)
+    }
+
+    function showTooltip(event) {
+        var elem = event.target;
+        var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (event.target.host === window.location.host) {
+            iframe.src = event.target.href
+            iframe.onload = function () {
+                tooltipContentHtml = ''
+                tooltipContentHtml += iframe.contentWindow.document.querySelector(
+                    tooltipContentSelector
+                )?.innerHTML;
+
+                tooltipContent.innerHTML = tooltipContentHtml
+
+                tooltipWrapper.style.display = 'block';
+                setTimeout(function () {
+                    tooltipWrapper.style.opacity = 1;
+                }, 1)
+            }
+
+            tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+            if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+            } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+            }
+
+            if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = "10px";
+            } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+            }
+        }
+    }
+
+    function setupListeners(linkElement) {
+        linkElement.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+            showTooltip(event);
+        });
+
+        tooltipWrapper.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+        });
+    }
+
+    document.querySelectorAll(tooltipLinksQuery).forEach(setupListeners);
+</script>
+
+    <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  }, false);
+</script>
+    
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7507913639b540edbde55792995b90d8"}'></script><!-- End Cloudflare Web Analytics -->
+
+  </body>
+</html>
