@@ -1,5 +1,5 @@
 ---
-{"title":"linked list","dg-publish":true,"date":"2021-09-23T08:57:26+03:00","modified_at":"2023-01-27T17:51:11+04:00","alias":"linked list","permalink":"/linked-list/","dgPassFrontmatter":true}
+{"title":"linked list","dg-publish":true,"date":"2021-09-23T08:57:26+03:00","modified_at":"2023-01-27T17:51:11+04:00","permalink":"/linked-list/","dgPassFrontmatter":true}
 ---
 
 
