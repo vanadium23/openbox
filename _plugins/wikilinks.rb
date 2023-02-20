@@ -24,7 +24,8 @@ class WikiLinksConverter < Jekyll::Generator
         end
 
         all_docs.each do |note|
-            inline_matches = note.content.scan(WikiLinks::REGEX_WIKI_LINK_INLINES)
+            content = note.content.gsub(/```.+?```/m, "")
+            inline_matches = content.scan(WikiLinks::REGEX_WIKI_LINK_INLINES)
             if !inline_matches.nil? && inline_matches.size != 0
                 inline_matches.each do |wl_match|
                     filename = wl_match[0]
