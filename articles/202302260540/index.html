@@ -10,20 +10,20 @@
   
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Para | Chernov Open 📦</title>
+<title>Django for Startup Founders | Chernov Open 📦</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Para" />
+<meta property="og:title" content="Django for Startup Founders" />
 <meta property="og:locale" content="ru_RU" />
-<meta name="description" content="P.A.R.A. - это метод придуманный Tiago Forte для иерархии своих заметок." />
-<meta property="og:description" content="P.A.R.A. - это метод придуманный Tiago Forte для иерархии своих заметок." />
+<meta name="description" content="Статья рассказывает о выработанных подходах к написанию приложений с [[django]] и [[drf]], чтобы было удобно поддерживать SaaS приложение вместе с фронтендом на SPA." />
+<meta property="og:description" content="Статья рассказывает о выработанных подходах к написанию приложений с [[django]] и [[drf]], чтобы было удобно поддерживать SaaS приложение вместе с фронтендом на SPA." />
 <meta property="og:site_name" content="Chernov Open 📦" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-02-26T14:01:58+00:00" />
+<meta property="article:published_time" content="2023-02-26T13:40:12+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Para" />
+<meta property="twitter:title" content="Django for Startup Founders" />
 <meta name="twitter:site" content="@vanadium23" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-26T14:01:58+00:00","datePublished":"2023-02-26T14:01:58+00:00","description":"P.A.R.A. - это метод придуманный Tiago Forte для иерархии своих заметок.","headline":"Para","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/para/"},"url":"/openbox/para/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-26T13:40:12+00:00","datePublished":"2023-02-26T13:40:12+00:00","description":"Статья рассказывает о выработанных подходах к написанию приложений с [[django]] и [[drf]], чтобы было удобно поддерживать SaaS приложение вместе с фронтендом на SPA.","headline":"Django for Startup Founders","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/articles/202302260540/"},"url":"/openbox/articles/202302260540/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -49,83 +49,63 @@
     <div class="container">
       <main><article>
   <header class="Heading">
-    <h1 class="Heading-title">Para</h1>
+    <h1 class="Heading-title">Django for Startup Founders</h1>
     <div class="Heading-additional">
       
-      <time datetime="2023-02-26T14:01:58+00:00">
+      <time datetime="2023-02-26T13:40:12+00:00">
         Создано 2023-02-26
         
       </time>&middot;
       
+      
+      <time datetime="2023-02-26T14:01:16+00:00">
+        Обновлено 2023-02-26
+        
+      </time>
       
     </div>
   </header>
 
   <div id="notes-entry-container">
     <content>
-      <p>P.A.R.A. - это метод придуманный Tiago Forte для иерархии своих заметок.</p>
+      <p>Статья рассказывает о выработанных подходах к написанию приложений с <a href="/openbox/django/">django</a> и <span title="Note not found" class="invalid-link">[[drf]]</span>, чтобы было удобно поддерживать SaaS приложение вместе с фронтендом на SPA.</p>
 
-<p>Название является акронимом по первым буквам корневых папок:</p>
+<p><strong>TL;DR</strong>:</p>
 <ul>
-  <li>Projects, в которой лежат все текущие проекты с горизонтом планирования в неделю-месяц-квартал-полгода.</li>
-  <li>Areas,  в которой лежат все текущие вещи, которые мне необходимо развивать и поддерживать.</li>
-  <li>Resources, которая является базой знаний.</li>
-  <li>Archive.</li>
+  <li>писать везде в одинаковом стиле, что подразумевает
+    <ul>
+      <li>соблюдение одинаковой логики во всех views</li>
+      <li>вынесение переиспользуемых сервисов</li>
+      <li>выработка правил по именованию файлов</li>
+    </ul>
+  </li>
+  <li>не сильно упарываться с деклатаривным подходом в сериализаторах и generic views</li>
+  <li>покрывать это всё тестами</li>
+  <li>сделать это поддерживаемым с точки зрения апгрейдов</li>
 </ul>
 
-<p>В дальнейшем это проект вырос в концепцию <a href="/openbox/building-a-second-brain/">building a second brain</a>.</p>
+<hr />
+
+<p>Rule #12: Write tests. Not too many. Mostly integration:</p>
+<ul>
+  <li>Permissions — Always test the permissions for each endpoint. For example, if a view should only allow authenticated users, the first test should be ensuring that the endpoint throws an error for unauthenticated users.</li>
+  <li>Validation errors — Have one test for each validation error. For example, if a username can’t be more than 15 characters, test that it returns the correct error message. Also test multiple validation errors at once to ensure that the error messages are aggregated correctly.</li>
+  <li>Business requirement errors — Have at least one test that triggers each business requirement error. For example, if an endpoint requires that a user’s account be at least two weeks old to submit content, have a test for that.</li>
+  <li>Success conditions — Have at least one test for each way you can call an endpoint and receive an HTTP 2xx or 3xx response.</li>
+</ul>
+
+<p>Rule #10: There are exactly 4 types of errors:</p>
+<ul>
+  <li>Upstream errors: Errors that happen upstream of our user code, e.g. in the authentication package we’re using, or in our other middleware. The main thing to know about these errors is that you should leave them alone. Don’t try to rewrite errors from upstream middleware to make them look like the kind of errors we throw in our user code, because that will make it very difficult to update our external dependencies later.</li>
+  <li>Validation errors: Errors that occur when a user has permission to access an endpoint, but they supply syntactically invalid input. For example, if they enter a username longer than the maximum allowed length or don’t enter an email address.</li>
+  <li>Business requirement errors: Errors that occur when a user has permission to access an endpoint and they enter input in the correct format, but there are business requirements that prevent us from doing the thing they want. For example, if there is a business requirement to not allow users to access private information belonging to other users, or to not allow users to create multiple accounts using the same email address, then these would be business requirements errors. Return the first business requirement error that occurs, there is no need to check for or return multiple errors. The <code class="language-plaintext highlighter-rouge">internal_error_code</code> is a unique 5-digit number associated with each business logic error, whose first three digits are always the same as the HTTP status code. The idea is that developers looking at errors returned to the front end can use this unique number to quickly Command-Shift-F to find the exact line in the backend where the error is raised, which eliminates the time that would otherwise be wasted trying to figure out where in the backend an error is occurring.</li>
+  <li>500 errors: Errors that happen when your application randomly bombs out due to a bug in the code. Just let these happen, don’t try to catch them and re-raise them as other types of error because it’s important to be able to find these errors when (and where) they’re happening in whatever APM software you’re using to monitor the health of your application.</li>
+</ul>
+
+<p>Link:: https://alexkrupp.typepad.com/sensemaking/2021/06/django-for-startup-founders-a-better-software-architecture-for-saas-startups-and-consumer-apps.html</p>
 
     </content>
 
-    
-    <side class="backlink">
-      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
-      <div class="backlink-boxes">
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/vedenie-zametok/">Ведение заметок</a><br>
-        <div>Для начала стоит определиться с целью ведения заметок. Она может быть персональная в виде сохранения...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/kakie-zametki-u-vas-dolzhny-byt/">какие заметки у вас должны быть</a><br>
-        <div>В заметки можно положить любую мысль, которая зацепила. Это может быть дословная цитата, её осмысление...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/books/building-a-second-brain-book/">Building a Second Brain Book</a><br>
-        <div>В общем, книга является компиляцией статей из блога по его подходам: [[CODE]], [[PARA]]; которые перетекают...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/building-a-second-brain/">Building a second brain</a><br>
-        <div>Общая методология по [[ведение заметок ведению заметок]] от Тиаго Форте. Она способствует повышению креативности с...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/code/">Code</a><br>
-        <div>CODE - это одна из практик в рамках подхода [[building a second brain]]. Это акроним...</div>
-        </div>
-        
-      
-        
-        <div class="backlink-box">
-        <a class="internal-link" href="/openbox/strukturirovanie-zametok/">Структурирование заметок</a><br>
-        <div>Структурирование заметок дело неблагодарное. Поиск по ключевым словам может быть эффективнее. Есть теги, есть папки,...</div>
-        </div>
-        
-      
-      </div>
-    </side>
     
   </div>
 </article>
