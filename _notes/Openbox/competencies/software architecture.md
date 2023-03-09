@@ -12,8 +12,9 @@
 
 ### Книги
 
-| File                                                                                         | status  | file.cday  | finish_date | книгодни         |
-| -------------------------------------------------------------------------------------------- | ------- | ---------- | ----------- | ---------------- |
+| File                                                                                          | status  | file.cday  | finish_date | книгодни         |
+| --------------------------------------------------------------------------------------------- | ------- | ---------- | ----------- | ---------------- |
+| [[Art of Scalability\|Art of Scalability]]                                   | Todo    | 2023-02-13 | \-          | \-               |
 | [[Building Evolutionary Architectures\|Building Evolutionary Architectures]] | Waiting | 2023-01-14 | 2023-01-03  | 4 months, 5 days |
 
 
