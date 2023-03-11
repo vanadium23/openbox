@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-03-11 06:08:11 +0000"
+      "date"     : "2023-03-11 17:00:55 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-03-11 06:08:11 +0000"
+      "date"     : "2023-03-11 17:00:55 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-03-11 06:08:11 +0000"
+      "date"     : "2023-03-11 17:00:55 +0000"
     } ,
   
     {
@@ -1369,14 +1369,6 @@
     } ,
   
     {
-      "title"    : "Закрытые чатики это не плохо",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Заметки должны быть сильносвязаны между собой",
       "category" : "",
       "tags"     : "",
@@ -1389,6 +1381,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Как повысить любопытство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -2153,22 +2153,6 @@
     } ,
   
     {
-      "title"    : "Как преодолеть противоречия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Объяснение причин",
       "category" : "",
       "tags"     : "",
@@ -2321,6 +2305,14 @@
     } ,
   
     {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -2465,14 +2457,6 @@
     } ,
   
     {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -2509,6 +2493,14 @@
       "category" : "book",
       "tags"     : "books",
       "url"      : "/openbox/books/mesyacz-pod-zvyozdami-fantazii/",
+      "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Вести дневник",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
     } ,
   
@@ -3057,14 +3049,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-03-11 06:08:11 +0000"
-    } ,
-  
-    {
       "title"    : "Бесконечная регрессия",
       "category" : "",
       "tags"     : "",
@@ -3286,6 +3270,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202205300755/",
       "date"     : "2022-05-30 04:55:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Domain driven design",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/domain-driven-design/",
+      "date"     : "2022-05-30 15:59:16 +0000"
     } ,
   
     {
@@ -3926,6 +3918,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206261151/",
       "date"     : "2022-06-26 08:51:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные для заметок проектов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
+      "date"     : "2022-06-26 18:41:21 +0000"
     } ,
   
     {
@@ -4961,6 +4961,70 @@
     } ,
   
     {
+      "title"    : "Сп профессиональный рост",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/sp-professionalnyj-rost/",
+      "date"     : "2022-09-03 14:02:48 +0000"
+    } ,
+  
+    {
+      "title"    : "Leetcode detailed graph",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/leetcode-detailed-graph/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-03-11 17:00:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-03-11 17:00:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Закрытые чатики это не плохо",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Как преодолеть противоречия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
       "title"    : "Capability of evolutionary architecture",
       "category" : "",
       "tags"     : "quotes",
@@ -5001,22 +5065,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-03-11 06:08:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Как повысить любопытство",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "An architectural fitness function",
       "category" : "",
       "tags"     : "quotes",
@@ -5049,11 +5097,11 @@
     } ,
   
     {
-      "title"    : "Сп профессиональный рост",
+      "title"    : "Не будь плюшкиным",
       "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/sp-professionalnyj-rost/",
-      "date"     : "2022-09-03 14:02:48 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-03-11 17:00:55 +0000"
     } ,
   
     {
@@ -5094,14 +5142,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209032200/",
       "date"     : "2022-09-03 19:00:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-03-11 06:08:11 +0000"
     } ,
   
     {
@@ -5369,14 +5409,6 @@
     } ,
   
     {
-      "title"    : "Leetcode detailed graph",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/leetcode-detailed-graph/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Digital garden",
       "category" : "",
       "tags"     : "",
@@ -5601,6 +5633,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-03-11 17:00:55 +0000"
+    } ,
+  
+    {
       "title"    : "Building a second brain",
       "category" : "",
       "tags"     : "",
@@ -5630,14 +5670,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202302120559/",
       "date"     : "2023-02-12 13:59:29 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-03-11 06:08:11 +0000"
     } ,
   
     {
@@ -5721,43 +5753,19 @@
     } ,
   
     {
+      "title"    : "Развитие ребёнка by петрановская",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/articles/razvitie-rebyonka-by-petranovskaya/",
+      "date"     : "2023-03-11 07:13:36 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-03-11 06:08:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Вести дневник",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vesti-dnevnik/",
-      "date"     : "2022-04-03 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Domain driven design",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/domain-driven-design/",
-      "date"     : "2022-05-30 15:59:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные для заметок проектов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
-      "date"     : "2022-06-26 18:41:21 +0000"
+      "date"     : "2023-03-11 17:00:55 +0000"
     } ,
   
     {
@@ -5765,7 +5773,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-03-11 06:08:11 +0000"
+      "date"     : "2023-03-11 17:00:55 +0000"
     } 
   
 ]
