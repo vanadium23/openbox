@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-03-11 05:47:04 +0000"
+      "date"     : "2023-03-11 05:48:22 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-03-11 05:47:04 +0000"
+      "date"     : "2023-03-11 05:48:22 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-03-11 05:47:04 +0000"
+      "date"     : "2023-03-11 05:48:22 +0000"
     } ,
   
     {
@@ -49,6 +49,14 @@
     } ,
   
     {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "2021 05 07 slack   не email",
       "category" : "",
       "tags"     : "",
@@ -73,19 +81,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-03-11 05:47:04 +0000"
-    } ,
-  
-    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-03-11 05:47:04 +0000"
+      "date"     : "2023-03-11 05:48:22 +0000"
     } ,
   
     {
@@ -833,6 +833,14 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-03-11 05:48:22 +0000"
+    } ,
+  
+    {
       "title"    : "Необходимо проверять непротиворечивость информации",
       "category" : "",
       "tags"     : "quotes",
@@ -1377,6 +1385,14 @@
     } ,
   
     {
+      "title"    : "Закрытые чатики это не плохо",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Заметки должны быть сильносвязаны между собой",
       "category" : "",
       "tags"     : "",
@@ -1389,6 +1405,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Как повысить любопытство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -3545,14 +3569,6 @@
     } ,
   
     {
-      "title"    : "эффект Расёмона",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206081006/",
-      "date"     : "2022-06-08 07:06:15 +0000"
-    } ,
-  
-    {
       "title"    : "2022 06 09 итерация на рост, итерация на прибыльность",
       "category" : "",
       "tags"     : "",
@@ -3582,6 +3598,14 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202206100908/",
       "date"     : "2022-06-10 06:08:22 +0000"
+    } ,
+  
+    {
+      "title"    : "эффект Расёмона",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206081006/",
+      "date"     : "2022-06-08 07:06:15 +0000"
     } ,
   
     {
@@ -4969,6 +4993,134 @@
     } ,
   
     {
+      "title"    : "Сп профессиональный рост",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/sp-professionalnyj-rost/",
+      "date"     : "2022-09-03 14:02:48 +0000"
+    } ,
+  
+    {
+      "title"    : "Ackoff&#39;s best",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/ackoff-s-best/",
+      "date"     : "2022-12-12 06:46:53 +0000"
+    } ,
+  
+    {
+      "title"    : "Rename to rebuild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rename-to-rebuild/",
+      "date"     : "2023-01-03 07:54:07 +0000"
+    } ,
+  
+    {
+      "title"    : "Leetcode detailed graph",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/leetcode-detailed-graph/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian command center",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-command-center/",
+      "date"     : "2023-01-15 07:54:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Важно то, чем занимаешься каждый день",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vazhno-to-chem-zanimaeshsya-kazhdyj-den/",
+      "date"     : "2023-01-15 16:34:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод опорных векторов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metod-opornyh-vektorov/",
+      "date"     : "2023-01-22 12:53:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Список платёжных систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
+      "date"     : "2023-01-25 06:58:38 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 01 26 идеи черновиков",
+      "category" : "",
+      "tags"     : "chernov_sharit",
+      "url"      : "/openbox/chernov-sharit/2023-01-26-idei-chernovikov/",
+      "date"     : "2023-01-26 16:35:17 +0000"
+    } ,
+  
+    {
+      "title"    : "django",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/django/",
+      "date"     : "2023-01-27 13:40:44 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 01 27 воскресная уборка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
+      "date"     : "2023-01-27 16:03:37 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 02 06 проблема ttm",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-02-06-problema-ttm/",
+      "date"     : "2023-02-06 17:21:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-03-11 05:48:22 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 02 26 плюс минус уровень",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-02-26-plyus-minus-uroven/",
+      "date"     : "2023-02-06 17:21:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-03-11 05:48:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-03-11 05:48:22 +0000"
+    } ,
+  
+    {
       "title"    : "Architects must determine the most important -ilities.",
       "category" : "",
       "tags"     : "quotes",
@@ -4990,30 +5142,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209022228/",
       "date"     : "2022-09-02 19:28:30 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-03-11 05:47:04 +0000"
-    } ,
-  
-    {
-      "title"    : "Закрытые чатики это не плохо",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Как повысить любопытство",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-povysit-lyubopytstvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -5081,27 +5209,11 @@
     } ,
   
     {
-      "title"    : "Сп профессиональный рост",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/sp-professionalnyj-rost/",
-      "date"     : "2022-09-03 14:02:48 +0000"
-    } ,
-  
-    {
       "title"    : "Version Services Internally",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209032145/",
       "date"     : "2022-09-03 18:45:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-03-11 05:47:04 +0000"
     } ,
   
     {
@@ -5289,14 +5401,6 @@
     } ,
   
     {
-      "title"    : "Ackoff&#39;s best",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/ackoff-s-best/",
-      "date"     : "2022-12-12 06:46:53 +0000"
-    } ,
-  
-    {
       "title"    : "Need less layer between running code and developer",
       "category" : "",
       "tags"     : "quotes",
@@ -5342,14 +5446,6 @@
       "tags"     : "",
       "url"      : "/openbox/dekompozicziya-monolita/",
       "date"     : "2023-01-03 07:38:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Rename to rebuild",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/rename-to-rebuild/",
-      "date"     : "2023-01-03 07:54:07 +0000"
     } ,
   
     {
@@ -5401,14 +5497,6 @@
     } ,
   
     {
-      "title"    : "Leetcode detailed graph",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/leetcode-detailed-graph/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Digital garden",
       "category" : "",
       "tags"     : "",
@@ -5438,22 +5526,6 @@
       "tags"     : "",
       "url"      : "/openbox/ssh/",
       "date"     : "2023-01-14 11:47:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian command center",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-command-center/",
-      "date"     : "2023-01-15 07:54:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Важно то, чем занимаешься каждый день",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vazhno-to-chem-zanimaeshsya-kazhdyj-den/",
-      "date"     : "2023-01-15 16:34:43 +0000"
     } ,
   
     {
@@ -5497,14 +5569,6 @@
     } ,
   
     {
-      "title"    : "Метод опорных векторов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metod-opornyh-vektorov/",
-      "date"     : "2023-01-22 12:53:19 +0000"
-    } ,
-  
-    {
       "title"    : "15 лет построения персональной wiki",
       "category" : "",
       "tags"     : "quotes",
@@ -5521,43 +5585,11 @@
     } ,
   
     {
-      "title"    : "Список платёжных систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
-      "date"     : "2023-01-25 06:58:38 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 01 26 идеи черновиков",
-      "category" : "",
-      "tags"     : "chernov_sharit",
-      "url"      : "/openbox/chernov-sharit/2023-01-26-idei-chernovikov/",
-      "date"     : "2023-01-26 16:35:17 +0000"
-    } ,
-  
-    {
       "title"    : "Building a Second Brain Book",
       "category" : "book",
       "tags"     : "books",
       "url"      : "/openbox/books/building-a-second-brain-book/",
       "date"     : "2023-01-26 17:14:59 +0000"
-    } ,
-  
-    {
-      "title"    : "django",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/django/",
-      "date"     : "2023-01-27 13:40:44 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 01 27 воскресная уборка",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-01-27-voskresnaya-uborka/",
-      "date"     : "2023-01-27 16:03:37 +0000"
     } ,
   
     {
@@ -5606,22 +5638,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302061404/",
       "date"     : "2023-02-06 10:04:10 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 02 06 проблема ttm",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-02-06-problema-ttm/",
-      "date"     : "2023-02-06 17:21:30 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 02 26 плюс минус уровень",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-02-26-plyus-minus-uroven/",
-      "date"     : "2023-02-06 17:21:30 +0000"
     } ,
   
     {
@@ -5737,19 +5753,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-03-11 05:47:04 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-03-11 05:47:04 +0000"
+      "date"     : "2023-03-11 05:48:22 +0000"
     } 
   
 ]
