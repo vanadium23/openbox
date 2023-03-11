@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -69,7 +69,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -1361,18 +1361,18 @@
     } ,
   
     {
-      "title"    : "Закрытые чатики это не плохо",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Заметки должны быть сильносвязаны между собой",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Зачем нужно творчество",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -2049,6 +2049,14 @@
     } ,
   
     {
+      "title"    : "Состояние потока",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sostoyanie-potoka/",
+      "date"     : "2021-11-07 08:28:06 +0000"
+    } ,
+  
+    {
       "title"    : "Status for ADRs",
       "category" : "",
       "tags"     : "quotes",
@@ -2149,14 +2157,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Объяснение причин",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obyasnenie-prichin/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2473,14 +2473,6 @@
     } ,
   
     {
-      "title"    : "Сигмоида как функция развития",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
-      "date"     : "2022-01-30 17:55:04 +0000"
-    } ,
-  
-    {
       "title"    : "Правила качественной коммуникации",
       "category" : "",
       "tags"     : "",
@@ -2493,7 +2485,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-03-20-nastrojki-tajmautov/",
-      "date"     : "2022-03-20 15:05:40 +0000"
+      "date"     : "2022-03-20 09:31:40 +0000"
     } ,
   
     {
@@ -2510,6 +2502,14 @@
       "tags"     : "",
       "url"      : "/openbox/vesti-dnevnik/",
       "date"     : "2022-04-03 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "2022 04 06 как вести несколько календарей",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2022-04-06-kak-vesti-neskolko-kalendarej/",
+      "date"     : "2022-04-06 09:31:40 +0000"
     } ,
   
     {
@@ -3477,14 +3477,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
-      "date"     : "2022-06-06 07:27:11 +0000"
-    } ,
-  
-    {
-      "title"    : "Чеклист интеграции внешних систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
       "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
@@ -4977,6 +4969,14 @@
     } ,
   
     {
+      "title"    : "Leetcode detailed graph",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/leetcode-detailed-graph/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Boundaries depends on the purpose of the discussion",
       "category" : "",
       "tags"     : "quotes",
@@ -5005,15 +5005,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
-      "title"    : "Состояние потока",
+      "title"    : "Закрытые чатики это не плохо",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/sostoyanie-potoka/",
-      "date"     : "2021-11-07 08:28:06 +0000"
+      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -5089,14 +5089,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-03-11 05:44:04 +0000"
-    } ,
-  
-    {
       "title"    : "Discover conflicts early for better decisions",
       "category" : "",
       "tags"     : "quotes",
@@ -5110,6 +5102,14 @@
       "tags"     : "competencies, skills, disciplines",
       "url"      : "/openbox/competencies/software-engineering/",
       "date"     : "2022-09-05 07:04:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -5369,14 +5369,6 @@
     } ,
   
     {
-      "title"    : "Leetcode detailed graph",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/leetcode-detailed-graph/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Digital garden",
       "category" : "",
       "tags"     : "",
@@ -5593,22 +5585,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-03-11 05:44:04 +0000"
-    } ,
-  
-    {
-      "title"    : "Зачем нужно творчество",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Makefile",
       "category" : "",
       "tags"     : "",
@@ -5630,6 +5606,38 @@
       "tags"     : "",
       "url"      : "/openbox/code/",
       "date"     : "2023-02-11 09:23:35 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-03-11 05:45:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснение причин",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obyasnenie-prichin/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Сигмоида как функция развития",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
+      "date"     : "2022-01-30 17:55:04 +0000"
+    } ,
+  
+    {
+      "title"    : "Чеклист интеграции внешних систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-integraczii-vneshnih-sistem/",
+      "date"     : "2022-06-06 07:27:11 +0000"
     } ,
   
     {
@@ -5725,7 +5733,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } ,
   
     {
@@ -5733,7 +5741,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-03-11 05:44:04 +0000"
+      "date"     : "2023-03-11 05:45:16 +0000"
     } 
   
 ]
