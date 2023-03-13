@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -49,10 +49,18 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-03-13 16:36:21 +0000"
+    } ,
+  
+    {
       "title"    : "Шаги ненасильственного общения",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301092011/",
+      "url"      : "/openbox/quotes/202101112011/",
       "date"     : "2021-01-11 16:11:06 +0000"
     } ,
   
@@ -1478,6 +1486,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231045/",
       "date"     : "2021-09-23 07:45:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Находить правду в статистике",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231048/",
+      "date"     : "2021-09-23 07:48:00 +0000"
     } ,
   
     {
@@ -3377,22 +3393,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-03-12 10:56:51 +0000"
-    } ,
-  
-    {
-      "title"    : "Находить правду в статистике",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231048/",
-      "date"     : "2021-09-23 07:48:00 +0000"
-    } ,
-  
-    {
       "title"    : "Css snippets",
       "category" : "",
       "tags"     : "",
@@ -5053,7 +5053,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -5093,7 +5093,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -5669,7 +5669,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -5765,7 +5765,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } ,
   
     {
@@ -5789,7 +5789,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-03-12 10:56:51 +0000"
+      "date"     : "2023-03-13 16:36:21 +0000"
     } 
   
 ]
