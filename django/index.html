@@ -58,8 +58,8 @@
       </time>&middot;
       
       
-      <time datetime="2023-02-02T13:57:47+00:00">
-        Обновлено 2023-02-02
+      <time datetime="2023-03-19T06:02:44+00:00">
+        Обновлено 2023-03-19
         
       </time>
       
@@ -110,6 +110,18 @@
         <span class="p">)</span>
         <span class="k">return</span> <span class="n">TemplateResponse</span><span class="p">(</span><span class="n">request</span><span class="p">,</span> <span class="s">"sometemplate.html"</span><span class="p">,</span> <span class="n">context</span><span class="p">)</span>
 </code></pre></div></div>
+
+<h2 id="переводы">Переводы</h2>
+
+<p>Переводы в django сделаны с помощью библиотеки gnu gettext. С помощью команд <code class="language-plaintext highlighter-rouge">makemessages</code> собираются все переводы в файл <code class="language-plaintext highlighter-rouge">locale/{locale}/LC_MESSAGES/django.po</code>. Компания <code class="language-plaintext highlighter-rouge">compilemessages</code> генерируют из .po файлы .mo.</p>
+
+<p>Для редактирования переводов в случае монолита удобно использоваться django-rosetta. В случае компании и нескольких проектов себя зарекомендовал weblate. Основная засада в том, как переводить сущности в базе. Есть modeltranslations, но масштабируется на десяток языков так себе.</p>
+
+<blockquote>
+  <p>[!WARNING]
+При переезде дефолтного языка <code class="language-plaintext highlighter-rouge">settings.LANGUAGE_CODE</code> необходимо убедиться, что для старого языка есть файл переводов.</p>
+
+</blockquote>
 
     </content>
 
