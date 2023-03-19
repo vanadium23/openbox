@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-02-02T17:57:47+04:00","title":"django","permalink":"/django/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-01-27T17:40:44+04:00","modified_at":"2023-03-19T10:02:44+04:00","title":"django","permalink":"/django/","dgPassFrontmatter":true}
 ---
 
 
@@ -47,3 +47,13 @@ class MyModelAdmin(admin.ModelAdmin):
         )
         return TemplateResponse(request, "sometemplate.html", context)
 ```
+
+## Переводы
+
+Переводы в django сделаны с помощью библиотеки gnu gettext. С помощью команд `makemessages` собираются все переводы в файл `locale/{locale}/LC_MESSAGES/django.po`. Компания `compilemessages` генерируют из .po файлы .mo.
+
+Для редактирования переводов в случае монолита удобно использоваться django-rosetta. В случае компании и нескольких проектов себя зарекомендовал weblate. Основная засада в том, как переводить сущности в базе. Есть modeltranslations, но масштабируется на десяток языков так себе.
+
+>[!WARNING]
+> При переезде дефолтного языка `settings.LANGUAGE_CODE` необходимо убедиться, что для старого языка есть файл переводов.
+> 
