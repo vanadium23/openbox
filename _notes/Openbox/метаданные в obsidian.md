@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-03-26T13:52:58+04:00","modified_at":"2023-03-26T14:19:18+04:00","permalink":"/metadannye-v-obsidian/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-03-26T13:52:58+04:00","modified_at":"2023-03-26T14:19:47+04:00","permalink":"/metadannye-v-obsidian/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,4 @@
 
 ### Ещё примеры
 
-- [[202303210958|Front matter в callout]]
+- [[202303210958|Front matter в callout из чата Zettelkasten]]
