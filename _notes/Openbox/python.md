@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-02-05T11:57:23+04:00","permalink":"/python/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-03-27T11:47:02+04:00","permalink":"/python/","dgPassFrontmatter":true}
 ---
 
 
@@ -43,6 +43,18 @@ while work:
         return result
     work.push(result.pieces[0])
     work.push(result.pieces[1])
+```
+
+Случайная строка:
+```python
+import random
+import string
+
+def get_random_string(length):
+    # choose from all lowercase letter
+    letters = string.ascii_lowercase
+    result_str = ''.join(random.choice(letters) for i in range(length))
+    return result_str
 ```
 
 ## Типовые структуры данных
