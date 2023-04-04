@@ -17,8 +17,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       - uses: helaili/jekyll-action@2.3.1
-        env:
-          TELEGRAM_PUBLISHER_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           jekyll_build_options: --config _config.yml,_config.github.yml

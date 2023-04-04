@@ -48,13 +48,6 @@ nav:
 quotes:
   exclude_categories: ["book"]
 
-telegram_publisher:
-  # api_token: ''
-  chat_id: '112776829'
-  published_timedelta: 60
-  tags:
-    - chernov_sharit
-
 
 # Check if the settings is necessary
 permalink:           pretty
