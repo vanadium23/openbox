@@ -5,15 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-04-08 11:00:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Para",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/para/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "date"     : "2023-04-09 14:23:06 +0000"
     } ,
   
     {
@@ -21,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "date"     : "2023-04-09 14:23:06 +0000"
     } ,
   
     {
@@ -49,19 +41,19 @@
     } ,
   
     {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "date"     : "2023-04-09 14:23:06 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-04-09 14:23:06 +0000"
     } ,
   
     {
@@ -182,6 +174,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -1321,14 +1321,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-04-08 11:00:07 +0000"
-    } ,
-  
-    {
       "title"    : "Источники вдохновения для книги",
       "category" : "",
       "tags"     : "quotes",
@@ -1550,38 +1542,6 @@
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Excel",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/excel/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "2022 04 06 как вести несколько календарей",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2022-04-06-kak-vesti-neskolko-kalendarej/",
-      "date"     : "2022-04-06 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-04-08 11:00:07 +0000"
     } ,
   
     {
@@ -1849,14 +1809,6 @@
     } ,
   
     {
-      "title"    : "Шпаргалка - как не перегрузить",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041111/",
-      "date"     : "2021-10-04 08:11:00 +0000"
-    } ,
-  
-    {
       "title"    : "Читать вслух для хороших предложений",
       "category" : "",
       "tags"     : "quotes",
@@ -2006,6 +1958,14 @@
       "tags"     : "",
       "url"      : "/openbox/map-of-content/",
       "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Para",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/para/",
+      "date"     : "2023-04-09 14:23:06 +0000"
     } ,
   
     {
@@ -2449,6 +2409,14 @@
     } ,
   
     {
+      "title"    : "Excel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/excel/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Invert model",
       "category" : "",
       "tags"     : "",
@@ -2649,6 +2617,14 @@
     } ,
   
     {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -2705,11 +2681,27 @@
     } ,
   
     {
+      "title"    : "2022 04 06 как вести несколько календарей",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2022-04-06-kak-vesti-neskolko-kalendarej/",
+      "date"     : "2022-04-06 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "How to make sense of any mess",
       "category" : "book",
       "tags"     : "books",
       "url"      : "/openbox/books/how-to-make-sense-of-any-mess/",
       "date"     : "2022-04-16 15:53:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Шпаргалка - как не перегрузить",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041111/",
+      "date"     : "2021-10-04 08:11:00 +0000"
     } ,
   
     {
@@ -3649,19 +3641,27 @@
     } ,
   
     {
-      "title"    : "Организация удалённой работы",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Архитектура сервиса",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/arhitektura-servisa/",
       "date"     : "2022-06-06 07:27:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-04-09 14:23:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Организация удалённой работы",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -6121,6 +6121,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-04-09 14:23:06 +0000"
+    } ,
+  
+    {
       "title"    : "How to replace estimations and guesses with a Monte Carlo simulation",
       "category" : "",
       "tags"     : "article",
@@ -6217,11 +6225,11 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
+      "title"    : "Javascript",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "url"      : "/openbox/javascript/",
+      "date"     : "2023-04-05 07:40:43 +0000"
     } ,
   
     {
@@ -6229,7 +6237,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "date"     : "2023-04-09 14:23:06 +0000"
     } ,
   
     {
@@ -6245,7 +6253,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-04-08 11:00:07 +0000"
+      "date"     : "2023-04-09 14:23:06 +0000"
     } 
   
 ]
