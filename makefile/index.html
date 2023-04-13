@@ -58,8 +58,8 @@
       </time>&middot;
       
       
-      <time datetime="2023-02-09T17:53:01+00:00">
-        Обновлено 2023-02-09
+      <time datetime="2023-04-13T13:11:05+00:00">
+        Обновлено 2023-04-13
         
       </time>
       
@@ -73,6 +73,68 @@
 <p>Важно, что при вызове команды <code class="language-plaintext highlighter-rouge">make</code> не учиывается переменная окружения <code class="language-plaintext highlighter-rouge">SHELL</code>, а просто вызывается <code class="language-plaintext highlighter-rouge">sh</code>.</p>
 
 <p>Конфиг хранится в файле <code class="language-plaintext highlighter-rouge">Makefile</code>.</p>
+
+<h2 id="base">Base</h2>
+
+<p>Команда, чтобы вывести другие команды плюс сразу напоминаем про <code class="language-plaintext highlighter-rouge">.PHONY</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>.PHONY: help
+
+## help: show list of available commands.
+help : Makefile
+	@echo "+--------------------+"
+	@echo "| AVAILABLE COMMANDS |"
+	@echo "+--------------------+\n"
+	@cat Makefile | grep "##" | sed -n 's/^## /make /p' | column -t -s ':' &amp;&amp; echo ""
+</code></pre></div></div>
+
+<h2 id="python">Python</h2>
+
+<p>Типичный файл для <a href="/openbox/python/">python</a>:</p>
+<ul>
+  <li>создать virtualenv</li>
+  <li>установить зависимости из requirements.txt</li>
+  <li>запустить приложение</li>
+  <li>хорошее дополнение: генерация по pip-tools и разделе prod/dev</li>
+</ul>
+
+<p>Шаблон:</p>
+<div class="language-make highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">SHELL</span><span class="o">:=</span>/bin/bash
+<span class="nv">VENV_DIR</span><span class="o">=</span>.venv
+<span class="nv">VENV_BIN</span><span class="o">=</span><span class="nv">$(VENV_DIR)</span>/bin
+<span class="nv">PYTHON</span><span class="o">=</span><span class="nv">$(VENV_BIN)</span>/python
+<span class="nv">PIP</span><span class="o">=</span><span class="nv">$(VENV_BIN)</span>/pip
+
+<span class="c">## venv: create virtualenv
+</span><span class="nl">venv</span><span class="o">:</span> <span class="nf">$(VENV_DIR)</span>
+
+<span class="nl">$(VENV_DIR)</span><span class="o">:</span>
+	python <span class="nt">-m</span> venv <span class="nv">$(VENV_DIR)</span>
+
+<span class="c">## setup: init project - create virtualenv, install requirements
+</span><span class="nl">setup</span><span class="o">:</span> <span class="nf">venv pip</span>
+
+<span class="c">## pip-tools: generate requirements.txt and sync with virtualenv
+</span><span class="nl">pip-tools</span><span class="o">:</span> <span class="nf">venv requirements.in requirements-dev.in</span>
+	<span class="nv">$(PIP)</span> <span class="nb">install</span> <span class="nt">-U</span> pip-tools
+	<span class="nv">$(VENV_BIN)</span>/pip-compile <span class="nt">--generate-hashes</span> <span class="nt">--output-file</span><span class="o">=</span>requirements.txt requirements.in
+	<span class="nv">$(VENV_BIN)</span>/pip-compile <span class="nt">--generate-hashes</span> <span class="nt">--output-file</span><span class="o">=</span>requirements-dev.txt requirements-dev.in
+	<span class="nv">$(VENV_BIN)</span>/pip-sync requirements.txt requirements-dev.txt
+
+<span class="c">## pip: install requirements
+</span><span class="nl">pip</span><span class="o">:</span> <span class="nf">requirements.txt</span>
+	<span class="nv">$(PIP)</span> <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
+	<span class="nv">$(PIP)</span> <span class="nb">install</span> <span class="nt">-r</span> requirements-dev.txt
+
+<span class="c">## run: run project
+</span><span class="nl">run</span><span class="o">:</span> <span class="nf">venv</span>
+	<span class="nv">$(PYTHON)</span> src/app.py
+
+<span class="c">## clean: clear python project (*.pyc, etc).
+</span><span class="nl">clean</span><span class="o">:</span>
+	find <span class="nb">.</span> <span class="nt">-name</span> <span class="s1">'*.pyc'</span> <span class="nt">-delete</span>
+	find <span class="nb">.</span> <span class="nt">-name</span> <span class="s1">'__pycache__'</span> <span class="nt">-type</span> d | xargs <span class="nb">rm</span> <span class="nt">-fr</span>
+</code></pre></div></div>
 
     </content>
 
