@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-03-27T11:47:02+04:00","permalink":"/python/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-04-14T10:19:06+04:00","permalink":"/python/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Полезности
 
-Удаление кеша от CPython:
+Удаление кеша от CPython, но лучше настроить себе [[makefile#Python]]:
 
 ```shell
 find . -type f -name "*.py[co]" -delete
@@ -32,6 +32,22 @@ find . -type d -name "__pycache__" -delete
 ```
 
 ## Сниппеты
+
+Настройка логов в консоль для всего:
+```python
+LOGGING = {
+    "version": 1,
+    "formatters": {
+        "verbose": {
+            "format": ("P%(process)d;%(levelname)s;%(asctime)s;%(module)s;%(message)s")
+        }
+    },
+    "handlers": {"console": {"class": "logging.StreamHandler", "formatter": "verbose"}},
+    "root": {"level": "DEBUG", "handlers": ["console"]},
+}
+
+logging.config.dictConfig(LOGGING)
+```
 
 Использование стека вместо рекурсии:
 ```python
