@@ -1,5 +1,5 @@
 ---
-{"status":"Waiting","dg-publish":true,"title":"Debugging Teams","category":"book","tags":["books"],"rating":4,"date":"2022-06-04T10:13:00+03:00","modified_at":"2023-04-22T10:04:03+04:00","permalink":"/books/debugging-teams/","dgPassFrontmatter":true}
+{"status":"Completed","dg-publish":true,"title":"Debugging Teams","category":"book","tags":["books"],"rating":4,"date":"2022-06-04T10:13:00+03:00","modified_at":"2023-04-22T10:04:03+04:00","permalink":"/books/debugging-teams/","dgPassFrontmatter":true}
 ---
 
 
@@ -65,5 +65,5 @@
 ## Задачи
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels ✅ 2022-09-13
-- [ ] #task Написать выдержку из книги 📅 2023-04-22
+- [x] #task Написать выдержку из книги 📅 2023-04-22 ✅ 2023-04-22
 - [ ] #task Доработать свои заметки на основе идей из книг
