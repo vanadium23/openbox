@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-04-25 06:36:38 +0000"
+      "date"     : "2023-04-27 16:55:55 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-04-25 06:36:38 +0000"
+      "date"     : "2023-04-27 16:55:55 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-04-25 06:36:38 +0000"
+      "date"     : "2023-04-27 16:55:55 +0000"
     } ,
   
     {
@@ -46,22 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-04-25 06:36:38 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-04-25 06:36:38 +0000"
     } ,
   
     {
@@ -1513,14 +1497,6 @@
     } ,
   
     {
-      "title"    : "Заметки должны быть сильносвязаны между собой",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Зачем нужно творчество",
       "category" : "",
       "tags"     : "",
@@ -1541,14 +1517,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kriticheskaya-czep-proekta/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные в заметках",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -2089,6 +2057,62 @@
     } ,
   
     {
+      "title"    : "Указывать в тексте ограничения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110251634/",
+      "date"     : "2021-10-25 13:34:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Timeboxing",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/timeboxing/",
+      "date"     : "2021-10-26 07:39:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Каждый в чем-то прав",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110282147/",
+      "date"     : "2021-10-28 18:47:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Prefer duplication over the wrong abstraction",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Адаптация подходов под себя",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-04-27 16:55:55 +0000"
+    } ,
+  
+    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -2102,14 +2126,6 @@
       "tags"     : "",
       "url"      : "/openbox/oczenka-stoimosti-truda/",
       "date"     : "2021-10-25 09:18:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Указывать в тексте ограничения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110251634/",
-      "date"     : "2021-10-25 13:34:00 +0000"
     } ,
   
     {
@@ -2142,22 +2158,6 @@
       "tags"     : "",
       "url"      : "/openbox/ustraivat-sessii-obucheniya/",
       "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Timeboxing",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/timeboxing/",
-      "date"     : "2021-10-26 07:39:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Каждый в чем-то прав",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110282147/",
-      "date"     : "2021-10-28 18:47:00 +0000"
     } ,
   
     {
@@ -2249,14 +2249,6 @@
     } ,
   
     {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
       "title"    : "2022 01 09 проблема аббревиатур",
       "category" : "",
       "tags"     : "",
@@ -2277,22 +2269,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Prefer duplication over the wrong abstraction",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Адаптация подходов под себя",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2630,14 +2606,6 @@
       "tags"     : "",
       "url"      : "/openbox/mentalnaya-model/",
       "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-04-25 06:36:38 +0000"
     } ,
   
     {
@@ -3470,6 +3438,22 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-04-27 16:55:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
     } ,
   
     {
@@ -4422,6 +4406,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208020849/",
       "date"     : "2022-08-02 05:49:56 +0000"
+    } ,
+  
+    {
+      "title"    : "Progressive summarization",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/progressive-summarization/",
+      "date"     : "2023-02-02 05:59:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Graph",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/graph/",
+      "date"     : "2023-02-18 05:57:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-04-27 16:55:55 +0000"
     } ,
   
     {
@@ -5689,6 +5697,30 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-04-27 16:55:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Заметки должны быть сильносвязаны между собой",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в заметках",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Неудача - следствие большого количества маленьких ошибок",
       "category" : "",
       "tags"     : "",
@@ -5977,14 +6009,6 @@
     } ,
   
     {
-      "title"    : "Progressive summarization",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/progressive-summarization/",
-      "date"     : "2023-02-02 05:59:58 +0000"
-    } ,
-  
-    {
       "title"    : "Primal&#39;s algorithm",
       "category" : "",
       "tags"     : "quotes",
@@ -6054,14 +6078,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202302120559/",
       "date"     : "2023-02-12 13:59:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Graph",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/graph/",
-      "date"     : "2023-02-18 05:57:29 +0000"
     } ,
   
     {
@@ -6177,6 +6193,14 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-04-27 16:55:55 +0000"
+    } ,
+  
+    {
       "title"    : "How to replace estimations and guesses with a Monte Carlo simulation",
       "category" : "",
       "tags"     : "article",
@@ -6198,14 +6222,6 @@
       "tags"     : "",
       "url"      : "/openbox/articles/razvitie-rebyonka-by-petranovskaya/",
       "date"     : "2023-03-11 07:13:36 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-04-25 06:36:38 +0000"
     } ,
   
     {
@@ -6297,27 +6313,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-04-25 06:36:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-04-25 06:36:38 +0000"
+      "date"     : "2023-04-27 16:55:55 +0000"
     } 
   
 ]
