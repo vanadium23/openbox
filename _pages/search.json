@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -2057,14 +2057,6 @@
     } ,
   
     {
-      "title"    : "Указывать в тексте ограничения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110251634/",
-      "date"     : "2021-10-25 13:34:00 +0000"
-    } ,
-  
-    {
       "title"    : "Timeboxing",
       "category" : "",
       "tags"     : "",
@@ -2073,11 +2065,11 @@
     } ,
   
     {
-      "title"    : "Каждый в чем-то прав",
+      "title"    : "Design review instead of code review",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110282147/",
-      "date"     : "2021-10-28 18:47:00 +0000"
+      "url"      : "/openbox/quotes/202111271936/",
+      "date"     : "2021-11-27 16:36:00 +0000"
     } ,
   
     {
@@ -2109,7 +2101,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -2126,6 +2118,14 @@
       "tags"     : "",
       "url"      : "/openbox/oczenka-stoimosti-truda/",
       "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Указывать в тексте ограничения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110251634/",
+      "date"     : "2021-10-25 13:34:00 +0000"
     } ,
   
     {
@@ -2158,6 +2158,14 @@
       "tags"     : "",
       "url"      : "/openbox/ustraivat-sessii-obucheniya/",
       "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Каждый в чем-то прав",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110282147/",
+      "date"     : "2021-10-28 18:47:00 +0000"
     } ,
   
     {
@@ -2222,14 +2230,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202111152022/",
       "date"     : "2021-11-15 17:22:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Design review instead of code review",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111271936/",
-      "date"     : "2021-11-27 16:36:00 +0000"
     } ,
   
     {
@@ -3445,7 +3445,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -4429,7 +4429,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -5701,7 +5701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } ,
   
     {
@@ -5837,6 +5837,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/czikl-nepreryvnyh-uluchshenij/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Чеклист при работе с системами",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-pri-rabote-s-sistemami/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6185,19 +6193,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-04-28 05:47:05 +0000"
+    } ,
+  
+    {
       "title"    : "Feature Toggles (aka Feature Flags)",
       "category" : "",
       "tags"     : "article",
       "url"      : "/openbox/articles/202303090242/",
       "date"     : "2023-03-09 10:42:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-04-27 16:55:55 +0000"
     } ,
   
     {
@@ -6317,7 +6325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-04-27 16:55:55 +0000"
+      "date"     : "2023-04-28 05:47:05 +0000"
     } 
   
 ]
