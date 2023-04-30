@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["books"],"category":"book","rating":5,"date":"2022-05-20T19:52:23+03:00","modified_at":"2022-06-10T20:41:51+03:00","permalink":"/books/the-elon-musk-blog-series/","dgPassFrontmatter":true}
+{"status":"Completed","dg-publish":true,"tags":["books"],"category":"book","rating":5,"date":"2022-05-20T19:52:23+03:00","modified_at":"2022-06-10T20:41:51+03:00","permalink":"/books/the-elon-musk-blog-series/","dgPassFrontmatter":true}
 ---
 
 
