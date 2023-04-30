@@ -1,5 +1,5 @@
 ---
-{"status":"Waiting","dg-publish":true,"up":[["Books"]],"title":"Building Evolutionary Architectures","category":"book","tags":["books"],"rating":3,"date":"2022-08-29T11:04:30+04:00","modified_at":"2023-01-03T12:11:28+04:00","permalink":"/books/building-evolutionary-architectures/","dgPassFrontmatter":true}
+{"status":"Reviewing","dg-publish":true,"up":"[[Books]]","title":"Building Evolutionary Architectures","category":"book","tags":["books"],"rating":3,"date":"2022-08-29T11:04:30+04:00","modified_at":"2023-04-30T10:01:14+04:00","permalink":"/books/building-evolutionary-architectures/","dgPassFrontmatter":true}
 ---
 
 
@@ -50,5 +50,5 @@
 ## Задачи
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels ✅ 2023-01-03
-- [ ] #task Написать выдержку из книги
+- [ ] #task Написать выдержку из книги 📅 2023-05-14
 - [ ] #task Доработать свои заметки на основе идей из книг
