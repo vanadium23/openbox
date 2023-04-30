@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":[["Books"]],"title":"Sid Meier's Memoir!","category":"book","tags":["books"],"rating":4,"date":"2022-07-25T20:39:39+03:00","modified_at":"2022-08-07T12:29:00+03:00","permalink":"/books/sid-meier-s-memoir/","dgPassFrontmatter":true}
+{"status":"Completed","dg-publish":true,"up":"[[Books]]","title":"Sid Meier's Memoir!","category":"book","tags":["books"],"rating":4,"date":"2022-07-25T20:39:39+03:00","modified_at":"2022-08-07T12:29:00+03:00","permalink":"/books/sid-meier-s-memoir/","dgPassFrontmatter":true}
 ---
 
 
