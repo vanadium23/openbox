@@ -5,7 +5,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
+    } ,
+  
+    {
+      "title"    : "Para",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/para/",
+      "date"     : "2023-05-02 05:38:14 +0000"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
     } ,
   
     {
@@ -1953,14 +1961,6 @@
     } ,
   
     {
-      "title"    : "Para",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/para/",
-      "date"     : "2023-05-02 05:35:05 +0000"
-    } ,
-  
-    {
       "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
@@ -2073,54 +2073,6 @@
     } ,
   
     {
-      "title"    : "Timeboxing",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/timeboxing/",
-      "date"     : "2021-10-26 07:39:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Design review instead of code review",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111271936/",
-      "date"     : "2021-11-27 16:36:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
-      "title"    : "Prefer duplication over the wrong abstraction",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Адаптация подходов под себя",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-05-02 05:35:05 +0000"
-    } ,
-  
-    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -2161,6 +2113,70 @@
     } ,
   
     {
+      "title"    : "Timeboxing",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/timeboxing/",
+      "date"     : "2021-10-26 07:39:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Потребности не связаны с действиями",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111012013/",
+      "date"     : "2021-11-01 16:11:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Intermediate packets in the wild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202111021639/",
+      "date"     : "2021-11-02 05:34:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Основные приемы разрешения противоречий",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201102052/",
+      "date"     : "2022-01-10 17:52:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Prefer duplication over the wrong abstraction",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/prefer-duplication-over-the-wrong-abstraction/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Адаптация подходов под себя",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-05-02 05:38:14 +0000"
+    } ,
+  
+    {
       "title"    : "Редукционизм",
       "category" : "",
       "tags"     : "",
@@ -2190,22 +2206,6 @@
       "tags"     : "",
       "url"      : "/openbox/grustnye-pravdy-zhizni/",
       "date"     : "2021-10-31 06:13:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Потребности не связаны с действиями",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111012013/",
-      "date"     : "2021-11-01 16:11:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Intermediate packets in the wild",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202111021639/",
-      "date"     : "2021-11-02 05:34:55 +0000"
     } ,
   
     {
@@ -2249,6 +2249,14 @@
     } ,
   
     {
+      "title"    : "Design review instead of code review",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111271936/",
+      "date"     : "2021-11-27 16:36:00 +0000"
+    } ,
+  
+    {
       "title"    : "Определение задачи в списке дел",
       "category" : "",
       "tags"     : "",
@@ -2273,11 +2281,11 @@
     } ,
   
     {
-      "title"    : "Основные приемы разрешения противоречий",
+      "title"    : "Ladder of casuality",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201102052/",
-      "date"     : "2022-01-10 17:52:00 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/ladder-of-casuality/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -3209,6 +3217,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-05-02 05:38:14 +0000"
+    } ,
+  
+    {
       "title"    : "Guide for naming applications",
       "category" : "",
       "tags"     : "article, chernov_sharit",
@@ -3238,14 +3254,6 @@
       "tags"     : "",
       "url"      : "/openbox/karta-realnosti/",
       "date"     : "2022-05-22 14:42:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Знать не значит уметь",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/znat-ne-znachit-umet/",
-      "date"     : "2022-05-22 18:27:37 +0000"
     } ,
   
     {
@@ -3453,7 +3461,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
     } ,
   
     {
@@ -4437,7 +4445,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
     } ,
   
     {
@@ -5601,14 +5609,6 @@
     } ,
   
     {
-      "title"    : "Типы систем и моделей",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301091956/",
-      "date"     : "2023-01-09 16:56:36 +0000"
-    } ,
-  
-    {
       "title"    : "Организация должна постоянно решать конфликты, не сужая выбор",
       "category" : "",
       "tags"     : "quotes",
@@ -5705,11 +5705,11 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
+      "title"    : "Типы систем и моделей",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301091956/",
+      "date"     : "2023-01-09 16:56:36 +0000"
     } ,
   
     {
@@ -6237,15 +6237,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
     } ,
   
     {
-      "title"    : "Ladder of casuality",
+      "title"    : "Знать не значит уметь",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
+      "url"      : "/openbox/znat-ne-znachit-umet/",
+      "date"     : "2022-05-22 18:27:37 +0000"
     } ,
   
     {
@@ -6345,6 +6345,14 @@
     } ,
   
     {
+      "title"    : "архитектура работает над модульностью для выживания во времени",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202304270950/",
+      "date"     : "2023-04-27 05:50:38 +0000"
+    } ,
+  
+    {
       "title"    : "All you can do is share context and enforce consequences.",
       "category" : "",
       "tags"     : "quotes",
@@ -6357,7 +6365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-05-02 05:35:05 +0000"
+      "date"     : "2023-05-02 05:38:14 +0000"
     } 
   
 ]
