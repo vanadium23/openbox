@@ -13,7 +13,7 @@ permalink: /books/
 - ❌ - не дочитал
 - ⏳ - читаю
 
-Рейтинг строиться от 1 до 5 на основе заметки [[система оценок]]. 
+Рейтинг строится от 1 до 5 на основе заметки [[система оценок]]. 
 
 {% assign books = site.notes | where_exp:"item","item.category contains 'book'" | sort: 'date' | reverse %}
 <table>
