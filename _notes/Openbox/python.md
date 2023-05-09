@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-04-14T10:19:06+04:00","permalink":"/python/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-05-09T17:26:44+04:00","permalink":"/python/","dgPassFrontmatter":true}
 ---
 
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Полезности
 
-Удаление кеша от CPython, но лучше настроить себе [[makefile#Python]]:
+Удаление кеша от CPython, но лучше настроить себе [[makefile]]:
 
 ```shell
 find . -type f -name "*.py[co]" -delete
@@ -35,6 +35,8 @@ find . -type d -name "__pycache__" -delete
 
 Настройка логов в консоль для всего:
 ```python
+import logging.config
+
 LOGGING = {
     "version": 1,
     "formatters": {
