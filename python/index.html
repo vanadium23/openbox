@@ -58,14 +58,23 @@
       </time>&middot;
       
       
-      <time datetime="2023-04-14T06:19:06+00:00">
-        Обновлено 2023-04-14
+      <time datetime="2023-05-09T13:26:44+00:00">
+        Обновлено 2023-05-09
         
       </time>
       
     </div>
   </header>
 
+  
+  <nav class="toc">
+    <ul id="toc" class="section-nav">
+<li class="toc-entry toc-h2"><a href="#менеджмент-зависимостей">Менеджмент зависимостей</a></li>
+<li class="toc-entry toc-h2"><a href="#полезности">Полезности</a></li>
+<li class="toc-entry toc-h2"><a href="#сниппеты">Сниппеты</a></li>
+<li class="toc-entry toc-h2"><a href="#типовые-структуры-данных">Типовые структуры данных</a></li>
+</ul>
+  </nav>
   
 
   <div id="notes-entry-container">
@@ -92,7 +101,7 @@ pip <span class="nb">install</span> <span class="nt">-r</span> requirements.txt
 
 <h2 id="полезности">Полезности</h2>
 
-<p>Удаление кеша от CPython, но лучше настроить себе [[makefile#Python]]:</p>
+<p>Удаление кеша от CPython, но лучше настроить себе <a href="/openbox/makefile/">makefile</a>:</p>
 
 <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find <span class="nb">.</span> <span class="nt">-type</span> f <span class="nt">-name</span> <span class="s2">"*.py[co]"</span> <span class="nt">-delete</span>
 find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">-name</span> <span class="s2">"__pycache__"</span> <span class="nt">-delete</span>
@@ -101,7 +110,9 @@ find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">
 <h2 id="сниппеты">Сниппеты</h2>
 
 <p>Настройка логов в консоль для всего:</p>
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">LOGGING</span> <span class="o">=</span> <span class="p">{</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">logging.config</span>
+
+<span class="n">LOGGING</span> <span class="o">=</span> <span class="p">{</span>
     <span class="s">"version"</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span>
     <span class="s">"formatters"</span><span class="p">:</span> <span class="p">{</span>
         <span class="s">"verbose"</span><span class="p">:</span> <span class="p">{</span>
