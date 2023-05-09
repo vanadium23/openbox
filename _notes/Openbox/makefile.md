@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-02-09T21:47:57+04:00","modified_at":"2023-04-13T17:11:05+04:00","permalink":"/makefile/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"date":"2023-02-09T21:47:57+04:00","modified_at":"2023-04-13T17:11:05+04:00","permalink":"/makefile/","dgPassFrontmatter":true}
 ---
 
 GNU Make - программа для генерации программ из исходников. Изначально было заточено под C, но потом стали использовать и как файлик под скрипты.
