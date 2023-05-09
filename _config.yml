@@ -5,6 +5,7 @@ baseurl: ""
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-toc
 
 twitter:
   username: vanadium23
