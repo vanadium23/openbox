@@ -1,5 +1,5 @@
 ---
-{"toc":true,"dg-publish":true,"date":"2023-02-09T21:47:57+04:00","modified_at":"2023-05-11T15:46:31+04:00","permalink":"/makefile/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"date":"2023-02-09T21:47:57+04:00","modified_at":"2023-05-11T20:47:26+04:00","permalink":"/makefile/","dgPassFrontmatter":true}
 ---
 
 GNU Make - программа для генерации программ из исходников. Изначально было заточено под C, но потом стали использовать и как файлик под скрипты.
@@ -43,14 +43,14 @@ help : Makefile
 SHELL:=/bin/bash
 VENV_DIR=.venv
 VENV_BIN=$(VENV_DIR)/bin
-PYTHON=$(VENV_BIN)/python
-PIP=$(VENV_BIN)/pip
+PYTHON=$(VENV_BIN)/python3
+PIP=$(VENV_BIN)/pip3
 
 ## venv: create virtualenv
 venv: $(VENV_DIR)
 
 $(VENV_DIR):
-	python -m venv $(VENV_DIR)
+	python3 -m venv $(VENV_DIR)
 
 ## setup: init project - create virtualenv, install requirements
 setup: venv pip
