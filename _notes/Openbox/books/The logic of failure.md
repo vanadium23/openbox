@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","tags":["books"],"category":"book","rating":4,"alias":["Логика неудачи"],"date":"2022-05-01T09:43:54+03:00","modified_at":"2023-05-19T16:40:14+04:00","status":"Completed","permalink":"/books/the-logic-of-failure/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","tags":["books"],"category":"book","rating":4,"alias":["Логика неудачи"],"date":"2022-05-01T09:43:54+03:00","modified_at":"2023-05-19T16:49:38+04:00","status":"Completed","permalink":"/books/the-logic-of-failure/","dgPassFrontmatter":true}
 ---
 
-# The logic of failure
 
 
-
-
-## Summary
 
 Книжка рассказывает о том, как люди принимают решение в условиях сложных задач. Для этого использовались компьютерные игры для моделирования реальных ситуаций в мире. Дальше пытались выделять критерии, чем отличаются хорошие результаты от плохих.
 Исследователи пришли к следующим выводам по хорошим экспемерентаторам:
