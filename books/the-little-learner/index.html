@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/svg+xml" href="/openbox/assets/open-cardboard-box.svg">
+  <link rel="stylesheet" href="/openbox/assets/css/base.css">
+
+  
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>The Little Learner | Chernov Open 📦</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="The Little Learner" />
+<meta property="og:locale" content="ru_RU" />
+<meta name="description" content="Кажется, что это будет книга без цитат. Она выполнена в режиме диалога между учителей и учеником." />
+<meta property="og:description" content="Кажется, что это будет книга без цитат. Она выполнена в режиме диалога между учителей и учеником." />
+<meta property="og:site_name" content="Chernov Open 📦" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-20T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Little Learner" />
+<meta name="twitter:site" content="@vanadium23" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-20T00:00:00+00:00","datePublished":"2023-02-20T00:00:00+00:00","description":"Кажется, что это будет книга без цитат. Она выполнена в режиме диалога между учителей и учеником.","headline":"The Little Learner","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/books/the-little-learner/"},"url":"/openbox/books/the-little-learner/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <nav class="u-background"><div class="u-wrapper Banner">
+    <a class="Banner-link u-clickable" href="/openbox/">
+        Chernov Open 📦
+    </a>
+    <ul class="Banner">
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/interactive-graph">Граф 🌐</a>
+            </li>
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/search">Поиск 🔍</a>
+            </li>
+        
+    </ul>
+</div>
+</nav>
+    <div class="container">
+      <main><article>
+  <header class="Heading">
+    <h1 class="Heading-title">The Little Learner</h1>
+    <div class="Heading-additional">
+      
+      <time datetime="2023-02-20T00:00:00+00:00">
+        Создано 2023-02-20
+        
+      </time>&middot;
+      
+      
+      <time datetime="2023-05-22T05:19:34+00:00">
+        Обновлено 2023-05-22
+        
+      </time>
+      
+    </div>
+  </header>
+
+  
+
+  <div id="notes-entry-container">
+    <content>
+      <p>Кажется, что это будет книга без цитат. Она выполнена в режиме диалога между учителей и учеником.</p>
+
+<p>Первая глава посвящена языку Schemish (подмножество Racket / lisp). Рассказали про присвоение переменных, вызов функции и используют только рекурсию вместо циклов.</p>
+
+<p>Вторая глава посвящена тензорам. В ней мы сначала говорим о линейной функции y = a*x + b. А потом заворачиваем параметры в вектор. Вектор оказывается скаляром первого ранга, а нулевым рангом считаем обычные числа / скаляр. Для тензора мы утверждаем, что на одном уровне у нас всегда одинаковое количество элементов:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[ [ [1] [2] [3] ] [ [4] [5] [6] ] ]
+</code></pre></div></div>
+<p>У тензора есть два важных параметра - <code class="language-plaintext highlighter-rouge">rank</code> и <code class="language-plaintext highlighter-rouge">shape</code>.</p>
+
+<p>Для того, чтобы провести линейную регрессию мы находим насколько далеко находятся наши точки от линейной функции с входными параметрами. А потом мы меняем параметры с помощью оценки относительной величины между увеличением ошибки и текущим значением параметров.</p>
+
+<p>Функция l2-loss из <span title="Note not found" class="invalid-link">[[202304101724]]</span> принимает на вход функцию для того, чтобы быть независимой от размерности, которую мы пытаемся аппроксимировать.</p>
+
+<p>Вся попытка заключается в том, чтобы разделить три вещи: входные и выходные координаты, функцию к которой приближаем и параметры этой функции. Параметры как правило прячут за греческую букву θ. А большой обозначают параметр функции для нахождения параметров - Θ.</p>
+
+<p>Для того, чтобы точно попасть в наши координаты нам необходимо замедляться по мере достижения локального оптимума. Здесь лежит беда переобучения, которая была упомянута в <a href="/openbox/books/verhovnyj-algoritm/">Верховный алгоритм</a>. Для этого мы используем дополнительные параметр со скоростью и коэффициентом, который обычно лежит в диапазоне от 0 до 1 и начинается с 0.9.</p>
+
+<p>Вторая половина книги начала описывать подход к построению <span title="Note not found" class="invalid-link">[[нейронных сетей]]</span>. Основный блоком в нейронной сети является функция активации, которая раскладывается на набор включенных и выключенных линейный функций. Под включением и выключением мы понимаем, что в каком-то диапазоне абсцисс наша функция даёт константу. Такими функциями мы можем нарезать любой график.</p>
+
+<p>В дизайне нейронных сетей складываются три параметра: количество входных данных (т.е. размерность входящей матрицы), количество выходных данных и количество нейронов. При разработке стоит начинать с выхода, так как здесь мы уже поймём сколько нам надо взять на финальном этапе и дальше разворачивать это до входа.</p>
+
+<p>Вопрос в том, как заложить начальные веса. Здесь мы сталкиваемся с набором проблем:</p>
+<ol>
+  <li>веса не могут быть одинаковыми, иначе у нас получится так, что мы не сможем различить ответы, когда они пройдут через слои нейросети</li>
+  <li>веса не могут быть очень большими, потому что тогда они будут любой входящий сигнал приводить в шум</li>
+  <li>веса не могут быть очень маленькими, потому что тогда они потеряют совсем входящий параметр</li>
+</ol>
+
+<h2 id="цитаты">Цитаты</h2>
+
+<ul>
+  <li><span title="Note not found" class="invalid-link">[[202304021732]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202304101724]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202304101732]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305150945]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305161024]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305170953]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305170956]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305180950]]</span>: -</li>
+  <li><span title="Note not found" class="invalid-link">[[202305181000]]</span>: -</li>
+</ul>
+
+<h2 id="задачи">Задачи</h2>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />#task Обработать все выдержки из книги в рамках Zettels</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />#task Написать выдержку из книги</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />#task Доработать свои заметки на основе идей из книг</li>
+</ul>
+
+    </content>
+
+    
+    <side class="backlink">
+      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
+      <div class="backlink-boxes">
+        
+        
+        <div class="backlink-box">
+          <a class="internal-link"
+            href="/openbox/showcase/">Showcase</a><br>
+          <div>Это заметка, чтобы проверять, что у меня работают разные фичи в openbox. При этом сейчас...</div>
+        </div>
+        
+        
+      </div>
+    </side>
+    
+  </div>
+</article>
+</main>
+      <footer></footer>
+    </div>
+
+    <!-- https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_includes/link-previews.html -->
+<!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+    content a.internal-link {
+        border-color: #8b88e6;
+        background-color: #efefff;
+    }
+
+    #tooltip-wrapper {
+        background: white;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        font-size: 0.8em;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        transition: opacity 100ms;
+    }
+
+    #tooltip-wrapper:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 90%);
+        width: 100%;
+        height: 75px;
+    }
+
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+    <div id='tooltip-content'>
+    </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+    const tooltipContentSelector = "main";
+    const tooltipLinksQuery = "main a";
+
+    var opacityTimeout;
+    var contentTimeout;
+    var transitionDurationMs = 100;
+
+    var iframe = document.getElementById('link-preview-iframe')
+    var tooltipWrapper = document.getElementById('tooltip-wrapper')
+    var tooltipContent = document.getElementById('tooltip-content')
+
+    function hideTooltip() {
+        opacityTimeout = setTimeout(function () {
+            tooltipWrapper.style.opacity = 0;
+            contentTimeout = setTimeout(function () {
+                tooltipContent.innerHTML = '';
+                tooltipWrapper.style.display = 'none';
+            }, transitionDurationMs + 1);
+        }, transitionDurationMs)
+    }
+
+    function showTooltip(event) {
+        var elem = event.target;
+        var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (event.target.host === window.location.host) {
+            iframe.src = event.target.href
+            iframe.onload = function () {
+                tooltipContentHtml = ''
+                tooltipContentHtml += iframe.contentWindow.document.querySelector(
+                    tooltipContentSelector
+                )?.innerHTML;
+
+                tooltipContent.innerHTML = tooltipContentHtml
+
+                tooltipWrapper.style.display = 'block';
+                setTimeout(function () {
+                    tooltipWrapper.style.opacity = 1;
+                }, 1)
+            }
+
+            tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+            if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+            } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+            }
+
+            if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = "10px";
+            } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+            }
+        }
+    }
+
+    function setupListeners(linkElement) {
+        linkElement.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+            showTooltip(event);
+        });
+
+        tooltipWrapper.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+        });
+    }
+
+    document.querySelectorAll(tooltipLinksQuery).forEach(setupListeners);
+</script>
+
+    <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  }, false);
+</script>
+    
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7507913639b540edbde55792995b90d8"}'></script><!-- End Cloudflare Web Analytics -->
+
+  </body>
+</html>
