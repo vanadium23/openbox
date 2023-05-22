@@ -15,7 +15,15 @@ class WikiLinksConverter < Jekyll::Generator
 
         # create filename -> url links
         note_index = {}
-        all_docs.each do |note|
+        all_notes.each do |note|
+            filename_without_extenstion = File.basename(
+                note.basename,
+                File.extname(note.basename)
+            )
+            note_index[filename_without_extenstion] = note
+            note_index[note.cleaned_relative_path] = note
+        end
+        all_pages.each do |note|
             filename_without_extenstion = File.basename(
                 note.basename,
                 File.extname(note.basename)

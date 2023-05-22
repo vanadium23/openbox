@@ -9,7 +9,7 @@
 
 Прямой линк на [[крышка]].
 
-Заметка с полным путём до заметки и title: [[wallabag|wallabag]].
+Заметка с полным путём до заметки и title: [[Openbox/software/wallabag|wallabag]].
 
 Заметка до хедера [[python#Сниппеты]].
 
