@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2023-05-21T16:26:14+04:00","permalink":"/showcase/","dgPassFrontmatter":true}
+{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2023-05-22T15:06:29+04:00","permalink":"/showcase/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@
 
 Прямой линк на [[крышка]].
 
-Заметка с путём до заметки - [[prompt engineering|prompt engineering]].
+Заметка с полным путём до заметки и title: [[wallabag|wallabag]].
 
 Заметка до хедера [[python#Сниппеты]].
 
