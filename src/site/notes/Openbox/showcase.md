@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2023-05-22T15:06:29+04:00","dg-path":"/showcase.md","permalink":"//showcase/","dgPassFrontmatter":true}
+{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2023-05-22T15:06:29+04:00","dg-path":"/showcase.md","permalink":"/showcase/","dgPassFrontmatter":true}
 ---
 
 
