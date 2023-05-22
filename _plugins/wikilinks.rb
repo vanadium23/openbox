@@ -21,7 +21,9 @@ class WikiLinksConverter < Jekyll::Generator
                 File.extname(note.basename)
             )
             note_index[filename_without_extenstion] = note
-            note_index[note.cleaned_relative_path] = note
+            # strip leading slash from path
+            cleaned_path = note.cleaned_relative_path[1..-1]
+            note_index[cleaned_path] = note
         end
         all_pages.each do |note|
             filename_without_extenstion = File.basename(
@@ -38,7 +40,6 @@ class WikiLinksConverter < Jekyll::Generator
                 inline_matches.each do |wl_match|
                     filename = wl_match[0]
                     title = wl_match[3]
-
 
                     no_title = title.nil?
                     no_note = note_index[filename].nil?
