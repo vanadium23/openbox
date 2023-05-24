@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/svg+xml" href="/openbox/assets/open-cardboard-box.svg">
+  <link rel="stylesheet" href="/openbox/assets/css/base.css">
+
+  
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Postgressql | Chernov Open 📦</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Postgressql" />
+<meta property="og:locale" content="ru_RU" />
+<meta name="description" content="Snippets" />
+<meta property="og:description" content="Snippets" />
+<meta property="og:site_name" content="Chernov Open 📦" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-06-14T06:11:13+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Postgressql" />
+<meta name="twitter:site" content="@vanadium23" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-06-14T06:11:13+00:00","datePublished":"2022-06-14T06:11:13+00:00","description":"Snippets","headline":"Postgressql","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/postgres-sql/"},"url":"/openbox/postgres-sql/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <nav class="u-background"><div class="u-wrapper Banner">
+    <a class="Banner-link u-clickable" href="/openbox/">
+        Chernov Open 📦
+    </a>
+    <ul class="Banner">
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/interactive-graph">Граф 🌐</a>
+            </li>
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/search">Поиск 🔍</a>
+            </li>
+        
+    </ul>
+</div>
+</nav>
+    <div class="container">
+      <main><article>
+  <header class="Heading">
+    <h1 class="Heading-title">Postgressql</h1>
+    <div class="Heading-additional">
+      
+      <time datetime="2022-06-14T06:11:13+00:00">
+        Создано 2022-06-14
+        
+      </time>&middot;
+      
+      
+      <time datetime="2023-01-08T16:06:15+00:00">
+        Обновлено 2023-01-08
+        
+      </time>
+      
+    </div>
+  </header>
+
+  
+
+  <div id="notes-entry-container">
+    <content>
+      <h2 id="snippets">Snippets</h2>
+
+<p>создание пользователя и базы:</p>
+
+<div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">create</span> <span class="k">database</span> <span class="n">mydb</span><span class="p">;</span>
+<span class="k">create</span> <span class="k">user</span> <span class="n">myuser</span> <span class="k">with</span> <span class="k">encrypted</span> <span class="n">password</span> <span class="s1">'mypass'</span><span class="p">;</span>
+<span class="k">grant</span> <span class="k">all</span> <span class="k">privileges</span> <span class="k">on</span> <span class="k">database</span> <span class="n">mydb</span> <span class="k">to</span> <span class="n">myuser</span><span class="p">;</span>
+
+<span class="c1">--- выдать доступ ко всем таблицам</span>
+<span class="k">GRANT</span> <span class="k">SELECT</span> <span class="k">ON</span> <span class="k">ALL</span> <span class="n">TABLES</span> <span class="k">IN</span> <span class="k">SCHEMA</span> <span class="k">public</span> <span class="k">TO</span> <span class="k">user</span><span class="p">;</span>
+
+<span class="c1">-- чтобы не добавлять каждый раз</span>
+<span class="k">ALTER</span> <span class="k">DEFAULT</span> <span class="k">PRIVILEGES</span>
+<span class="k">IN</span> <span class="k">SCHEMA</span> <span class="n">app</span>
+<span class="k">GRANT</span> <span class="k">SELECT</span> <span class="k">ON</span> <span class="n">TABLES</span> <span class="k">TO</span> <span class="n">scraper</span><span class="p">;</span>
+<span class="k">ALTER</span> <span class="k">DEFAULT</span> <span class="k">PRIVILEGES</span>
+<span class="k">IN</span> <span class="k">SCHEMA</span> <span class="n">app</span>
+<span class="k">GRANT</span> <span class="k">EXECUTE</span> <span class="k">ON</span> <span class="n">FUNCTIONS</span> <span class="k">TO</span> <span class="n">scraper</span><span class="p">;</span>
+</code></pre></div></div>
+
+<h2 id="общее-устройство">Общее устройство</h2>
+
+<p>MVCC</p>
+
+<h2 id="indexes">Indexes</h2>
+
+<p>Цикл статей: https://habr.com/ru/company/postgrespro/blog/326096/</p>
+
+<p><code class="language-plaintext highlighter-rouge">Create index [concurrently] on table(field) [using gist]</code></p>
+
+<p>Индексы в PostgreSQL — специальные объекты базы данных, предназначенные в основном для ускорения доступа к данным. Это вспомогательные структуры: любой индекс можно удалить и восстановить заново по информации в таблице. Иногда приходится слышать, что СУБД может работать и без индексов, просто медленно. Однако это не так, ведь индексы служат также для поддержки некоторых ограничений целостности.
+Нужно понимать, что за это мы платим скоростью вставки в таблицу.</p>
+
+<ul>
+  <li>Index Scan: когда идёт поиск по совпадению поля</li>
+  <li>Bitmap Index Scan: когда идёт поиск по нескольким значениям
+    <ul>
+      <li>Может дополнительно появится Recheck Condition, если битовая маска не влезает в work_mem</li>
+    </ul>
+  </li>
+  <li>Index <strong>Only</strong> Scan: когда данные, которые надо вернуть, есть полностью в индексе</li>
+</ul>
+
+<p>Кроме индекса на поле в postgresql можно делать:</p>
+<ul>
+  <li>составной (несколько полей)</li>
+  <li>функциональный (функция над полем или полями)</li>
+  <li>частичный (фильтр условие)</li>
+</ul>
+
+<p>Для создания индекса устанавливается exclusive lock, но моно создавать конкурентно и тогда запросы не блокируются, но при этом происходит два чтения таблицы.</p>
+
+<p>Системная таблица pg_am предоставляет информацию о том, какие виды индексов и с какими свойствами доступны для использования. Подробее о системных каталогах можно прочитать тут: https://postgrespro.ru/docs/postgresql/9.6/catalogs.html</p>
+
+<h3 id="хэш-индекс">Хэш-индекс</h3>
+
+<p>При вставке в индекс вычислим <a href="https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/backend/access/hash/hashfunc.c;hb=HEAD">хеш-функцию для ключа</a>. Хеш-функции в PostgreSQL всегда возвращают тип integer, что соответствует диапазону 232 ≈ 4 миллиарда значений. Число корзин изначально равно двум и увеличивается динамически, подстраиваясь под объем данных; номер корзины можно вычислить по хеш-коду с помощью битовой арифметики. В эту корзину и положим наш TID.</p>
+
+<p>Заметим, что хеш-индекс не умеет уменьшаться в размере. Если удалить часть проиндексированных строк, однажды выделенные страницы уже не возвращаются операционной системе, а только переиспользуются для новых данных после очистки (VACUUM). Единственный вариант уменьшить физический размер индекса — перестроить его с нуля командой REINDEX или VACUUM FULL.</p>
+
+<h3 id="btree">Btree</h3>
+
+<p>Индекс btree, он же B-дерево, пригоден для данных, которые можно отсортировать. Иными словами, для типа данных должны быть определены операторы «больше», «больше или равно», «меньше», «меньше или равно» и «равно». Заметьте, что одни и те же данные иногда можно сортировать разными способами, что возвращает нас к концепции семейства операторов.</p>
+
+<p>Как всегда, индексные записи B-дерева упакованы в страницы. В листовых страницах эти записи содержат индексируемые данные (ключи) и ссылки на строки таблицы (TID-ы); во внутренних страницах каждая запись ссылается на дочернюю страницу индекса и содержит минимальное значение ключа в этой странице.</p>
+
+<p>B-деревья обладают несколькими важными свойствами:</p>
+<ul>
+  <li>Они сбалансированы, то есть любую листовую страницу отделяет от корня одно и то же число внутренних страниц. Поэтому поиск любого значения занимает одинаковое время.</li>
+  <li>Они сильно ветвисты, то есть каждая страница (как правило, 8 КБ) содержит сразу много (сотни) TID-ов. За счет этого глубина B-деревьев получается небольшой; на практике до 4–5 для очень больших таблиц.</li>
+  <li>Данные в индексе упорядочены по неубыванию (как между страницами, так и внутри каждой страницы), а страницы одного уровня связаны между собой двунаправленным списком. Поэтому получить упорядоченный набор данных мы можем, просто проходя по списку в одну или в другую сторону, не возвращаясь каждый раз к корню.</li>
+</ul>
+
+<h3 id="gist">GiST</h3>
+
+<p>GiST — сокращение от «generalized search tree». Это сбалансированное дерево поиска, точно так же, как и рассмотренный ранее b-tree.</p>
+
+<p>В чем же разница? Индекс b-tree жестко привязан к семантике сравнения: поддержка операторов «больше», «меньше», «равно» — это все, на что он способен (зато способен очень хорошо!). Но в современных базах хранятся и такие типы данных, для которых эти операторы просто не имеют смысла: геоданные, текстовые документы, картинки.
+Кроме условия на вхождения интервалов, GiST можно использовать как исключающий индекс.</p>
+
+<p>Пример использование:</p>
+<ul>
+  <li>R-дерево для точек на плоскости или интервалов.</li>
+  <li>RD-дерево для полноценного поиска (Идея RD-деревьев в том, чтобы вместо ограничивающего прямоугольника взять ограничивающее множество — то есть множество, содержащее все элементы дочерних множеств.)</li>
+</ul>
+
+<h3 id="sp-gist">SP-GiST</h3>
+
+<p>Вначале немного о названии. Слово «GiST» намекает на определенную схожесть с одноименным методом. Схожесть действительно есть: и тот, и другой — generalized search trees, обобщенные деревья поиска, предоставляющие каркас для построения разных методов доступа.</p>
+
+<p>«SP» расшифровывается как space partitioning, разбиение пространства. В роли пространства часто выступает именно то, что мы и привыкли называть пространством — например, двумерная плоскость. Но, как мы увидим, имеется в виду любое пространство поиска, по сути произвольная область значений.</p>
+
+<p>SP-GiST подходит для структур, в которых пространство рекурсивно разбивается на непересекающиеся области. В этот класс входят деревья квадрантов (quadtree), k-мерные деревья (k-D tree), префиксные деревья (trie).</p>
+
+<h3 id="gin">GIN</h3>
+
+<p>GIN расшифровывается как Generalized Inverted Index — это так называемый обратный индекс. Он работает с типами данных, значения которых не являются атомарными, а состоят из элементов. При этом индексируются не сами значения, а отдельные элементы; каждый элемент ссылается на те значения, в которых он встречается.</p>
+
+<p>Таким образом, индекс GIN состоит из B-дерева элементов, к листовым записям которого привязаны B-деревья или плоские списки TID-ов.</p>
+
+<h4 id="gist-vs-gin">GiST vs GIN</h4>
+<p>Для многих типов данных существуют классы операторов и для GiST, и для GIN, что вызывает вопрос: чем же пользоваться? Пожалуй, уже можно сделать какие-то выводы.</p>
+
+<p>Как правило, GIN выигрывает в точности и скорости поиска у GiST. Если данные изменяются не часто, а искать надо быстро — скорее всего выбор падет на GIN.</p>
+
+<p>С другой стороны, если данные изменяются активно, накладные расходы на обновление GIN могут оказаться слишком велики. В этом случае придется сравнивать оба варианта и выбирать тот, чьи показатели будут лучше сбалансированы.</p>
+
+<h3 id="brin">BRIN</h3>
+
+<p>В отличие от индексов, с которыми мы уже познакомились, идея BRIN не в том, чтобы быстро найти нужные строки, а в том, чтобы избежать просмотра заведомо ненужных. Это всегда неточный индекс: он вообще не содержит TID-ов табличных строк.
+Работает это следующим образом. Таблица разбивается на зоны (range) размером в несколько страниц (или блоков, что то же самое) — отсюда и название: Block Range Index, BRIN. Для каждой зоны в индексе сохраняется сводная информация о данных в этой зоне. Как правило, это минимальное и максимальное значения, но бывает и иначе, как мы увидим дальше. Если при выполнении запроса, содержащего условие на столбец, искомые значения не попадают в диапазон, то всю зону можно смело пропускать; если же попадают — все строки во всех блоках зоны придется просмотреть и выбрать среди них подходящие.
+При удалении строки… ничего не происходит. Можно заметить, что в каких-то случаях будет удалено минимальное или максимальное значение, и тогда диапазон можно было бы уменьшить. Но чтобы это определить, пришлось бы прочитать все значения в зоне, а это накладно.</p>
+
+<h3 id="bloom">Bloom</h3>
+
+<p>Классический фильтр Блума — структура данных, позволяющая быстро проверить принадлежность элемента множеству. Фильтр очень компактен, но допускает ложные срабатывания: он имеет право ошибиться и счесть элемент принадлежащим множеству (false positive), но не имеет права сказать, что элемента нет в множестве, если на самом деле он там присутствует (false negative).</p>
+
+<p>Фильтр представляет собой битовый массив (называемый также сигнатурой) длиной m бит, изначально заполненный нулями. Выбираются k различных хеш-функций, которые отображают любой элемент множества в k битов сигнатуры. Чтобы добавить элемент в множество, нужно установить в сигнатуре каждый из этих битов в единицу. Следовательно, если все соответствующие элементу биты установлены в единицу — элемент может присутствовать в множестве; если хотя бы один бит равен нулю — элемент точно отсутствует.</p>
+
+<h2 id="planner">Planner</h2>
+
+<h3 id="hints">Hints</h3>
+
+<p>Since 9.2:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Increasing the length limit for a varchar or varbit column, or removing the limit altogether, no longer requires a table rewrite. Similarly, increasing the allowable precision of a numeric column, or changing a column from constrained numeric to unconstrained numeric, no longer requires a table rewrite. Table rewrites are also avoided in similar cases involving the interval, timestamp, and timestamptz types.
+</code></pre></div></div>
+
+<h3 id="pgstatistics">PgStatistics</h3>
+
+<p>This table (pg_statistic) is, of course, described <a href="http://www.postgresql.org/docs/current/interactive/catalog-pg-statistic.html">the docs</a>. But it is pretty cryptic. Of course, you can find very precise explanation in <a href="http://git.postgresql.org/gitweb/?p=postgresql.git;a=blob;f=src/include/catalog/pg_statistic.h">sources</a>, but that’s not (usually) best solution.</p>
+
+<h2 id="explain">Explain</h2>
+
+<h3 id="bitmap-index-scan">Bitmap index scan</h3>
+
+<p>Let’s assume your table has 100000 pages (that would be ~ 780MB). Bitmap Index Scan would create a bitmap where there would be one bit for every page in your table. So in this case, we’d get memory block of 100,000 bits ~ 12.5kB. All these bits would be set to 0. Then Bitmap Index Scan, would set some bits to 1, depending on which page in table might contain row that should be returned.</p>
+
+<h3 id="sort">Sort</h3>
+
+<p>While it is simple, it has some cool logic inside. For starters – if memory used for sorting would be more than work_mem, it will switch to using disk based sorting. In explain this is written in sort method.</p>
+
+<h3 id="hashaggregate">HashAggregate</h3>
+
+<p>HashAggregate does something like this: for every row it gets, it finds GROUP BY “key” (in this case relkind). Then, in hash (associative array, dictionary), puts given row into bucket designated by given key. Now, if you understand it, you should see potential problem: well, what about case when there are millions of rows? The hash will be too big to fit in memory. And here, again, we’ll be using work_mem. If generated hash is too big, it will “spill” to disk (again in the $PGDATA/base/pgsql_tmp).</p>
+
+<h3 id="hash-join">Hash join</h3>
+
+<p>It works like this – first Hash Join calls “Hash”, which in turns calls something else (Seq Scan on pg_namespace in our case). Then, Hash makes a memory (or disk, depending on size) hash/associative-array/dictionary with rows from the source, hashed using whatever is used to join the data (in our case, it’s OID column in pg_namespace).</p>
+
+<h3 id="nested-loop">Nested Loop</h3>
+
+<p>So, the processing looks like this:</p>
+<ol>
+  <li>Nested Loop runs one side of join, once. Let’s name it “A”.</li>
+  <li>For every row in “A”, it runs second operation (let’s name it “B”)</li>
+  <li>if “B” didn’t return any rows – data from “A” is ignored</li>
+  <li>if “B” did return rows, for every row it returned, new row is returned by Nested Loop, based on current row from A, and current row from B</li>
+</ol>
+
+<h3 id="merge-join">Merge Join</h3>
+
+<p>The procedure looks like this:</p>
+<ol>
+  <li>if join column on right side is the same as join column on left side:
+    <ul>
+      <li>return new joined row, based on current rows on the right and left sides</li>
+      <li>get next row from right side (or, if there are no more rows, on left side)</li>
+      <li>go to step 1</li>
+    </ul>
+  </li>
+  <li>if join column on right side is “smaller” than join column on left side:
+    <ul>
+      <li>get next row from right side (if there are no more rows, finish processing)</li>
+      <li>go to step 1</li>
+    </ul>
+  </li>
+  <li>if join column on right side is “larger” than join column on left side:
+    <ul>
+      <li>get next row from left side (if there are no more rows, finish processing)</li>
+      <li>go to step 1</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="materialize">Materialize</h3>
+
+<p>Long story short – Materialize gets data from underlying operation and stores it in memory (or partially in memory) so that it can be used faster, or with additional features that underlying operation doesn’t provide.</p>
+
+<h3 id="unique">Unique</h3>
+
+<p>Removes non-unique data from sorted rows.</p>
+
+<h3 id="append">Append</h3>
+
+<p>Just concatinate plans, when union is used</p>
+
+<h3 id="groupaggregate">GroupAggregate</h3>
+
+<p>Similar to HashAggregate but on set of columns(n).</p>
+
+<h3 id="hashsetop">HashSetOp</h3>
+
+<p>This operation is used by INTERSECT/EXCEPT operations (with optional “ALL” modifier).</p>
+
+<h3 id="cte-scan">CTE Scan</h3>
+
+<p>Same as Materialize, but for window function.</p>
+
+<h2 id="источники">Источники</h2>
+
+<ul>
+  <li>Серия expain analyze: <a href="https://www.depesz.com/2013/04/16/explaining-the-unexplainable/">1</a>, <a href="https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2/">2</a>, <a href="https://www.depesz.com/2013/05/09/explaining-the-unexplainable-part-3/">3</a>, <a href="https://www.depesz.com/2013/05/19/explaining-the-unexplainable-part-4/">4</a>, <a href="https://www.depesz.com/2013/05/30/explaining-the-unexplainable-part-5/">5</a>.</li>
+</ul>
+
+    </content>
+
+    
+    <side class="backlink">
+      <h3 style="margin-bottom: 1em">Обратные ссылки</h3>
+      <div class="backlink-boxes">
+        
+        
+        <div class="backlink-box">
+          <a class="internal-link"
+            href="/openbox/articles/202305190954/">Queries for pg_stat_statements</a><br>
+          <div>TL;DR: полезные запросы к pg_stat_statements в PostgresSQL для поиска проблемных запросов.
+</div>
+        </div>
+        
+        
+      </div>
+    </side>
+    
+  </div>
+</article>
+</main>
+      <footer></footer>
+    </div>
+
+    <!-- https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_includes/link-previews.html -->
+<!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+    content a.internal-link {
+        border-color: #8b88e6;
+        background-color: #efefff;
+    }
+
+    #tooltip-wrapper {
+        background: white;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        font-size: 0.8em;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        transition: opacity 100ms;
+    }
+
+    #tooltip-wrapper:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 90%);
+        width: 100%;
+        height: 75px;
+    }
+
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+    <div id='tooltip-content'>
+    </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+    const tooltipContentSelector = "main";
+    const tooltipLinksQuery = "main a";
+
+    var opacityTimeout;
+    var contentTimeout;
+    var transitionDurationMs = 100;
+
+    var iframe = document.getElementById('link-preview-iframe')
+    var tooltipWrapper = document.getElementById('tooltip-wrapper')
+    var tooltipContent = document.getElementById('tooltip-content')
+
+    function hideTooltip() {
+        opacityTimeout = setTimeout(function () {
+            tooltipWrapper.style.opacity = 0;
+            contentTimeout = setTimeout(function () {
+                tooltipContent.innerHTML = '';
+                tooltipWrapper.style.display = 'none';
+            }, transitionDurationMs + 1);
+        }, transitionDurationMs)
+    }
+
+    function showTooltip(event) {
+        var elem = event.target;
+        var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (event.target.host === window.location.host) {
+            iframe.src = event.target.href
+            iframe.onload = function () {
+                tooltipContentHtml = ''
+                tooltipContentHtml += iframe.contentWindow.document.querySelector(
+                    tooltipContentSelector
+                )?.innerHTML;
+
+                tooltipContent.innerHTML = tooltipContentHtml
+
+                tooltipWrapper.style.display = 'block';
+                setTimeout(function () {
+                    tooltipWrapper.style.opacity = 1;
+                }, 1)
+            }
+
+            tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+            if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+            } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+            }
+
+            if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = "10px";
+            } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+            }
+        }
+    }
+
+    function setupListeners(linkElement) {
+        linkElement.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+            showTooltip(event);
+        });
+
+        tooltipWrapper.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+        });
+    }
+
+    document.querySelectorAll(tooltipLinksQuery).forEach(setupListeners);
+</script>
+
+    <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  }, false);
+</script>
+    
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7507913639b540edbde55792995b90d8"}'></script><!-- End Cloudflare Web Analytics -->
+
+  </body>
+</html>
