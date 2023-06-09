@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-06-09 13:40:43 +0000"
+      "date"     : "2023-06-09 13:42:07 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-06-09 13:40:43 +0000"
+      "date"     : "2023-06-09 13:42:07 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-06-09 13:40:43 +0000"
+      "date"     : "2023-06-09 13:42:07 +0000"
     } ,
   
     {
@@ -46,22 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-06-09 13:40:43 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-06-09 13:40:43 +0000"
     } ,
   
     {
@@ -817,14 +801,6 @@
     } ,
   
     {
-      "title"    : "Эмерджентность помогает строить объяснения.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122039/",
-      "date"     : "2021-08-12 17:39:00 +0000"
-    } ,
-  
-    {
       "title"    : "Лучший удел физической теории - указывать путь создания новой",
       "category" : "",
       "tags"     : "quotes",
@@ -1481,6 +1457,14 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-06-09 13:42:07 +0000"
+    } ,
+  
+    {
       "title"    : "linked list",
       "category" : "",
       "tags"     : "",
@@ -1565,14 +1549,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Учёба впрок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/uchyoba-vprok/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1902,6 +1878,22 @@
       "tags"     : "",
       "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
       "date"     : "2021-10-11 08:40:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Понятийный минимум",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponyatijnyj-minimum/",
+      "date"     : "2021-10-18 20:24:50 +0000"
     } ,
   
     {
@@ -2413,6 +2405,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/excel/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Invert model",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/invert-model/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3233,14 +3233,6 @@
     } ,
   
     {
-      "title"    : "Rhetorical reasons for making diagrams",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205190759/",
-      "date"     : "2022-05-19 04:59:14 +0000"
-    } ,
-  
-    {
       "title"    : "The elon musk blog series",
       "category" : "book",
       "tags"     : "books",
@@ -3385,11 +3377,35 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-06-09 13:42:07 +0000"
+    } ,
+  
+    {
+      "title"    : "Эмерджентность помогает строить объяснения.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122039/",
+      "date"     : "2021-08-12 17:39:00 +0000"
+    } ,
+  
+    {
       "title"    : "Functional options are slow",
       "category" : "",
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202205280946/",
       "date"     : "2022-05-28 18:46:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Учёба впрок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/uchyoba-vprok/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -3489,14 +3505,6 @@
     } ,
   
     {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -3558,6 +3566,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/thinking-in-bets/",
       "date"     : "2022-06-04 07:14:53 +0000"
+    } ,
+  
+    {
+      "title"    : "Rhetorical reasons for making diagrams",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205190759/",
+      "date"     : "2022-05-19 04:59:14 +0000"
     } ,
   
     {
@@ -5537,38 +5553,6 @@
     } ,
   
     {
-      "title"    : "какие заметки у вас должны быть",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kakie-zametki-u-vas-dolzhny-byt/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Какие метрики хорошие",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kakie-metriki-horoshie/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "django",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/django/",
-      "date"     : "2023-01-27 13:40:44 +0000"
-    } ,
-  
-    {
-      "title"    : "Makefile",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/makefile/",
-      "date"     : "2023-02-09 17:47:57 +0000"
-    } ,
-  
-    {
       "title"    : "Ecosystems changes companies in established industries",
       "category" : "",
       "tags"     : "quotes",
@@ -5881,6 +5865,22 @@
     } ,
   
     {
+      "title"    : "какие заметки у вас должны быть",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kakie-zametki-u-vas-dolzhny-byt/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Какие метрики хорошие",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kakie-metriki-horoshie/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Мотивация сотрудников",
       "category" : "",
       "tags"     : "",
@@ -5958,22 +5958,6 @@
       "tags"     : "",
       "url"      : "/openbox/vazhno-to-chem-zanimaeshsya-kazhdyj-den/",
       "date"     : "2023-01-15 16:34:43 +0000"
-    } ,
-  
-    {
-      "title"    : "рост - это не развитие",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/rost-eto-ne-razvitie/",
-      "date"     : "2023-03-11 08:16:17 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-06-09 13:40:43 +0000"
     } ,
   
     {
@@ -6201,6 +6185,14 @@
     } ,
   
     {
+      "title"    : "django",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/django/",
+      "date"     : "2023-01-27 13:40:44 +0000"
+    } ,
+  
+    {
       "title"    : "2023 01 27 воскресная уборка",
       "category" : "",
       "tags"     : "",
@@ -6393,22 +6385,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-06-09 13:40:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
-    } ,
-  
-    {
       "title"    : "решение модели не равно решение проблемы",
       "category" : "",
       "tags"     : "quotes",
@@ -6422,6 +6398,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302051053/",
       "date"     : "2023-02-05 06:53:14 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-06-09 13:42:07 +0000"
     } ,
   
     {
@@ -6497,6 +6481,22 @@
     } ,
   
     {
+      "title"    : "externalize thinking into environment",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302090837/",
+      "date"     : "2023-02-09 04:37:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Makefile",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/makefile/",
+      "date"     : "2023-02-09 17:47:57 +0000"
+    } ,
+  
+    {
       "title"    : "Building a second brain",
       "category" : "",
       "tags"     : "",
@@ -6510,14 +6510,6 @@
       "tags"     : "",
       "url"      : "/openbox/code/",
       "date"     : "2023-02-11 09:23:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Invert model",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/invert-model/",
-      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -6729,6 +6721,14 @@
     } ,
   
     {
+      "title"    : "рост - это не развитие",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rost-eto-ne-razvitie/",
+      "date"     : "2023-03-11 08:16:17 +0000"
+    } ,
+  
+    {
       "title"    : "Писательство",
       "category" : "",
       "tags"     : "competencies, skills",
@@ -6893,15 +6893,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-06-09 13:40:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Понятийный минимум",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponyatijnyj-minimum/",
-      "date"     : "2021-10-18 20:24:50 +0000"
+      "date"     : "2023-06-09 13:42:07 +0000"
     } ,
   
     {
@@ -6969,11 +6961,27 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-06-09 13:42:07 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-06-09 13:40:43 +0000"
+      "date"     : "2023-06-09 13:42:07 +0000"
     } 
   
 ]
