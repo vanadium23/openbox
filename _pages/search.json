@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-06-23 12:18:45 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-06-23 12:18:45 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-06-23 12:18:45 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -46,6 +46,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -1801,6 +1809,14 @@
     } ,
   
     {
+      "title"    : "Шпаргалка - как не перегрузить",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041111/",
+      "date"     : "2021-10-04 08:11:00 +0000"
+    } ,
+  
+    {
       "title"    : "Читать вслух для хороших предложений",
       "category" : "",
       "tags"     : "quotes",
@@ -3169,6 +3185,14 @@
     } ,
   
     {
+      "title"    : "Пункты создания экономического прогресса",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205141153/",
+      "date"     : "2022-05-14 08:53:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ребёнку надо предлагать еду",
       "category" : "",
       "tags"     : "",
@@ -3246,14 +3270,6 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202205210527/",
       "date"     : "2022-05-21 14:27:19 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-06-23 12:18:45 +0000"
     } ,
   
     {
@@ -3489,6 +3505,14 @@
     } ,
   
     {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -3665,6 +3689,14 @@
     } ,
   
     {
+      "title"    : "Организация удалённой работы",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Архитектура сервиса",
       "category" : "",
       "tags"     : "",
@@ -3726,22 +3758,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-06-09-iteracziya-na-rost-iteracziya-na-pribylnost/",
       "date"     : "2022-06-09 05:42:15 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-06-23 12:18:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Шпаргалка - как не перегрузить",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041111/",
-      "date"     : "2021-10-04 08:11:00 +0000"
     } ,
   
     {
@@ -3822,6 +3838,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206131805/",
       "date"     : "2022-06-13 15:05:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Обратный отсчёт из будущего",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206131812/",
+      "date"     : "2022-06-13 15:12:33 +0000"
     } ,
   
     {
@@ -4049,14 +4073,6 @@
     } ,
   
     {
-      "title"    : "Обратный отсчёт из будущего",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206131812/",
-      "date"     : "2022-06-13 15:12:33 +0000"
-    } ,
-  
-    {
       "title"    : "Децентрилизация принятия решений не всесильна",
       "category" : "",
       "tags"     : "quotes",
@@ -4078,14 +4094,6 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202206250340/",
       "date"     : "2022-06-25 12:40:17 +0000"
-    } ,
-  
-    {
-      "title"    : "Пункты создания экономического прогресса",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205141153/",
-      "date"     : "2022-05-14 08:53:00 +0000"
     } ,
   
     {
@@ -5897,6 +5905,14 @@
     } ,
   
     {
+      "title"    : "Постановка целей",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/postanovka-czelej/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Цикл непрерывных улучшений",
       "category" : "",
       "tags"     : "",
@@ -6201,6 +6217,14 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-06-23 13:37:20 +0000"
+    } ,
+  
+    {
       "title"    : "knowledge workers",
       "category" : "",
       "tags"     : "quotes",
@@ -6281,11 +6305,11 @@
     } ,
   
     {
-      "title"    : "Структурирование заметок",
+      "title"    : "note-taking is like time travel",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/strukturirovanie-zametok/",
-      "date"     : "2023-02-11 17:06:27 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202301311828/",
+      "date"     : "2023-01-31 14:28:35 +0000"
     } ,
   
     {
@@ -6309,39 +6333,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-06-23 12:18:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Организация удалённой работы",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Постановка целей",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/postanovka-czelej/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-06-23 12:18:45 +0000"
-    } ,
-  
-    {
-      "title"    : "note-taking is like time travel",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202301311828/",
-      "date"     : "2023-01-31 14:28:35 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -6566,6 +6558,14 @@
       "tags"     : "",
       "url"      : "/openbox/building-a-second-brain/",
       "date"     : "2023-02-11 09:01:17 +0000"
+    } ,
+  
+    {
+      "title"    : "Структурирование заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/strukturirovanie-zametok/",
+      "date"     : "2023-02-11 17:06:27 +0000"
     } ,
   
     {
@@ -6865,6 +6865,14 @@
     } ,
   
     {
+      "title"    : "лесник и садовник для метафор о систем с людьми",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202303241105/",
+      "date"     : "2023-03-24 07:05:12 +0000"
+    } ,
+  
+    {
       "title"    : "Как задавать вопросы",
       "category" : "",
       "tags"     : "article",
@@ -6965,15 +6973,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-06-23 12:18:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } ,
   
     {
@@ -7057,11 +7057,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-06-23 13:37:20 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-06-23 12:18:45 +0000"
+      "date"     : "2023-06-23 13:37:20 +0000"
     } 
   
 ]
