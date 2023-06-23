@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-06-22 07:34:19 +0000"
+      "date"     : "2023-06-23 12:09:34 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-06-22 07:34:19 +0000"
+      "date"     : "2023-06-23 12:09:34 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-06-22 07:34:19 +0000"
+      "date"     : "2023-06-23 12:09:34 +0000"
     } ,
   
     {
@@ -49,22 +49,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-06-22 07:34:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Шаги ненасильственного общения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112011/",
-      "date"     : "2021-01-11 16:11:06 +0000"
-    } ,
-  
-    {
       "title"    : "Потребности по сути являются ресурсами",
       "category" : "",
       "tags"     : "quotes",
@@ -81,14 +65,6 @@
     } ,
   
     {
-      "title"    : "Критика и диагноз мешают решению конфликта",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112016/",
-      "date"     : "2021-01-11 16:12:09 +0000"
-    } ,
-  
-    {
       "title"    : "Нет - это ещё одна форма потребности",
       "category" : "",
       "tags"     : "quotes",
@@ -102,14 +78,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112020/",
       "date"     : "2021-01-11 16:12:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Неотложная эмпатическая помощь",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112021/",
-      "date"     : "2021-01-11 16:12:49 +0000"
     } ,
   
     {
@@ -137,35 +105,11 @@
     } ,
   
     {
-      "title"    : "Снижайте стресс, проявляя эмпатию к другим",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101122034/",
-      "date"     : "2021-01-12 16:17:52 +0000"
-    } ,
-  
-    {
       "title"    : "Больше благодарности, меньше подавленности",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101122035/",
       "date"     : "2021-01-12 16:18:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Благодарность в ННО",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101122036/",
-      "date"     : "2021-01-12 16:18:57 +0000"
-    } ,
-  
-    {
-      "title"    : "Наш глубочайший страх вызван несоответствием",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101142037/",
-      "date"     : "2021-01-14 16:19:12 +0000"
     } ,
   
     {
@@ -198,6 +142,78 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-06-23 12:09:34 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-06-23 12:09:34 +0000"
+    } ,
+  
+    {
+      "title"    : "Шаги ненасильственного общения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112011/",
+      "date"     : "2021-01-11 16:11:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Разные формы заявления о потребности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112015/",
+      "date"     : "2021-01-11 16:12:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Критика и диагноз мешают решению конфликта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112016/",
+      "date"     : "2021-01-11 16:12:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Неотложная эмпатическая помощь",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112021/",
+      "date"     : "2021-01-11 16:12:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Снижайте стресс, проявляя эмпатию к другим",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101122034/",
+      "date"     : "2021-01-12 16:17:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Благодарность в ННО",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101122036/",
+      "date"     : "2021-01-12 16:18:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Наш глубочайший страх вызван несоответствием",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101142037/",
+      "date"     : "2021-01-14 16:19:12 +0000"
     } ,
   
     {
@@ -1150,6 +1166,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109041056/",
       "date"     : "2021-09-04 07:56:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Для исправления теории социально выбора надо смоделировать творчество",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109041101/",
+      "date"     : "2021-09-04 08:01:00 +0000"
     } ,
   
     {
@@ -2289,6 +2313,14 @@
     } ,
   
     {
+      "title"    : "Как преодолеть противоречия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Модели письма",
       "category" : "",
       "tags"     : "",
@@ -2453,14 +2485,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2830,30 +2854,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/the-logic-of-failure/",
       "date"     : "2022-05-01 06:43:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-06-22 07:34:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Разные формы заявления о потребности",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112015/",
-      "date"     : "2021-01-11 16:12:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Для исправления теории социально выбора надо смоделировать творчество",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109041101/",
-      "date"     : "2021-09-04 08:01:00 +0000"
     } ,
   
     {
@@ -5561,14 +5561,6 @@
     } ,
   
     {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Ecosystems changes companies in established industries",
       "category" : "",
       "tags"     : "quotes",
@@ -5757,6 +5749,14 @@
       "category" : "",
       "tags"     : "courses",
       "url"      : "/openbox/courses/leetcode-detailed-graph/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6289,6 +6289,46 @@
     } ,
   
     {
+      "title"    : "Структурирование заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/strukturirovanie-zametok/",
+      "date"     : "2023-02-11 17:06:27 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-obsidian/",
+      "date"     : "2023-03-26 09:52:58 +0000"
+    } ,
+  
+    {
+      "title"    : "Showcase",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/showcase/",
+      "date"     : "2023-05-21 12:21:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-06-23 12:09:34 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Падение нормы управляемости ведёт к дополнительным менеджерам",
       "category" : "",
       "tags"     : "quotes",
@@ -6537,14 +6577,6 @@
     } ,
   
     {
-      "title"    : "Структурирование заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/strukturirovanie-zametok/",
-      "date"     : "2023-02-11 17:06:27 +0000"
-    } ,
-  
-    {
       "title"    : "способы принятия решений в группых",
       "category" : "",
       "tags"     : "article",
@@ -6598,6 +6630,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302230952/",
       "date"     : "2023-02-23 05:52:09 +0000"
+    } ,
+  
+    {
+      "title"    : "онтология системного мышления",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302240936/",
+      "date"     : "2023-02-24 05:36:47 +0000"
     } ,
   
     {
@@ -6686,22 +6726,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202303050902/",
       "date"     : "2023-03-05 17:02:18 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-06-22 07:34:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Как преодолеть противоречия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -6833,14 +6857,6 @@
     } ,
   
     {
-      "title"    : "Метаданные в obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-obsidian/",
-      "date"     : "2023-03-26 09:52:58 +0000"
-    } ,
-  
-    {
       "title"    : "Как задавать вопросы",
       "category" : "",
       "tags"     : "article",
@@ -6854,22 +6870,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303281033/",
       "date"     : "2023-03-28 06:33:41 +0000"
-    } ,
-  
-    {
-      "title"    : "The Guerrilla Guide to Interviewing",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202303311017/",
-      "date"     : "2023-03-31 06:17:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Javascript",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/javascript/",
-      "date"     : "2023-04-05 07:40:43 +0000"
     } ,
   
     {
@@ -6894,14 +6894,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202304240956/",
       "date"     : "2023-04-24 05:56:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Принцип почтальона",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/princzip-pochtalona/",
-      "date"     : "2023-04-24 06:23:28 +0000"
     } ,
   
     {
@@ -6945,6 +6937,38 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-06-23 12:09:34 +0000"
+    } ,
+  
+    {
+      "title"    : "The Guerrilla Guide to Interviewing",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202303311017/",
+      "date"     : "2023-03-31 06:17:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Javascript",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/javascript/",
+      "date"     : "2023-04-05 07:40:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Принцип почтальона",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/princzip-pochtalona/",
+      "date"     : "2023-04-24 06:23:28 +0000"
+    } ,
+  
+    {
       "title"    : "Выгружать все вещи из головы",
       "category" : "",
       "tags"     : "",
@@ -6958,14 +6982,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202305190954/",
       "date"     : "2023-05-19 05:54:36 +0000"
-    } ,
-  
-    {
-      "title"    : "Showcase",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/showcase/",
-      "date"     : "2023-05-21 12:21:54 +0000"
     } ,
   
     {
@@ -6993,14 +7009,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-06-22 07:34:19 +0000"
-    } ,
-  
-    {
       "title"    : "Obsidian Templater",
       "category" : "",
       "tags"     : "",
@@ -7021,7 +7029,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-06-22 07:34:19 +0000"
+      "date"     : "2023-06-23 12:09:34 +0000"
     } ,
   
     {
@@ -7029,7 +7037,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-06-22 07:34:19 +0000"
+      "date"     : "2023-06-23 12:09:34 +0000"
     } 
   
 ]
