@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } ,
   
     {
@@ -222,6 +222,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142034/",
       "date"     : "2021-06-14 16:34:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Концептуальная модель",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106142031/",
+      "date"     : "2021-06-14 17:30:55 +0000"
     } ,
   
     {
@@ -1953,22 +1961,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-06-26 07:46:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Концептуальная модель",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142031/",
-      "date"     : "2021-06-14 17:30:55 +0000"
-    } ,
-  
-    {
       "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
@@ -2129,14 +2121,6 @@
     } ,
   
     {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
       "title"    : "Timeboxing",
       "category" : "",
       "tags"     : "",
@@ -2206,14 +2190,6 @@
       "tags"     : "",
       "url"      : "/openbox/sostoyanie-potoka/",
       "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Status for ADRs",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111152022/",
-      "date"     : "2021-11-15 17:22:00 +0000"
     } ,
   
     {
@@ -3505,6 +3481,14 @@
     } ,
   
     {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -4089,6 +4073,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-06-27 14:52:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Status for ADRs",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111152022/",
+      "date"     : "2021-11-15 17:22:00 +0000"
+    } ,
+  
+    {
       "title"    : "Стратегический рычаг",
       "category" : "",
       "tags"     : "quotes",
@@ -4265,6 +4265,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-06-27 14:52:13 +0000"
+    } ,
+  
+    {
       "title"    : "Успех - результат пересмотра деталей",
       "category" : "",
       "tags"     : "quotes",
@@ -4382,14 +4390,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sid-meier-s-memoir/",
       "date"     : "2022-07-25 17:39:39 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-06-26 07:46:28 +0000"
     } ,
   
     {
@@ -5877,7 +5877,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } ,
   
     {
@@ -5917,6 +5917,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/postanovka-czelej/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Пункты проведения технического аудита",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/punkty-provedeniya-tehnicheskogo-audita/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6473,27 +6481,27 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-06-27 14:52:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
       "title"    : "Desicion Record Template",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302061404/",
       "date"     : "2023-02-06 10:04:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-06-26 07:46:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
     } ,
   
     {
@@ -7293,7 +7301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } ,
   
     {
@@ -7301,7 +7309,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-06-26 07:46:28 +0000"
+      "date"     : "2023-06-27 14:52:13 +0000"
     } 
   
 ]
