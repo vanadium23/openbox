@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -2201,14 +2201,6 @@
     } ,
   
     {
-      "title"    : "Прагматизм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pragmatizm/",
-      "date"     : "2021-11-02 11:40:24 +0000"
-    } ,
-  
-    {
       "title"    : "Layers for progressive summarization",
       "category" : "",
       "tags"     : "quotes",
@@ -2345,14 +2337,6 @@
     } ,
   
     {
-      "title"    : "Объяснение причин",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obyasnenie-prichin/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -2465,18 +2449,18 @@
     } ,
   
     {
-      "title"    : "Мыслекарта",
+      "title"    : "Как правильно учиться",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
-      "title"    : "Рынок труда   индикатор всего рынка",
+      "title"    : "Мыслекарта",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3505,14 +3489,6 @@
     } ,
   
     {
-      "title"    : "Domain driven design",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/domain-driven-design/",
-      "date"     : "2022-05-30 15:59:16 +0000"
-    } ,
-  
-    {
       "title"    : "Цифровой бункер",
       "category" : "",
       "tags"     : "",
@@ -3701,7 +3677,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -6769,22 +6745,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-07 12:48:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "список предметов интереса по ISO 42010",
       "category" : "",
       "tags"     : "quotes",
@@ -6865,6 +6825,46 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-07 13:35:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Прагматизм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pragmatizm/",
+      "date"     : "2021-11-02 11:40:24 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснение причин",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obyasnenie-prichin/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Рынок труда   индикатор всего рынка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Domain driven design",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/domain-driven-design/",
+      "date"     : "2022-05-30 15:59:16 +0000"
+    } ,
+  
+    {
       "title"    : "рост - это не развитие",
       "category" : "",
       "tags"     : "",
@@ -6942,6 +6942,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303210958/",
       "date"     : "2023-03-21 05:58:37 +0000"
+    } ,
+  
+    {
+      "title"    : "system overload with bubble fever chart",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202303211010/",
+      "date"     : "2023-03-21 06:10:42 +0000"
     } ,
   
     {
@@ -7341,7 +7349,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } ,
   
     {
@@ -7349,7 +7357,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-07 12:48:49 +0000"
+      "date"     : "2023-07-07 13:35:21 +0000"
     } 
   
 ]
