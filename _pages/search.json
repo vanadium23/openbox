@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -49,19 +49,11 @@
     } ,
   
     {
-      "title"    : "Верховный алгоритм",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/verhovnyj-algoritm/",
-      "date"     : "2021-06-04 07:04:22 +0000"
-    } ,
-  
-    {
       "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -69,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -217,6 +209,14 @@
     } ,
   
     {
+      "title"    : "Верховный алгоритм",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/verhovnyj-algoritm/",
+      "date"     : "2021-06-04 07:04:22 +0000"
+    } ,
+  
+    {
       "title"    : "Величайшая задача науки",
       "category" : "",
       "tags"     : "quotes",
@@ -278,6 +278,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106202042/",
       "date"     : "2021-06-20 16:42:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Makefile",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/makefile/",
+      "date"     : "2023-02-09 17:47:57 +0000"
     } ,
   
     {
@@ -2337,14 +2353,6 @@
     } ,
   
     {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -2457,75 +2465,11 @@
     } ,
   
     {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Мыслекарта",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Правила качественной коммуникации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
-      "date"     : "2022-02-06 10:27:56 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление письмом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-pismom/",
-      "date"     : "2022-05-07 17:18:51 +0000"
-    } ,
-  
-    {
-      "title"    : "При походах к врачу лучше доверие, чем запрет эмоций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205131148/",
-      "date"     : "2022-05-13 08:48:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Карта реальности",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/karta-realnosti/",
-      "date"     : "2022-05-22 14:42:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Aggregate forms a transactional consistency boundary",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202205291022/",
-      "date"     : "2022-05-29 07:22:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Cynefin",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cynefin/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-07 12:36:28 +0000"
     } ,
   
     {
@@ -2710,6 +2654,14 @@
       "tags"     : "",
       "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
       "date"     : "2022-01-30 17:55:04 +0000"
+    } ,
+  
+    {
+      "title"    : "Правила качественной коммуникации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
+      "date"     : "2022-02-06 10:27:56 +0000"
     } ,
   
     {
@@ -2961,6 +2913,14 @@
     } ,
   
     {
+      "title"    : "Мышление письмом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-pismom/",
+      "date"     : "2022-05-07 17:18:51 +0000"
+    } ,
+  
+    {
       "title"    : "Мышление должно происходить во вне",
       "category" : "",
       "tags"     : "",
@@ -3193,6 +3153,14 @@
     } ,
   
     {
+      "title"    : "При походах к врачу лучше доверие, чем запрет эмоций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205131148/",
+      "date"     : "2022-05-13 08:48:00 +0000"
+    } ,
+  
+    {
       "title"    : "Иногда лучше вообще не обращаться к врачу",
       "category" : "",
       "tags"     : "",
@@ -3329,6 +3297,14 @@
     } ,
   
     {
+      "title"    : "Карта реальности",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/karta-realnosti/",
+      "date"     : "2022-05-22 14:42:59 +0000"
+    } ,
+  
+    {
       "title"    : "Знать не значит уметь",
       "category" : "",
       "tags"     : "",
@@ -3438,6 +3414,14 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202205280946/",
       "date"     : "2022-05-28 18:46:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Aggregate forms a transactional consistency boundary",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202205291022/",
+      "date"     : "2022-05-29 07:22:54 +0000"
     } ,
   
     {
@@ -3689,6 +3673,14 @@
     } ,
   
     {
+      "title"    : "Cynefin",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cynefin/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Python",
       "category" : "",
       "tags"     : "",
@@ -3702,6 +3694,14 @@
       "tags"     : "",
       "url"      : "/openbox/vesti-proektnyj-dnevnik/",
       "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -5769,6 +5769,14 @@
     } ,
   
     {
+      "title"    : "Структуры данных",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/data-structures/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Digital garden",
       "category" : "",
       "tags"     : "",
@@ -6529,14 +6537,6 @@
     } ,
   
     {
-      "title"    : "Makefile",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/makefile/",
-      "date"     : "2023-02-09 17:47:57 +0000"
-    } ,
-  
-    {
       "title"    : "purpose of knowledge is to be shared",
       "category" : "",
       "tags"     : "quotes",
@@ -6769,19 +6769,27 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-07 12:48:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "список предметов интереса по ISO 42010",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303071006/",
       "date"     : "2023-03-07 06:06:58 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-07 12:36:28 +0000"
     } ,
   
     {
@@ -7333,7 +7341,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } ,
   
     {
@@ -7341,7 +7349,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-07 12:36:28 +0000"
+      "date"     : "2023-07-07 12:48:49 +0000"
     } 
   
 ]
