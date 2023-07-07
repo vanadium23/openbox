@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -86,6 +86,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112014/",
       "date"     : "2021-01-11 16:11:47 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -182,14 +190,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -2465,14 +2465,6 @@
     } ,
   
     {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "Мыслекарта",
       "category" : "",
       "tags"     : "",
@@ -3709,7 +3701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } ,
   
     {
@@ -5737,6 +5729,14 @@
     } ,
   
     {
+      "title"    : "Tameflow",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/tameflow/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Ненасильственное общение",
       "category" : "",
       "tags"     : "books",
@@ -6801,11 +6801,35 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-07 13:45:53 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "необходимо просить сотрудника выполнение по роли",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303080846/",
       "date"     : "2023-03-08 04:46:41 +0000"
+    } ,
+  
+    {
+      "title"    : "agile is for team and not for organizations",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202303091002/",
+      "date"     : "2023-03-09 06:02:26 +0000"
     } ,
   
     {
@@ -6862,14 +6886,6 @@
       "tags"     : "",
       "url"      : "/openbox/articles/razvitie-rebyonka-by-petranovskaya/",
       "date"     : "2023-03-11 07:13:36 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-07 13:40:18 +0000"
     } ,
   
     {
@@ -7273,14 +7289,6 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-07 13:40:18 +0000"
-    } ,
-  
-    {
       "title"    : "all your code will get deleted",
       "category" : "",
       "tags"     : "quotes",
@@ -7369,11 +7377,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-07-07 13:45:53 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-07 13:40:18 +0000"
+      "date"     : "2023-07-07 13:45:53 +0000"
     } 
   
 ]
