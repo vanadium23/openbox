@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -1573,6 +1573,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Техника pomodoro",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnika-pomodoro/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -3701,7 +3709,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } ,
   
     {
@@ -6601,6 +6609,14 @@
     } ,
   
     {
+      "title"    : "unity of purpose through shared mental models",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302140959/",
+      "date"     : "2023-02-14 05:59:04 +0000"
+    } ,
+  
+    {
       "title"    : "Graph",
       "category" : "",
       "tags"     : "",
@@ -6833,6 +6849,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-10 12:28:24 +0000"
+    } ,
+  
+    {
       "title"    : "важных ролей всегда на одну больше",
       "category" : "",
       "tags"     : "quotes",
@@ -6854,14 +6878,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202303090242/",
       "date"     : "2023-03-09 10:42:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-10 11:49:20 +0000"
     } ,
   
     {
@@ -7305,22 +7321,6 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-10 11:49:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Техника pomodoro",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Showcase",
       "category" : "",
       "tags"     : "",
@@ -7401,11 +7401,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-07-10 12:28:24 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-10 11:49:20 +0000"
+      "date"     : "2023-07-10 12:28:24 +0000"
     } 
   
 ]
