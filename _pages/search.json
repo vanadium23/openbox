@@ -5,7 +5,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Para",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/para/",
+      "date"     : "2023-07-11 14:44:41 +0000"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
     } ,
   
     {
@@ -41,19 +49,11 @@
     } ,
   
     {
-      "title"    : "2021 06 03 работа живёт три года",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
-      "date"     : "2021-06-03 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
     } ,
   
     {
@@ -201,6 +201,14 @@
     } ,
   
     {
+      "title"    : "2021 06 03 работа живёт три года",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
+      "date"     : "2021-06-03 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Верховный алгоритм",
       "category" : "book",
       "tags"     : "books",
@@ -273,14 +281,6 @@
     } ,
   
     {
-      "title"    : "No free lunch",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106202044/",
-      "date"     : "2021-06-20 16:44:00 +0000"
-    } ,
-  
-    {
       "title"    : "Понимать предметную область",
       "category" : "",
       "tags"     : "",
@@ -294,6 +294,14 @@
       "tags"     : "",
       "url"      : "/openbox/makefile/",
       "date"     : "2023-02-09 17:47:57 +0000"
+    } ,
+  
+    {
+      "title"    : "No free lunch",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106202044/",
+      "date"     : "2021-06-20 16:44:00 +0000"
     } ,
   
     {
@@ -1569,14 +1577,6 @@
     } ,
   
     {
-      "title"    : "Техника pomodoro",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Учёба впрок",
       "category" : "",
       "tags"     : "",
@@ -2209,6 +2209,14 @@
     } ,
   
     {
+      "title"    : "Перцентили лучше средних",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/perczentili-luchshe-srednih/",
+      "date"     : "2021-11-07 08:28:06 +0000"
+    } ,
+  
+    {
       "title"    : "Состояние потока",
       "category" : "",
       "tags"     : "",
@@ -2445,22 +2453,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/iskrenyaya-pohvala/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Мыслекарта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3693,7 +3685,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
     } ,
   
     {
@@ -6569,22 +6561,6 @@
     } ,
   
     {
-      "title"    : "Para",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/para/",
-      "date"     : "2023-07-11 14:32:32 +0000"
-    } ,
-  
-    {
-      "title"    : "Перцентили лучше средних",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/perczentili-luchshe-srednih/",
-      "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
       "title"    : "Структурирование заметок",
       "category" : "",
       "tags"     : "",
@@ -6630,6 +6606,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/the-little-learner/",
       "date"     : "2023-02-20 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "one thing that prevents to deliver more",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302200912/",
+      "date"     : "2023-02-20 05:12:14 +0000"
     } ,
   
     {
@@ -7033,14 +7017,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-11 14:32:32 +0000"
-    } ,
-  
-    {
       "title"    : "лидерство - как создатель сотрудничества",
       "category" : "",
       "tags"     : "quotes",
@@ -7070,6 +7046,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303261305/",
       "date"     : "2023-03-26 09:05:17 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-11 14:44:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Как правильно учиться",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Мыслекарта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myslekarta/",
+      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -7473,6 +7473,14 @@
     } ,
   
     {
+      "title"    : "common disbeliefs in dialogue",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202306260954/",
+      "date"     : "2023-06-26 05:54:49 +0000"
+    } ,
+  
+    {
       "title"    : "questions for rest of the story",
       "category" : "",
       "tags"     : "quotes",
@@ -7510,6 +7518,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306282132/",
       "date"     : "2023-06-28 17:32:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-07-11 14:44:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Техника pomodoro",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnika-pomodoro/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -7593,19 +7617,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-11 14:32:32 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-11 14:32:32 +0000"
+      "date"     : "2023-07-11 14:44:41 +0000"
     } 
   
 ]
