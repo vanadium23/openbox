@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -49,19 +49,11 @@
     } ,
   
     {
-      "title"    : "2021 05 07 slack   не email",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
-      "date"     : "2021-05-07 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -69,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -201,6 +193,14 @@
     } ,
   
     {
+      "title"    : "2021 05 07 slack   не email",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
+      "date"     : "2021-05-07 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "2021 06 03 работа живёт три года",
       "category" : "",
       "tags"     : "",
@@ -273,14 +273,6 @@
     } ,
   
     {
-      "title"    : "ИЛИ-НЕ - базовый вентиль",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106202042/",
-      "date"     : "2021-06-20 16:42:00 +0000"
-    } ,
-  
-    {
       "title"    : "Понимать предметную область",
       "category" : "",
       "tags"     : "",
@@ -294,6 +286,22 @@
       "tags"     : "",
       "url"      : "/openbox/makefile/",
       "date"     : "2023-02-09 17:47:57 +0000"
+    } ,
+  
+    {
+      "title"    : "ИЛИ-НЕ - базовый вентиль",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106202042/",
+      "date"     : "2021-06-20 16:42:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Правила составления правил",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/articles/pravila-sostavleniya-pravil/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -1489,14 +1497,6 @@
     } ,
   
     {
-      "title"    : "Правила составления правил",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/articles/pravila-sostavleniya-pravil/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "linked list",
       "category" : "",
       "tags"     : "",
@@ -1573,6 +1573,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Техника pomodoro",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnika-pomodoro/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -3701,7 +3709,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } ,
   
     {
@@ -6985,14 +6993,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-11 14:28:39 +0000"
-    } ,
-  
-    {
       "title"    : "The Skill of Org Design",
       "category" : "",
       "tags"     : "article",
@@ -7409,6 +7409,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-11 14:29:39 +0000"
+    } ,
+  
+    {
       "title"    : "Omg essense",
       "category" : "",
       "tags"     : "",
@@ -7446,22 +7454,6 @@
       "tags"     : "",
       "url"      : "/openbox/voprosy-po-zaversheniyu-proekta/",
       "date"     : "2023-06-22 07:30:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-11 14:28:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Техника pomodoro",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -7521,6 +7513,22 @@
     } ,
   
     {
+      "title"    : "ABCs for short dialogues",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202306282134/",
+      "date"     : "2023-06-28 17:34:06 +0000"
+    } ,
+  
+    {
+      "title"    : "four listening skills to retrace other path",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202306282135/",
+      "date"     : "2023-06-28 17:34:40 +0000"
+    } ,
+  
+    {
       "title"    : "морали антибюрократа",
       "category" : "",
       "tags"     : "quotes",
@@ -7545,11 +7553,19 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-07-11 14:29:39 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-11 14:28:39 +0000"
+      "date"     : "2023-07-11 14:29:39 +0000"
     } 
   
 ]
