@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -78,6 +78,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112012/",
       "date"     : "2021-01-11 16:11:19 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 05 07 slack   не email",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
+      "date"     : "2021-05-07 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 06 03 работа живёт три года",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
+      "date"     : "2021-06-03 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Верховный алгоритм",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/verhovnyj-algoritm/",
+      "date"     : "2021-06-04 07:04:22 +0000"
     } ,
   
     {
@@ -190,30 +214,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
       "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 05 07 slack   не email",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
-      "date"     : "2021-05-07 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 06 03 работа живёт три года",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
-      "date"     : "2021-06-03 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Верховный алгоритм",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/verhovnyj-algoritm/",
-      "date"     : "2021-06-04 07:04:22 +0000"
     } ,
   
     {
@@ -1577,14 +1577,6 @@
     } ,
   
     {
-      "title"    : "Техника pomodoro",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Учёба впрок",
       "category" : "",
       "tags"     : "",
@@ -1918,14 +1910,6 @@
       "tags"     : "",
       "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
       "date"     : "2021-10-11 08:40:52 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
     } ,
   
     {
@@ -2465,18 +2449,18 @@
     } ,
   
     {
-      "title"    : "Мыслекарта",
+      "title"    : "Как правильно учиться",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
+      "url"      : "/openbox/kak-pravilno-uchitsya/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
-      "title"    : "Рынок труда   индикатор всего рынка",
+      "title"    : "Мыслекарта",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -3701,7 +3685,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } ,
   
     {
@@ -5441,14 +5425,6 @@
     } ,
   
     {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
-    } ,
-  
-    {
       "title"    : "Strategy is action plan with minimal expected free energy",
       "category" : "",
       "tags"     : "quotes",
@@ -6617,11 +6593,35 @@
     } ,
   
     {
+      "title"    : "main flows and questions around them",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302130843/",
+      "date"     : "2023-02-13 04:43:20 +0000"
+    } ,
+  
+    {
+      "title"    : "mental models are tacit",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302130847/",
+      "date"     : "2023-02-13 04:47:43 +0000"
+    } ,
+  
+    {
       "title"    : "unity of purpose through shared mental models",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302140959/",
       "date"     : "2023-02-14 05:59:04 +0000"
+    } ,
+  
+    {
+      "title"    : "at 90% utilization most of time will be in queue",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302150915/",
+      "date"     : "2023-02-15 05:15:44 +0000"
     } ,
   
     {
@@ -7057,22 +7057,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-07-12 12:39:31 +0000"
-    } ,
-  
-    {
-      "title"    : "Как правильно учиться",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "лидерство - как создатель сотрудничества",
       "category" : "",
       "tags"     : "quotes",
@@ -7134,6 +7118,38 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303281033/",
       "date"     : "2023-03-28 06:33:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-07-12 12:41:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Рынок труда   индикатор всего рынка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
     } ,
   
     {
@@ -7553,6 +7569,22 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-07-12 12:41:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Техника pomodoro",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnika-pomodoro/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "ABCs for short dialogues",
       "category" : "",
       "tags"     : "quotes",
@@ -7633,19 +7665,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-07-12 12:39:31 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-07-12 12:39:31 +0000"
+      "date"     : "2023-07-12 12:41:55 +0000"
     } 
   
 ]
