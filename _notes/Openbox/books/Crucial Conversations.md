@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Crucial Conversations","category":"book","status":"Completed","tags":["books"],"rating":3,"date":"2023-02-13","modified_at":"2023-07-16T19:29:45+03:00","dg-path":"/books/Crucial Conversations.md","permalink":"/books/crucial-conversations/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Crucial Conversations","category":"book","status":"Completed","tags":["books"],"rating":3,"date":"2023-02-13","modified_at":"2023-07-16T19:32:24+03:00","dg-path":"/books/Crucial Conversations.md","permalink":"/books/crucial-conversations/","dgPassFrontmatter":true}
 ---
 
 
@@ -50,5 +50,5 @@
 ## Задачи
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels 📅 2023-07-15 ✅ 2023-07-11
-- [ ] #task Написать выдержку из книги ⏳ 2023-07-16
+- [x] #task Написать выдержку из книги ⏳ 2023-07-16 ✅ 2023-07-16
 - [ ] #task Доработать свои заметки на основе идей из книг
