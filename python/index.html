@@ -58,8 +58,8 @@
       </time>&middot;
       
       
-      <time datetime="2023-05-09T13:26:44+00:00">
-        Обновлено 2023-05-09
+      <time datetime="2023-08-02T13:03:12+00:00">
+        Обновлено 2023-08-02
         
       </time>
       
@@ -146,6 +146,29 @@ find <span class="nb">.</span> <span class="nt">-type</span> d <span class="nt">
 </span>    <span class="n">letters</span> <span class="o">=</span> <span class="n">string</span><span class="p">.</span><span class="n">ascii_lowercase</span>
     <span class="n">result_str</span> <span class="o">=</span> <span class="s">''</span><span class="p">.</span><span class="n">join</span><span class="p">(</span><span class="n">random</span><span class="p">.</span><span class="n">choice</span><span class="p">(</span><span class="n">letters</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">length</span><span class="p">))</span>
     <span class="k">return</span> <span class="n">result_str</span>
+</code></pre></div></div>
+
+<p>Дебаг всех http запросов:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+
+<span class="c1"># These two lines enable debugging at httplib level (requests-&gt;urllib3-&gt;http.client)
+# You will see the REQUEST, including HEADERS and DATA, and RESPONSE with HEADERS but without DATA.
+# The only thing missing will be the response.body which is not logged.
+</span><span class="k">try</span><span class="p">:</span>
+    <span class="kn">import</span> <span class="nn">http.client</span> <span class="k">as</span> <span class="n">http_client</span>
+<span class="k">except</span> <span class="nb">ImportError</span><span class="p">:</span>
+    <span class="c1"># Python 2
+</span>    <span class="kn">import</span> <span class="nn">httplib</span> <span class="k">as</span> <span class="n">http_client</span>
+<span class="n">http_client</span><span class="p">.</span><span class="n">HTTPConnection</span><span class="p">.</span><span class="n">debuglevel</span> <span class="o">=</span> <span class="mi">1</span>
+
+<span class="c1"># You must initialize logging, otherwise you'll not see debug output.
+</span><span class="n">logging</span><span class="p">.</span><span class="n">basicConfig</span><span class="p">()</span>
+<span class="n">logging</span><span class="p">.</span><span class="n">getLogger</span><span class="p">().</span><span class="n">setLevel</span><span class="p">(</span><span class="n">logging</span><span class="p">.</span><span class="n">DEBUG</span><span class="p">)</span>
+<span class="n">requests_log</span> <span class="o">=</span> <span class="n">logging</span><span class="p">.</span><span class="n">getLogger</span><span class="p">(</span><span class="s">"requests.packages.urllib3"</span><span class="p">)</span>
+<span class="n">requests_log</span><span class="p">.</span><span class="n">setLevel</span><span class="p">(</span><span class="n">logging</span><span class="p">.</span><span class="n">DEBUG</span><span class="p">)</span>
+<span class="n">requests_log</span><span class="p">.</span><span class="n">propagate</span> <span class="o">=</span> <span class="bp">True</span>
+
 </code></pre></div></div>
 
 <h2 id="типовые-структуры-данных">Типовые структуры данных</h2>
