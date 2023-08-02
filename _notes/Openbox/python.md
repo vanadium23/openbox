@@ -1,12 +1,12 @@
 ---
-{"toc":true,"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-05-09T17:26:44+04:00","permalink":"/python/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2023-08-02T16:03:12+03:00","dg-path":"/python.md","permalink":"/python/","dgPassFrontmatter":true}
 ---
 
 
 > "Python is a second best language for all" (c) don't know
 
 Язык программирования разработанный Гвидо ван Россумом в качестве ответа на запрос простоты яыка в среде математиков.
-Хорош исходя из описание для всего, но в первую очередь используется в качестве языка для [[backend]] разработки, для [[machine learning]] и для написания [[cli]] утилит.
+Хорош исходя из описание для всего, но в первую очередь используется в качестве языка для [[backend\|backend]] разработки, для [[Life/Education/competencies/machine learning\|machine learning]] и для написания [[cli\|cli]] утилит.
 
 ## Менеджмент зависимостей
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Полезности
 
-Удаление кеша от CPython, но лучше настроить себе [[makefile]]:
+Удаление кеша от CPython, но лучше настроить себе [[Openbox/makefile\|makefile]]:
 
 ```shell
 find . -type f -name "*.py[co]" -delete
@@ -73,6 +73,30 @@ def get_random_string(length):
     letters = string.ascii_lowercase
     result_str = ''.join(random.choice(letters) for i in range(length))
     return result_str
+```
+
+Дебаг всех http запросов:
+```python
+import requests
+import logging
+
+# These two lines enable debugging at httplib level (requests->urllib3->http.client)
+# You will see the REQUEST, including HEADERS and DATA, and RESPONSE with HEADERS but without DATA.
+# The only thing missing will be the response.body which is not logged.
+try:
+    import http.client as http_client
+except ImportError:
+    # Python 2
+    import httplib as http_client
+http_client.HTTPConnection.debuglevel = 1
+
+# You must initialize logging, otherwise you'll not see debug output.
+logging.basicConfig()
+logging.getLogger().setLevel(logging.DEBUG)
+requests_log = logging.getLogger("requests.packages.urllib3")
+requests_log.setLevel(logging.DEBUG)
+requests_log.propagate = True
+
 ```
 
 ## Типовые структуры данных
