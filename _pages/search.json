@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -49,59 +49,11 @@
     } ,
   
     {
-      "title"    : "Шаги ненасильственного общения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112011/",
-      "date"     : "2021-01-11 16:11:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Невежество в воспитательных процессах",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112027/",
-      "date"     : "2021-01-11 16:16:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Благодарность в ННО",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101122036/",
-      "date"     : "2021-01-12 16:18:57 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 05 07 slack   не email",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
-      "date"     : "2021-05-07 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 06 03 работа живёт три года",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
-      "date"     : "2021-06-03 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Evergreen",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -109,7 +61,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Шаги ненасильственного общения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112011/",
+      "date"     : "2021-01-11 16:11:06 +0000"
     } ,
   
     {
@@ -177,6 +137,14 @@
     } ,
   
     {
+      "title"    : "Невежество в воспитательных процессах",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112027/",
+      "date"     : "2021-01-11 16:16:29 +0000"
+    } ,
+  
+    {
       "title"    : "чего я хочу от человека?",
       "category" : "",
       "tags"     : "quotes",
@@ -201,11 +169,43 @@
     } ,
   
     {
+      "title"    : "Благодарность в ННО",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101122036/",
+      "date"     : "2021-01-12 16:18:57 +0000"
+    } ,
+  
+    {
       "title"    : "Наш глубочайший страх вызван несоответствием",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 05 07 slack   не email",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
+      "date"     : "2021-05-07 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 06 03 работа живёт три года",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
+      "date"     : "2021-06-03 09:31:40 +0000"
     } ,
   
     {
@@ -817,14 +817,6 @@
     } ,
   
     {
-      "title"    : "Эмерджентность помогает строить объяснения.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122039/",
-      "date"     : "2021-08-12 17:39:00 +0000"
-    } ,
-  
-    {
       "title"    : "Лучший удел физической теории - указывать путь создания новой",
       "category" : "",
       "tags"     : "quotes",
@@ -913,6 +905,14 @@
     } ,
   
     {
+      "title"    : "Скачок к универсальности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108152019/",
+      "date"     : "2021-08-15 17:19:00 +0000"
+    } ,
+  
+    {
       "title"    : "Нужда-настойчивость-назойливость",
       "category" : "",
       "tags"     : "quotes",
@@ -953,11 +953,11 @@
     } ,
   
     {
-      "title"    : "Скачок к универсальности",
+      "title"    : "Эмерджентность помогает строить объяснения.",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108152019/",
-      "date"     : "2021-08-15 17:19:00 +0000"
+      "url"      : "/openbox/quotes/202108122039/",
+      "date"     : "2021-08-12 17:39:00 +0000"
     } ,
   
     {
@@ -1201,6 +1201,14 @@
     } ,
   
     {
+      "title"    : "Красота в форме",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109061220/",
+      "date"     : "2021-09-06 09:20:00 +0000"
+    } ,
+  
+    {
       "title"    : "Большая часть идей испытываются в воображении",
       "category" : "",
       "tags"     : "quotes",
@@ -1318,14 +1326,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/pishi-sokrashhaj/",
       "date"     : "2021-09-16 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Красота в форме",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109061220/",
-      "date"     : "2021-09-06 09:20:00 +0000"
     } ,
   
     {
@@ -1897,14 +1897,6 @@
     } ,
   
     {
-      "title"    : "Ставь ограничения на издержки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
-      "date"     : "2021-10-11 08:40:52 +0000"
-    } ,
-  
-    {
       "title"    : "Система оценок",
       "category" : "",
       "tags"     : "",
@@ -1977,27 +1969,11 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-08-11 12:11:17 +0000"
-    } ,
-  
-    {
       "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
       "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Здравый смысл в тексте",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110211614/",
-      "date"     : "2021-10-21 13:14:00 +0000"
     } ,
   
     {
@@ -2086,6 +2062,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110242321/",
       "date"     : "2021-10-24 20:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-08-11 12:13:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Ставь ограничения на издержки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
+      "date"     : "2021-10-11 08:40:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Здравый смысл в тексте",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110211614/",
+      "date"     : "2021-10-21 13:14:00 +0000"
     } ,
   
     {
@@ -2401,14 +2401,6 @@
     } ,
   
     {
-      "title"    : "Способ борьбы с психологической инерцией",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201151328/",
-      "date"     : "2022-01-15 10:28:00 +0000"
-    } ,
-  
-    {
       "title"    : "Aerospike",
       "category" : "",
       "tags"     : "",
@@ -2566,6 +2558,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-01-24-ajsberg-informaczii/",
       "date"     : "2022-01-24 07:03:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Способ борьбы с психологической инерцией",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201151328/",
+      "date"     : "2022-01-15 10:28:00 +0000"
     } ,
   
     {
@@ -4249,14 +4249,6 @@
     } ,
   
     {
-      "title"    : "Unittest vs pytest",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/unittest-vs-pytest/",
-      "date"     : "2022-07-04 18:38:20 +0000"
-    } ,
-  
-    {
       "title"    : "Рост - это награда за успех",
       "category" : "",
       "tags"     : "quotes",
@@ -4294,6 +4286,14 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202207120821/",
       "date"     : "2022-07-12 05:21:10 +0000"
+    } ,
+  
+    {
+      "title"    : "Unittest vs pytest",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/unittest-vs-pytest/",
+      "date"     : "2022-07-04 18:38:20 +0000"
     } ,
   
     {
@@ -7561,6 +7561,30 @@
     } ,
   
     {
+      "title"    : "module needs simple interface, and not implementation",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305120920/",
+      "date"     : "2023-05-12 05:20:41 +0000"
+    } ,
+  
+    {
+      "title"    : "indications that two pieces of code are related",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305130845/",
+      "date"     : "2023-05-13 04:45:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Conjoined Methods",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305130858/",
+      "date"     : "2023-05-13 04:58:46 +0000"
+    } ,
+  
+    {
       "title"    : "The Rule of Artificial Neurons",
       "category" : "",
       "tags"     : "quotes",
@@ -7949,7 +7973,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -7957,7 +7981,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } ,
   
     {
@@ -7965,7 +7989,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-08-11 12:11:17 +0000"
+      "date"     : "2023-08-11 12:13:50 +0000"
     } 
   
 ]
