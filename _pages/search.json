@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-08-11 12:03:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -53,7 +45,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -102,6 +102,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112019/",
       "date"     : "2021-01-11 16:12:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Медиатор помогает сторонам, а не выбирает одну из них",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112020/",
+      "date"     : "2021-01-11 16:12:42 +0000"
     } ,
   
     {
@@ -198,22 +206,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-08-11 12:03:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Медиатор помогает сторонам, а не выбирает одну из них",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112020/",
-      "date"     : "2021-01-11 16:12:42 +0000"
     } ,
   
     {
@@ -713,14 +705,6 @@
     } ,
   
     {
-      "title"    : "Наука предсказывает события, которые были невозможны.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108020831/",
-      "date"     : "2021-08-02 05:31:00 +0000"
-    } ,
-  
-    {
       "title"    : "Начало бесконечности",
       "category" : "book",
       "tags"     : "books",
@@ -806,14 +790,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122025/",
       "date"     : "2021-08-12 17:25:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Неодарвинизм - это теория репликаторов.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122027/",
-      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -929,6 +905,14 @@
     } ,
   
     {
+      "title"    : "Пространство смыслов амодально",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108220819/",
+      "date"     : "2021-08-22 05:19:00 +0000"
+    } ,
+  
+    {
       "title"    : "Визуальная коммуникация",
       "category" : "",
       "tags"     : "quotes",
@@ -950,14 +934,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/vizualnoe-myshlenie/",
       "date"     : "2021-08-22 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Пространство смыслов амодально",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220819/",
-      "date"     : "2021-08-22 05:19:00 +0000"
     } ,
   
     {
@@ -1905,83 +1881,19 @@
     } ,
   
     {
-      "title"    : "Понятийный минимум",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponyatijnyj-minimum/",
-      "date"     : "2021-10-18 20:24:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Автору придётся разобраться, кто его читатель",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110191231/",
-      "date"     : "2021-10-19 09:31:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Построение объяснений в тексте",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110191238/",
-      "date"     : "2021-10-19 09:38:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Теги неэффективная система",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Earnestness is passion for its own sake",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110241001/",
-      "date"     : "2021-10-24 07:01:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Пишите только о пользе для других",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110242318/",
-      "date"     : "2021-10-24 20:18:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Пример описание сайта",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110242321/",
-      "date"     : "2021-10-24 20:21:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-08-11 12:03:28 +0000"
-    } ,
-  
-    {
       "title"    : "Система оценок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/sistema-oczenok/",
       "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Понятийный минимум",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponyatijnyj-minimum/",
+      "date"     : "2021-10-18 20:24:50 +0000"
     } ,
   
     {
@@ -1998,6 +1910,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110191227/",
       "date"     : "2021-10-19 09:27:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Автору придётся разобраться, кто его читатель",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110191231/",
+      "date"     : "2021-10-19 09:31:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Построение объяснений в тексте",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110191238/",
+      "date"     : "2021-10-19 09:38:00 +0000"
     } ,
   
     {
@@ -2021,6 +1949,38 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/map-of-content/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-08-11 12:04:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Наука предсказывает события, которые были невозможны.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108020831/",
+      "date"     : "2021-08-02 05:31:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Неодарвинизм - это теория репликаторов.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122027/",
+      "date"     : "2021-08-12 17:27:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Теги неэффективная система",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
       "date"     : "2021-10-21 07:09:08 +0000"
     } ,
   
@@ -2065,11 +2025,27 @@
     } ,
   
     {
+      "title"    : "Earnestness is passion for its own sake",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110241001/",
+      "date"     : "2021-10-24 07:01:00 +0000"
+    } ,
+  
+    {
       "title"    : "Make process policies explicit",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110241035/",
       "date"     : "2021-10-24 07:35:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -2086,6 +2062,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110242317/",
       "date"     : "2021-10-24 20:17:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Пишите только о пользе для других",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110242318/",
+      "date"     : "2021-10-24 20:18:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Пример описание сайта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110242321/",
+      "date"     : "2021-10-24 20:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -7489,6 +7489,14 @@
     } ,
   
     {
+      "title"    : "unknown unknowns are the worst",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305090957/",
+      "date"     : "2023-05-09 05:57:39 +0000"
+    } ,
+  
+    {
       "title"    : "The Rule of Artificial Neurons",
       "category" : "",
       "tags"     : "quotes",
@@ -7877,7 +7885,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -7885,7 +7893,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
     } ,
   
     {
@@ -7893,7 +7901,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-08-11 12:03:28 +0000"
+      "date"     : "2023-08-11 12:04:50 +0000"
     } 
   
 ]
