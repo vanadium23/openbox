@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-08-11 12:21:24 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -53,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -1185,6 +1177,14 @@
     } ,
   
     {
+      "title"    : "Научные теории сложно менять, потому что не зависят от культуры",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109061215/",
+      "date"     : "2021-09-06 09:15:00 +0000"
+    } ,
+  
+    {
       "title"    : "Красота в форме",
       "category" : "",
       "tags"     : "quotes",
@@ -1425,14 +1425,6 @@
     } ,
   
     {
-      "title"    : "Формализм не должен вредить пользе",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221350/",
-      "date"     : "2021-09-22 10:50:00 +0000"
-    } ,
-  
-    {
       "title"    : "Сглаженные углы создают ложь",
       "category" : "",
       "tags"     : "quotes",
@@ -1481,11 +1473,27 @@
     } ,
   
     {
-      "title"    : "Навыки полководца",
+      "title"    : "Находить правду в статистике",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208100900/",
-      "date"     : "2022-08-10 06:00:19 +0000"
+      "url"      : "/openbox/quotes/202109231048/",
+      "date"     : "2021-09-23 07:48:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Объяснить по цепочке для сложных сущностей",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041108/",
+      "date"     : "2021-10-04 08:08:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Reason for PHP to be popular",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209012134/",
+      "date"     : "2022-09-01 18:34:24 +0000"
     } ,
   
     {
@@ -1493,7 +1501,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -1625,11 +1633,11 @@
     } ,
   
     {
-      "title"    : "Находить правду в статистике",
+      "title"    : "Про ложь и брехню",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231048/",
-      "date"     : "2021-09-23 07:48:00 +0000"
+      "url"      : "/openbox/quotes/202109231045/",
+      "date"     : "2021-09-23 07:45:00 +0000"
     } ,
   
     {
@@ -1798,14 +1806,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110041106/",
       "date"     : "2021-10-04 08:06:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Объяснить по цепочке для сложных сущностей",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041108/",
-      "date"     : "2021-10-04 08:08:00 +0000"
     } ,
   
     {
@@ -3889,6 +3889,14 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-08-11 12:22:38 +0000"
+    } ,
+  
+    {
       "title"    : "Решения   это ставки",
       "category" : "",
       "tags"     : "",
@@ -4529,6 +4537,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-08-11 12:22:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Формализм не должен вредить пользе",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221350/",
+      "date"     : "2021-09-22 10:50:00 +0000"
+    } ,
+  
+    {
       "title"    : "Facebook decline",
       "category" : "",
       "tags"     : "article, chernov_sharit",
@@ -4582,6 +4606,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208091839/",
       "date"     : "2022-08-09 15:39:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Навыки полководца",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208100900/",
+      "date"     : "2022-08-10 06:00:19 +0000"
     } ,
   
     {
@@ -5049,6 +5081,14 @@
     } ,
   
     {
+      "title"    : "People can damage with wasting time",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208302152/",
+      "date"     : "2022-08-30 18:52:07 +0000"
+    } ,
+  
+    {
       "title"    : "Booting the behavior, rather than person",
       "category" : "",
       "tags"     : "quotes",
@@ -5078,14 +5118,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209011043/",
       "date"     : "2022-09-01 07:43:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Persuasion by proxy",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209011536/",
-      "date"     : "2022-09-01 12:36:49 +0000"
     } ,
   
     {
@@ -5142,14 +5174,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209012131/",
       "date"     : "2022-09-01 18:31:57 +0000"
-    } ,
-  
-    {
-      "title"    : "Reason for PHP to be popular",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209012134/",
-      "date"     : "2022-09-01 18:34:24 +0000"
     } ,
   
     {
@@ -5745,30 +5769,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-08-11 12:21:24 +0000"
-    } ,
-  
-    {
-      "title"    : "Научные теории сложно менять, потому что не зависят от культуры",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109061215/",
-      "date"     : "2021-09-06 09:15:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Про ложь и брехню",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231045/",
-      "date"     : "2021-09-23 07:45:00 +0000"
-    } ,
-  
-    {
       "title"    : "Leetcode detailed graph",
       "category" : "",
       "tags"     : "courses",
@@ -5793,11 +5793,11 @@
     } ,
   
     {
-      "title"    : "People can damage with wasting time",
+      "title"    : "Persuasion by proxy",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208302152/",
-      "date"     : "2022-08-30 18:52:07 +0000"
+      "url"      : "/openbox/quotes/202209011536/",
+      "date"     : "2022-09-01 12:36:49 +0000"
     } ,
   
     {
@@ -7785,6 +7785,30 @@
     } ,
   
     {
+      "title"    : "Implementation Documentation Contaminates Interface",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305230925/",
+      "date"     : "2023-05-23 05:25:03 +0000"
+    } ,
+  
+    {
+      "title"    : "bug about variable naming",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305250826/",
+      "date"     : "2023-05-25 04:26:47 +0000"
+    } ,
+  
+    {
+      "title"    : "names are a form of abstraction",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305250828/",
+      "date"     : "2023-05-25 04:28:16 +0000"
+    } ,
+  
+    {
       "title"    : "Эпистомология",
       "category" : "",
       "tags"     : "competencies",
@@ -7878,6 +7902,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306260959/",
       "date"     : "2023-06-26 05:59:07 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -8013,15 +8045,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-08-11 12:21:24 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } ,
   
     {
@@ -8029,7 +8053,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-08-11 12:21:24 +0000"
+      "date"     : "2023-08-11 12:22:38 +0000"
     } 
   
 ]
