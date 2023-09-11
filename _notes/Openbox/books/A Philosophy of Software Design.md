@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"A Philosophy of Software Design","category":"book","status":"Reviewing","tags":["books"],"rating":5,"date":"2023-04-22","modified_at":"2023-09-11T11:17:00+03:00","dg-path":"/books/A Philosophy of Software Design.md","permalink":"/books/a-philosophy-of-software-design/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"A Philosophy of Software Design","category":"book","status":"Completed","tags":["books"],"rating":5,"date":"2023-04-22","modified_at":"2023-09-11T11:17:19+03:00","dg-path":"/books/A Philosophy of Software Design.md","permalink":"/books/a-philosophy-of-software-design/","dgPassFrontmatter":true}
 ---
 
 
