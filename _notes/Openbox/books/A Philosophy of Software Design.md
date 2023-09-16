@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"A Philosophy of Software Design","category":"book","status":"Completed","tags":["books"],"rating":5,"date":"2023-04-22","modified_at":"2023-09-11T11:17:19+03:00","dg-path":"/books/A Philosophy of Software Design.md","permalink":"/books/a-philosophy-of-software-design/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"A Philosophy of Software Design","category":"book","status":"Completed","tags":["books"],"rating":5,"date":"2023-04-22","modified_at":"2023-09-16T11:36:45+03:00","dg-path":"/books/A Philosophy of Software Design.md","permalink":"/books/a-philosophy-of-software-design/","dgPassFrontmatter":true}
 ---
 
 
@@ -32,14 +32,14 @@
 - [[Openbox/quotes/202305100922\|202305100922]]: to manage deps you introduce interface
 - [[Openbox/quotes/202305100923\|202305100923]]: best modules are those whose interfaces are much simpler than their implementations
 - [[Openbox/quotes/202305100927\|202305100927]]: deep and shallow modules
-- [[Openbox/quotes/202305100932\|202305100932]]: shallow module
 - [[Openbox/quotes/202305110916\|202305110916]]: information leakage
+- [[Openbox/quotes/202305100932\|202305100932]]: shallow module
 - [[Openbox/quotes/202305110925\|202305110925]]: information hiding and deep modules are closely related
 - [[Openbox/quotes/202305120920\|202305120920]]: module needs simple interface, and not implementation
 - [[Openbox/quotes/202305130845\|202305130845]]: indications that two pieces of code are related
 - [[Openbox/quotes/202305131153\|202305131153]]: exceptions are part of interface
-- [[Openbox/quotes/202305140913\|202305140913]]: design it twice
 - [[Openbox/quotes/202305140921\|202305140921]]: comment is an abstraction to code
+- [[Openbox/quotes/202305140913\|202305140913]]: design it twice
 - [[Openbox/quotes/202305140924\|202305140924]]: comments capture information from designer mind
 - [[Openbox/quotes/202305230914\|202305230914]]: comments can fill missing details
 - [[Openbox/quotes/202305230925\|202305230925]]: Implementation Documentation Contaminates Interface
