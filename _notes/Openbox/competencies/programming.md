@@ -1,5 +1,5 @@
 ---
-{"toc":true,"dg-publish":true,"tags":["competencies","skills"],"aliases":["разработка","coding"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-09-16T16:57:15+03:00","dg-path":"/competencies/programming.md","permalink":"/competencies/programming/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"tags":["competencies","skills"],"aliases":["разработка","coding"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-09-16T17:02:40+03:00","dg-path":"/competencies/programming.md","permalink":"/competencies/programming/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,7 +19,7 @@
 - [[Openbox/абстрагирование\|абстрагирование]]
 - [[Openbox/связность\|связность]]
 
-Если посмотреть на этот список, то можно заметить что они выстроены вокруг [[Openbox/скрытия информации\|скрытия информации]] для управления сложностью.
+Если посмотреть на этот список, то можно заметить что они выстроены вокруг [[Openbox/скрытиe информации\|скрытия информации]] для управления сложностью.
 
 ## Где изучать
 
