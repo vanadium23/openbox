@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2023-01-14T15:47:29+04:00","modified_at":"2023-02-23T21:17:20+04:00","permalink":"/ssh/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2023-01-14T15:47:29+04:00","modified_at":"2023-09-21T21:18:49+04:00","dg-path":"/ssh.md","permalink":"/ssh/","dgPassFrontmatter":true}
 ---
 
 # SSH (Secure SHell)
@@ -32,3 +32,10 @@ ssh -R 8080:localhost:8888 example.server
 ```
 
 Подробный [мануал](https://www.ssh.com/academy/ssh/tunneling-example#remote-forwarding).
+
+![Красивая картинка](https://iximiuz.com/ssh-tunnels/ssh-tunnels.png)
+
+## Материалы
+
+- https://grahamhelton.com/blog/ssh-cheatsheet/
+- 
