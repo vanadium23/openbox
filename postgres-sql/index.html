@@ -58,8 +58,8 @@
       </time>&middot;
       
       
-      <time datetime="2023-01-08T16:06:15+00:00">
-        Обновлено 2023-01-08
+      <time datetime="2023-09-29T06:23:25+00:00">
+        Обновлено 2023-09-29
         
       </time>
       
@@ -77,6 +77,11 @@
 <div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">create</span> <span class="k">database</span> <span class="n">mydb</span><span class="p">;</span>
 <span class="k">create</span> <span class="k">user</span> <span class="n">myuser</span> <span class="k">with</span> <span class="k">encrypted</span> <span class="n">password</span> <span class="s1">'mypass'</span><span class="p">;</span>
 <span class="k">grant</span> <span class="k">all</span> <span class="k">privileges</span> <span class="k">on</span> <span class="k">database</span> <span class="n">mydb</span> <span class="k">to</span> <span class="n">myuser</span><span class="p">;</span>
+
+<span class="c1">-- если база данных уже была, то надо выдать ещё ко всем таблицам и sequence, не забыв сменить базу</span>
+<span class="err">\</span><span class="k">c</span> <span class="n">mydb</span><span class="p">;</span>
+<span class="k">GRANT</span> <span class="k">ALL</span> <span class="k">PRIVILEGES</span> <span class="k">ON</span> <span class="k">ALL</span> <span class="n">TABLES</span> <span class="k">IN</span> <span class="k">SCHEMA</span> <span class="k">public</span> <span class="k">TO</span> <span class="n">my_user</span><span class="p">;</span>
+<span class="k">GRANT</span> <span class="k">ALL</span> <span class="k">PRIVILEGES</span> <span class="k">ON</span> <span class="k">ALL</span> <span class="n">SEQUENCES</span> <span class="k">IN</span> <span class="k">SCHEMA</span> <span class="k">public</span> <span class="k">TO</span> <span class="n">my_user</span><span class="p">;</span>
 
 <span class="c1">--- выдать доступ ко всем таблицам</span>
 <span class="k">GRANT</span> <span class="k">SELECT</span> <span class="k">ON</span> <span class="k">ALL</span> <span class="n">TABLES</span> <span class="k">IN</span> <span class="k">SCHEMA</span> <span class="k">public</span> <span class="k">TO</span> <span class="k">user</span><span class="p">;</span>
