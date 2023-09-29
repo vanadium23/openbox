@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-14T10:11:13+04:00","modified_at":"2023-01-08T20:06:15+04:00","dg-path":"/PostgresSQL.md","permalink":"/postgres-sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-14T10:11:13+04:00","modified_at":"2023-09-29T10:23:25+04:00","dg-path":"/PostgresSQL.md","permalink":"/postgres-sql/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,6 +12,11 @@
 create database mydb;
 create user myuser with encrypted password 'mypass';
 grant all privileges on database mydb to myuser;
+
+-- если база данных уже была, то надо выдать ещё ко всем таблицам и sequence, не забыв сменить базу
+\c mydb;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO my_user;
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO my_user;
 
 --- выдать доступ ко всем таблицам
 GRANT SELECT ON ALL TABLES IN SCHEMA public TO user;
