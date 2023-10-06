@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"up":"[[Courses]]","tags":["courses"],"rating":5,"source":"https://stepik.org/course/76/","date":"2023-01-14T12:31:40+03:00","modified_at":"2023-10-06T10:08:46+04:00","dg-path":"/courses/stepik Основы статистики.md","permalink":"/courses/stepik-osnovy-statistiki/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Courses]]","tags":["courses"],"rating":5,"source":"https://stepik.org/course/76/","date":"2023-01-14T12:31:40+03:00","modified_at":"2023-10-06T10:10:04+04:00","dg-path":"/courses/stepik Основы статистики.md","permalink":"/courses/stepik-osnovy-statistiki/","dgPassFrontmatter":true}
 ---
 
 
 Next:: [[Openbox/courses/stepik Основы статистики - часть 2\|stepik Основы статистики - часть 2]]
 
 
+
+Хороший курс для совсем основ по статистике. Чем-то напомнило книжку "Статистика и котики". Только в данном случае был большой упор на группы, построение гипотез и правильную их проверку. Правда, тут речь везде о классической статистики, которая ещё не учитывает изменения из [[Openbox/books/Book of why\|Book of why]].
 
 ## Материалы
 
