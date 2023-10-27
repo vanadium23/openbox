@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "date"     : "2023-10-27 18:27:21 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-10-27 18:26:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "date"     : "2023-10-27 18:27:21 +0000"
     } ,
   
     {
@@ -49,11 +41,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
+      "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-10-27 18:27:21 +0000"
     } ,
   
     {
@@ -78,14 +70,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112014/",
       "date"     : "2021-01-11 16:11:47 +0000"
-    } ,
-  
-    {
-      "title"    : "Разные формы заявления о потребности",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112015/",
-      "date"     : "2021-01-11 16:12:00 +0000"
     } ,
   
     {
@@ -153,6 +137,46 @@
     } ,
   
     {
+      "title"    : "2021 06 03 работа живёт три года",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
+      "date"     : "2021-06-03 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Верховный алгоритм",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/verhovnyj-algoritm/",
+      "date"     : "2021-06-04 07:04:22 +0000"
+    } ,
+  
+    {
+      "title"    : "Начало бесконечности",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/nachalo-beskonechnosti/",
+      "date"     : "2021-08-02 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-10-27 18:27:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Разные формы заявления о потребности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112015/",
+      "date"     : "2021-01-11 16:12:00 +0000"
+    } ,
+  
+    {
       "title"    : "Больше благодарности, меньше подавленности",
       "category" : "",
       "tags"     : "quotes",
@@ -190,22 +214,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
       "date"     : "2021-05-07 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 06 03 работа живёт три года",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
-      "date"     : "2021-06-03 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Верховный алгоритм",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/verhovnyj-algoritm/",
-      "date"     : "2021-06-04 07:04:22 +0000"
     } ,
   
     {
@@ -710,14 +718,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108020831/",
       "date"     : "2021-08-02 05:31:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Начало бесконечности",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/nachalo-beskonechnosti/",
-      "date"     : "2021-08-02 06:04:28 +0000"
     } ,
   
     {
@@ -1465,6 +1465,14 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-10-27 18:27:21 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1481,19 +1489,11 @@
     } ,
   
     {
-      "title"    : "Domain Driven design distilled",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/domain-driven-design-distilled/",
-      "date"     : "2022-05-03 09:57:45 +0000"
-    } ,
-  
-    {
       "title"    : "",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "date"     : "2023-10-27 18:27:21 +0000"
     } ,
   
     {
@@ -1902,6 +1902,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110101340/",
       "date"     : "2021-10-10 10:40:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "2022 03 20 настройки таймаутов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2022-03-20-nastrojki-tajmautov/",
+      "date"     : "2022-03-20 09:31:40 +0000"
     } ,
   
     {
@@ -2345,14 +2361,6 @@
     } ,
   
     {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -2469,14 +2477,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-pravilno-uchitsya/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Мыслекарта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2689,14 +2689,6 @@
     } ,
   
     {
-      "title"    : "2022 03 20 настройки таймаутов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2022-03-20-nastrojki-tajmautov/",
-      "date"     : "2022-03-20 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Месяц под звёздами фантазии",
       "category" : "book",
       "tags"     : "books",
@@ -2886,6 +2878,14 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202204231018/",
       "date"     : "2022-05-01 06:43:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Domain Driven design distilled",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/domain-driven-design-distilled/",
+      "date"     : "2022-05-03 09:57:45 +0000"
     } ,
   
     {
@@ -4174,14 +4174,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206261151/",
       "date"     : "2022-06-26 08:51:31 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные для заметок проектов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
-      "date"     : "2022-06-26 18:41:21 +0000"
     } ,
   
     {
@@ -6337,14 +6329,6 @@
     } ,
   
     {
-      "title"    : "django",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/django/",
-      "date"     : "2023-01-27 13:40:44 +0000"
-    } ,
-  
-    {
       "title"    : "2023 01 27 воскресная уборка",
       "category" : "",
       "tags"     : "",
@@ -8249,14 +8233,6 @@
     } ,
   
     {
-      "title"    : "Как я веду заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-ya-vedu-zametki/",
-      "date"     : "2023-07-07 12:25:02 +0000"
-    } ,
-  
-    {
       "title"    : "sets and functions are models for math",
       "category" : "",
       "tags"     : "quotes",
@@ -8341,7 +8317,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "date"     : "2023-10-27 18:27:21 +0000"
     } ,
   
     {
@@ -8369,19 +8345,35 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-10-27 18:26:13 +0000"
-    } ,
-  
-    {
       "title"    : "practices make better software faster",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308171226/",
       "date"     : "2023-08-17 08:26:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-10-27 18:27:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Мыслекарта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myslekarta/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные для заметок проектов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
+      "date"     : "2022-06-26 18:41:21 +0000"
     } ,
   
     {
@@ -8449,14 +8441,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-10-27 18:26:13 +0000"
-    } ,
-  
-    {
       "title"    : "separate what from how in requirements process",
       "category" : "",
       "tags"     : "quotes",
@@ -8470,6 +8454,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308280950/",
       "date"     : "2023-08-28 05:50:05 +0000"
+    } ,
+  
+    {
+      "title"    : "high-performing teams make autonomous decisions",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202309010850/",
+      "date"     : "2023-09-01 05:50:37 +0000"
+    } ,
+  
+    {
+      "title"    : "TDD implies defect reduction in 40 percent",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202309071516/",
+      "date"     : "2023-09-07 11:16:07 +0000"
     } ,
   
     {
@@ -8494,14 +8494,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202304280855/",
       "date"     : "2023-09-11 08:33:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-10-27 18:26:13 +0000"
     } ,
   
     {
@@ -8601,11 +8593,35 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-10-27 18:27:21 +0000"
+    } ,
+  
+    {
+      "title"    : "django",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/django/",
+      "date"     : "2023-01-27 13:40:44 +0000"
+    } ,
+  
+    {
+      "title"    : "Как я веду заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-ya-vedu-zametki/",
+      "date"     : "2023-07-07 12:25:02 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-10-27 18:26:13 +0000"
+      "date"     : "2023-10-27 18:27:21 +0000"
     } 
   
 ]
