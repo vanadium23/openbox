@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -1377,6 +1385,14 @@
     } ,
   
     {
+      "title"    : "Использование социального доказательства",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221256/",
+      "date"     : "2021-09-22 09:56:00 +0000"
+    } ,
+  
+    {
       "title"    : "Для доказательства требуется больше усилий",
       "category" : "",
       "tags"     : "quotes",
@@ -1465,11 +1481,19 @@
     } ,
   
     {
+      "title"    : "Способ борьбы с психологической инерцией",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201151328/",
+      "date"     : "2022-01-15 10:28:00 +0000"
+    } ,
+  
+    {
       "title"    : "",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -1961,22 +1985,6 @@
     } ,
   
     {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-10-27 18:34:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Использование социального доказательства",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221256/",
-      "date"     : "2021-09-22 09:56:00 +0000"
-    } ,
-  
-    {
       "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
@@ -2249,6 +2257,14 @@
     } ,
   
     {
+      "title"    : "Проектирование через команды",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/proektirovanie-cherez-komandy/",
+      "date"     : "2022-01-05 13:43:41 +0000"
+    } ,
+  
+    {
       "title"    : "Делай то что считаешь правильным",
       "category" : "",
       "tags"     : "",
@@ -2329,6 +2345,14 @@
     } ,
   
     {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Талант - это норма",
       "category" : "",
       "tags"     : "quotes",
@@ -2374,14 +2398,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201151322/",
       "date"     : "2022-01-15 10:22:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Способ борьбы с психологической инерцией",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201151328/",
-      "date"     : "2022-01-15 10:28:00 +0000"
     } ,
   
     {
@@ -2449,6 +2465,14 @@
     } ,
   
     {
+      "title"    : "Мыслекарта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myslekarta/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Рынок труда   индикатор всего рынка",
       "category" : "",
       "tags"     : "",
@@ -2510,6 +2534,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-01-22-vremya-anonsov/",
       "date"     : "2022-01-22 06:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -2614,6 +2646,14 @@
       "tags"     : "",
       "url"      : "/openbox/mentalnaya-model/",
       "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Описание",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/opisanie/",
+      "date"     : "2022-01-30 10:44:19 +0000"
     } ,
   
     {
@@ -2870,6 +2910,14 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202205031638/",
       "date"     : "2022-05-03 12:38:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Крышка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kryshka/",
+      "date"     : "2022-05-07 16:55:12 +0000"
     } ,
   
     {
@@ -3649,6 +3697,14 @@
     } ,
   
     {
+      "title"    : "Python",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/python/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Вести проектный дневник",
       "category" : "",
       "tags"     : "",
@@ -4118,6 +4174,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206261151/",
       "date"     : "2022-06-26 08:51:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные для заметок проектов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
+      "date"     : "2022-06-26 18:41:21 +0000"
     } ,
   
     {
@@ -5377,6 +5441,14 @@
     } ,
   
     {
+      "title"    : "Креативность рождается на основе опыта и времени",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kreativnost-rozhdaetsya-na-osnove-opyta-i-vremeni/",
+      "date"     : "2022-09-18 14:17:08 +0000"
+    } ,
+  
+    {
       "title"    : "Критерий поппера",
       "category" : "",
       "tags"     : "",
@@ -5518,14 +5590,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202301021552/",
       "date"     : "2023-01-02 12:52:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Декомпозиция монолита",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/dekompozicziya-monolita/",
-      "date"     : "2023-01-03 07:38:28 +0000"
     } ,
   
     {
@@ -5925,14 +5989,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kakie-metriki-horoshie/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Конец проекта не виден в начале",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -7401,14 +7457,6 @@
     } ,
   
     {
-      "title"    : "Omg essense",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/omg-essense/",
-      "date"     : "2023-06-03 07:01:09 +0000"
-    } ,
-  
-    {
       "title"    : "автономные модули со слабой связью",
       "category" : "",
       "tags"     : "quotes",
@@ -7953,6 +8001,14 @@
     } ,
   
     {
+      "title"    : "Omg essense",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/omg-essense/",
+      "date"     : "2023-06-03 07:01:09 +0000"
+    } ,
+  
+    {
       "title"    : "Performance review",
       "category" : "",
       "tags"     : "",
@@ -8265,6 +8321,14 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-10-27 18:36:03 +0000"
+    } ,
+  
+    {
       "title"    : "Типология людей",
       "category" : "",
       "tags"     : "",
@@ -8294,14 +8358,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308171226/",
       "date"     : "2023-08-17 08:26:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-10-27 18:34:29 +0000"
     } ,
   
     {
@@ -8353,30 +8409,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-10-27 18:34:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Описание",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/opisanie/",
-      "date"     : "2022-01-30 10:44:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Креативность рождается на основе опыта и времени",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kreativnost-rozhdaetsya-na-osnove-opyta-i-vremeni/",
-      "date"     : "2022-09-18 14:17:08 +0000"
-    } ,
-  
-    {
       "title"    : "confidence to begin work without the answers",
       "category" : "",
       "tags"     : "quotes",
@@ -8390,70 +8422,6 @@
       "tags"     : "article",
       "url"      : "/openbox/articles/202308221234/",
       "date"     : "2023-08-22 09:34:15 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-10-27 18:34:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Проектирование через команды",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/proektirovanie-cherez-komandy/",
-      "date"     : "2022-01-05 13:43:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Мыслекарта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myslekarta/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Крышка",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kryshka/",
-      "date"     : "2022-05-07 16:55:12 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Python",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/python/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные для заметок проектов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-dlya-zametok-proektov/",
-      "date"     : "2022-06-26 18:41:21 +0000"
     } ,
   
     {
@@ -8497,11 +8465,43 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-10-27 18:36:03 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Декомпозиция монолита",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/dekompozicziya-monolita/",
+      "date"     : "2023-01-03 07:38:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Конец проекта не виден в начале",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
     } ,
   
     {
@@ -8633,6 +8633,14 @@
     } ,
   
     {
+      "title"    : "programming is about creating solutions to problems",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202309141018/",
+      "date"     : "2023-09-14 06:18:58 +0000"
+    } ,
+  
+    {
       "title"    : "Testing at the Edges",
       "category" : "",
       "tags"     : "quotes",
@@ -8669,7 +8677,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-10-27 18:34:29 +0000"
+      "date"     : "2023-10-27 18:36:03 +0000"
     } 
   
 ]
