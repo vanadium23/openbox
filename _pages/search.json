@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -49,19 +49,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-10-27 18:21:23 +0000"
-    } ,
-  
-    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -81,6 +73,30 @@
     } ,
   
     {
+      "title"    : "Критика и диагноз мешают решению конфликта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112016/",
+      "date"     : "2021-01-11 16:12:09 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 05 07 slack   не email",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
+      "date"     : "2021-05-07 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-10-27 18:23:12 +0000"
+    } ,
+  
+    {
       "title"    : "Анализ часто воспринимают как критику",
       "category" : "",
       "tags"     : "quotes",
@@ -94,14 +110,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112015/",
       "date"     : "2021-01-11 16:12:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Критика и диагноз мешают решению конфликта",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112016/",
-      "date"     : "2021-01-11 16:12:09 +0000"
     } ,
   
     {
@@ -169,14 +177,6 @@
     } ,
   
     {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Благодарность в ННО",
       "category" : "",
       "tags"     : "quotes",
@@ -193,11 +193,11 @@
     } ,
   
     {
-      "title"    : "2021 05 07 slack   не email",
+      "title"    : "2021 02 17 публично критиковать можно",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
-      "date"     : "2021-05-07 09:31:40 +0000"
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -1489,11 +1489,11 @@
     } ,
   
     {
-      "title"    : "Transformations caused by genome",
+      "title"    : "Метод 10-10-10",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271131/",
-      "date"     : "2021-09-27 08:31:00 +0000"
+      "url"      : "/openbox/quotes/202206121036/",
+      "date"     : "2022-06-12 07:36:08 +0000"
     } ,
   
     {
@@ -1501,7 +1501,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -1585,6 +1585,14 @@
     } ,
   
     {
+      "title"    : "Учёба впрок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/uchyoba-vprok/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Метод &quot;чтобы что&quot;",
       "category" : "",
       "tags"     : "",
@@ -1654,6 +1662,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109261928/",
       "date"     : "2021-09-26 16:28:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Transformations caused by genome",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109271131/",
+      "date"     : "2021-09-27 08:31:00 +0000"
     } ,
   
     {
@@ -3513,14 +3529,6 @@
     } ,
   
     {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
       "title"    : "Визуализация результатов",
       "category" : "",
       "tags"     : "",
@@ -3822,14 +3830,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206111048/",
       "date"     : "2022-06-11 07:48:25 +0000"
-    } ,
-  
-    {
-      "title"    : "Метод 10-10-10",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206121036/",
-      "date"     : "2022-06-12 07:36:08 +0000"
     } ,
   
     {
@@ -5590,14 +5590,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202301021552/",
       "date"     : "2023-01-02 12:52:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Декомпозиция монолита",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/dekompozicziya-monolita/",
-      "date"     : "2023-01-03 07:38:28 +0000"
     } ,
   
     {
@@ -8337,19 +8329,11 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-10-27 18:21:23 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } ,
   
     {
@@ -8366,6 +8350,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308151022/",
       "date"     : "2023-08-15 06:22:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-10-27 18:23:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Декомпозиция монолита",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/dekompozicziya-monolita/",
+      "date"     : "2023-01-03 07:38:28 +0000"
     } ,
   
     {
@@ -8401,22 +8409,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-10-27 18:21:23 +0000"
-    } ,
-  
-    {
-      "title"    : "Учёба впрок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/uchyoba-vprok/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "speed and quality are correlated in DORA",
       "category" : "",
       "tags"     : "quotes",
@@ -8425,11 +8417,35 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-10-27 18:23:12 +0000"
+    } ,
+  
+    {
+      "title"    : "five behaviors in software engineering",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202308171425/",
+      "date"     : "2023-08-17 10:25:49 +0000"
+    } ,
+  
+    {
       "title"    : "Life lessons from 80 year old",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308202145/",
       "date"     : "2023-08-20 18:45:21 +0000"
+    } ,
+  
+    {
+      "title"    : "two-thirds of ideas produce negative value",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202308220940/",
+      "date"     : "2023-08-22 06:40:34 +0000"
     } ,
   
     {
@@ -8565,7 +8581,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-10-27 18:21:23 +0000"
+      "date"     : "2023-10-27 18:23:12 +0000"
     } 
   
 ]
