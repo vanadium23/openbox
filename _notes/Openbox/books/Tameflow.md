@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Tameflow","category":"book","status":"Reviewing","tags":["books"],"rating":4,"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-06-25T09:34:25+03:00","dg-path":"/books/Tameflow.md","permalink":"/books/tameflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Tameflow","category":"book","status":"Completed","tags":["books"],"rating":4,"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-07-12T15:56:08+03:00","dg-path":"/books/Tameflow.md","permalink":"/books/tameflow/","dgPassFrontmatter":true}
 ---
 
 
@@ -36,10 +36,9 @@
 - [[Openbox/quotes/202303211010\|202303211010]]: system overload with bubble fever chart
 - [[Openbox/quotes/202303211017\|202303211017]]: cures for different contraints
 
-{ .block-language-dataview}
 
 ## Задачи
 
-- [ ] #task Обработать все выдержки из книги в рамках Zettels ⏳ 2023-07-07
-- [ ] #task Написать выдержку из книги
+- [x] #task Обработать все выдержки из книги в рамках Zettels ⏳ 2023-07-07 ✅ 2023-07-12
+- [x] #task Написать выдержку из книги ✅ 2023-10-27
 - [ ] #task Доработать свои заметки на основе идей из книг
