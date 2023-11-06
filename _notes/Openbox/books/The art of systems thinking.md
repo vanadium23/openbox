@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"The art of systems thinking","category":"book","status":"Reviewing","tags":["books"],"rating":3,"date":"2023-07-01","modified_at":"2023-11-06T21:35:38+04:00","dg-path":"/books/The art of systems thinking.md","permalink":"/books/the-art-of-systems-thinking/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"The art of systems thinking","category":"book","status":"Completed","tags":["books"],"rating":3,"date":"2023-07-01","modified_at":"2023-11-06T21:35:46+04:00","dg-path":"/books/The art of systems thinking.md","permalink":"/books/the-art-of-systems-thinking/","dgPassFrontmatter":true}
 ---
 
 
