@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
@@ -53,15 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2023-11-06 17:35:32 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
@@ -94,22 +86,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112015/",
       "date"     : "2021-01-11 16:12:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Критика и диагноз мешают решению конфликта",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112016/",
-      "date"     : "2021-01-11 16:12:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Нет - это ещё одна форма потребности",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112019/",
-      "date"     : "2021-01-11 16:12:35 +0000"
     } ,
   
     {
@@ -214,6 +190,30 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-11-06 17:44:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Критика и диагноз мешают решению конфликта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112016/",
+      "date"     : "2021-01-11 16:12:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Нет - это ещё одна форма потребности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112019/",
+      "date"     : "2021-01-11 16:12:35 +0000"
     } ,
   
     {
@@ -561,6 +561,38 @@
     } ,
   
     {
+      "title"    : "Связь между объяснением и управлением.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108040959/",
+      "date"     : "2021-08-04 06:59:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Закрытые чатики это не плохо",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в заметках",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
+    } ,
+  
+    {
       "title"    : "Дефисы для запоминания",
       "category" : "",
       "tags"     : "quotes",
@@ -598,46 +630,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107022158/",
       "date"     : "2021-07-02 17:58:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуальное мышление",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/vizualnoe-myshlenie/",
-      "date"     : "2021-08-22 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Закрытые чатики это не плохо",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные в заметках",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Комфортная информативность предложения - одна мысль",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041105/",
-      "date"     : "2021-10-04 08:05:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -817,14 +809,6 @@
     } ,
   
     {
-      "title"    : "Связь между объяснением и управлением.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108040959/",
-      "date"     : "2021-08-04 06:59:00 +0000"
-    } ,
-  
-    {
       "title"    : "Признаки пахнущих процессов",
       "category" : "",
       "tags"     : "quotes",
@@ -990,6 +974,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220839/",
       "date"     : "2021-08-22 05:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуальное мышление",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/vizualnoe-myshlenie/",
+      "date"     : "2021-08-22 06:04:28 +0000"
     } ,
   
     {
@@ -1809,6 +1801,14 @@
     } ,
   
     {
+      "title"    : "Комфортная информативность предложения - одна мысль",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041105/",
+      "date"     : "2021-10-04 08:05:00 +0000"
+    } ,
+  
+    {
       "title"    : "Учитывайте подготовку читателя",
       "category" : "",
       "tags"     : "quotes",
@@ -2081,11 +2081,27 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-11-06 17:44:52 +0000"
+    } ,
+  
+    {
       "title"    : "Организовывать знания вокруг концепций",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
       "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Концептуальное пространство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/konczeptualnoe-prostranstvo/",
+      "date"     : "2021-10-25 08:48:42 +0000"
     } ,
   
     {
@@ -2121,18 +2137,18 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-11-06 17:35:32 +0000"
-    } ,
-  
-    {
       "title"    : "Редукционизм",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/redukczionizm/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
       "date"     : "2021-10-26 06:11:20 +0000"
     } ,
   
@@ -2469,6 +2485,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Требования к интеллекту",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/trebovaniya-k-intellektu/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -8073,14 +8097,6 @@
     } ,
   
     {
-      "title"    : "Obsidian Templater",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian-templater/",
-      "date"     : "2023-06-07 12:10:10 +0000"
-    } ,
-  
-    {
       "title"    : "to offer an apology, your motives have to change",
       "category" : "",
       "tags"     : "quotes",
@@ -8657,22 +8673,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-11-06 17:35:32 +0000"
-    } ,
-  
-    {
-      "title"    : "Требования к интеллекту",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/trebovaniya-k-intellektu/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
       "title"    : "определение компетенции",
       "category" : "",
       "tags"     : "quotes",
@@ -8686,6 +8686,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202304260923/",
       "date"     : "2023-09-11 08:31:47 +0000"
+    } ,
+  
+    {
+      "title"    : "развитие идёт через новые ошибки",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202304280855/",
+      "date"     : "2023-09-11 08:33:13 +0000"
     } ,
   
     {
@@ -8841,6 +8849,38 @@
     } ,
   
     {
+      "title"    : "to help with feelings",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202309162333/",
+      "date"     : "2023-09-16 19:33:03 +0000"
+    } ,
+  
+    {
+      "title"    : "negative emotions require parent skill",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202309171047/",
+      "date"     : "2023-09-17 06:47:07 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2023-11-06 17:44:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "2023 11 02 инновациям нужна скука",
       "category" : "",
       "tags"     : "",
@@ -8857,26 +8897,26 @@
     } ,
   
     {
-      "title"    : "",
+      "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
-      "title"    : "Концептуальное пространство",
+      "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/konczeptualnoe-prostranstvo/",
-      "date"     : "2021-10-25 08:48:42 +0000"
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-11-06 17:44:52 +0000"
     } ,
   
     {
-      "title"    : "Obsidian",
+      "title"    : "Чеклист при работе с системами",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
+      "url"      : "/openbox/cheklist-pri-rabote-s-sistemami/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -8889,35 +8929,11 @@
     } ,
   
     {
-      "title"    : "развитие идёт через новые ошибки",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202304280855/",
-      "date"     : "2023-09-11 08:33:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Obsidian Templater",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-11-06 17:35:32 +0000"
-    } ,
-  
-    {
-      "title"    : "Устраивать сессии обучения",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Чеклист при работе с системами",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-pri-rabote-s-sistemami/",
-      "date"     : "2023-01-14 09:31:40 +0000"
+      "url"      : "/openbox/software/obsidian-templater/",
+      "date"     : "2023-06-07 12:10:10 +0000"
     } ,
   
     {
@@ -8925,7 +8941,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-11-06 17:35:32 +0000"
+      "date"     : "2023-11-06 17:44:52 +0000"
     } 
   
 ]
