@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -46,6 +46,22 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-11-06 17:35:32 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -121,30 +137,6 @@
     } ,
   
     {
-      "title"    : "2021 06 03 работа живёт три года",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
-      "date"     : "2021-06-03 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-11-06 16:11:20 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-11-06 16:11:20 +0000"
-    } ,
-  
-    {
       "title"    : "Невежество в воспитательных процессах",
       "category" : "",
       "tags"     : "quotes",
@@ -206,6 +198,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-05-07-slack-ne-email/",
       "date"     : "2021-05-07 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 06 03 работа живёт три года",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-06-03-rabota-zhivyot-tri-goda/",
+      "date"     : "2021-06-03 09:31:40 +0000"
     } ,
   
     {
@@ -561,38 +561,6 @@
     } ,
   
     {
-      "title"    : "The mundanity of excellence",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108031641/",
-      "date"     : "2021-08-03 13:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Закрытые чатики это не плохо",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Метаданные в заметках",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metadannye-v-zametkah/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
       "title"    : "Дефисы для запоминания",
       "category" : "",
       "tags"     : "quotes",
@@ -630,6 +598,46 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107022158/",
       "date"     : "2021-07-02 17:58:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуальное мышление",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/vizualnoe-myshlenie/",
+      "date"     : "2021-08-22 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Закрытые чатики это не плохо",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Метаданные в заметках",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Комфортная информативность предложения - одна мысль",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110041105/",
+      "date"     : "2021-10-04 08:05:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -766,6 +774,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108021303/",
       "date"     : "2021-08-02 10:03:00 +0000"
+    } ,
+  
+    {
+      "title"    : "The mundanity of excellence",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108031641/",
+      "date"     : "2021-08-03 13:41:00 +0000"
     } ,
   
     {
@@ -974,14 +990,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220839/",
       "date"     : "2021-08-22 05:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуальное мышление",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/vizualnoe-myshlenie/",
-      "date"     : "2021-08-22 06:04:28 +0000"
     } ,
   
     {
@@ -1801,14 +1809,6 @@
     } ,
   
     {
-      "title"    : "Комфортная информативность предложения - одна мысль",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110041105/",
-      "date"     : "2021-10-04 08:05:00 +0000"
-    } ,
-  
-    {
       "title"    : "Учитывайте подготовку читателя",
       "category" : "",
       "tags"     : "quotes",
@@ -2125,7 +2125,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -8233,6 +8233,14 @@
     } ,
   
     {
+      "title"    : "The art of systems thinking",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/the-art-of-systems-thinking/",
+      "date"     : "2023-07-01 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "поведение систем зависит от связей",
       "category" : "",
       "tags"     : "quotes",
@@ -8649,19 +8657,11 @@
     } ,
   
     {
-      "title"    : "определение компетенции",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202304231037/",
-      "date"     : "2023-09-11 08:31:11 +0000"
-    } ,
-  
-    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -8673,19 +8673,19 @@
     } ,
   
     {
+      "title"    : "определение компетенции",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202304231037/",
+      "date"     : "2023-09-11 08:31:11 +0000"
+    } ,
+  
+    {
       "title"    : "вопросы для выявление ценностей",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202304260923/",
       "date"     : "2023-09-11 08:31:47 +0000"
-    } ,
-  
-    {
-      "title"    : "развитие идёт через новые ошибки",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202304280855/",
-      "date"     : "2023-09-11 08:33:13 +0000"
     } ,
   
     {
@@ -8861,7 +8861,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -8889,11 +8889,19 @@
     } ,
   
     {
+      "title"    : "развитие идёт через новые ошибки",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202304280855/",
+      "date"     : "2023-09-11 08:33:13 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } ,
   
     {
@@ -8917,7 +8925,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-11-06 16:11:20 +0000"
+      "date"     : "2023-11-06 17:35:32 +0000"
     } 
   
 ]
