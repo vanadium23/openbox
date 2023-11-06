@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -49,11 +49,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-11-06 18:04:15 +0000"
+    } ,
+  
+    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -129,22 +137,6 @@
     } ,
   
     {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-11-06 17:49:48 +0000"
-    } ,
-  
-    {
       "title"    : "Невежество в воспитательных процессах",
       "category" : "",
       "tags"     : "quotes",
@@ -190,6 +182,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -2081,11 +2081,27 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-11-06 18:04:15 +0000"
+    } ,
+  
+    {
       "title"    : "Организовывать знания вокруг концепций",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
       "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Концептуальное пространство",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/konczeptualnoe-prostranstvo/",
+      "date"     : "2021-10-25 08:48:42 +0000"
     } ,
   
     {
@@ -2118,22 +2134,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110251641/",
       "date"     : "2021-10-25 13:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Intermediate packets in the wild",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202111021639/",
-      "date"     : "2021-11-02 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-11-06 17:49:48 +0000"
     } ,
   
     {
@@ -2174,6 +2174,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202111012013/",
       "date"     : "2021-11-01 16:11:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Intermediate packets in the wild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202111021639/",
+      "date"     : "2021-11-02 05:34:55 +0000"
     } ,
   
     {
@@ -2325,6 +2333,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obyasnenie-prichin/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Понимать предметную область",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2601,7 +2617,7 @@
     } ,
   
     {
-      "title"    : "Почему подначивать плохо",
+      "title"    : "почему подначивать плохо",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201281052/",
@@ -2638,6 +2654,14 @@
       "tags"     : "",
       "url"      : "/openbox/sigmoida-kak-funkcziya-razvitiya/",
       "date"     : "2022-01-30 17:55:04 +0000"
+    } ,
+  
+    {
+      "title"    : "Правила качественной коммуникации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
+      "date"     : "2022-02-06 10:27:56 +0000"
     } ,
   
     {
@@ -6041,14 +6065,6 @@
     } ,
   
     {
-      "title"    : "Чеклист при работе с системами",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cheklist-pri-rabote-s-sistemami/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Ssh",
       "category" : "",
       "tags"     : "",
@@ -8681,6 +8697,14 @@
     } ,
   
     {
+      "title"    : "развитие идёт через новые ошибки",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202304280855/",
+      "date"     : "2023-09-11 08:33:13 +0000"
+    } ,
+  
+    {
       "title"    : "не имеет смысла ставить цели, когда боишься ошибок",
       "category" : "",
       "tags"     : "quotes",
@@ -8718,30 +8742,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202305020841/",
       "date"     : "2023-09-11 08:36:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-11-06 17:49:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Понимать предметную область",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Правила качественной коммуникации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
-      "date"     : "2022-02-06 10:27:56 +0000"
     } ,
   
     {
@@ -8929,19 +8929,19 @@
     } ,
   
     {
+      "title"    : "strategy with homework",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202310211654/",
+      "date"     : "2023-10-21 12:54:56 +0000"
+    } ,
+  
+    {
       "title"    : "",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-11-06 17:49:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Концептуальное пространство",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/konczeptualnoe-prostranstvo/",
-      "date"     : "2021-10-25 08:48:42 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -8950,6 +8950,14 @@
       "tags"     : "",
       "url"      : "/openbox/software/obsidian/",
       "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "an invitation to talk",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202310211657/",
+      "date"     : "2023-10-21 12:57:54 +0000"
     } ,
   
     {
@@ -8969,11 +8977,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
@@ -8985,19 +8993,19 @@
     } ,
   
     {
-      "title"    : "развитие идёт через новые ошибки",
+      "title"    : "Тезис как название заметки",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202304280855/",
-      "date"     : "2023-09-11 08:33:13 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-11-06 18:04:15 +0000"
     } ,
   
     {
-      "title"    : "strategy with homework",
+      "title"    : "Чеклист при работе с системами",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202310211654/",
-      "date"     : "2023-10-21 12:54:56 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/cheklist-pri-rabote-s-sistemami/",
+      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -9005,7 +9013,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-11-06 17:49:48 +0000"
+      "date"     : "2023-11-06 18:04:15 +0000"
     } 
   
 ]
