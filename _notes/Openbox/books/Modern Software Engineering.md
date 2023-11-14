@@ -1,10 +1,24 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Modern Software Engineering","category":"book","status":"Reviewing","tags":["books"],"rating":2,"date":"2023-01-14","modified_at":"2023-10-27T22:39:13+04:00","dg-path":"/books/Modern Software Engineering.md","permalink":"/books/modern-software-engineering/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Modern Software Engineering","category":"book","status":"Reviewing","tags":["books"],"rating":2,"date":"2023-01-14","modified_at":"2023-11-14T15:05:27+04:00","dg-path":"/books/Modern Software Engineering.md","permalink":"/books/modern-software-engineering/","dgPassFrontmatter":true}
 ---
 
 
 
 
+Книга пытается ответить на вопрос, что же такое [[Openbox/competencies/software engineering\|software engineering]]. Потому что сейчас есть разночтение между тем, что это или же [[Openbox/competencies/programming\|разработка]] кода, или построение его [[Openbox/competencies/software architecture\|архитектуры]]. На деле же ответ идёт от понятия инженерии. Так как разработчики строят свои виртуальные миры, то это просто способ проводить быстрые небольшие эксперименты над реальным миром.
+
+Если мы рассмотрим разработку с этой точки зрения, то нам необходимы следовать следующим подходом:
+- работать итерациями (a.k.a [[Openbox/timeboxing\|timeboxing]])
+- уменьшать цикл обратной связи и улучшать его качество (пересекается с [[Openbox/books/The art of systems thinking\|The art of systems thinking]])
+- работать инкрементально (подразумевается, что изменение должно быть видимым)
+- экспериментировать
+- быть [[Openbox/прагматизм\|прагматичным]]
+
+Дальше каждая из глав расскрывает почему именно такие принципы лежат в основе и как они проистекают из [[Openbox/quotes/202308151024\|three ideas of software engineering]].
+
+Больше всего меня зацепила идея об информационных потоках, потому что такое определение переиспользуется между процессами в CPU, сервисами в архитектуре и командами в организации. И здесь можно переосмыслить правило из мифического человекомесяца, где добавление людей не ускоряет получение результат. Происходит это по причине [[Openbox/quotes/202309081804\|интеграции информации]].
+
+Правда, в общем, книжку рекомендовать не могу. Когда она спускается с уровня команд/сервисов до кода, то все подходы прямолинейны и взяты из более фундаментальных книг Фаулера, которые и стоит читать вместо этой.
 
 ## Цитаты
 
