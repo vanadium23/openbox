@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Modern Software Engineering","category":"book","status":"Reviewing","tags":["books"],"rating":2,"date":"2023-01-14","modified_at":"2023-11-14T15:05:27+04:00","dg-path":"/books/Modern Software Engineering.md","permalink":"/books/modern-software-engineering/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Modern Software Engineering","category":"book","status":"Completed","tags":["books"],"rating":2,"date":"2023-01-14","modified_at":"2023-11-16T22:46:53+03:00","dg-path":"/books/Modern Software Engineering.md","permalink":"/books/modern-software-engineering/","dgPassFrontmatter":true}
 ---
 
 
