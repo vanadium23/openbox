@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2023-12-13 07:44:25 +0000"
+      "date"     : "2023-12-13 07:45:37 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2023-12-13 07:44:25 +0000"
+      "date"     : "2023-12-13 07:45:37 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2023-12-13 07:44:25 +0000"
+      "date"     : "2023-12-13 07:45:37 +0000"
     } ,
   
     {
@@ -46,14 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2023-12-13 07:44:25 +0000"
     } ,
   
     {
@@ -793,6 +785,14 @@
     } ,
   
     {
+      "title"    : "Мир настолько прост, что мы не можем его понять.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122025/",
+      "date"     : "2021-08-12 17:25:00 +0000"
+    } ,
+  
+    {
       "title"    : "Неодарвинизм - это теория репликаторов.",
       "category" : "",
       "tags"     : "quotes",
@@ -873,6 +873,14 @@
     } ,
   
     {
+      "title"    : "отличие между считать и отмечать",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141823/",
+      "date"     : "2021-08-14 15:23:00 +0000"
+    } ,
+  
+    {
       "title"    : "Система принимает ошибки как должное и исправляет их",
       "category" : "",
       "tags"     : "quotes",
@@ -937,19 +945,19 @@
     } ,
   
     {
-      "title"    : "Мир настолько прост, что мы не можем его понять.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122025/",
-      "date"     : "2021-08-12 17:25:00 +0000"
-    } ,
-  
-    {
       "title"    : "Необходимо проверять непротиворечивость информации",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220911/",
       "date"     : "2021-08-22 06:11:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Принципы адекватности мышления",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108220913/",
+      "date"     : "2021-08-22 06:13:00 +0000"
     } ,
   
     {
@@ -1182,6 +1190,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109061220/",
       "date"     : "2021-09-06 09:20:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Большая часть идей испытываются в воображении",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109062324/",
+      "date"     : "2021-09-06 20:24:00 +0000"
     } ,
   
     {
@@ -1441,38 +1457,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2023-12-13 07:44:25 +0000"
-    } ,
-  
-    {
-      "title"    : "отличие между считать и отмечать",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141823/",
-      "date"     : "2021-08-14 15:23:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Принципы адекватности мышления",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220913/",
-      "date"     : "2021-08-22 06:13:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Большая часть идей испытываются в воображении",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109062324/",
-      "date"     : "2021-09-06 20:24:00 +0000"
-    } ,
-  
-    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1550,6 +1534,14 @@
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2023-12-13 07:45:37 +0000"
     } ,
   
     {
@@ -2201,14 +2193,6 @@
     } ,
   
     {
-      "title"    : "Перцентили лучше средних",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/perczentili-luchshe-srednih/",
-      "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
       "title"    : "Состояние потока",
       "category" : "",
       "tags"     : "",
@@ -2297,30 +2281,6 @@
     } ,
   
     {
-      "title"    : "Адаптация подходов под себя",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Делегирование",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delegirovanie/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Как преодолеть противоречия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Модели письма",
       "category" : "",
       "tags"     : "",
@@ -2341,6 +2301,86 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ponimat-predmetnuyu-oblast/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Развёртывание-свёртывание",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201151322/",
+      "date"     : "2022-01-15 10:22:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Correlation doesn’t imply causation",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Excel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/excel/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Описание",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/opisanie/",
+      "date"     : "2022-01-30 10:44:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Децентрилизация принятия решений не всесильна",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206251200/",
+      "date"     : "2022-06-25 09:00:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Обычно люди хватаются за первую найденную проблему",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208110642/",
+      "date"     : "2022-08-11 03:42:36 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2023-12-13 07:45:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Адаптация подходов под себя",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Как преодолеть противоречия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2385,14 +2425,6 @@
     } ,
   
     {
-      "title"    : "Развёртывание-свёртывание",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201151322/",
-      "date"     : "2022-01-15 10:22:00 +0000"
-    } ,
-  
-    {
       "title"    : "Способ борьбы с психологической инерцией",
       "category" : "",
       "tags"     : "quotes",
@@ -2413,22 +2445,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/console/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Correlation doesn’t imply causation",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/correlation-doesn-t-imply-causation/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Excel",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/excel/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -2638,14 +2654,6 @@
       "tags"     : "",
       "url"      : "/openbox/mentalnaya-model/",
       "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Описание",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/opisanie/",
-      "date"     : "2022-01-30 10:44:19 +0000"
     } ,
   
     {
@@ -3529,14 +3537,6 @@
     } ,
   
     {
-      "title"    : "Визуализация результатов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vizualizacziya-rezultatov/",
-      "date"     : "2022-05-31 18:41:39 +0000"
-    } ,
-  
-    {
       "title"    : "Ставка включает в себя выбор решения с учётом риска и убеждений.",
       "category" : "",
       "tags"     : "quotes",
@@ -3710,46 +3710,6 @@
       "tags"     : "",
       "url"      : "/openbox/python/",
       "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Технический долг",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnicheskij-dolg/",
-      "date"     : "2022-06-16 06:46:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Building Evolutionary Architectures",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/building-evolutionary-architectures/",
-      "date"     : "2022-08-29 07:04:30 +0000"
-    } ,
-  
-    {
-      "title"    : "Коммуникация",
-      "category" : "",
-      "tags"     : "competencies, skills",
-      "url"      : "/openbox/life/education/competencies/kommunikacziya/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Структуры данных",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/data-structures/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2023-12-13 07:44:25 +0000"
     } ,
   
     {
@@ -3993,6 +3953,14 @@
     } ,
   
     {
+      "title"    : "Технический долг",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnicheskij-dolg/",
+      "date"     : "2022-06-16 06:46:20 +0000"
+    } ,
+  
+    {
       "title"    : "Идея стратегии в применении сильных сторон",
       "category" : "",
       "tags"     : "quotes",
@@ -4134,14 +4102,6 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202206240853/",
       "date"     : "2022-06-24 05:53:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Децентрилизация принятия решений не всесильна",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206251200/",
-      "date"     : "2022-06-25 09:00:33 +0000"
     } ,
   
     {
@@ -4505,19 +4465,19 @@
     } ,
   
     {
-      "title"    : "Nuclear energy is clean",
-      "category" : "",
-      "tags"     : "article, chernov_sharit",
-      "url"      : "/openbox/articles/202208020806/",
-      "date"     : "2022-08-02 05:06:34 +0000"
-    } ,
-  
-    {
       "title"    : "Why GNOME and GNOME 3 and Unity happened",
       "category" : "",
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202208020758/",
       "date"     : "2022-08-02 04:58:46 +0000"
+    } ,
+  
+    {
+      "title"    : "Nuclear energy is clean",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208020806/",
+      "date"     : "2022-08-02 05:06:34 +0000"
     } ,
   
     {
@@ -4694,14 +4654,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208110636/",
       "date"     : "2022-08-11 03:36:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Обычно люди хватаются за первую найденную проблему",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208110642/",
-      "date"     : "2022-08-11 03:42:36 +0000"
     } ,
   
     {
@@ -5038,6 +4990,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208281000/",
       "date"     : "2022-08-28 07:01:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Building Evolutionary Architectures",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/building-evolutionary-architectures/",
+      "date"     : "2022-08-29 07:04:30 +0000"
     } ,
   
     {
@@ -5785,6 +5745,14 @@
     } ,
   
     {
+      "title"    : "Коммуникация",
+      "category" : "",
+      "tags"     : "competencies, skills",
+      "url"      : "/openbox/life/education/competencies/kommunikacziya/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Лидерство как компетенция",
       "category" : "",
       "tags"     : "",
@@ -5861,6 +5829,14 @@
       "category" : "",
       "tags"     : "courses",
       "url"      : "/openbox/courses/stepik-osnovy-statistiki/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Структуры данных",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/data-structures/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -7873,6 +7849,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2023-12-13 07:45:37 +0000"
+    } ,
+  
+    {
       "title"    : "The Law of Correlation",
       "category" : "",
       "tags"     : "quotes",
@@ -8001,6 +7985,22 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2023-12-13 07:45:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Делегирование",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delegirovanie/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "comment driven development",
       "category" : "",
       "tags"     : "quotes",
@@ -8081,14 +8081,6 @@
     } ,
   
     {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
-    } ,
-  
-    {
       "title"    : "expensiveoperations for today",
       "category" : "",
       "tags"     : "quotes",
@@ -8142,22 +8134,6 @@
       "tags"     : "",
       "url"      : "/openbox/software/obsidian-templater/",
       "date"     : "2023-06-07 12:10:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Скрытия информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/skrytiya-informaczii/",
-      "date"     : "2023-09-16 13:55:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2023-12-13 07:44:25 +0000"
     } ,
   
     {
@@ -8270,14 +8246,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306282135/",
       "date"     : "2023-06-28 17:34:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2023-12-13 07:44:25 +0000"
     } ,
   
     {
@@ -8489,22 +8457,6 @@
     } ,
   
     {
-      "title"    : "Модульность",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modulnost/",
-      "date"     : "2023-09-16 13:55:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2023-12-13 07:44:25 +0000"
-    } ,
-  
-    {
       "title"    : "Метрики показывают только жопу",
       "category" : "",
       "tags"     : "",
@@ -8542,14 +8494,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307161127/",
       "date"     : "2023-07-16 07:27:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Методика parla",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/metodika-parla/",
-      "date"     : "2023-07-16 14:54:14 +0000"
     } ,
   
     {
@@ -8606,14 +8550,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308011018/",
       "date"     : "2023-08-01 06:18:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Типология людей",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tipologiya-lyudej/",
-      "date"     : "2023-08-13 14:00:12 +0000"
     } ,
   
     {
@@ -8694,14 +8630,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308220947/",
       "date"     : "2023-08-22 06:47:27 +0000"
-    } ,
-  
-    {
-      "title"    : "Scaling the Practice of Architecture",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202308221234/",
-      "date"     : "2023-08-22 09:34:15 +0000"
     } ,
   
     {
@@ -8910,6 +8838,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202309141055/",
       "date"     : "2023-09-14 06:55:39 +0000"
+    } ,
+  
+    {
+      "title"    : "Модульность",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modulnost/",
+      "date"     : "2023-09-16 13:55:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Скрытия информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/skrytiya-informaczii/",
+      "date"     : "2023-09-16 13:55:50 +0000"
     } ,
   
     {
@@ -9145,11 +9089,75 @@
     } ,
   
     {
+      "title"    : "философия лидерства с точки эссенциалиста",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202312031341/",
+      "date"     : "2023-12-03 10:41:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2023-12-13 07:45:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Типология людей",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tipologiya-lyudej/",
+      "date"     : "2023-08-13 14:00:12 +0000"
+    } ,
+  
+    {
+      "title"    : "Scaling the Practice of Architecture",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202308221234/",
+      "date"     : "2023-08-22 09:34:15 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2023-12-13 07:45:37 +0000"
+    } ,
+  
+    {
+      "title"    : "Перцентили лучше средних",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/perczentili-luchshe-srednih/",
+      "date"     : "2021-11-07 08:28:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуализация результатов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vizualizacziya-rezultatov/",
+      "date"     : "2022-05-31 18:41:39 +0000"
+    } ,
+  
+    {
+      "title"    : "Методика parla",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/metodika-parla/",
+      "date"     : "2023-07-16 14:54:14 +0000"
+    } ,
+  
+    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2023-12-13 07:44:25 +0000"
+      "date"     : "2023-12-13 07:45:37 +0000"
     } 
   
 ]
