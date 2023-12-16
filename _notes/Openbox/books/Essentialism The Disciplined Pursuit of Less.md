@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Essentialism","category":"book","status":"Reviewing","tags":["books"],"rating":4,"date":"2023-11-06","modified_at":"2023-12-16T12:44:51+03:00","dg-path":"/books/Essentialism The Disciplined Pursuit of Less.md","permalink":"/books/essentialism-the-disciplined-pursuit-of-less/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Essentialism","category":"book","status":"Completed","tags":["books"],"rating":4,"date":"2023-11-06","modified_at":"2023-12-16T12:44:51+03:00","dg-path":"/books/Essentialism The Disciplined Pursuit of Less.md","permalink":"/books/essentialism-the-disciplined-pursuit-of-less/","dgPassFrontmatter":true}
 ---
 
 
