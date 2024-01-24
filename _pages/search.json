@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -38,6 +38,22 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2020-12-27-standartizacziya-pomogaet-kreativnosti/",
       "date"     : "2020-12-27 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод опорных векторов использует большую размерность",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106262100/",
+      "date"     : "2021-06-26 17:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
     } ,
   
     {
@@ -489,14 +505,6 @@
     } ,
   
     {
-      "title"    : "Метод опорных векторов использует большую размерность",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106262100/",
-      "date"     : "2021-06-26 17:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "Все открытия - продукт аналогии",
       "category" : "",
       "tags"     : "quotes",
@@ -606,14 +614,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107022208/",
       "date"     : "2021-07-02 18:08:00 +0000"
-    } ,
-  
-    {
-      "title"    : "налоговый кодекс растет экспоненциально",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022209/",
-      "date"     : "2021-07-02 18:09:00 +0000"
     } ,
   
     {
@@ -1889,6 +1889,14 @@
     } ,
   
     {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
       "title"    : "Понятийный минимум",
       "category" : "",
       "tags"     : "",
@@ -2017,14 +2025,6 @@
     } ,
   
     {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2105,46 +2105,6 @@
     } ,
   
     {
-      "title"    : "Каждый в чем-то прав",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110282147/",
-      "date"     : "2021-10-28 18:47:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Технический долг",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnicheskij-dolg/",
-      "date"     : "2022-06-16 06:46:20 +0000"
-    } ,
-  
-    {
-      "title"    : "complexity accumulates rapidly, but hard to eliminate",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202305100914/",
-      "date"     : "2023-05-10 05:14:34 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-01-24 07:26:48 +0000"
-    } ,
-  
-    {
       "title"    : "Редукционизм",
       "category" : "",
       "tags"     : "",
@@ -2166,6 +2126,14 @@
       "tags"     : "",
       "url"      : "/openbox/timeboxing/",
       "date"     : "2021-10-26 07:39:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Каждый в чем-то прав",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110282147/",
+      "date"     : "2021-10-28 18:47:00 +0000"
     } ,
   
     {
@@ -2638,6 +2606,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201281058/",
       "date"     : "2022-01-28 07:58:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
     } ,
   
     {
@@ -3953,6 +3929,14 @@
     } ,
   
     {
+      "title"    : "Технический долг",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnicheskij-dolg/",
+      "date"     : "2022-06-16 06:46:20 +0000"
+    } ,
+  
+    {
       "title"    : "Идея стратегии в применении сильных сторон",
       "category" : "",
       "tags"     : "quotes",
@@ -4414,14 +4398,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sid-meier-s-memoir/",
       "date"     : "2022-07-25 17:39:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -5449,6 +5425,30 @@
     } ,
   
     {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "complexity accumulates rapidly, but hard to eliminate",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305100914/",
+      "date"     : "2023-05-10 05:14:34 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-01-24 07:28:03 +0000"
+    } ,
+  
+    {
       "title"    : "Креативность рождается на основе опыта и времени",
       "category" : "",
       "tags"     : "",
@@ -5833,6 +5833,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-01-24 07:28:03 +0000"
+    } ,
+  
+    {
+      "title"    : "налоговый кодекс растет экспоненциально",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022209/",
+      "date"     : "2021-07-02 18:09:00 +0000"
+    } ,
+  
+    {
       "title"    : "Stepik основы статистики",
       "category" : "",
       "tags"     : "courses",
@@ -5845,14 +5861,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/data-structures/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6053,14 +6061,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/punkty-provedeniya-tehnicheskogo-audita/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Цикл непрерывных улучшений",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czikl-nepreryvnyh-uluchshenij/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -8029,7 +8029,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -8265,19 +8265,27 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-01-24 07:28:03 +0000"
+    } ,
+  
+    {
+      "title"    : "Цикл непрерывных улучшений",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czikl-nepreryvnyh-uluchshenij/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "decide how to decide",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306291018/",
       "date"     : "2023-06-29 06:18:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -8361,22 +8369,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-01-24 07:26:48 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
-    } ,
-  
-    {
       "title"    : "to understand definition write examples",
       "category" : "",
       "tags"     : "quotes",
@@ -8422,6 +8414,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307101510/",
       "date"     : "2023-07-10 12:10:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -8493,7 +8493,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } ,
   
     {
@@ -9281,6 +9281,14 @@
     } ,
   
     {
+      "title"    : "необходимость более частой замены управленцев",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202312182207/",
+      "date"     : "2023-12-18 19:07:59 +0000"
+    } ,
+  
+    {
       "title"    : "Релятивистское болото",
       "category" : "",
       "tags"     : "",
@@ -9317,7 +9325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-01-24 07:26:48 +0000"
+      "date"     : "2024-01-24 07:28:03 +0000"
     } 
   
 ]
