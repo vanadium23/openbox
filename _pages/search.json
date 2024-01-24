@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-01-24 07:25:33 +0000"
+      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-01-24 07:25:33 +0000"
+      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-01-24 07:25:33 +0000"
+      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -54,6 +54,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112011/",
       "date"     : "2021-01-11 16:11:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Потребности по сути являются ресурсами",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112012/",
+      "date"     : "2021-01-11 16:11:19 +0000"
     } ,
   
     {
@@ -193,22 +201,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-01-24 07:25:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Потребности по сути являются ресурсами",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112012/",
-      "date"     : "2021-01-11 16:11:19 +0000"
-    } ,
-  
-    {
       "title"    : "Величайшая задача науки",
       "category" : "",
       "tags"     : "quotes",
@@ -278,22 +270,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106202044/",
       "date"     : "2021-06-20 16:44:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Вероятность зависит от внутренних убеждений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106252056/",
-      "date"     : "2021-06-25 16:56:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Пиши сокращай",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/pishi-sokrashhaj/",
-      "date"     : "2021-09-16 06:04:28 +0000"
     } ,
   
     {
@@ -454,6 +430,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106252055/",
       "date"     : "2021-06-25 16:55:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Вероятность зависит от внутренних убеждений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106252056/",
+      "date"     : "2021-06-25 16:56:00 +0000"
     } ,
   
     {
@@ -1321,6 +1305,14 @@
     } ,
   
     {
+      "title"    : "Пиши сокращай",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/pishi-sokrashhaj/",
+      "date"     : "2021-09-16 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Источники вдохновения для книги",
       "category" : "",
       "tags"     : "quotes",
@@ -1897,14 +1889,6 @@
     } ,
   
     {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
-    } ,
-  
-    {
       "title"    : "Понятийный минимум",
       "category" : "",
       "tags"     : "",
@@ -2121,6 +2105,46 @@
     } ,
   
     {
+      "title"    : "Каждый в чем-то прав",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110282147/",
+      "date"     : "2021-10-28 18:47:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Технический долг",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnicheskij-dolg/",
+      "date"     : "2022-06-16 06:46:20 +0000"
+    } ,
+  
+    {
+      "title"    : "complexity accumulates rapidly, but hard to eliminate",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305100914/",
+      "date"     : "2023-05-10 05:14:34 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-01-24 07:26:48 +0000"
+    } ,
+  
+    {
       "title"    : "Редукционизм",
       "category" : "",
       "tags"     : "",
@@ -2142,14 +2166,6 @@
       "tags"     : "",
       "url"      : "/openbox/timeboxing/",
       "date"     : "2021-10-26 07:39:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Каждый в чем-то прав",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110282147/",
-      "date"     : "2021-10-28 18:47:00 +0000"
     } ,
   
     {
@@ -2622,14 +2638,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201281058/",
       "date"     : "2022-01-28 07:58:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
     } ,
   
     {
@@ -3945,14 +3953,6 @@
     } ,
   
     {
-      "title"    : "Технический долг",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnicheskij-dolg/",
-      "date"     : "2022-06-16 06:46:20 +0000"
-    } ,
-  
-    {
       "title"    : "Идея стратегии в применении сильных сторон",
       "category" : "",
       "tags"     : "quotes",
@@ -4414,6 +4414,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sid-meier-s-memoir/",
       "date"     : "2022-07-25 17:39:39 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -5441,38 +5449,6 @@
     } ,
   
     {
-      "title"    : "Rename to rebuild",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/rename-to-rebuild/",
-      "date"     : "2023-01-03 07:54:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Digital garden",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/digital-garden/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "complexity accumulates rapidly, but hard to eliminate",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202305100914/",
-      "date"     : "2023-05-10 05:14:34 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-01-24 07:25:33 +0000"
-    } ,
-  
-    {
       "title"    : "Креативность рождается на основе опыта и времени",
       "category" : "",
       "tags"     : "",
@@ -5630,6 +5606,14 @@
       "tags"     : "",
       "url"      : "/openbox/dekompozicziya-monolita/",
       "date"     : "2023-01-03 07:38:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Rename to rebuild",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rename-to-rebuild/",
+      "date"     : "2023-01-03 07:54:07 +0000"
     } ,
   
     {
@@ -5861,6 +5845,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/data-structures/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Digital garden",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/digital-garden/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -8037,7 +8029,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-01-24 07:25:33 +0000"
+      "date"     : "2024-01-24 07:26:48 +0000"
     } ,
   
     {
@@ -8281,6 +8273,14 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-01-24 07:26:48 +0000"
+    } ,
+  
+    {
       "title"    : "every team member is part of the system of accountability",
       "category" : "",
       "tags"     : "quotes",
@@ -8358,6 +8358,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307061454/",
       "date"     : "2023-07-06 11:54:36 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-01-24 07:26:48 +0000"
+    } ,
+  
+    {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
     } ,
   
     {
@@ -8473,6 +8489,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-01-24 07:26:48 +0000"
+    } ,
+  
+    {
       "title"    : "вопросы для рефлексии",
       "category" : "",
       "tags"     : "quotes",
@@ -8494,14 +8518,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307161125/",
       "date"     : "2023-07-16 07:25:21 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-01-24 07:25:33 +0000"
     } ,
   
     {
@@ -8577,22 +8593,6 @@
     } ,
   
     {
-      "title"    : "Скрытия информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/skrytiya-informaczii/",
-      "date"     : "2023-09-16 13:55:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-01-24 07:25:33 +0000"
-    } ,
-  
-    {
       "title"    : "Типология людей",
       "category" : "",
       "tags"     : "",
@@ -8614,22 +8614,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308151024/",
       "date"     : "2023-08-15 06:24:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Модульность",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modulnost/",
-      "date"     : "2023-09-16 13:55:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-01-24 07:25:33 +0000"
     } ,
   
     {
@@ -8910,6 +8894,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202309141055/",
       "date"     : "2023-09-14 06:55:39 +0000"
+    } ,
+  
+    {
+      "title"    : "Модульность",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modulnost/",
+      "date"     : "2023-09-16 13:55:35 +0000"
+    } ,
+  
+    {
+      "title"    : "Скрытия информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/skrytiya-informaczii/",
+      "date"     : "2023-09-16 13:55:50 +0000"
     } ,
   
     {
@@ -9265,6 +9265,22 @@
     } ,
   
     {
+      "title"    : "фазы развития вглубь и вширь",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202312181337/",
+      "date"     : "2023-12-18 10:37:18 +0000"
+    } ,
+  
+    {
+      "title"    : "втягивать вышестоящую организацию в свои внутренние интриги",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202312181355/",
+      "date"     : "2023-12-18 10:55:10 +0000"
+    } ,
+  
+    {
       "title"    : "Релятивистское болото",
       "category" : "",
       "tags"     : "",
@@ -9301,7 +9317,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-01-24 07:25:33 +0000"
+      "date"     : "2024-01-24 07:26:48 +0000"
     } 
   
 ]
