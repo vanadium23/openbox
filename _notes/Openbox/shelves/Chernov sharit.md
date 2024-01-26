@@ -11,28 +11,32 @@
 
 ### Идеи
 
-| title                                                                                                                         | striptime(date) | words | date(today) - striptime(date) |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------- | ----- | ----------------------------- |
-| [[Openbox/chernov_sharit/2022-02-25 Что мешает людям выставлять работу наружу\|Что мешает людям выставлять работу наружу]] | 2022-02-25      | 17    | 1 year, 7 months              |
-| [[Openbox/chernov_sharit/2022-06-15 Эмоционально вовлекаться - норма\|Эмоционально вовлекаться - норма]]                   | 2022-06-15      | 17    | 1 year, 3 months, 1 week      |
-| [[Openbox/chernov_sharit/2023-02-16 Ищите дуализм\|Ищите дуализм]]                                                         | 2023-02-16      | 22    | 7 months, 6 days              |
-| [[Openbox/chernov_sharit/2023-02-21 Про LLMs\|Про LLMs]]                                                                   | 2023-02-21      | 8     | 7 months, 1 day               |
-| [[Openbox/chernov_sharit/2023-02-22 Менеджмент это инженерная дисциплина\|Менеджмент это инженерная дисциплина]]           | 2023-02-22      | 8     | 7 months                      |
-| [[Openbox/chernov_sharit/2023-03-09 Код как конвенция\|Код как конвенция]]                                                 | 2023-03-09      | 8     | 6 months, 1 week, 6 days      |
-| [[Openbox/chernov_sharit/2023-03-22 Правило 1-3-5\|Правило 1-3-5]]                                                         | 2023-03-22      | 36    | 6 months                      |
-| [[Openbox/chernov_sharit/2023-04-15 Призакрытие\|Призакрытие]]                                                             | 2023-04-15      | 90    | 5 months, 1 week              |
+| title                                                                                                               | striptime(date) | words | date(today) - striptime(date)    |
+| ------------------------------------------------------------------------------------------------------------------- | --------------- | ----- | -------------------------------- |
+| [[Openbox/chernov_sharit/2022-06-15 Эмоционально вовлекаться - норма\|Эмоционально вовлекаться - норма]]         | 2022-06-15      | 17    | 1 year, 7 months, 1 week, 4 days |
+| [[Openbox/chernov_sharit/2023-02-16 Ищите дуализм\|Ищите дуализм]]                                               | 2023-02-16      | 22    | 11 months, 1 week, 3 days        |
+| [[Openbox/chernov_sharit/2023-02-21 Про LLMs\|Про LLMs]]                                                         | 2023-02-21      | 8     | 11 months, 5 days                |
+| [[Openbox/chernov_sharit/2023-02-22 Менеджмент это инженерная дисциплина\|Менеджмент это инженерная дисциплина]] | 2023-02-22      | 8     | 11 months, 4 days                |
+| [[Openbox/chernov_sharit/2023-03-09 Код как конвенция\|Код как конвенция]]                                       | 2023-03-09      | 8     | 10 months, 2 weeks, 3 days       |
+| [[Openbox/chernov_sharit/2023-03-22 Правило 1-3-5\|Правило 1-3-5]]                                               | 2023-03-22      | 70    | 10 months, 4 days                |
+| [[Openbox/chernov_sharit/2024-01-25 Корпоративный бренд\|Корпоративный бренд]]                                   | 2024-01-25      | 38    | 1 day                            |
 
 
 ### Опубликованные
 
 | title                                                                                                                           | words | telegram                                   | striptime(published_at) | published_at - date                                               |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ | ----------------------- | ----------------------------------------------------------------- |
+| [[Openbox/chernov_sharit/2022-02-25 Что мешает людям выставлять работу наружу\|Что мешает людям выставлять работу наружу]]   | 292   | [tg_link](https://t.me/chernov_sharit/521) | 2024-01-25              | 1 year, 11 months, 6 hours, 33 minutes, 20 seconds                |
+| [[Openbox/chernov_sharit/2024-01-18 всё это большой детский сад\|всё это большой детский сад]]                               | 304   | [tg_link](https://t.me/chernov_sharit/520) | 2024-01-18              | 19 hours, 5 minutes                                               |
+| [[Openbox/chernov_sharit/2023-11-09 как думать перед компом\|как думать перед компом]]                                       | 298   | [tg_link](https://t.me/chernov_sharit/518) | 2023-11-09              | 20 minutes, 26 seconds                                            |
+| [[Openbox/chernov_sharit/2023-11-02 инновациям нужна скука\|инновациям нужна скука]]                                         | 255   | [tg_link](https://t.me/chernov_sharit/517) | 2023-11-06              | 4 days, 1 hour, 41 minutes, 20 seconds                            |
 | [[Openbox/chernov_sharit/2022-01-09 Rename to reinvent\|Rename to reinvent]]                                                 | 275   | [tg_link](https://t.me/chernov_sharit/516) | 2023-09-22              | 1 year, 8 months, 1 week, 6 days, 6 hours, 33 minutes, 20 seconds |
-| [[Openbox/chernov_sharit/2023-08-10 Правила и анти-правила\|Правила и анти-правила]]                                         | 337   | [tg_link](https://t.me/chernov_sharit/512) | 2023-08-10              | 5 hours, 10 minutes, 17 seconds                                   |
+| [[Openbox/chernov_sharit/2023-08-10 правила и анти-правила\|правила и анти-правила]]                                         | 337   | [tg_link](https://t.me/chernov_sharit/512) | 2023-08-10              | 5 hours, 10 minutes, 17 seconds                                   |
 | [[Openbox/chernov_sharit/2023-07-31 сначала удалять\|сначала удалять]]                                                       | 207   | [tg_link](https://t.me/chernov_sharit/511) | 2023-07-31              | 6 hours, 46 minutes, 9 seconds                                    |
 | [[Openbox/chernov_sharit/2023-07-05 удалённые коммуникации\|удалённые коммуникации]]                                         | 365   | [tg_link](https://t.me/chernov_sharit/508) | 2023-07-07              | 2 days, 8 hours, 52 minutes, 28 seconds                           |
 | [[Openbox/chernov_sharit/2023-06-27 Коммуникация и гигиена\|Коммуникация и гигиена]]                                         | 317   | [tg_link](https://t.me/chernov_sharit/508) | 2023-06-27              | 6 hours, 42 seconds                                               |
 | [[Openbox/chernov_sharit/2023-06-22 третья итерация\|третья итерация]]                                                       | 142   | [tg_link](https://t.me/chernov_sharit/507) | 2023-06-20              | 2 hours, 35 minutes, 29 seconds                                   |
+| [[Openbox/chernov_sharit/2023-04-15 Призакрытие\|Призакрытие]]                                                               | 103   | [tg_link](https://t.me/chernov_sharit/506) | 2023-04-15              | 2 hours, 59 minutes, 59 seconds                                   |
 | [[Openbox/chernov_sharit/2022-06-09 Итерация на рост, итерация на прибыльность\|Итерация на рост, итерация на прибыльность]] | 295   | [tg_link](https://t.me/chernov_sharit/498) | 2023-03-10              | 9 months, 1 day, 10 hours, 22 minutes, 45 seconds                 |
 | [[Openbox/chernov_sharit/2023-02-26 Плюс минус уровень\|Плюс минус уровень]]                                                 | 378   | [tg_link](https://t.me/chernov_sharit/495) | 2023-03-03              | 5 days, 19 minutes, 30 seconds                                    |
 | [[Openbox/chernov_sharit/2023-02-06 Проблема TTM\|Проблема TTM]]                                                             | 396   | [tg_link](https://t.me/chernov_sharit/482) | 2023-02-06              | 1 hour, 43 minutes, 30 seconds                                    |
