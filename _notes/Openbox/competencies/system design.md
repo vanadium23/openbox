@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[software engineering]]","tags":["competencies","skills"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-10-26T21:37:57+04:00","dg-path":"/competencies/system design.md","permalink":"/competencies/system-design/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[software engineering]]","tags":["competencies","skills"],"date":"2023-01-14T13:31:40+04:00","modified_at":"2023-12-18T10:47:54+03:00","dg-path":"/competencies/system design.md","permalink":"/competencies/system-design/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,6 +15,7 @@
 
 ### Источники
 
+1. https://github.com/Jeevan-kumar-Raj/Grokking-System-Design/tree/master
 * [ ] https://www.hiredintech.com/system-design
 * [ ] https://github.com/donnemartin/system-design-primer
 * [ ] https://github.com/madd86/awesome-system-design
@@ -27,10 +28,11 @@
 
 ### Книги
 
-| File                                                                                | status    | file.cday  | finish_date | книгодни        |
-| ----------------------------------------------------------------------------------- | --------- | ---------- | ----------- | --------------- |
-| [[Openbox/books/Domain-Driven Design Distilled\|Domain-Driven Design Distilled]] | Completed | 2023-01-14 | 2022-05-29  | 3 weeks, 6 days |
-| [[Openbox/books/How to make sense of any mess\|How to make sense of any mess]]   | Completed | 2023-01-14 | 2022-04-30  | 2 weeks         |
+| File                                                                                                            | status    | file.cday  | finish_date | книгодни        |
+| --------------------------------------------------------------------------------------------------------------- | --------- | ---------- | ----------- | --------------- |
+| [[Openbox/books/System Design Interview – An Insider's Guide\|System Design Interview – An Insider's Guide]] | Reviewing | 2024-01-07 | 2024-01-29  | 2 weeks, 6 days |
+| [[Openbox/books/Domain-Driven Design Distilled\|Domain-Driven Design Distilled]]                             | Completed | 2023-01-14 | 2022-05-29  | 3 weeks, 6 days |
+| [[Openbox/books/How to make sense of any mess\|How to make sense of any mess]]                               | Completed | 2023-01-14 | 2022-04-30  | 2 weeks         |
 
 
 ### Курсы
