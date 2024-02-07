@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-14T10:11:13+04:00","modified_at":"2023-09-29T10:23:25+04:00","dg-path":"/PostgresSQL.md","permalink":"/postgres-sql/","dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-14T10:11:13+04:00","modified_at":"2024-02-07T09:42:19+03:00","dg-path":"/PostgresSQL.md","permalink":"/postgres-sql/","dgPassFrontmatter":true}
 ---
 
 
@@ -201,3 +201,5 @@ Same as Materialize, but for window function.
 ## Источники
 
 - Серия expain analyze: [1](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/), [2](https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2/), [3](https://www.depesz.com/2013/05/09/explaining-the-unexplainable-part-3/), [4](https://www.depesz.com/2013/05/19/explaining-the-unexplainable-part-4/), [5](https://www.depesz.com/2013/05/30/explaining-the-unexplainable-part-5/).
+- https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb
+- 
