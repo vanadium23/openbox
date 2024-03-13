@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2022-07-31T12:57:52+03:00","permalink":"/css-snippets/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"date":"2022-06-06T09:04:28+03:00","modified_at":"2024-03-13T09:45:21+03:00","dg-path":"/css snippets.md","permalink":"/css-snippets/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,3 +11,8 @@ main {
   margin: auto;
 }
 ```
+
+
+## Источники
+
+http://bettermotherfuckingwebsite.com/
