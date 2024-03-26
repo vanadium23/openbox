@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "date"     : "2024-03-26 06:48:21 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "date"     : "2024-03-26 06:48:21 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "date"     : "2024-03-26 06:48:21 +0000"
     } ,
   
     {
@@ -177,14 +177,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-03-25 06:38:12 +0000"
-    } ,
-  
-    {
       "title"    : "2021 05 07 slack   не email",
       "category" : "",
       "tags"     : "",
@@ -294,6 +286,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106202049/",
       "date"     : "2021-06-20 16:49:00 +0000"
+    } ,
+  
+    {
+      "title"    : "точность алгоритма зависит от количества примеров",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212041/",
+      "date"     : "2021-06-21 16:41:00 +0000"
     } ,
   
     {
@@ -814,14 +814,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122041/",
       "date"     : "2021-08-12 17:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Индивид должен ценить истину, а общество должно быть толерантным.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141444/",
-      "date"     : "2021-08-14 11:44:00 +0000"
     } ,
   
     {
@@ -1481,14 +1473,6 @@
     } ,
   
     {
-      "title"    : "Дихотомия понятий",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/dihotomiya-ponyatij/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Закрытые чатики это не плохо",
       "category" : "",
       "tags"     : "",
@@ -1534,38 +1518,6 @@
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Gtd",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gtd/",
-      "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-03-25 06:38:12 +0000"
-    } ,
-  
-    {
-      "title"    : "точность алгоритма зависит от количества примеров",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212041/",
-      "date"     : "2021-06-21 16:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-03-25 06:38:12 +0000"
     } ,
   
     {
@@ -2057,6 +2009,14 @@
     } ,
   
     {
+      "title"    : "Gtd",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gtd/",
+      "date"     : "2021-10-24 15:05:42 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2089,14 +2049,6 @@
     } ,
   
     {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -2105,43 +2057,11 @@
     } ,
   
     {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Указывать в тексте ограничения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110251634/",
-      "date"     : "2021-10-25 13:34:00 +0000"
-    } ,
-  
-    {
       "title"    : "Проверить что текст действительно про вас",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110251637/",
       "date"     : "2021-10-25 13:37:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Любую регалию придется объяснять с точки зрения пользы",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110251641/",
-      "date"     : "2021-10-25 13:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Редукционизм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/redukczionizm/",
-      "date"     : "2021-10-26 06:11:20 +0000"
     } ,
   
     {
@@ -2166,6 +2086,62 @@
       "tags"     : "",
       "url"      : "/openbox/grustnye-pravdy-zhizni/",
       "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-03-26 06:48:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
+      "title"    : "Указывать в тексте ограничения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110251634/",
+      "date"     : "2021-10-25 13:34:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Любую регалию придется объяснять с точки зрения пользы",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110251641/",
+      "date"     : "2021-10-25 13:41:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Редукционизм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/redukczionizm/",
+      "date"     : "2021-10-26 06:11:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Устраивать сессии обучения",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
+      "date"     : "2021-10-26 06:11:20 +0000"
     } ,
   
     {
@@ -2238,14 +2214,6 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202201041049/",
       "date"     : "2022-01-04 06:49:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Определение задачи в списке дел",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/opredelenie-zadachi-v-spiske-del/",
-      "date"     : "2022-01-05 13:43:41 +0000"
     } ,
   
     {
@@ -3313,14 +3281,6 @@
     } ,
   
     {
-      "title"    : "Карта реальности",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/karta-realnosti/",
-      "date"     : "2022-05-22 14:42:59 +0000"
-    } ,
-  
-    {
       "title"    : "Знать не значит уметь",
       "category" : "",
       "tags"     : "",
@@ -3526,6 +3486,14 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуализация результатов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vizualizacziya-rezultatov/",
+      "date"     : "2022-05-31 18:41:39 +0000"
     } ,
   
     {
@@ -4497,6 +4465,14 @@
     } ,
   
     {
+      "title"    : "Организация мониторинга",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-monitoringa/",
+      "date"     : "2022-08-03 15:11:04 +0000"
+    } ,
+  
+    {
       "title"    : "быть помешанным - полезная черта",
       "category" : "",
       "tags"     : "quotes",
@@ -4550,6 +4526,22 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202208071137/",
       "date"     : "2022-08-07 08:37:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-03-26 06:48:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Индивид должен ценить истину, а общество должно быть толерантным.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141444/",
+      "date"     : "2021-08-14 11:44:00 +0000"
     } ,
   
     {
@@ -5441,6 +5433,14 @@
     } ,
   
     {
+      "title"    : "Критерий поппера",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriterij-poppera/",
+      "date"     : "2022-09-18 14:30:18 +0000"
+    } ,
+  
+    {
       "title"    : "Strategy is action plan with minimal expected free energy",
       "category" : "",
       "tags"     : "quotes",
@@ -5801,14 +5801,6 @@
     } ,
   
     {
-      "title"    : "Leetcode detailed graph",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/leetcode-detailed-graph/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Stepik основы статистики",
       "category" : "",
       "tags"     : "courses",
@@ -5941,6 +5933,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/quotes/202204120908/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -8265,30 +8265,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-03-25 06:38:12 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуализация результатов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vizualizacziya-rezultatov/",
-      "date"     : "2022-05-31 18:41:39 +0000"
-    } ,
-  
-    {
-      "title"    : "Организация мониторинга",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-monitoringa/",
-      "date"     : "2022-08-03 15:11:04 +0000"
-    } ,
-  
-    {
       "title"    : "decide how to decide",
       "category" : "",
       "tags"     : "quotes",
@@ -8585,19 +8561,19 @@
     } ,
   
     {
-      "title"    : "",
+      "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-03-26 06:48:21 +0000"
     } ,
   
     {
-      "title"    : "Устраивать сессии обучения",
+      "title"    : "Определение задачи в списке дел",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/ustraivat-sessii-obucheniya/",
-      "date"     : "2021-10-26 06:11:20 +0000"
+      "url"      : "/openbox/opredelenie-zadachi-v-spiske-del/",
+      "date"     : "2022-01-05 13:43:41 +0000"
     } ,
   
     {
@@ -8606,22 +8582,6 @@
       "tags"     : "",
       "url"      : "/openbox/czifrovoj-bunker/",
       "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Критерий поппера",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriterij-poppera/",
-      "date"     : "2022-09-18 14:30:18 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -8646,6 +8606,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308151024/",
       "date"     : "2023-08-15 06:24:10 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-03-26 06:48:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Карта реальности",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/karta-realnosti/",
+      "date"     : "2022-05-22 14:42:59 +0000"
     } ,
   
     {
@@ -9094,6 +9070,30 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2023-11-09-kak-dumat-pered-kompom/",
       "date"     : "2023-11-09 05:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-03-26 06:48:21 +0000"
+    } ,
+  
+    {
+      "title"    : "Дихотомия понятий",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/dihotomiya-ponyatij/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Leetcode detailed graph",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/leetcode-detailed-graph/",
+      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -9569,11 +9569,19 @@
     } ,
   
     {
+      "title"    : "распределение хи-квадрат",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202402211004/",
+      "date"     : "2024-02-21 07:04:19 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "date"     : "2024-03-26 06:48:21 +0000"
     } ,
   
     {
@@ -9589,7 +9597,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-03-25 06:38:12 +0000"
+      "date"     : "2024-03-26 06:48:21 +0000"
     } 
   
 ]
