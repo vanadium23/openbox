@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -49,11 +49,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-04-10 06:53:15 +0000"
+    } ,
+  
+    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -209,6 +217,14 @@
     } ,
   
     {
+      "title"    : "Величайшая задача науки",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106142029/",
+      "date"     : "2021-06-14 16:29:00 +0000"
+    } ,
+  
+    {
       "title"    : "Увеличении количества важных действий без усилий",
       "category" : "",
       "tags"     : "quotes",
@@ -305,6 +321,14 @@
     } ,
   
     {
+      "title"    : "Случайная выборка для определение смещения и дисперсии",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212043/",
+      "date"     : "2021-06-21 16:43:00 +0000"
+    } ,
+  
+    {
       "title"    : "Индукция - противоположность дедукции",
       "category" : "",
       "tags"     : "quotes",
@@ -377,6 +401,38 @@
     } ,
   
     {
+      "title"    : "People don’t know everything we can do to make things better",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109290922/",
+      "date"     : "2021-09-29 06:22:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Cynefin",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cynefin/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Nuclear energy is clean",
+      "category" : "",
+      "tags"     : "article, chernov_sharit",
+      "url"      : "/openbox/articles/202208020806/",
+      "date"     : "2022-08-02 05:06:34 +0000"
+    } ,
+  
+    {
       "title"    : "Нейрон - преобразователь напряжения в частоту",
       "category" : "",
       "tags"     : "quotes",
@@ -398,38 +454,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106222054/",
       "date"     : "2021-06-22 16:54:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Мы сами решаем вопрос новизны",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108280845/",
-      "date"     : "2021-08-28 05:45:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Пиши сокращай",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/pishi-sokrashhaj/",
-      "date"     : "2021-09-16 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Cynefin",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cynefin/",
-      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -737,11 +761,27 @@
     } ,
   
     {
-      "title"    : "Markdown ADR template",
+      "title"    : "Quantity over quality in note-taking",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108221100/",
-      "date"     : "2021-08-22 08:00:00 +0000"
+      "url"      : "/openbox/quotes/202108021303/",
+      "date"     : "2021-08-02 10:03:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Связь между объяснением и управлением.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108040959/",
+      "date"     : "2021-08-04 06:59:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуальное мышление",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/vizualnoe-myshlenie/",
+      "date"     : "2021-08-22 06:04:28 +0000"
     } ,
   
     {
@@ -750,38 +790,6 @@
       "tags"     : "",
       "url"      : "/openbox/star-methology/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-04-10 06:52:01 +0000"
-    } ,
-  
-    {
-      "title"    : "Величайшая задача науки",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142029/",
-      "date"     : "2021-06-14 16:29:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Случайная выборка для определение смещения и дисперсии",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212043/",
-      "date"     : "2021-06-21 16:43:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Quantity over quality in note-taking",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108021303/",
-      "date"     : "2021-08-02 10:03:00 +0000"
     } ,
   
     {
@@ -822,14 +830,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108040954/",
       "date"     : "2021-08-04 06:54:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Связь между объяснением и управлением.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108040959/",
-      "date"     : "2021-08-04 06:59:00 +0000"
     } ,
   
     {
@@ -1001,14 +1001,6 @@
     } ,
   
     {
-      "title"    : "Визуальное мышление",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/vizualnoe-myshlenie/",
-      "date"     : "2021-08-22 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Необходимо проверять непротиворечивость информации",
       "category" : "",
       "tags"     : "quotes",
@@ -1022,6 +1014,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220913/",
       "date"     : "2021-08-22 06:13:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Markdown ADR template",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108221100/",
+      "date"     : "2021-08-22 08:00:00 +0000"
     } ,
   
     {
@@ -1102,6 +1102,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108280839/",
       "date"     : "2021-08-28 05:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Мы сами решаем вопрос новизны",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108280845/",
+      "date"     : "2021-08-28 05:45:00 +0000"
     } ,
   
     {
@@ -1353,6 +1361,14 @@
     } ,
   
     {
+      "title"    : "Пиши сокращай",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/pishi-sokrashhaj/",
+      "date"     : "2021-09-16 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "источники вдохновения для книги",
       "category" : "",
       "tags"     : "quotes",
@@ -1505,11 +1521,11 @@
     } ,
   
     {
-      "title"    : "Status for ADRs",
+      "title"    : "Простой пример грейдов",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202111152022/",
-      "date"     : "2021-11-15 17:22:00 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202201041049/",
+      "date"     : "2022-01-04 06:49:00 +0000"
     } ,
   
     {
@@ -1517,7 +1533,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -1541,7 +1557,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -1798,14 +1814,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109290737/",
       "date"     : "2021-09-29 04:37:00 +0000"
-    } ,
-  
-    {
-      "title"    : "People don’t know everything we can do to make things better",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109290922/",
-      "date"     : "2021-09-29 06:22:00 +0000"
     } ,
   
     {
@@ -2265,19 +2273,19 @@
     } ,
   
     {
+      "title"    : "Status for ADRs",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202111152022/",
+      "date"     : "2021-11-15 17:22:00 +0000"
+    } ,
+  
+    {
       "title"    : "Design review instead of code review",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202111271936/",
       "date"     : "2021-11-27 16:36:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Простой пример грейдов",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202201041049/",
-      "date"     : "2022-01-04 06:49:00 +0000"
     } ,
   
     {
@@ -4502,14 +4510,6 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202208020758/",
       "date"     : "2022-08-02 04:58:46 +0000"
-    } ,
-  
-    {
-      "title"    : "Nuclear energy is clean",
-      "category" : "",
-      "tags"     : "article, chernov_sharit",
-      "url"      : "/openbox/articles/202208020806/",
-      "date"     : "2022-08-02 05:06:34 +0000"
     } ,
   
     {
@@ -6797,7 +6797,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } ,
   
     {
@@ -7894,14 +7894,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202305161024/",
       "date"     : "2023-05-16 06:24:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Query languages",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/shelves/query-languages/",
-      "date"     : "2023-05-16 07:14:45 +0000"
     } ,
   
     {
@@ -9665,11 +9657,27 @@
     } ,
   
     {
+      "title"    : "процедура липкое решение",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403091246/",
+      "date"     : "2024-03-09 09:46:07 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
+    } ,
+  
+    {
+      "title"    : "Query languages",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/shelves/query-languages/",
+      "date"     : "2023-05-16 07:14:45 +0000"
     } ,
   
     {
@@ -9693,7 +9701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-04-10 06:52:01 +0000"
+      "date"     : "2024-04-10 06:53:15 +0000"
     } 
   
 ]
