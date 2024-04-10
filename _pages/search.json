@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -49,11 +49,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-04-10 06:48:35 +0000"
+    } ,
+  
+    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -206,14 +214,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-04-10 06:46:07 +0000"
     } ,
   
     {
@@ -409,14 +409,6 @@
     } ,
   
     {
-      "title"    : "Иголка в глубиннах гиперпространства",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106222053/",
-      "date"     : "2021-06-22 16:53:00 +0000"
-    } ,
-  
-    {
       "title"    : "Экзистенциализм",
       "category" : "",
       "tags"     : "",
@@ -430,6 +422,14 @@
       "tags"     : "",
       "url"      : "/openbox/cynefin/",
       "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Иголка в глубиннах гиперпространства",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106222053/",
+      "date"     : "2021-06-22 16:53:00 +0000"
     } ,
   
     {
@@ -729,14 +729,6 @@
     } ,
   
     {
-      "title"    : "Начало бесконечности",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/nachalo-beskonechnosti/",
-      "date"     : "2021-08-02 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Наука предсказывает события, которые были невозможны.",
       "category" : "",
       "tags"     : "quotes",
@@ -745,19 +737,11 @@
     } ,
   
     {
-      "title"    : "Рост идёт от проблем к более интересным проблемам",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109132013/",
-      "date"     : "2021-09-13 17:13:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Star methology",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/star-methology/",
-      "date"     : "2021-09-23 05:57:26 +0000"
+      "title"    : "Начало бесконечности",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/nachalo-beskonechnosti/",
+      "date"     : "2021-08-02 06:04:28 +0000"
     } ,
   
     {
@@ -766,6 +750,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108021303/",
       "date"     : "2021-08-02 10:03:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Star methology",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/star-methology/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -1329,6 +1321,14 @@
     } ,
   
     {
+      "title"    : "Рост идёт от проблем к более интересным проблемам",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109132013/",
+      "date"     : "2021-09-13 17:13:00 +0000"
+    } ,
+  
+    {
       "title"    : "в нашем бесконечном невежестве все мы равны",
       "category" : "",
       "tags"     : "quotes",
@@ -1509,7 +1509,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -1533,7 +1533,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -6797,7 +6797,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } ,
   
     {
@@ -8761,6 +8761,14 @@
     } ,
   
     {
+      "title"    : "Scaling the Practice of Architecture",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202308221234/",
+      "date"     : "2023-08-22 09:34:15 +0000"
+    } ,
+  
+    {
       "title"    : "separate what from how in requirements process",
       "category" : "",
       "tags"     : "quotes",
@@ -9153,6 +9161,14 @@
     } ,
   
     {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-04-10 06:48:35 +0000"
+    } ,
+  
+    {
       "title"    : "местная знать автоматически интегрируется в состав московской",
       "category" : "",
       "tags"     : "quotes",
@@ -9409,6 +9425,14 @@
     } ,
   
     {
+      "title"    : "Релятивистское болото",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/relyativistskoe-boloto/",
+      "date"     : "2023-12-24 09:17:27 +0000"
+    } ,
+  
+    {
       "title"    : "instability сервиса",
       "category" : "",
       "tags"     : "quotes",
@@ -9601,6 +9625,14 @@
     } ,
   
     {
+      "title"    : "идеальный размер команды для спринта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202402252103/",
+      "date"     : "2024-02-25 18:03:09 +0000"
+    } ,
+  
+    {
       "title"    : "перевод шансов в коэффициент регрессии",
       "category" : "",
       "tags"     : "quotes",
@@ -9625,30 +9657,6 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-04-10 06:46:07 +0000"
-    } ,
-  
-    {
-      "title"    : "Scaling the Practice of Architecture",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202308221234/",
-      "date"     : "2023-08-22 09:34:15 +0000"
-    } ,
-  
-    {
-      "title"    : "Релятивистское болото",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/relyativistskoe-boloto/",
-      "date"     : "2023-12-24 09:17:27 +0000"
-    } ,
-  
-    {
       "title"    : "Эволюция в групповых чатах",
       "category" : "",
       "tags"     : "",
@@ -9661,7 +9669,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-04-10 06:46:07 +0000"
+      "date"     : "2024-04-10 06:48:35 +0000"
     } 
   
 ]
