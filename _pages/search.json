@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -38,6 +38,22 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-04-10 06:58:47 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -169,14 +185,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-04-10 06:57:10 +0000"
-    } ,
-  
-    {
       "title"    : "2021 05 07 slack   не email",
       "category" : "",
       "tags"     : "",
@@ -198,14 +206,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-04-10 06:57:10 +0000"
     } ,
   
     {
@@ -337,14 +337,6 @@
     } ,
   
     {
-      "title"    : "Три уровня системы обработки информации",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212046/",
-      "date"     : "2021-06-21 16:46:00 +0000"
-    } ,
-  
-    {
       "title"    : "Дедукцию легко запутать шумом",
       "category" : "",
       "tags"     : "quotes",
@@ -401,38 +393,6 @@
     } ,
   
     {
-      "title"    : "упрощай пока это возможно, а потом упрости еще",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106252057/",
-      "date"     : "2021-06-25 16:57:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Брать или не брать. Как собеседовать разработчика.",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/brat-ili-ne-brat-kak-sobesedovat-razrabotchika/",
-      "date"     : "2022-02-06 16:52:35 +0000"
-    } ,
-  
-    {
-      "title"    : "Cynefin",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cynefin/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Иголка в глубиннах гиперпространства",
       "category" : "",
       "tags"     : "quotes",
@@ -446,6 +406,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106222054/",
       "date"     : "2021-06-22 16:54:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Cynefin",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cynefin/",
+      "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
     {
@@ -478,6 +454,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106252056/",
       "date"     : "2021-06-25 16:56:00 +0000"
+    } ,
+  
+    {
+      "title"    : "упрощай пока это возможно, а потом упрости еще",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106252057/",
+      "date"     : "2021-06-25 16:57:00 +0000"
     } ,
   
     {
@@ -574,6 +558,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282106/",
       "date"     : "2021-06-28 17:06:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Дефисы для запоминания",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106302149/",
+      "date"     : "2021-06-30 17:49:00 +0000"
     } ,
   
     {
@@ -745,22 +737,6 @@
     } ,
   
     {
-      "title"    : "Мышление как моделирование, вывод, демоделирование",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108262346/",
-      "date"     : "2021-08-26 20:46:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Star methology",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/star-methology/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "The mundanity of excellence",
       "category" : "",
       "tags"     : "quotes",
@@ -774,6 +750,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108032331/",
       "date"     : "2021-08-03 20:31:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Star methology",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/star-methology/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -1062,6 +1046,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108261125/",
       "date"     : "2021-08-26 08:25:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление как моделирование, вывод, демоделирование",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108262346/",
+      "date"     : "2021-08-26 20:46:00 +0000"
     } ,
   
     {
@@ -1501,7 +1493,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -1525,7 +1517,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -2085,15 +2077,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
-      "title"    : "Дефисы для запоминания",
+      "title"    : "Три уровня системы обработки информации",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106302149/",
-      "date"     : "2021-06-30 17:49:00 +0000"
+      "url"      : "/openbox/quotes/202106212046/",
+      "date"     : "2021-06-21 16:46:00 +0000"
     } ,
   
     {
@@ -2702,6 +2694,14 @@
       "tags"     : "",
       "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
       "date"     : "2022-02-06 10:27:56 +0000"
+    } ,
+  
+    {
+      "title"    : "Брать или не брать. Как собеседовать разработчика.",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/brat-ili-ne-brat-kak-sobesedovat-razrabotchika/",
+      "date"     : "2022-02-06 16:52:35 +0000"
     } ,
   
     {
@@ -6797,7 +6797,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -9705,11 +9705,27 @@
     } ,
   
     {
+      "title"    : "роли для создания прототипа",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403131300/",
+      "date"     : "2024-03-13 10:00:40 +0000"
+    } ,
+  
+    {
+      "title"    : "потенциал должен оценивать конечный потребитель",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403131305/",
+      "date"     : "2024-03-13 10:05:53 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } ,
   
     {
@@ -9725,7 +9741,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-04-10 06:57:10 +0000"
+      "date"     : "2024-04-10 06:58:47 +0000"
     } 
   
 ]
