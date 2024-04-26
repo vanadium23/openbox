@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "date"     : "2024-04-26 08:44:54 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "date"     : "2024-04-26 08:44:54 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "date"     : "2024-04-26 08:44:54 +0000"
     } ,
   
     {
@@ -49,11 +49,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
+      "title"    : "2021 02 17 публично критиковать можно",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -61,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "date"     : "2024-04-26 08:44:54 +0000"
     } ,
   
     {
@@ -182,14 +182,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
-    } ,
-  
-    {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -409,22 +401,6 @@
     } ,
   
     {
-      "title"    : "Экзистенциализм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ekzistenczializm/",
-      "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Cynefin",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/cynefin/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
       "title"    : "Иголка в глубиннах гиперпространства",
       "category" : "",
       "tags"     : "quotes",
@@ -633,14 +609,6 @@
     } ,
   
     {
-      "title"    : "Узкие задачи легко решать на даннах, а широкие - нет",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022208/",
-      "date"     : "2021-07-02 18:08:00 +0000"
-    } ,
-  
-    {
       "title"    : "налоговый кодекс растет экспоненциально",
       "category" : "",
       "tags"     : "quotes",
@@ -753,14 +721,6 @@
     } ,
   
     {
-      "title"    : "Star methology",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/star-methology/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "The mundanity of excellence",
       "category" : "",
       "tags"     : "quotes",
@@ -830,14 +790,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122025/",
       "date"     : "2021-08-12 17:25:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Неодарвинизм - это теория репликаторов.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122027/",
-      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -1425,14 +1377,6 @@
     } ,
   
     {
-      "title"    : "Для доказательства требуется больше усилий",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221304/",
-      "date"     : "2021-09-22 10:04:00 +0000"
-    } ,
-  
-    {
       "title"    : "Штампы не делают текст богаче по смыслу.",
       "category" : "",
       "tags"     : "quotes",
@@ -1489,6 +1433,14 @@
     } ,
   
     {
+      "title"    : "Star methology",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/star-methology/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1505,35 +1457,11 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-04-10 07:21:34 +0000"
-    } ,
-  
-    {
       "title"    : "Банк данных",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bank-dannyh/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Css snippets",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/css-snippets/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-04-10 07:21:34 +0000"
     } ,
   
     {
@@ -2089,6 +2017,14 @@
     } ,
   
     {
+      "title"    : "Для доказательства требуется больше усилий",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221304/",
+      "date"     : "2021-09-22 10:04:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2222,14 +2158,6 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202111021639/",
       "date"     : "2021-11-02 05:34:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Прагматизм",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pragmatizm/",
-      "date"     : "2021-11-02 11:40:24 +0000"
     } ,
   
     {
@@ -2529,6 +2457,14 @@
     } ,
   
     {
+      "title"    : "Экзистенциализм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ekzistenczializm/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
       "title"    : "Развитие целей личности",
       "category" : "",
       "tags"     : "quotes",
@@ -2758,6 +2694,30 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-04-06-kak-vesti-neskolko-kalendarej/",
       "date"     : "2022-04-06 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-04-26 08:44:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Узкие задачи легко решать на даннах, а широкие - нет",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022208/",
+      "date"     : "2021-07-02 18:08:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Неодарвинизм - это теория репликаторов.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122027/",
+      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -3725,6 +3685,22 @@
       "category" : "",
       "tags"     : "competencies, disciplines, skills",
       "url"      : "/openbox/competencies/menedzhment/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Css snippets",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/css-snippets/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Cynefin",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/cynefin/",
       "date"     : "2022-06-06 06:04:28 +0000"
     } ,
   
@@ -6737,70 +6713,6 @@
     } ,
   
     {
-      "title"    : "2023 02 21 про llms",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-02-21-pro-ll-ms/",
-      "date"     : "2023-02-21 05:31:07 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 11 09 как думать перед компом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-11-09-kak-dumat-pered-kompom/",
-      "date"     : "2023-11-09 05:59:16 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 01 18 всё это большой детский сад",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-01-18-vsyo-eto-bolshoj-detskij-sad/",
-      "date"     : "2024-01-18 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 01 29 связи важнее",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-01-29-svyazi-vazhnee/",
-      "date"     : "2024-01-29 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Django migrations",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/django-migrations/",
-      "date"     : "2024-02-13 07:41:55 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 03 27 про удалёнку",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-03-27-pro-udalyonku/",
-      "date"     : "2024-03-27 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 04 03 инструменты против культуры",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
-      "date"     : "2024-04-03 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-04-10 07:21:34 +0000"
-    } ,
-  
-    {
       "title"    : "Структурирование заметок",
       "category" : "",
       "tags"     : "",
@@ -6942,6 +6854,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302210859/",
       "date"     : "2023-02-21 04:59:30 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 02 21 про llms",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-02-21-pro-ll-ms/",
+      "date"     : "2023-02-21 05:31:07 +0000"
     } ,
   
     {
@@ -9145,6 +9065,30 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-04-26 08:44:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Прагматизм",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pragmatizm/",
+      "date"     : "2021-11-02 11:40:24 +0000"
+    } ,
+  
+    {
+      "title"    : "2023 11 09 как думать перед компом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-11-09-kak-dumat-pered-kompom/",
+      "date"     : "2023-11-09 05:59:16 +0000"
+    } ,
+  
+    {
       "title"    : "дело русского государства - мобилизация и перераспределение",
       "category" : "",
       "tags"     : "quotes",
@@ -9214,6 +9158,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202311251243/",
       "date"     : "2023-11-25 08:43:52 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-04-26 08:44:54 +0000"
     } ,
   
     {
@@ -9489,6 +9441,14 @@
     } ,
   
     {
+      "title"    : "2024 01 18 всё это большой детский сад",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-01-18-vsyo-eto-bolshoj-detskij-sad/",
+      "date"     : "2024-01-18 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "про отношение к работе",
       "category" : "",
       "tags"     : "quotes",
@@ -9502,6 +9462,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202401181238/",
       "date"     : "2024-01-18 09:38:01 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 01 29 связи важнее",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-01-29-svyazi-vazhnee/",
+      "date"     : "2024-01-29 00:00:00 +0000"
     } ,
   
     {
@@ -9550,6 +9518,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202402122103/",
       "date"     : "2024-02-12 18:03:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Django migrations",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/django-migrations/",
+      "date"     : "2024-02-13 07:41:55 +0000"
     } ,
   
     {
@@ -9729,11 +9705,43 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-04-26 08:44:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-04-26 08:44:54 +0000"
+    } ,
+  
+    {
       "title"    : "Эволюция в групповых чатах",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evolyucziya-v-gruppovyh-chatah/",
       "date"     : "2024-03-16 18:54:21 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 03 27 про удалёнку",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-03-27-pro-udalyonku/",
+      "date"     : "2024-03-27 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 04 03 инструменты против культуры",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
+      "date"     : "2024-04-03 00:00:00 +0000"
     } ,
   
     {
@@ -9745,11 +9753,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "Любимые выступления",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "url"      : "/openbox/lyubimye-vystupleniya/",
+      "date"     : "2024-04-15 10:34:20 +0000"
     } ,
   
     {
@@ -9757,7 +9765,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-04-10 07:21:34 +0000"
+      "date"     : "2024-04-26 08:44:54 +0000"
     } 
   
 ]
