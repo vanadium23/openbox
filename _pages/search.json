@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -49,19 +49,11 @@
     } ,
   
     {
-      "title"    : "2021 02 17 публично критиковать можно",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
-      "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -182,6 +174,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101142037/",
       "date"     : "2021-01-14 16:19:12 +0000"
+    } ,
+  
+    {
+      "title"    : "2021 02 17 публично критиковать можно",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
+      "date"     : "2021-02-17 09:31:40 +0000"
     } ,
   
     {
@@ -609,6 +609,14 @@
     } ,
   
     {
+      "title"    : "Узкие задачи легко решать на даннах, а широкие - нет",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022208/",
+      "date"     : "2021-07-02 18:08:00 +0000"
+    } ,
+  
+    {
       "title"    : "налоговый кодекс растет экспоненциально",
       "category" : "",
       "tags"     : "quotes",
@@ -790,6 +798,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122025/",
       "date"     : "2021-08-12 17:25:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Неодарвинизм - это теория репликаторов.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122027/",
+      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -1374,6 +1390,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109221256/",
       "date"     : "2021-09-22 09:56:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Для доказательства требуется больше усилий",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109221304/",
+      "date"     : "2021-09-22 10:04:00 +0000"
     } ,
   
     {
@@ -2014,14 +2038,6 @@
       "tags"     : "",
       "url"      : "/openbox/gtd/",
       "date"     : "2021-10-24 15:05:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Для доказательства требуется больше усилий",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221304/",
-      "date"     : "2021-09-22 10:04:00 +0000"
     } ,
   
     {
@@ -2694,30 +2710,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-04-06-kak-vesti-neskolko-kalendarej/",
       "date"     : "2022-04-06 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-04-26 09:02:58 +0000"
-    } ,
-  
-    {
-      "title"    : "Узкие задачи легко решать на даннах, а широкие - нет",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022208/",
-      "date"     : "2021-07-02 18:08:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Неодарвинизм - это теория репликаторов.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122027/",
-      "date"     : "2021-08-12 17:27:00 +0000"
     } ,
   
     {
@@ -6041,14 +6033,6 @@
     } ,
   
     {
-      "title"    : "Получать обратную связь",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/poluchat-obratnuyu-svyaz/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Постановка целей",
       "category" : "",
       "tags"     : "",
@@ -9065,11 +9049,27 @@
     } ,
   
     {
+      "title"    : "2023 11 09 как думать перед компом",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2023-11-09-kak-dumat-pered-kompom/",
+      "date"     : "2023-11-09 05:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-05-02 09:24:24 +0000"
+    } ,
+  
+    {
       "title"    : "",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -9078,14 +9078,6 @@
       "tags"     : "",
       "url"      : "/openbox/pragmatizm/",
       "date"     : "2021-11-02 11:40:24 +0000"
-    } ,
-  
-    {
-      "title"    : "2023 11 09 как думать перед компом",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-11-09-kak-dumat-pered-kompom/",
-      "date"     : "2023-11-09 05:59:16 +0000"
     } ,
   
     {
@@ -9165,7 +9157,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
+    } ,
+  
+    {
+      "title"    : "Получать обратную связь",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/poluchat-obratnuyu-svyaz/",
+      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -9689,6 +9689,14 @@
     } ,
   
     {
+      "title"    : "2024 03 12 выигрывает тот кто делает нужное",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-03-12-vyigryvaet-tot-kto-delaet-nuzhnoe/",
+      "date"     : "2024-03-12 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "роли для создания прототипа",
       "category" : "",
       "tags"     : "quotes",
@@ -9709,7 +9717,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -9717,7 +9725,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } ,
   
     {
@@ -9765,7 +9773,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-04-26 09:02:58 +0000"
+      "date"     : "2024-05-02 09:24:24 +0000"
     } 
   
 ]
