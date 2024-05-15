@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Sprint How to Solve Big Problems and Test New Ideas in Just Five Days","category":"book","status":"Reviewing","tags":["books"],"rating":3,"date":"2024-02-22","modified_at":"2024-05-15T17:43:51+03:00","dg-path":"/books/Sprint How to Solve Big Problems and Test New Ideas in Just Five Days.md","permalink":"/books/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Sprint How to Solve Big Problems and Test New Ideas in Just Five Days","category":"book","status":"Completed","tags":["books"],"rating":3,"date":"2024-02-22","modified_at":"2024-05-15T17:44:02+03:00","dg-path":"/books/Sprint How to Solve Big Problems and Test New Ideas in Just Five Days.md","permalink":"/books/sprint-how-to-solve-big-problems-and-test-new-ideas-in-just-five-days/","dgPassFrontmatter":true}
 ---
 
 
