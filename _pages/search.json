@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -46,6 +46,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -78,6 +86,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112015/",
       "date"     : "2021-01-11 16:12:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Критика и диагноз мешают решению конфликта",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112016/",
+      "date"     : "2021-01-11 16:12:09 +0000"
     } ,
   
     {
@@ -190,22 +206,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-05-22 12:31:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Критика и диагноз мешают решению конфликта",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112016/",
-      "date"     : "2021-01-11 16:12:09 +0000"
     } ,
   
     {
@@ -518,6 +518,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282102/",
       "date"     : "2021-06-28 17:02:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Метод главных компонент в биологии",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282103/",
+      "date"     : "2021-06-28 17:03:00 +0000"
     } ,
   
     {
@@ -950,14 +958,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220911/",
       "date"     : "2021-08-22 06:11:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Принципы адекватности мышления",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220913/",
-      "date"     : "2021-08-22 06:13:00 +0000"
     } ,
   
     {
@@ -2045,15 +2045,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
-      "title"    : "Метод главных компонент в биологии",
+      "title"    : "Принципы адекватности мышления",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282103/",
-      "date"     : "2021-06-28 17:03:00 +0000"
+      "url"      : "/openbox/quotes/202108220913/",
+      "date"     : "2021-08-22 06:13:00 +0000"
     } ,
   
     {
@@ -6001,38 +6001,6 @@
     } ,
   
     {
-      "title"    : "Javascript",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/javascript/",
-      "date"     : "2023-04-05 07:40:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Git",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/git/",
-      "date"     : "2023-04-06 09:34:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-05-22 12:31:09 +0000"
-    } ,
-  
-    {
       "title"    : "Без критики   нет роста",
       "category" : "",
       "tags"     : "",
@@ -6101,7 +6069,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -7513,6 +7481,22 @@
     } ,
   
     {
+      "title"    : "Javascript",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/javascript/",
+      "date"     : "2023-04-05 07:40:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Git",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/git/",
+      "date"     : "2023-04-06 09:34:38 +0000"
+    } ,
+  
+    {
       "title"    : "что такое альфы проекта",
       "category" : "",
       "tags"     : "quotes",
@@ -7582,6 +7566,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202304240956/",
       "date"     : "2023-04-24 05:56:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -9757,7 +9757,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -9774,6 +9774,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202403180937/",
       "date"     : "2024-03-18 06:37:37 +0000"
+    } ,
+  
+    {
+      "title"    : "algorithm for product success",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180938/",
+      "date"     : "2024-03-18 06:38:06 +0000"
     } ,
   
     {
@@ -9809,11 +9817,19 @@
     } ,
   
     {
+      "title"    : "test your ideas against the real world",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405061018/",
+      "date"     : "2024-05-06 07:18:52 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } ,
   
     {
@@ -9821,7 +9837,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-05-22 12:31:09 +0000"
+      "date"     : "2024-05-22 12:32:46 +0000"
     } 
   
 ]
