@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -225,14 +225,6 @@
     } ,
   
     {
-      "title"    : "Алгоритм - и теория, и устройство",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142034/",
-      "date"     : "2021-06-14 16:34:00 +0000"
-    } ,
-  
-    {
       "title"    : "Концептуальная модель",
       "category" : "",
       "tags"     : "quotes",
@@ -270,6 +262,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106202042/",
       "date"     : "2021-06-20 16:42:00 +0000"
+    } ,
+  
+    {
+      "title"    : "No free lunch",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106202044/",
+      "date"     : "2021-06-20 16:44:00 +0000"
     } ,
   
     {
@@ -2045,15 +2045,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
-      "title"    : "No free lunch",
+      "title"    : "Алгоритм - и теория, и устройство",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106202044/",
-      "date"     : "2021-06-20 16:44:00 +0000"
+      "url"      : "/openbox/quotes/202106142034/",
+      "date"     : "2021-06-14 16:34:00 +0000"
     } ,
   
     {
@@ -6001,38 +6001,6 @@
     } ,
   
     {
-      "title"    : "Javascript",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/javascript/",
-      "date"     : "2023-04-05 07:40:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Git",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/git/",
-      "date"     : "2023-04-06 09:34:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-05-22 12:34:23 +0000"
-    } ,
-  
-    {
       "title"    : "Без критики   нет роста",
       "category" : "",
       "tags"     : "",
@@ -6101,7 +6069,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -7513,6 +7481,22 @@
     } ,
   
     {
+      "title"    : "Javascript",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/javascript/",
+      "date"     : "2023-04-05 07:40:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Git",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/git/",
+      "date"     : "2023-04-06 09:34:38 +0000"
+    } ,
+  
+    {
       "title"    : "что такое альфы проекта",
       "category" : "",
       "tags"     : "quotes",
@@ -8070,6 +8054,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202305250836/",
       "date"     : "2023-05-25 04:36:47 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -9757,7 +9757,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -9841,11 +9841,27 @@
     } ,
   
     {
+      "title"    : "be honest about your failures in order to reflect and learn from them",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405061023/",
+      "date"     : "2024-05-06 07:21:52 +0000"
+    } ,
+  
+    {
+      "title"    : "incentives can really skew how much you can rely on someone expertise",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405061024/",
+      "date"     : "2024-05-06 07:22:01 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } ,
   
     {
@@ -9853,7 +9869,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-05-22 12:34:23 +0000"
+      "date"     : "2024-05-22 12:35:47 +0000"
     } 
   
 ]
