@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/svg+xml" href="/openbox/assets/open-cardboard-box.svg">
+  <link rel="stylesheet" href="/openbox/assets/css/base.css">
+
+  
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Gunicorn | Chernov Open 📦</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Gunicorn" />
+<meta property="og:locale" content="ru_RU" />
+<meta name="description" content="Gunicorn - web сервер для python приложений, как правило, используется в связки с django. У него WSGI интерфейс, поэтому с asyncio не работает (работает через uvicorn воркер). Сейчас в статусе unmaintained, но security патчи завозят. Хорош тем, что просто как пробка." />
+<meta property="og:description" content="Gunicorn - web сервер для python приложений, как правило, используется в связки с django. У него WSGI интерфейс, поэтому с asyncio не работает (работает через uvicorn воркер). Сейчас в статусе unmaintained, но security патчи завозят. Хорош тем, что просто как пробка." />
+<meta property="og:site_name" content="Chernov Open 📦" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-03-28T12:43:19+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Gunicorn" />
+<meta name="twitter:site" content="@vanadium23" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-03-28T12:43:19+00:00","datePublished":"2024-03-28T12:43:19+00:00","description":"Gunicorn - web сервер для python приложений, как правило, используется в связки с django. У него WSGI интерфейс, поэтому с asyncio не работает (работает через uvicorn воркер). Сейчас в статусе unmaintained, но security патчи завозят. Хорош тем, что просто как пробка.","headline":"Gunicorn","mainEntityOfPage":{"@type":"WebPage","@id":"/openbox/gunicorn/"},"url":"/openbox/gunicorn/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+  <body>
+    <nav class="u-background"><div class="u-wrapper Banner">
+    <a class="Banner-link u-clickable" href="/openbox/">
+        Chernov Open 📦
+    </a>
+    <ul class="Banner">
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/interactive-graph">Граф 🌐</a>
+            </li>
+        
+            <li class="Banner-item">
+                <a class="Banner-link u-clickable" href="/openbox/search">Поиск 🔍</a>
+            </li>
+        
+    </ul>
+</div>
+</nav>
+    <div class="container">
+      <main><article>
+  <header class="Heading">
+    <h1 class="Heading-title">Gunicorn</h1>
+    <div class="Heading-additional">
+      
+      <time datetime="2024-03-28T12:43:19+00:00">
+        Создано 2024-03-28
+        
+      </time>&middot;
+      
+      
+      <time datetime="2024-05-30T09:07:27+00:00">
+        Обновлено 2024-05-30
+        
+      </time>
+      
+    </div>
+  </header>
+
+  
+
+  <div id="notes-entry-container">
+    <content>
+      <p>Gunicorn - web сервер для <a href="/openbox/python/">python</a> приложений, как правило, используется в связки с <a href="/openbox/django/">django</a>. У него WSGI интерфейс, поэтому с asyncio не работает (работает через uvicorn воркер). Сейчас в статусе unmaintained, но security патчи завозят. Хорош тем, что просто как пробка.</p>
+
+<p>Типовая конфигурация:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">psycogreen.gevent</span>
+
+<span class="c1"># https://github.com/psycopg/psycogreen/blob/39a258cb4040b88b60a7600f6942e651a28db9a7/README.rst#module-psycogreengevent
+</span><span class="n">psycogreen</span><span class="p">.</span><span class="n">gevent</span><span class="p">.</span><span class="n">patch_psycopg</span><span class="p">()</span>
+
+<span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">multiprocessing</span>
+
+<span class="n">default_worker_count</span> <span class="o">=</span> <span class="n">multiprocessing</span><span class="p">.</span><span class="n">cpu_count</span><span class="p">()</span> <span class="o">*</span> <span class="mi">2</span> <span class="o">+</span> <span class="mi">1</span>
+
+<span class="c1"># https://docs.gunicorn.org/en/stable/settings.html
+</span><span class="n">backlog</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_BACKLOG"</span><span class="p">,</span> <span class="s">"2048"</span><span class="p">))</span>
+<span class="n">workers</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_WORKERS"</span><span class="p">,</span> <span class="n">default_worker_count</span><span class="p">))</span>
+<span class="n">worker_class</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_WORKER_CLASS"</span><span class="p">,</span> <span class="s">"gevent"</span><span class="p">)</span>
+<span class="n">worker_connections</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_WORKER_CONNECTIONS"</span><span class="p">,</span> <span class="s">"50"</span><span class="p">))</span>
+<span class="n">timeout</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_TIMEOUT"</span><span class="p">,</span> <span class="s">"300"</span><span class="p">))</span>
+<span class="n">keepalive</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_KEEPALIVE"</span><span class="p">,</span> <span class="s">"2"</span><span class="p">))</span>
+<span class="n">threads</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_THREADS"</span><span class="p">,</span> <span class="s">"1"</span><span class="p">))</span>
+<span class="n">max_requests</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_MAX_REQUESTS"</span><span class="p">,</span> <span class="s">"2000"</span><span class="p">))</span>
+<span class="n">max_requests_jitter</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_MAX_REQUESTS_JITTER"</span><span class="p">,</span> <span class="s">"1000"</span><span class="p">))</span>
+<span class="n">graceful_timeout</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_GRACEFUL_TIMEOUT"</span><span class="p">,</span> <span class="s">"30"</span><span class="p">))</span>
+
+<span class="n">errorlog</span> <span class="o">=</span> <span class="s">"-"</span>
+<span class="n">loglevel</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">"GUNICORN_LOG_LEVEL"</span><span class="p">,</span> <span class="s">"info"</span><span class="p">)</span>
+<span class="n">accesslog</span> <span class="o">=</span> <span class="s">"-"</span>
+<span class="n">access_log_format</span> <span class="o">=</span> <span class="p">(</span>
+    <span class="sa">f</span><span class="s">'message'</span>
+<span class="p">)</span>
+</code></pre></div></div>
+
+<p>Что точно стоит ставить:</p>
+<ul>
+  <li>accesslog в <code class="language-plaintext highlighter-rouge">-</code>, чтобы шли в stdout</li>
+  <li>max_requests - чтобы был перезапуск гуникорн от утечек памяти</li>
+</ul>
+
+    </content>
+
+    
+  </div>
+</article>
+</main>
+      <footer></footer>
+    </div>
+
+    <!-- https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_includes/link-previews.html -->
+<!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+    content a.internal-link {
+        border-color: #8b88e6;
+        background-color: #efefff;
+    }
+
+    #tooltip-wrapper {
+        background: white;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        overflow: hidden;
+        position: absolute;
+        width: 400px;
+        height: 250px;
+        font-size: 0.8em;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        transition: opacity 100ms;
+    }
+
+    #tooltip-wrapper:after {
+        content: "";
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        left: 0;
+        pointer-events: none;
+        background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 90%);
+        width: 100%;
+        height: 75px;
+    }
+
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+    <div id='tooltip-content'>
+    </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+    const tooltipContentSelector = "main";
+    const tooltipLinksQuery = "main a";
+
+    var opacityTimeout;
+    var contentTimeout;
+    var transitionDurationMs = 100;
+
+    var iframe = document.getElementById('link-preview-iframe')
+    var tooltipWrapper = document.getElementById('tooltip-wrapper')
+    var tooltipContent = document.getElementById('tooltip-content')
+
+    function hideTooltip() {
+        opacityTimeout = setTimeout(function () {
+            tooltipWrapper.style.opacity = 0;
+            contentTimeout = setTimeout(function () {
+                tooltipContent.innerHTML = '';
+                tooltipWrapper.style.display = 'none';
+            }, transitionDurationMs + 1);
+        }, transitionDurationMs)
+    }
+
+    function showTooltip(event) {
+        var elem = event.target;
+        var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+        var top = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (event.target.host === window.location.host) {
+            iframe.src = event.target.href
+            iframe.onload = function () {
+                tooltipContentHtml = ''
+                tooltipContentHtml += iframe.contentWindow.document.querySelector(
+                    tooltipContentSelector
+                )?.innerHTML;
+
+                tooltipContent.innerHTML = tooltipContentHtml
+
+                tooltipWrapper.style.display = 'block';
+                setTimeout(function () {
+                    tooltipWrapper.style.opacity = 1;
+                }, 1)
+            }
+
+            tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+            if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+            } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+                tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+            }
+
+            if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = "10px";
+            } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+                tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+            }
+        }
+    }
+
+    function setupListeners(linkElement) {
+        linkElement.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('mouseleave', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        tooltipWrapper.addEventListener('touchend', function (_event) {
+            hideTooltip();
+        });
+
+        linkElement.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+            showTooltip(event);
+        });
+
+        tooltipWrapper.addEventListener('mouseenter', function (event) {
+            clearTimeout(opacityTimeout);
+            clearTimeout(contentTimeout);
+        });
+    }
+
+    document.querySelectorAll(tooltipLinksQuery).forEach(setupListeners);
+</script>
+
+    <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  }, false);
+</script>
+    
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7507913639b540edbde55792995b90d8"}'></script><!-- End Cloudflare Web Analytics -->
+
+  </body>
+</html>
