@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -53,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -257,35 +257,19 @@
     } ,
   
     {
-      "title"    : "Все открытия - продукт аналогии",
+      "title"    : "Смещение и дисперсия в машинном обучении",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106262101/",
-      "date"     : "2021-06-26 17:01:00 +0000"
+      "url"      : "/openbox/quotes/202106212042/",
+      "date"     : "2021-06-21 16:42:00 +0000"
     } ,
   
     {
-      "title"    : "Замедление при увеличение фрагментов",
+      "title"    : "AGI - диктатура или демократия?",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106302150/",
-      "date"     : "2021-06-30 17:50:00 +0000"
-    } ,
-  
-    {
-      "title"    : "От знания - пользы мало, если это невозможно сделать в доступное время и с доступной памятью",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022158/",
-      "date"     : "2021-07-02 17:58:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Последствия падения ценности труда",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022212/",
-      "date"     : "2021-07-02 18:12:00 +0000"
+      "url"      : "/openbox/quotes/202107022217/",
+      "date"     : "2021-07-02 18:17:00 +0000"
     } ,
   
     {
@@ -305,11 +289,19 @@
     } ,
   
     {
-      "title"    : "Map of content",
+      "title"    : "Находить правду в статистике",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/map-of-content/",
-      "date"     : "2021-10-21 07:09:08 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231048/",
+      "date"     : "2021-09-23 07:48:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Linear algebra guide",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202207030955/",
+      "date"     : "2022-07-03 18:55:46 +0000"
     } ,
   
     {
@@ -358,14 +350,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106212041/",
       "date"     : "2021-06-21 16:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Смещение и дисперсия в машинном обучении",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212042/",
-      "date"     : "2021-06-21 16:42:00 +0000"
     } ,
   
     {
@@ -561,6 +545,14 @@
     } ,
   
     {
+      "title"    : "Все открытия - продукт аналогии",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106262101/",
+      "date"     : "2021-06-26 17:01:00 +0000"
+    } ,
+  
+    {
       "title"    : "Кластеры можно объединять в кластеры",
       "category" : "",
       "tags"     : "quotes",
@@ -609,6 +601,14 @@
     } ,
   
     {
+      "title"    : "Замедление при увеличение фрагментов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106302150/",
+      "date"     : "2021-06-30 17:50:00 +0000"
+    } ,
+  
+    {
       "title"    : "Повсеместные сети",
       "category" : "",
       "tags"     : "quotes",
@@ -622,6 +622,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106302152/",
       "date"     : "2021-06-30 17:52:00 +0000"
+    } ,
+  
+    {
+      "title"    : "От знания - пользы мало, если это невозможно сделать в доступное время и с доступной памятью",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022158/",
+      "date"     : "2021-07-02 17:58:00 +0000"
     } ,
   
     {
@@ -657,6 +665,14 @@
     } ,
   
     {
+      "title"    : "Последствия падения ценности труда",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022212/",
+      "date"     : "2021-07-02 18:12:00 +0000"
+    } ,
+  
+    {
       "title"    : "Учиться этике на примере неправильно",
       "category" : "",
       "tags"     : "quotes",
@@ -678,14 +694,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202107022216/",
       "date"     : "2021-07-02 18:16:00 +0000"
-    } ,
-  
-    {
-      "title"    : "AGI - диктатура или демократия?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022217/",
-      "date"     : "2021-07-02 18:17:00 +0000"
     } ,
   
     {
@@ -1521,6 +1529,14 @@
     } ,
   
     {
+      "title"    : "Зачем нужно творчество",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Как повысить любопытство",
       "category" : "",
       "tags"     : "",
@@ -1561,10 +1577,10 @@
     } ,
   
     {
-      "title"    : "Метод &quot;чтобы что&quot;",
+      "title"    : "Учёба впрок",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/chtoby-chto/",
+      "url"      : "/openbox/uchyoba-vprok/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1614,14 +1630,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231045/",
       "date"     : "2021-09-23 07:45:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Находить правду в статистике",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231048/",
-      "date"     : "2021-09-23 07:48:00 +0000"
     } ,
   
     {
@@ -1881,6 +1889,14 @@
     } ,
   
     {
+      "title"    : "Ставь ограничения на издержки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
+      "date"     : "2021-10-11 08:40:52 +0000"
+    } ,
+  
+    {
       "title"    : "Система оценок",
       "category" : "",
       "tags"     : "",
@@ -1934,6 +1950,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110191241/",
       "date"     : "2021-10-19 09:41:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Architecture decision record",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/architecture-decision-record/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Map of content",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/map-of-content/",
+      "date"     : "2021-10-21 07:09:08 +0000"
     } ,
   
     {
@@ -2429,6 +2461,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/myslekarta/",
+      "date"     : "2022-01-16 08:19:50 +0000"
+    } ,
+  
+    {
+      "title"    : "Рынок труда   индикатор всего рынка",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
       "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
@@ -4198,14 +4238,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206301339/",
       "date"     : "2022-06-30 10:39:32 +0000"
-    } ,
-  
-    {
-      "title"    : "Linear algebra guide",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202207030955/",
-      "date"     : "2022-07-03 18:55:46 +0000"
     } ,
   
     {
@@ -6297,14 +6329,6 @@
     } ,
   
     {
-      "title"    : "Список платёжных систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
-      "date"     : "2023-01-25 06:58:38 +0000"
-    } ,
-  
-    {
       "title"    : "в образовании большую роль играет преподаватель",
       "category" : "",
       "tags"     : "quotes",
@@ -7929,6 +7953,14 @@
     } ,
   
     {
+      "title"    : "Showcase",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/showcase/",
+      "date"     : "2023-05-21 12:21:54 +0000"
+    } ,
+  
+    {
       "title"    : "how would I behave for results",
       "category" : "",
       "tags"     : "quotes",
@@ -8078,14 +8110,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202305300918/",
       "date"     : "2023-05-30 05:18:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
     } ,
   
     {
@@ -8345,6 +8369,14 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-07-10 09:58:22 +0000"
+    } ,
+  
+    {
       "title"    : "типы обратной связи в системах",
       "category" : "",
       "tags"     : "quotes",
@@ -8366,6 +8398,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307061520/",
       "date"     : "2023-07-06 12:20:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Список платёжных систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
+      "date"     : "2023-01-25 06:58:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
     } ,
   
     {
@@ -8406,22 +8454,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307101510/",
       "date"     : "2023-07-10 12:10:29 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-06-28 06:48:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Учёба впрок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/uchyoba-vprok/",
-      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -8873,6 +8905,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-07-10 09:58:22 +0000"
+    } ,
+  
+    {
       "title"    : "Testing at the Edges",
       "category" : "",
       "tags"     : "quotes",
@@ -8950,14 +8990,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202309171144/",
       "date"     : "2023-09-17 07:44:36 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-06-28 06:48:42 +0000"
     } ,
   
     {
@@ -9369,6 +9401,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-10 09:58:22 +0000"
+    } ,
+  
+    {
       "title"    : "Релятивистское болото",
       "category" : "",
       "tags"     : "",
@@ -9398,22 +9438,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202312291317/",
       "date"     : "2023-12-29 10:17:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-06-28 06:48:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Ставь ограничения на издержки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
-      "date"     : "2021-10-11 08:40:52 +0000"
     } ,
   
     {
@@ -9753,6 +9777,14 @@
     } ,
   
     {
+      "title"    : "entrypoints for a startup ideas",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403182108/",
+      "date"     : "2024-03-18 18:09:01 +0000"
+    } ,
+  
+    {
       "title"    : "2024 03 27 про удалёнку",
       "category" : "",
       "tags"     : "",
@@ -9889,43 +9921,19 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-10 09:58:22 +0000"
+    } ,
+  
+    {
       "title"    : "2024 06 11 почему дедлайны не работают",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-06-11-pochemu-dedlajny-ne-rabotayut/",
       "date"     : "2024-06-11 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-06-28 06:48:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Зачем нужно творчество",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zachem-nuzhno-tvorchestvo/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Architecture decision record",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/architecture-decision-record/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Рынок труда   индикатор всего рынка",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/rynok-truda-indikator-vsego-rynka/",
-      "date"     : "2022-01-16 08:19:50 +0000"
     } ,
   
     {
@@ -9941,15 +9949,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
-      "title"    : "Showcase",
+      "title"    : "Метод &quot;чтобы что&quot;",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/showcase/",
-      "date"     : "2023-05-21 12:21:54 +0000"
+      "url"      : "/openbox/chtoby-chto/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -9957,7 +9965,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-06-28 06:48:42 +0000"
+      "date"     : "2024-07-10 09:58:22 +0000"
     } 
   
 ]
