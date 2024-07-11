@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-10 09:58:22 +0000"
+      "date"     : "2024-07-11 08:09:05 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-10 09:58:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-10 09:58:22 +0000"
+      "date"     : "2024-07-11 08:09:05 +0000"
     } ,
   
     {
@@ -46,14 +38,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -209,6 +193,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
       "title"    : "Величайшая задача науки",
       "category" : "",
       "tags"     : "quotes",
@@ -254,54 +246,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106172039/",
       "date"     : "2021-06-17 17:32:29 +0000"
-    } ,
-  
-    {
-      "title"    : "Смещение и дисперсия в машинном обучении",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212042/",
-      "date"     : "2021-06-21 16:42:00 +0000"
-    } ,
-  
-    {
-      "title"    : "AGI - диктатура или демократия?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022217/",
-      "date"     : "2021-07-02 18:17:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Начало бесконечности",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/nachalo-beskonechnosti/",
-      "date"     : "2021-08-02 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Визуальное мышление",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/vizualnoe-myshlenie/",
-      "date"     : "2021-08-22 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Находить правду в статистике",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231048/",
-      "date"     : "2021-09-23 07:48:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Linear algebra guide",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202207030955/",
-      "date"     : "2022-07-03 18:55:46 +0000"
     } ,
   
     {
@@ -353,11 +297,11 @@
     } ,
   
     {
-      "title"    : "Случайная выборка для определение смещения и дисперсии",
+      "title"    : "Смещение и дисперсия в машинном обучении",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212043/",
-      "date"     : "2021-06-21 16:43:00 +0000"
+      "url"      : "/openbox/quotes/202106212042/",
+      "date"     : "2021-06-21 16:42:00 +0000"
     } ,
   
     {
@@ -697,6 +641,14 @@
     } ,
   
     {
+      "title"    : "AGI - диктатура или демократия?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022217/",
+      "date"     : "2021-07-02 18:17:00 +0000"
+    } ,
+  
+    {
       "title"    : "Мир уже захвачен глупыми компьютерами",
       "category" : "",
       "tags"     : "quotes",
@@ -745,6 +697,14 @@
     } ,
   
     {
+      "title"    : "Начало бесконечности",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/nachalo-beskonechnosti/",
+      "date"     : "2021-08-02 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Quantity over quality in note-taking",
       "category" : "",
       "tags"     : "quotes",
@@ -790,14 +750,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108040954/",
       "date"     : "2021-08-04 06:54:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Связь между объяснением и управлением.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108040959/",
-      "date"     : "2021-08-04 06:59:00 +0000"
     } ,
   
     {
@@ -966,6 +918,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108220839/",
       "date"     : "2021-08-22 05:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Визуальное мышление",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/vizualnoe-myshlenie/",
+      "date"     : "2021-08-22 06:04:28 +0000"
     } ,
   
     {
@@ -1481,6 +1441,22 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
+      "title"    : "Связь между объяснением и управлением.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108040959/",
+      "date"     : "2021-08-04 06:59:00 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1517,14 +1493,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zakrytye-chatiki-eto-ne-ploho/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Заметки должны быть сильносвязаны между собой",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1585,6 +1553,14 @@
     } ,
   
     {
+      "title"    : "Метод &quot;чтобы что&quot;",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chtoby-chto/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Люди умнеют от содержания",
       "category" : "",
       "tags"     : "quotes",
@@ -1630,6 +1606,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231045/",
       "date"     : "2021-09-23 07:45:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Находить правду в статистике",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231048/",
+      "date"     : "2021-09-23 07:48:00 +0000"
     } ,
   
     {
@@ -1945,14 +1929,6 @@
     } ,
   
     {
-      "title"    : "Секрет убедительности — в конкретике",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110191241/",
-      "date"     : "2021-10-19 09:41:00 +0000"
-    } ,
-  
-    {
       "title"    : "Architecture decision record",
       "category" : "",
       "tags"     : "",
@@ -1966,6 +1942,14 @@
       "tags"     : "",
       "url"      : "/openbox/map-of-content/",
       "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
+      "title"    : "Секрет убедительности — в конкретике",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110191241/",
+      "date"     : "2021-10-19 09:41:00 +0000"
     } ,
   
     {
@@ -2041,6 +2025,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
+      "title"    : "Случайная выборка для определение смещения и дисперсии",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212043/",
+      "date"     : "2021-06-21 16:43:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2070,6 +2070,38 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110242321/",
       "date"     : "2021-10-24 20:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Успех успокоение зависит от собственного спокойствия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205131849/",
+      "date"     : "2022-05-13 15:49:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
+      "title"    : "Заметки должны быть сильносвязаны между собой",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zametki-dolzhny-byt-silnosvyazany-mezhdu-soboj/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -3185,14 +3217,6 @@
     } ,
   
     {
-      "title"    : "Успех успокоение зависит от собственного спокойствия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205131849/",
-      "date"     : "2022-05-13 15:49:00 +0000"
-    } ,
-  
-    {
       "title"    : "Способ проверки одевания",
       "category" : "",
       "tags"     : "",
@@ -4238,6 +4262,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206301339/",
       "date"     : "2022-06-30 10:39:32 +0000"
+    } ,
+  
+    {
+      "title"    : "Linear algebra guide",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202207030955/",
+      "date"     : "2022-07-03 18:55:46 +0000"
     } ,
   
     {
@@ -6329,6 +6361,14 @@
     } ,
   
     {
+      "title"    : "Список платёжных систем",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
+      "date"     : "2023-01-25 06:58:38 +0000"
+    } ,
+  
+    {
       "title"    : "в образовании большую роль играет преподаватель",
       "category" : "",
       "tags"     : "quotes",
@@ -8193,6 +8233,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
       "title"    : "Вопросы по завершению проекта",
       "category" : "",
       "tags"     : "",
@@ -8369,14 +8417,6 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-10 09:58:22 +0000"
-    } ,
-  
-    {
       "title"    : "типы обратной связи в системах",
       "category" : "",
       "tags"     : "quotes",
@@ -8398,22 +8438,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307061520/",
       "date"     : "2023-07-06 12:20:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Список платёжных систем",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/spisok-platyozhnyh-sistem/",
-      "date"     : "2023-01-25 06:58:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
     } ,
   
     {
@@ -8905,14 +8929,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-10 09:58:22 +0000"
-    } ,
-  
-    {
       "title"    : "Testing at the Edges",
       "category" : "",
       "tags"     : "quotes",
@@ -9398,14 +9414,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202312221348/",
       "date"     : "2023-12-22 10:48:18 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-10 09:58:22 +0000"
     } ,
   
     {
@@ -9921,14 +9929,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-10 09:58:22 +0000"
-    } ,
-  
-    {
       "title"    : "2024 06 11 почему дедлайны не работают",
       "category" : "",
       "tags"     : "",
@@ -9945,19 +9945,19 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-07-11 08:09:05 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-10 09:58:22 +0000"
-    } ,
-  
-    {
-      "title"    : "Метод &quot;чтобы что&quot;",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chtoby-chto/",
-      "date"     : "2021-09-23 05:57:26 +0000"
+      "date"     : "2024-07-11 08:09:05 +0000"
     } ,
   
     {
@@ -9965,7 +9965,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-10 09:58:22 +0000"
+      "date"     : "2024-07-11 08:09:05 +0000"
     } 
   
 ]
