@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -49,11 +49,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-07-25 08:16:06 +0000"
+    } ,
+  
+    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -558,6 +566,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106302149/",
       "date"     : "2021-06-30 17:49:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Замедление при увеличение фрагментов",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106302150/",
+      "date"     : "2021-06-30 17:50:00 +0000"
     } ,
   
     {
@@ -1169,6 +1185,14 @@
     } ,
   
     {
+      "title"    : "Принятие решений как поиск наилучших объяснений",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109041111/",
+      "date"     : "2021-09-04 08:11:00 +0000"
+    } ,
+  
+    {
       "title"    : "Научные теории сложно менять, потому что не зависят от культуры",
       "category" : "",
       "tags"     : "quotes",
@@ -1337,11 +1361,11 @@
     } ,
   
     {
-      "title"    : "Текст упрощается от малого к большому",
+      "title"    : "сильные и слабые сказуемые",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109221245/",
-      "date"     : "2021-09-22 09:45:00 +0000"
+      "url"      : "/openbox/quotes/202110042026/",
+      "date"     : "2021-10-04 17:26:00 +0000"
     } ,
   
     {
@@ -1353,27 +1377,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:14:43 +0000"
-    } ,
-  
-    {
-      "title"    : "Замедление при увеличение фрагментов",
+      "title"    : "Текст упрощается от малого к большому",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106302150/",
-      "date"     : "2021-06-30 17:50:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Принятие решений как поиск наилучших объяснений",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109041111/",
-      "date"     : "2021-09-04 08:11:00 +0000"
+      "url"      : "/openbox/quotes/202109221245/",
+      "date"     : "2021-09-22 09:45:00 +0000"
     } ,
   
     {
@@ -1502,14 +1510,6 @@
       "tags"     : "",
       "url"      : "/openbox/bank-dannyh/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:14:43 +0000"
     } ,
   
     {
@@ -1865,14 +1865,6 @@
     } ,
   
     {
-      "title"    : "сильные и слабые сказуемые",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042026/",
-      "date"     : "2021-10-04 17:26:00 +0000"
-    } ,
-  
-    {
       "title"    : "Парцелляция",
       "category" : "",
       "tags"     : "quotes",
@@ -1910,14 +1902,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110101340/",
       "date"     : "2021-10-10 10:40:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:14:43 +0000"
     } ,
   
     {
@@ -2265,22 +2249,6 @@
     } ,
   
     {
-      "title"    : "Определение задачи в списке дел",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/opredelenie-zadachi-v-spiske-del/",
-      "date"     : "2022-01-05 13:43:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Проектирование через команды",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/proektirovanie-cherez-komandy/",
-      "date"     : "2022-01-05 13:43:41 +0000"
-    } ,
-  
-    {
       "title"    : "Делай то что считаешь правильным",
       "category" : "",
       "tags"     : "",
@@ -2294,14 +2262,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2022-01-09-problema-abbreviatur/",
       "date"     : "2022-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Основные приемы разрешения противоречий",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201102052/",
-      "date"     : "2022-01-10 17:52:00 +0000"
     } ,
   
     {
@@ -2326,6 +2286,46 @@
       "tags"     : "",
       "url"      : "/openbox/adaptacziya-podhodov-pod-sebya/",
       "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модель Мертона",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206081002/",
+      "date"     : "2022-06-08 07:02:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-25 08:16:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Определение задачи в списке дел",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/opredelenie-zadachi-v-spiske-del/",
+      "date"     : "2022-01-05 13:43:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Проектирование через команды",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/proektirovanie-cherez-komandy/",
+      "date"     : "2022-01-05 13:43:41 +0000"
+    } ,
+  
+    {
+      "title"    : "Основные приемы разрешения противоречий",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201102052/",
+      "date"     : "2022-01-10 17:52:00 +0000"
     } ,
   
     {
@@ -3790,14 +3790,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206061438/",
       "date"     : "2022-06-06 11:38:53 +0000"
-    } ,
-  
-    {
-      "title"    : "Модель Мертона",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206081002/",
-      "date"     : "2022-06-08 07:02:29 +0000"
     } ,
   
     {
@@ -6073,6 +6065,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-07-25 08:16:06 +0000"
+    } ,
+  
+    {
       "title"    : "Оставляйте только важные задачи",
       "category" : "",
       "tags"     : "",
@@ -8213,7 +8213,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -9825,6 +9825,22 @@
     } ,
   
     {
+      "title"    : "entrepreneurs get rid of community problems",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250943/",
+      "date"     : "2024-03-25 06:42:15 +0000"
+    } ,
+  
+    {
+      "title"    : "four different types of utility",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250944/",
+      "date"     : "2024-03-25 06:42:35 +0000"
+    } ,
+  
+    {
       "title"    : "2024 03 27 про удалёнку",
       "category" : "",
       "tags"     : "",
@@ -9989,7 +10005,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } ,
   
     {
@@ -9997,7 +10013,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:14:43 +0000"
+      "date"     : "2024-07-25 08:16:06 +0000"
     } 
   
 ]
