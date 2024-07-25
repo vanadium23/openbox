@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -46,6 +46,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -201,14 +209,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:28:23 +0000"
-    } ,
-  
-    {
       "title"    : "Величайшая задача науки",
       "category" : "",
       "tags"     : "quotes",
@@ -238,14 +238,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142031/",
       "date"     : "2021-06-14 17:30:55 +0000"
-    } ,
-  
-    {
-      "title"    : "Пять племён машинного обучения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142032/",
-      "date"     : "2021-06-14 17:31:05 +0000"
     } ,
   
     {
@@ -513,19 +505,19 @@
     } ,
   
     {
+      "title"    : "Кластеры можно объединять в кластеры",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282102/",
+      "date"     : "2021-06-28 17:02:00 +0000"
+    } ,
+  
+    {
       "title"    : "Метод главных компонент в биологии",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282103/",
       "date"     : "2021-06-28 17:03:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Isomap - алгоритм понижения размерности",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282104/",
-      "date"     : "2021-06-28 17:04:00 +0000"
     } ,
   
     {
@@ -1105,6 +1097,14 @@
     } ,
   
     {
+      "title"    : "Физический мир - это мультивселенная с потоками информации",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109012313/",
+      "date"     : "2021-09-01 20:13:00 +0000"
+    } ,
+  
+    {
       "title"    : "При каждом измерении перестают существовать все истории, кроме одной",
       "category" : "",
       "tags"     : "quotes",
@@ -1357,23 +1357,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
-      "title"    : "Кластеры можно объединять в кластеры",
+      "title"    : "Пять племён машинного обучения",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282102/",
-      "date"     : "2021-06-28 17:02:00 +0000"
+      "url"      : "/openbox/quotes/202106142032/",
+      "date"     : "2021-06-14 17:31:05 +0000"
     } ,
   
     {
-      "title"    : "Физический мир - это мультивселенная с потоками информации",
+      "title"    : "Isomap - алгоритм понижения размерности",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109012313/",
-      "date"     : "2021-09-01 20:13:00 +0000"
+      "url"      : "/openbox/quotes/202106282104/",
+      "date"     : "2021-06-28 17:04:00 +0000"
     } ,
   
     {
@@ -1513,27 +1513,43 @@
     } ,
   
     {
-      "title"    : "Болезнь отличника у менеджера",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231038/",
-      "date"     : "2021-09-23 07:38:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Timeboxing questions",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110101340/",
-      "date"     : "2021-10-10 10:40:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Fail early, fail fast, fail often",
+      "title"    : "Система оценок",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/quotes/202205151152/",
-      "date"     : "2022-05-15 08:52:00 +0000"
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Грустные правды жизни",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/grustnye-pravdy-zhizni/",
+      "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Пример Китая с остатками рисами для собственных нужд",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205142239/",
+      "date"     : "2022-05-14 19:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "That’s how we function, not how we perceive.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209112113/",
+      "date"     : "2022-09-11 18:13:18 +0000"
     } ,
   
     {
@@ -1541,7 +1557,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -1593,14 +1609,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:28:23 +0000"
-    } ,
-  
-    {
       "title"    : "Обработка входящей информации",
       "category" : "",
       "tags"     : "",
@@ -1638,6 +1646,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231036/",
       "date"     : "2021-09-23 07:36:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Болезнь отличника у менеджера",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231038/",
+      "date"     : "2021-09-23 07:38:00 +0000"
     } ,
   
     {
@@ -1929,19 +1945,19 @@
     } ,
   
     {
+      "title"    : "Timeboxing questions",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110101340/",
+      "date"     : "2021-10-10 10:40:00 +0000"
+    } ,
+  
+    {
       "title"    : "Ставь ограничения на издержки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
       "date"     : "2021-10-11 08:40:52 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
     } ,
   
     {
@@ -2190,14 +2206,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110282147/",
       "date"     : "2021-10-28 18:47:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Грустные правды жизни",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/grustnye-pravdy-zhizni/",
-      "date"     : "2021-10-31 06:13:54 +0000"
     } ,
   
     {
@@ -2654,14 +2662,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201281058/",
       "date"     : "2022-01-28 07:58:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
     } ,
   
     {
@@ -3257,14 +3257,6 @@
     } ,
   
     {
-      "title"    : "Пример Китая с остатками рисами для собственных нужд",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205142239/",
-      "date"     : "2022-05-14 19:39:00 +0000"
-    } ,
-  
-    {
       "title"    : "Инвестиции требуют сбережений",
       "category" : "",
       "tags"     : "",
@@ -3286,6 +3278,14 @@
       "tags"     : "",
       "url"      : "/openbox/quotes/202205151144/",
       "date"     : "2022-05-15 08:44:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Fail early, fail fast, fail often",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205151152/",
+      "date"     : "2022-05-15 08:52:00 +0000"
     } ,
   
     {
@@ -5425,14 +5425,6 @@
     } ,
   
     {
-      "title"    : "That’s how we function, not how we perceive.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209112113/",
-      "date"     : "2022-09-11 18:13:18 +0000"
-    } ,
-  
-    {
       "title"    : "How to wreck ecosystem",
       "category" : "",
       "tags"     : "quotes",
@@ -6070,6 +6062,14 @@
       "tags"     : "",
       "url"      : "/openbox/motivacziya-sotrudnikov/",
       "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -8065,6 +8065,14 @@
     } ,
   
     {
+      "title"    : "Tree structure",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tree-structure/",
+      "date"     : "2023-05-25 06:21:54 +0000"
+    } ,
+  
+    {
       "title"    : "Эпистемология",
       "category" : "",
       "tags"     : "competencies, disciplines",
@@ -8205,15 +8213,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:28:23 +0000"
-    } ,
-  
-    {
-      "title"    : "Tree structure",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tree-structure/",
-      "date"     : "2023-05-25 06:21:54 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -9897,6 +9897,22 @@
     } ,
   
     {
+      "title"    : "the goal is to get less wrong as quickly as you can",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404020906/",
+      "date"     : "2024-04-02 06:04:01 +0000"
+    } ,
+  
+    {
+      "title"    : "refine a manual valuable process",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404020907/",
+      "date"     : "2024-04-02 06:04:13 +0000"
+    } ,
+  
+    {
       "title"    : "2024 04 03 инструменты против культуры",
       "category" : "",
       "tags"     : "",
@@ -10037,7 +10053,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -10045,7 +10061,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:28:23 +0000"
+      "date"     : "2024-07-25 08:29:34 +0000"
     } 
   
 ]
