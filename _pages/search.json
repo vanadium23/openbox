@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -46,6 +46,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -105,6 +113,22 @@
     } ,
   
     {
+      "title"    : "Неотложная эмпатическая помощь",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112021/",
+      "date"     : "2021-01-11 16:12:49 +0000"
+    } ,
+  
+    {
+      "title"    : "Для защиты сначала эмпатия, потом сила",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112026/",
+      "date"     : "2021-01-11 16:14:03 +0000"
+    } ,
+  
+    {
       "title"    : "невежество в воспитательных процессах",
       "category" : "",
       "tags"     : "quotes",
@@ -158,22 +182,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-02-17-publichno-kritikovat-mozhno/",
       "date"     : "2021-02-17 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:30:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Для защиты сначала эмпатия, потом сила",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112026/",
-      "date"     : "2021-01-11 16:14:03 +0000"
     } ,
   
     {
@@ -310,6 +318,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106212043/",
       "date"     : "2021-06-21 16:43:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Индукция - противоположность дедукции",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106212044/",
+      "date"     : "2021-06-21 16:44:00 +0000"
     } ,
   
     {
@@ -913,14 +929,6 @@
     } ,
   
     {
-      "title"    : "Визуальная коммуникация",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108220831/",
-      "date"     : "2021-08-22 05:31:00 +0000"
-    } ,
-  
-    {
       "title"    : "Модель сжимает информацию, мы её разжимаем",
       "category" : "",
       "tags"     : "quotes",
@@ -1086,14 +1094,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109011835/",
       "date"     : "2021-09-01 15:35:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Разные времена — это частный случай разных вселенных",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109012308/",
-      "date"     : "2021-09-01 20:08:00 +0000"
     } ,
   
     {
@@ -1357,23 +1357,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
-      "title"    : "Неотложная эмпатическая помощь",
+      "title"    : "Визуальная коммуникация",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112021/",
-      "date"     : "2021-01-11 16:12:49 +0000"
+      "url"      : "/openbox/quotes/202108220831/",
+      "date"     : "2021-08-22 05:31:00 +0000"
     } ,
   
     {
-      "title"    : "Индукция - противоположность дедукции",
+      "title"    : "Разные времена — это частный случай разных вселенных",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212044/",
-      "date"     : "2021-06-21 16:44:00 +0000"
+      "url"      : "/openbox/quotes/202109012308/",
+      "date"     : "2021-09-01 20:08:00 +0000"
     } ,
   
     {
@@ -1510,6 +1510,38 @@
       "tags"     : "",
       "url"      : "/openbox/dihotomiya-ponyatij/",
       "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Abstract catalyst must be mad of knowledge",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109271141/",
+      "date"     : "2021-09-27 08:41:00 +0000"
+    } ,
+  
+    {
+      "title"    : "is second law is strictly impossible?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109281907/",
+      "date"     : "2021-09-28 16:07:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Указывать в тексте ограничения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110251634/",
+      "date"     : "2021-10-25 13:34:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -1673,14 +1705,6 @@
     } ,
   
     {
-      "title"    : "Abstract catalyst must be mad of knowledge",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109271141/",
-      "date"     : "2021-09-27 08:41:00 +0000"
-    } ,
-  
-    {
       "title"    : "Abstract catalyst as a recipe",
       "category" : "",
       "tags"     : "quotes",
@@ -1710,14 +1734,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109271252/",
       "date"     : "2021-09-27 09:52:00 +0000"
-    } ,
-  
-    {
-      "title"    : "is second law is strictly impossible?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109281907/",
-      "date"     : "2021-09-28 16:07:00 +0000"
     } ,
   
     {
@@ -2113,14 +2129,6 @@
     } ,
   
     {
-      "title"    : "Указывать в тексте ограничения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110251634/",
-      "date"     : "2021-10-25 13:34:00 +0000"
-    } ,
-  
-    {
       "title"    : "Проверить что текст действительно про вас",
       "category" : "",
       "tags"     : "quotes",
@@ -2325,6 +2333,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2889,6 +2905,14 @@
     } ,
   
     {
+      "title"    : "checklist to define a term clearly",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202204231018/",
+      "date"     : "2022-05-01 06:43:54 +0000"
+    } ,
+  
+    {
       "title"    : "Domain Driven design distilled",
       "category" : "book",
       "tags"     : "books",
@@ -3305,22 +3329,6 @@
     } ,
   
     {
-      "title"    : "Architects must determine the most important -ilities.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209022221/",
-      "date"     : "2022-09-02 19:21:45 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:30:33 +0000"
-    } ,
-  
-    {
       "title"    : "Карта реальности",
       "category" : "",
       "tags"     : "",
@@ -3534,6 +3542,14 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
     } ,
   
     {
@@ -5233,6 +5249,14 @@
     } ,
   
     {
+      "title"    : "Architects must determine the most important -ilities.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209022221/",
+      "date"     : "2022-09-02 19:21:45 +0000"
+    } ,
+  
+    {
       "title"    : "Place changeability into the architecture",
       "category" : "",
       "tags"     : "quotes",
@@ -6045,7 +6069,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -6782,6 +6806,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302130847/",
       "date"     : "2023-02-13 04:47:43 +0000"
+    } ,
+  
+    {
+      "title"    : "unity of purpose through shared mental models",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302140959/",
+      "date"     : "2023-02-14 05:59:04 +0000"
     } ,
   
     {
@@ -8181,39 +8213,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:30:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "checklist to define a term clearly",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202204231018/",
-      "date"     : "2022-05-01 06:43:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
-    } ,
-  
-    {
-      "title"    : "unity of purpose through shared mental models",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202302140959/",
-      "date"     : "2023-02-14 05:59:04 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -9929,6 +9929,22 @@
     } ,
   
     {
+      "title"    : "manual sales in early, word of mouth in latter",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404040910/",
+      "date"     : "2024-04-04 06:10:31 +0000"
+    } ,
+  
+    {
+      "title"    : "marketing is about making fans",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404080936/",
+      "date"     : "2024-04-08 06:36:19 +0000"
+    } ,
+  
+    {
       "title"    : "tactical tornado",
       "category" : "",
       "tags"     : "quotes",
@@ -10061,7 +10077,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } ,
   
     {
@@ -10069,7 +10085,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:30:33 +0000"
+      "date"     : "2024-07-25 08:32:04 +0000"
     } 
   
 ]
