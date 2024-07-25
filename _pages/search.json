@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -46,14 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -113,22 +105,6 @@
     } ,
   
     {
-      "title"    : "Неотложная эмпатическая помощь",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112021/",
-      "date"     : "2021-01-11 16:12:49 +0000"
-    } ,
-  
-    {
-      "title"    : "Для защиты сначала эмпатия, потом сила",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112026/",
-      "date"     : "2021-01-11 16:14:03 +0000"
-    } ,
-  
-    {
       "title"    : "невежество в воспитательных процессах",
       "category" : "",
       "tags"     : "quotes",
@@ -185,6 +161,22 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-25 08:30:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Для защиты сначала эмпатия, потом сила",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112026/",
+      "date"     : "2021-01-11 16:14:03 +0000"
+    } ,
+  
+    {
       "title"    : "2021 05 07 slack   не email",
       "category" : "",
       "tags"     : "",
@@ -238,6 +230,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142031/",
       "date"     : "2021-06-14 17:30:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Пять племён машинного обучения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106142032/",
+      "date"     : "2021-06-14 17:31:05 +0000"
     } ,
   
     {
@@ -310,14 +310,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106212043/",
       "date"     : "2021-06-21 16:43:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Индукция - противоположность дедукции",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106212044/",
-      "date"     : "2021-06-21 16:44:00 +0000"
     } ,
   
     {
@@ -518,6 +510,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282103/",
       "date"     : "2021-06-28 17:03:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Isomap - алгоритм понижения размерности",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282104/",
+      "date"     : "2021-06-28 17:04:00 +0000"
     } ,
   
     {
@@ -1357,23 +1357,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
-      "title"    : "Пять племён машинного обучения",
+      "title"    : "Неотложная эмпатическая помощь",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142032/",
-      "date"     : "2021-06-14 17:31:05 +0000"
+      "url"      : "/openbox/quotes/202101112021/",
+      "date"     : "2021-01-11 16:12:49 +0000"
     } ,
   
     {
-      "title"    : "Isomap - алгоритм понижения размерности",
+      "title"    : "Индукция - противоположность дедукции",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282104/",
-      "date"     : "2021-06-28 17:04:00 +0000"
+      "url"      : "/openbox/quotes/202106212044/",
+      "date"     : "2021-06-21 16:44:00 +0000"
     } ,
   
     {
@@ -1510,54 +1510,6 @@
       "tags"     : "",
       "url"      : "/openbox/dihotomiya-ponyatij/",
       "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Грустные правды жизни",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/grustnye-pravdy-zhizni/",
-      "date"     : "2021-10-31 06:13:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Ментальная модель",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/mentalnaya-model/",
-      "date"     : "2022-01-30 10:42:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Пример Китая с остатками рисами для собственных нужд",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205142239/",
-      "date"     : "2022-05-14 19:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "That’s how we function, not how we perceive.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209112113/",
-      "date"     : "2022-09-11 18:13:18 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:29:34 +0000"
     } ,
   
     {
@@ -1961,6 +1913,14 @@
     } ,
   
     {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
       "title"    : "Понятийный минимум",
       "category" : "",
       "tags"     : "",
@@ -2209,6 +2169,14 @@
     } ,
   
     {
+      "title"    : "Грустные правды жизни",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/grustnye-pravdy-zhizni/",
+      "date"     : "2021-10-31 06:13:54 +0000"
+    } ,
+  
+    {
       "title"    : "Потребности не связаны с действиями",
       "category" : "",
       "tags"     : "quotes",
@@ -2357,14 +2325,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2665,6 +2625,14 @@
     } ,
   
     {
+      "title"    : "Ментальная модель",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/mentalnaya-model/",
+      "date"     : "2022-01-30 10:42:13 +0000"
+    } ,
+  
+    {
       "title"    : "Описание",
       "category" : "",
       "tags"     : "",
@@ -2917,14 +2885,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/quotes/202204231008/",
-      "date"     : "2022-05-01 06:43:54 +0000"
-    } ,
-  
-    {
-      "title"    : "checklist to define a term clearly",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202204231018/",
       "date"     : "2022-05-01 06:43:54 +0000"
     } ,
   
@@ -3257,6 +3217,14 @@
     } ,
   
     {
+      "title"    : "Пример Китая с остатками рисами для собственных нужд",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205142239/",
+      "date"     : "2022-05-14 19:39:00 +0000"
+    } ,
+  
+    {
       "title"    : "Инвестиции требуют сбережений",
       "category" : "",
       "tags"     : "",
@@ -3334,6 +3302,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202205221701/",
       "date"     : "2022-05-22 14:01:56 +0000"
+    } ,
+  
+    {
+      "title"    : "Architects must determine the most important -ilities.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209022221/",
+      "date"     : "2022-09-02 19:21:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -3550,14 +3534,6 @@
       "tags"     : "",
       "url"      : "/openbox/domain-driven-design/",
       "date"     : "2022-05-30 15:59:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой бункер",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-bunker/",
-      "date"     : "2022-05-31 18:27:49 +0000"
     } ,
   
     {
@@ -5257,14 +5233,6 @@
     } ,
   
     {
-      "title"    : "Architects must determine the most important -ilities.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209022221/",
-      "date"     : "2022-09-02 19:21:45 +0000"
-    } ,
-  
-    {
       "title"    : "Place changeability into the architecture",
       "category" : "",
       "tags"     : "quotes",
@@ -5422,6 +5390,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209071935/",
       "date"     : "2022-09-07 16:35:24 +0000"
+    } ,
+  
+    {
+      "title"    : "That’s how we function, not how we perceive.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209112113/",
+      "date"     : "2022-09-11 18:13:18 +0000"
     } ,
   
     {
@@ -6069,7 +6045,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -6806,14 +6782,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302130847/",
       "date"     : "2023-02-13 04:47:43 +0000"
-    } ,
-  
-    {
-      "title"    : "unity of purpose through shared mental models",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202302140959/",
-      "date"     : "2023-02-14 05:59:04 +0000"
     } ,
   
     {
@@ -8213,7 +8181,39 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "checklist to define a term clearly",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202204231018/",
+      "date"     : "2022-05-01 06:43:54 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой бункер",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-bunker/",
+      "date"     : "2022-05-31 18:27:49 +0000"
+    } ,
+  
+    {
+      "title"    : "unity of purpose through shared mental models",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202302140959/",
+      "date"     : "2023-02-14 05:59:04 +0000"
     } ,
   
     {
@@ -9921,6 +9921,14 @@
     } ,
   
     {
+      "title"    : "the zero price effect",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404040905/",
+      "date"     : "2024-04-04 06:05:10 +0000"
+    } ,
+  
+    {
       "title"    : "tactical tornado",
       "category" : "",
       "tags"     : "quotes",
@@ -10053,7 +10061,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } ,
   
     {
@@ -10061,7 +10069,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:29:34 +0000"
+      "date"     : "2024-07-25 08:30:33 +0000"
     } 
   
 ]
