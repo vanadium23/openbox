@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -49,14 +49,6 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:26:55 +0000"
-    } ,
-  
-    {
       "title"    : "шаги ненасильственного общения",
       "category" : "",
       "tags"     : "quotes",
@@ -70,6 +62,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112012/",
       "date"     : "2021-01-11 16:11:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Анализ часто воспринимают как критику",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112014/",
+      "date"     : "2021-01-11 16:11:47 +0000"
     } ,
   
     {
@@ -198,6 +198,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/verhovnyj-algoritm/",
       "date"     : "2021-06-04 07:04:22 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -505,14 +513,6 @@
     } ,
   
     {
-      "title"    : "Кластеры можно объединять в кластеры",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282102/",
-      "date"     : "2021-06-28 17:02:00 +0000"
-    } ,
-  
-    {
       "title"    : "Метод главных компонент в биологии",
       "category" : "",
       "tags"     : "quotes",
@@ -526,6 +526,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106282104/",
       "date"     : "2021-06-28 17:04:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Обучение с подкреплений должен иметь шум",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106282105/",
+      "date"     : "2021-06-28 17:05:00 +0000"
     } ,
   
     {
@@ -1097,14 +1105,6 @@
     } ,
   
     {
-      "title"    : "Физический мир - это мультивселенная с потоками информации",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109012313/",
-      "date"     : "2021-09-01 20:13:00 +0000"
-    } ,
-  
-    {
       "title"    : "При каждом измерении перестают существовать все истории, кроме одной",
       "category" : "",
       "tags"     : "quotes",
@@ -1357,23 +1357,23 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
-      "title"    : "Анализ часто воспринимают как критику",
+      "title"    : "Кластеры можно объединять в кластеры",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112014/",
-      "date"     : "2021-01-11 16:11:47 +0000"
+      "url"      : "/openbox/quotes/202106282102/",
+      "date"     : "2021-06-28 17:02:00 +0000"
     } ,
   
     {
-      "title"    : "Обучение с подкреплений должен иметь шум",
+      "title"    : "Физический мир - это мультивселенная с потоками информации",
       "category" : "",
       "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106282105/",
-      "date"     : "2021-06-28 17:05:00 +0000"
+      "url"      : "/openbox/quotes/202109012313/",
+      "date"     : "2021-09-01 20:13:00 +0000"
     } ,
   
     {
@@ -1513,6 +1513,38 @@
     } ,
   
     {
+      "title"    : "Болезнь отличника у менеджера",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231038/",
+      "date"     : "2021-09-23 07:38:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Timeboxing questions",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110101340/",
+      "date"     : "2021-10-10 10:40:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Fail early, fail fast, fail often",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/quotes/202205151152/",
+      "date"     : "2022-05-15 08:52:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-25 08:28:23 +0000"
+    } ,
+  
+    {
       "title"    : "Закрытые чатики это не плохо",
       "category" : "",
       "tags"     : "",
@@ -1561,6 +1593,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-07-25 08:28:23 +0000"
+    } ,
+  
+    {
       "title"    : "Обработка входящей информации",
       "category" : "",
       "tags"     : "",
@@ -1598,14 +1638,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202109231036/",
       "date"     : "2021-09-23 07:36:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Болезнь отличника у менеджера",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231038/",
-      "date"     : "2021-09-23 07:38:00 +0000"
     } ,
   
     {
@@ -1894,14 +1926,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110061614/",
       "date"     : "2021-10-06 13:14:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Timeboxing questions",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110101340/",
-      "date"     : "2021-10-10 10:40:00 +0000"
     } ,
   
     {
@@ -2470,14 +2494,6 @@
       "tags"     : "",
       "url"      : "/openbox/myslekarta/",
       "date"     : "2022-01-16 08:19:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:26:55 +0000"
     } ,
   
     {
@@ -3273,14 +3289,6 @@
     } ,
   
     {
-      "title"    : "Fail early, fail fast, fail often",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/quotes/202205151152/",
-      "date"     : "2022-05-15 08:52:00 +0000"
-    } ,
-  
-    {
       "title"    : "HRT framework",
       "category" : "",
       "tags"     : "",
@@ -3326,14 +3334,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202205221701/",
       "date"     : "2022-05-22 14:01:56 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:26:55 +0000"
     } ,
   
     {
@@ -8205,7 +8205,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -9889,6 +9889,14 @@
     } ,
   
     {
+      "title"    : "everything that a software engineer can do today, everyone can do tomorrow",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202404020905/",
+      "date"     : "2024-04-02 06:03:50 +0000"
+    } ,
+  
+    {
       "title"    : "2024 04 03 инструменты против культуры",
       "category" : "",
       "tags"     : "",
@@ -10029,7 +10037,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } ,
   
     {
@@ -10037,7 +10045,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:26:55 +0000"
+      "date"     : "2024-07-25 08:28:23 +0000"
     } 
   
 ]
