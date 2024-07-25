@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -49,19 +49,11 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-07-25 08:35:58 +0000"
-    } ,
-  
-    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -169,14 +161,6 @@
     } ,
   
     {
-      "title"    : "Благодарность в ННО",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101122036/",
-      "date"     : "2021-01-12 16:18:57 +0000"
-    } ,
-  
-    {
       "title"    : "Наш глубочайший страх вызван несоответствием",
       "category" : "",
       "tags"     : "quotes",
@@ -222,14 +206,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142029/",
       "date"     : "2021-06-14 16:29:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Увеличении количества важных действий без усилий",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106142030/",
-      "date"     : "2021-06-14 16:30:00 +0000"
     } ,
   
     {
@@ -585,6 +561,38 @@
     } ,
   
     {
+      "title"    : "Начало бесконечности",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/nachalo-beskonechnosti/",
+      "date"     : "2021-08-02 06:04:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-07-25 08:38:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Благодарность в ННО",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101122036/",
+      "date"     : "2021-01-12 16:18:57 +0000"
+    } ,
+  
+    {
+      "title"    : "Увеличении количества важных действий без усилий",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106142030/",
+      "date"     : "2021-06-14 16:30:00 +0000"
+    } ,
+  
+    {
       "title"    : "Единый алгоритм машинного обучения",
       "category" : "",
       "tags"     : "quotes",
@@ -718,14 +726,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108020831/",
       "date"     : "2021-08-02 05:31:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Начало бесконечности",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/nachalo-beskonechnosti/",
-      "date"     : "2021-08-02 06:04:28 +0000"
     } ,
   
     {
@@ -2197,7 +2197,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -2321,18 +2321,42 @@
     } ,
   
     {
-      "title"    : "Делегирование",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delegirovanie/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "Как преодолеть противоречия",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Нельзя экономить на формулировках",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202201221220/",
+      "date"     : "2022-01-22 09:20:00 +0000"
+    } ,
+  
+    {
+      "title"    : "комментировать только свои мысли",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208281000/",
+      "date"     : "2022-08-28 07:01:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-07-25 08:38:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Делегирование",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delegirovanie/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -2457,22 +2481,6 @@
     } ,
   
     {
-      "title"    : "Золотое правило изменения сложившегося способа поведения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202206051609/",
-      "date"     : "2022-06-05 13:09:50 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-07-25 08:35:58 +0000"
-    } ,
-  
-    {
       "title"    : "Искреняя похвала",
       "category" : "",
       "tags"     : "",
@@ -2566,14 +2574,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201221207/",
       "date"     : "2022-01-22 09:07:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Нельзя экономить на формулировках",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202201221220/",
-      "date"     : "2022-01-22 09:20:00 +0000"
     } ,
   
     {
@@ -3694,6 +3694,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206051422/",
       "date"     : "2022-06-05 11:22:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Золотое правило изменения сложившегося способа поведения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202206051609/",
+      "date"     : "2022-06-05 13:09:50 +0000"
     } ,
   
     {
@@ -5030,14 +5038,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202208280955/",
       "date"     : "2022-08-28 06:55:44 +0000"
-    } ,
-  
-    {
-      "title"    : "комментировать только свои мысли",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208281000/",
-      "date"     : "2022-08-28 07:01:00 +0000"
     } ,
   
     {
@@ -8213,7 +8213,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -10001,6 +10001,22 @@
     } ,
   
     {
+      "title"    : "company will grow as quickly as customers determine it will grow",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405020952/",
+      "date"     : "2024-05-02 06:52:23 +0000"
+    } ,
+  
+    {
+      "title"    : "ten amazing to hundred good ones",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405020955/",
+      "date"     : "2024-05-02 06:53:32 +0000"
+    } ,
+  
+    {
       "title"    : "Great Mental Models, Volume 1",
       "category" : "book",
       "tags"     : "books",
@@ -10117,7 +10133,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } ,
   
     {
@@ -10125,7 +10141,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-07-25 08:35:58 +0000"
+      "date"     : "2024-07-25 08:38:42 +0000"
     } 
   
 ]
