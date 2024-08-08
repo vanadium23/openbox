@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-08 08:38:14 +0000"
+      "date"     : "2024-08-08 08:40:11 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-08 08:38:14 +0000"
+      "date"     : "2024-08-08 08:40:11 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-08 08:38:14 +0000"
+      "date"     : "2024-08-08 08:40:11 +0000"
     } ,
   
     {
@@ -113,19 +113,19 @@
     } ,
   
     {
-      "title"    : "Для защиты сначала эмпатия, потом сила",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112026/",
-      "date"     : "2021-01-11 16:14:03 +0000"
-    } ,
-  
-    {
       "title"    : "невежество в воспитательных процессах",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202101112027/",
       "date"     : "2021-01-11 16:16:29 +0000"
+    } ,
+  
+    {
+      "title"    : "чего я хочу от человека?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112030/",
+      "date"     : "2021-01-11 16:17:19 +0000"
     } ,
   
     {
@@ -806,14 +806,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122041/",
       "date"     : "2021-08-12 17:41:00 +0000"
-    } ,
-  
-    {
-      "title"    : "индивид должен ценить истину, а общество должно быть толерантным.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141444/",
-      "date"     : "2021-08-14 11:44:00 +0000"
     } ,
   
     {
@@ -2001,14 +1993,6 @@
     } ,
   
     {
-      "title"    : "Earnestness is passion for its own sake",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110241001/",
-      "date"     : "2021-10-24 07:01:00 +0000"
-    } ,
-  
-    {
       "title"    : "Make process policies explicit",
       "category" : "",
       "tags"     : "quotes",
@@ -2022,6 +2006,14 @@
       "tags"     : "",
       "url"      : "/openbox/gtd/",
       "date"     : "2021-10-24 15:05:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Earnestness is passion for its own sake",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110241001/",
+      "date"     : "2021-10-24 07:01:00 +0000"
     } ,
   
     {
@@ -2293,6 +2285,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3366,6 +3366,30 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202205240925/",
       "date"     : "2022-05-24 06:25:43 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-08 08:40:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Для защиты сначала эмпатия, потом сила",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112026/",
+      "date"     : "2021-01-11 16:14:03 +0000"
+    } ,
+  
+    {
+      "title"    : "индивид должен ценить истину, а общество должно быть толерантным.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141444/",
+      "date"     : "2021-08-14 11:44:00 +0000"
     } ,
   
     {
@@ -5961,14 +5985,6 @@
     } ,
   
     {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Без критики   нет роста",
       "category" : "",
       "tags"     : "",
@@ -5997,14 +6013,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kakie-zametki-u-vas-dolzhny-byt/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Какие метрики хорошие",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kakie-metriki-horoshie/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6518,14 +6526,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302020948/",
       "date"     : "2023-02-02 05:48:56 +0000"
-    } ,
-  
-    {
-      "title"    : "Progressive summarization",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/progressive-summarization/",
-      "date"     : "2023-02-02 05:59:58 +0000"
     } ,
   
     {
@@ -7337,14 +7337,6 @@
     } ,
   
     {
-      "title"    : "каждый проект уникален",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202303261310/",
-      "date"     : "2023-03-26 09:10:52 +0000"
-    } ,
-  
-    {
       "title"    : "Метаданные в obsidian",
       "category" : "",
       "tags"     : "",
@@ -7529,14 +7521,6 @@
     } ,
   
     {
-      "title"    : "Принцип почтальона",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/princzip-pochtalona/",
-      "date"     : "2023-04-24 06:23:28 +0000"
-    } ,
-  
-    {
       "title"    : "сначала функционал, потом конструкция",
       "category" : "",
       "tags"     : "quotes",
@@ -7638,22 +7622,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sistemnaya-zhizn/",
       "date"     : "2023-05-08 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-08 08:38:14 +0000"
-    } ,
-  
-    {
-      "title"    : "чего я хочу от человека?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112030/",
-      "date"     : "2021-01-11 16:17:19 +0000"
     } ,
   
     {
@@ -8081,6 +8049,14 @@
     } ,
   
     {
+      "title"    : "Progressive summarization",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/progressive-summarization/",
+      "date"     : "2023-02-02 05:59:58 +0000"
+    } ,
+  
+    {
       "title"    : "the design of a mature system is determined more by changes made during the system’s evolution",
       "category" : "",
       "tags"     : "quotes",
@@ -8166,6 +8142,14 @@
       "tags"     : "",
       "url"      : "/openbox/omg-essense/",
       "date"     : "2023-06-03 07:01:09 +0000"
+    } ,
+  
+    {
+      "title"    : "каждый проект уникален",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202303261310/",
+      "date"     : "2023-03-26 09:10:52 +0000"
     } ,
   
     {
@@ -8478,22 +8462,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307121014/",
       "date"     : "2023-07-12 06:14:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-08 08:38:14 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -8862,6 +8830,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202305071006/",
       "date"     : "2023-09-11 08:38:10 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-08-08 08:40:11 +0000"
     } ,
   
     {
@@ -9385,6 +9361,14 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-08 08:40:11 +0000"
+    } ,
+  
+    {
       "title"    : "нет смысла получать больше дохода",
       "category" : "",
       "tags"     : "quotes",
@@ -9494,14 +9478,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202401181238/",
       "date"     : "2024-01-18 09:38:01 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -9769,6 +9745,30 @@
     } ,
   
     {
+      "title"    : "create value - not capture",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180937/",
+      "date"     : "2024-03-18 06:37:37 +0000"
+    } ,
+  
+    {
+      "title"    : "algorithm for product success",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180938/",
+      "date"     : "2024-03-18 06:38:06 +0000"
+    } ,
+  
+    {
+      "title"    : "entrypoints for a startup ideas",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403182108/",
+      "date"     : "2024-03-18 18:09:01 +0000"
+    } ,
+  
+    {
       "title"    : "creator first, entrepreneur second",
       "category" : "",
       "tags"     : "quotes",
@@ -9777,11 +9777,35 @@
     } ,
   
     {
+      "title"    : "the best communities shared interests, values, and abilities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250941/",
+      "date"     : "2024-03-25 06:41:49 +0000"
+    } ,
+  
+    {
+      "title"    : "ask questions to identify your communities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250942/",
+      "date"     : "2024-03-25 06:42:05 +0000"
+    } ,
+  
+    {
       "title"    : "entrepreneurs get rid of community problems",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202403250943/",
       "date"     : "2024-03-25 06:42:15 +0000"
+    } ,
+  
+    {
+      "title"    : "four different types of utility",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250944/",
+      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9814,78 +9838,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-03-31-za-chto-platyat-dengi/",
       "date"     : "2024-03-31 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 04 03 инструменты против культуры",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
-      "date"     : "2024-04-03 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 06 08 универсальность adrs",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
-      "date"     : "2024-06-08 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-08 08:38:14 +0000"
-    } ,
-  
-    {
-      "title"    : "create value - not capture",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180937/",
-      "date"     : "2024-03-18 06:37:37 +0000"
-    } ,
-  
-    {
-      "title"    : "algorithm for product success",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180938/",
-      "date"     : "2024-03-18 06:38:06 +0000"
-    } ,
-  
-    {
-      "title"    : "entrypoints for a startup ideas",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403182108/",
-      "date"     : "2024-03-18 18:09:01 +0000"
-    } ,
-  
-    {
-      "title"    : "the best communities shared interests, values, and abilities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250941/",
-      "date"     : "2024-03-25 06:41:49 +0000"
-    } ,
-  
-    {
-      "title"    : "ask questions to identify your communities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250942/",
-      "date"     : "2024-03-25 06:42:05 +0000"
-    } ,
-  
-    {
-      "title"    : "four different types of utility",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250944/",
-      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9926,6 +9878,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202404020907/",
       "date"     : "2024-04-02 06:04:13 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 04 03 инструменты против культуры",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
+      "date"     : "2024-04-03 00:00:00 +0000"
     } ,
   
     {
@@ -10217,14 +10177,6 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-08 08:38:14 +0000"
-    } ,
-  
-    {
       "title"    : "thinking through changes",
       "category" : "",
       "tags"     : "quotes",
@@ -10273,6 +10225,38 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-08-08 08:40:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Какие метрики хорошие",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kakie-metriki-horoshie/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Принцип почтальона",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/princzip-pochtalona/",
+      "date"     : "2023-04-24 06:23:28 +0000"
+    } ,
+  
+    {
       "title"    : "hire slightly ahead of growth",
       "category" : "",
       "tags"     : "quotes",
@@ -10286,6 +10270,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405290921/",
       "date"     : "2024-05-29 06:21:25 +0000"
+    } ,
+  
+    {
+      "title"    : "with the right people, any process works, and with the wrong people, no process works",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405301017/",
+      "date"     : "2024-05-30 07:17:03 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 06 08 универсальность adrs",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
+      "date"     : "2024-06-08 00:00:00 +0000"
     } ,
   
     {
@@ -10305,11 +10305,19 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-08-08 08:40:11 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-08 08:38:14 +0000"
+      "date"     : "2024-08-08 08:40:11 +0000"
     } ,
   
     {
@@ -10317,7 +10325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-08 08:38:14 +0000"
+      "date"     : "2024-08-08 08:40:11 +0000"
     } 
   
 ]
