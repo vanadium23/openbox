@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -1465,6 +1465,14 @@
     } ,
   
     {
+      "title"    : "Map of content",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/map-of-content/",
+      "date"     : "2021-10-21 07:09:08 +0000"
+    } ,
+  
+    {
       "title"    : "linked list",
       "category" : "",
       "tags"     : "",
@@ -1953,10 +1961,10 @@
     } ,
   
     {
-      "title"    : "Map of content",
+      "title"    : "Теги неэффективная система",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/map-of-content/",
+      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
       "date"     : "2021-10-21 07:09:08 +0000"
     } ,
   
@@ -7641,14 +7649,6 @@
     } ,
   
     {
-      "title"    : "Про доступы в продакшен",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
-      "date"     : "2023-05-08 13:05:36 +0000"
-    } ,
-  
-    {
       "title"    : "recognize code more complicated than needs to be",
       "category" : "",
       "tags"     : "quotes",
@@ -8057,27 +8057,19 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-08 08:22:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Теги неэффективная система",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tegi-neeffektivnaya-sistema/",
-      "date"     : "2021-10-21 07:09:08 +0000"
-    } ,
-  
-    {
       "title"    : "Не трогайте разработчиков. Отстаньте. Просто не беспокойте",
       "category" : "",
       "tags"     : "article",
       "url"      : "/openbox/articles/202305290850/",
       "date"     : "2023-05-29 04:50:31 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -8174,14 +8166,6 @@
       "tags"     : "",
       "url"      : "/openbox/performance-review/",
       "date"     : "2023-06-05 07:53:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian Templater",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian-templater/",
-      "date"     : "2023-06-07 12:10:10 +0000"
     } ,
   
     {
@@ -8729,14 +8713,6 @@
     } ,
   
     {
-      "title"    : "Stepik основы статистики   часть 2",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/stepik-osnovy-statistiki-chast-2/",
-      "date"     : "2023-09-05 08:29:02 +0000"
-    } ,
-  
-    {
       "title"    : "TDD implies defect reduction in 40 percent",
       "category" : "",
       "tags"     : "quotes",
@@ -9057,14 +9033,6 @@
     } ,
   
     {
-      "title"    : "Шсп анализ систем",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/sh-sp-analiz-sistem/",
-      "date"     : "2023-11-05 07:21:18 +0000"
-    } ,
-  
-    {
       "title"    : "Essentialism",
       "category" : "book",
       "tags"     : "books",
@@ -9169,14 +9137,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-08 08:22:38 +0000"
-    } ,
-  
-    {
       "title"    : "три постулата эссенциалиста",
       "category" : "",
       "tags"     : "quotes",
@@ -9206,6 +9166,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202311292242/",
       "date"     : "2023-11-29 19:42:34 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -9286,14 +9254,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202312031331/",
       "date"     : "2023-12-03 10:31:59 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-08 08:22:38 +0000"
     } ,
   
     {
@@ -10129,14 +10089,6 @@
     } ,
   
     {
-      "title"    : "Podlodka масштабирование архитектуры",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/podlodka-masshtabirovanie-arhitektury/",
-      "date"     : "2024-05-13 10:42:31 +0000"
-    } ,
-  
-    {
       "title"    : "organizations grow by applying a straightforward process",
       "category" : "",
       "tags"     : "quotes",
@@ -10158,22 +10110,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405150928/",
       "date"     : "2024-05-15 06:28:23 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-08 08:22:38 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -10217,11 +10153,35 @@
     } ,
   
     {
+      "title"    : "model document share for new process",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405221404/",
+      "date"     : "2024-05-22 11:04:42 +0000"
+    } ,
+  
+    {
       "title"    : "2024 06 08 универсальность adrs",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
       "date"     : "2024-06-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-08-08 08:26:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
+      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -10241,11 +10201,59 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-08 08:26:25 +0000"
+    } ,
+  
+    {
+      "title"    : "Про доступы в продакшен",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
+      "date"     : "2023-05-08 13:05:36 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian Templater",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian-templater/",
+      "date"     : "2023-06-07 12:10:10 +0000"
+    } ,
+  
+    {
+      "title"    : "Stepik основы статистики   часть 2",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/stepik-osnovy-statistiki-chast-2/",
+      "date"     : "2023-09-05 08:29:02 +0000"
+    } ,
+  
+    {
+      "title"    : "Шсп анализ систем",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/sh-sp-analiz-sistem/",
+      "date"     : "2023-11-05 07:21:18 +0000"
+    } ,
+  
+    {
+      "title"    : "Podlodka масштабирование архитектуры",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/podlodka-masshtabirovanie-arhitektury/",
+      "date"     : "2024-05-13 10:42:31 +0000"
+    } ,
+  
+    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -10253,7 +10261,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } ,
   
     {
@@ -10261,7 +10269,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-08 08:22:38 +0000"
+      "date"     : "2024-08-08 08:26:25 +0000"
     } 
   
 ]
