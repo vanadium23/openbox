@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-08 08:32:23 +0000"
+      "date"     : "2024-08-08 08:35:19 +0000"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-08 08:32:23 +0000"
+      "date"     : "2024-08-08 08:35:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2024-08-08 08:35:19 +0000"
     } ,
   
     {
@@ -38,14 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -649,6 +649,14 @@
     } ,
   
     {
+      "title"    : "AGI - диктатура или демократия?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022217/",
+      "date"     : "2021-07-02 18:17:00 +0000"
+    } ,
+  
+    {
       "title"    : "Мир уже захвачен глупыми компьютерами",
       "category" : "",
       "tags"     : "quotes",
@@ -798,6 +806,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122039/",
       "date"     : "2021-08-12 17:39:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Лучший удел физической теории - указывать путь создания новой",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122041/",
+      "date"     : "2021-08-12 17:41:00 +0000"
     } ,
   
     {
@@ -1441,30 +1457,6 @@
     } ,
   
     {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-08 08:32:23 +0000"
-    } ,
-  
-    {
-      "title"    : "AGI - диктатура или демократия?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022217/",
-      "date"     : "2021-07-02 18:17:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Лучший удел физической теории - указывать путь создания новой",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122041/",
-      "date"     : "2021-08-12 17:41:00 +0000"
-    } ,
-  
-    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -2073,19 +2065,19 @@
     } ,
   
     {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/konczeptualnoe-prostranstvo/",
       "date"     : "2021-10-25 08:48:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
     } ,
   
     {
@@ -2301,6 +2293,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3902,14 +3902,6 @@
       "tags"     : "",
       "url"      : "/openbox/postgres-sql/",
       "date"     : "2022-06-14 06:11:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Решения   это ставки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/resheniya-eto-stavki/",
-      "date"     : "2022-06-14 16:31:03 +0000"
     } ,
   
     {
@@ -5969,14 +5961,6 @@
     } ,
   
     {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Без критики   нет роста",
       "category" : "",
       "tags"     : "",
@@ -6009,10 +5993,10 @@
     } ,
   
     {
-      "title"    : "Какие метрики хорошие",
+      "title"    : "Конец проекта не виден в начале",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/kakie-metriki-horoshie/",
+      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -7529,14 +7513,6 @@
     } ,
   
     {
-      "title"    : "Принцип почтальона",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/princzip-pochtalona/",
-      "date"     : "2023-04-24 06:23:28 +0000"
-    } ,
-  
-    {
       "title"    : "сначала функционал, потом конструкция",
       "category" : "",
       "tags"     : "quotes",
@@ -7638,14 +7614,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sistemnaya-zhizn/",
       "date"     : "2023-05-08 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Про доступы в продакшен",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
-      "date"     : "2023-05-08 13:05:36 +0000"
     } ,
   
     {
@@ -8105,14 +8073,6 @@
     } ,
   
     {
-      "title"    : "Calibre",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/calibre/",
-      "date"     : "2023-05-30 08:52:38 +0000"
-    } ,
-  
-    {
       "title"    : "expensiveoperations for today",
       "category" : "",
       "tags"     : "quotes",
@@ -8153,19 +8113,19 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-08 08:35:19 +0000"
+    } ,
+  
+    {
       "title"    : "Performance review",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/performance-review/",
       "date"     : "2023-06-05 07:53:10 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian Templater",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian-templater/",
-      "date"     : "2023-06-07 12:10:10 +0000"
     } ,
   
     {
@@ -8473,30 +8433,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-08 08:32:23 +0000"
-    } ,
-  
-    {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "приборы могут искажать модели",
       "category" : "",
       "tags"     : "quotes",
@@ -8734,14 +8670,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202309010850/",
       "date"     : "2023-09-01 05:50:37 +0000"
-    } ,
-  
-    {
-      "title"    : "Stepik основы статистики   часть 2",
-      "category" : "",
-      "tags"     : "courses",
-      "url"      : "/openbox/courses/stepik-osnovy-statistiki-chast-2/",
-      "date"     : "2023-09-05 08:29:02 +0000"
     } ,
   
     {
@@ -9241,6 +9169,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-08-08 08:35:19 +0000"
+    } ,
+  
+    {
       "title"    : "пять вопросов национальной стратегии",
       "category" : "",
       "tags"     : "quotes",
@@ -9329,14 +9265,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-08 08:32:23 +0000"
-    } ,
-  
-    {
       "title"    : "фазы развития вглубь и вширь",
       "category" : "",
       "tags"     : "quotes",
@@ -9414,6 +9342,30 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202312241232/",
       "date"     : "2023-12-24 09:32:59 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-08 08:35:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Решения   это ставки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/resheniya-eto-stavki/",
+      "date"     : "2022-06-14 16:31:03 +0000"
     } ,
   
     {
@@ -9825,19 +9777,11 @@
     } ,
   
     {
-      "title"    : "2024 06 11 почему дедлайны не работают",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-06-11-pochemu-dedlajny-ne-rabotayut/",
-      "date"     : "2024-06-11 00:00:00 +0000"
-    } ,
-  
-    {
       "title"    : "О причинах ведения [публичного] архива",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-08 08:32:23 +0000"
+      "date"     : "2024-08-08 08:35:19 +0000"
     } ,
   
     {
@@ -10161,22 +10105,6 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-08 08:32:23 +0000"
-    } ,
-  
-    {
-      "title"    : "Конец проекта не виден в начале",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "organizations grow by applying a straightforward process",
       "category" : "",
       "tags"     : "quotes",
@@ -10273,6 +10201,86 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-08-08 08:35:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Какие метрики хорошие",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kakie-metriki-horoshie/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Принцип почтальона",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/princzip-pochtalona/",
+      "date"     : "2023-04-24 06:23:28 +0000"
+    } ,
+  
+    {
+      "title"    : "Про доступы в продакшен",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
+      "date"     : "2023-05-08 13:05:36 +0000"
+    } ,
+  
+    {
+      "title"    : "Calibre",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/calibre/",
+      "date"     : "2023-05-30 08:52:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian Templater",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian-templater/",
+      "date"     : "2023-06-07 12:10:10 +0000"
+    } ,
+  
+    {
+      "title"    : "Stepik основы статистики   часть 2",
+      "category" : "",
+      "tags"     : "courses",
+      "url"      : "/openbox/courses/stepik-osnovy-statistiki-chast-2/",
+      "date"     : "2023-09-05 08:29:02 +0000"
+    } ,
+  
+    {
+      "title"    : "making technical migrations cheap and running clean reorganizations.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405271003/",
+      "date"     : "2024-05-27 07:01:20 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 06 11 почему дедлайны не работают",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-06-11-pochemu-dedlajny-ne-rabotayut/",
+      "date"     : "2024-06-11 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "2024 06 13 зачем нужны сроки",
       "category" : "",
       "tags"     : "",
@@ -10285,7 +10293,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-08 08:32:23 +0000"
+      "date"     : "2024-08-08 08:35:19 +0000"
     } ,
   
     {
@@ -10293,7 +10301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-08 08:32:23 +0000"
+      "date"     : "2024-08-08 08:35:19 +0000"
     } 
   
 ]
