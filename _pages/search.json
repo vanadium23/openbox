@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-08 08:31:16 +0000"
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-08 08:31:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-08 08:31:16 +0000"
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -46,6 +38,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -649,14 +649,6 @@
     } ,
   
     {
-      "title"    : "AGI - диктатура или демократия?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202107022217/",
-      "date"     : "2021-07-02 18:17:00 +0000"
-    } ,
-  
-    {
       "title"    : "Мир уже захвачен глупыми компьютерами",
       "category" : "",
       "tags"     : "quotes",
@@ -806,14 +798,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202108122039/",
       "date"     : "2021-08-12 17:39:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Лучший удел физической теории - указывать путь создания новой",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108122041/",
-      "date"     : "2021-08-12 17:41:00 +0000"
     } ,
   
     {
@@ -1457,6 +1441,30 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2024-08-08 08:32:23 +0000"
+    } ,
+  
+    {
+      "title"    : "AGI - диктатура или демократия?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202107022217/",
+      "date"     : "2021-07-02 18:17:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Лучший удел физической теории - указывать путь создания новой",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108122041/",
+      "date"     : "2021-08-12 17:41:00 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1549,6 +1557,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tehnika-pomodoro/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Учёба впрок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/uchyoba-vprok/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -2285,14 +2301,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -6009,14 +6017,6 @@
     } ,
   
     {
-      "title"    : "Конец проекта не виден в начале",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "Мотивация сотрудников",
       "category" : "",
       "tags"     : "",
@@ -8065,14 +8065,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-08 08:31:16 +0000"
-    } ,
-  
-    {
       "title"    : "the design of a mature system is determined more by changes made during the system’s evolution",
       "category" : "",
       "tags"     : "quotes",
@@ -8473,19 +8465,19 @@
     } ,
   
     {
+      "title"    : "слова указывающие на правила",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202307121027/",
+      "date"     : "2023-07-12 06:27:07 +0000"
+    } ,
+  
+    {
       "title"    : "Ведение заметок",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-08 08:31:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Учёба впрок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/uchyoba-vprok/",
-      "date"     : "2021-09-23 05:57:26 +0000"
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -8497,11 +8489,11 @@
     } ,
   
     {
-      "title"    : "слова указывающие на правила",
+      "title"    : "Модели письма",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202307121027/",
-      "date"     : "2023-07-12 06:27:07 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -9329,19 +9321,19 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-08 08:31:16 +0000"
-    } ,
-  
-    {
       "title"    : "местное сопротивление аварийной системе управления",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202312081019/",
       "date"     : "2023-12-08 07:19:13 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -9769,30 +9761,6 @@
     } ,
   
     {
-      "title"    : "create value - not capture",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180937/",
-      "date"     : "2024-03-18 06:37:37 +0000"
-    } ,
-  
-    {
-      "title"    : "algorithm for product success",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180938/",
-      "date"     : "2024-03-18 06:38:06 +0000"
-    } ,
-  
-    {
-      "title"    : "entrypoints for a startup ideas",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403182108/",
-      "date"     : "2024-03-18 18:09:01 +0000"
-    } ,
-  
-    {
       "title"    : "creator first, entrepreneur second",
       "category" : "",
       "tags"     : "quotes",
@@ -9801,35 +9769,11 @@
     } ,
   
     {
-      "title"    : "the best communities shared interests, values, and abilities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250941/",
-      "date"     : "2024-03-25 06:41:49 +0000"
-    } ,
-  
-    {
-      "title"    : "ask questions to identify your communities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250942/",
-      "date"     : "2024-03-25 06:42:05 +0000"
-    } ,
-  
-    {
       "title"    : "entrepreneurs get rid of community problems",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202403250943/",
       "date"     : "2024-03-25 06:42:15 +0000"
-    } ,
-  
-    {
-      "title"    : "four different types of utility",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250944/",
-      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9862,6 +9806,86 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-03-31-za-chto-platyat-dengi/",
       "date"     : "2024-03-31 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 04 03 инструменты против культуры",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
+      "date"     : "2024-04-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 06 08 универсальность adrs",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
+      "date"     : "2024-06-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 06 11 почему дедлайны не работают",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-06-11-pochemu-dedlajny-ne-rabotayut/",
+      "date"     : "2024-06-11 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-08-08 08:32:23 +0000"
+    } ,
+  
+    {
+      "title"    : "create value - not capture",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180937/",
+      "date"     : "2024-03-18 06:37:37 +0000"
+    } ,
+  
+    {
+      "title"    : "algorithm for product success",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180938/",
+      "date"     : "2024-03-18 06:38:06 +0000"
+    } ,
+  
+    {
+      "title"    : "entrypoints for a startup ideas",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403182108/",
+      "date"     : "2024-03-18 18:09:01 +0000"
+    } ,
+  
+    {
+      "title"    : "the best communities shared interests, values, and abilities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250941/",
+      "date"     : "2024-03-25 06:41:49 +0000"
+    } ,
+  
+    {
+      "title"    : "ask questions to identify your communities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250942/",
+      "date"     : "2024-03-25 06:42:05 +0000"
+    } ,
+  
+    {
+      "title"    : "four different types of utility",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250944/",
+      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9902,14 +9926,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202404020907/",
       "date"     : "2024-04-02 06:04:13 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 04 03 инструменты против культуры",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
-      "date"     : "2024-04-03 00:00:00 +0000"
     } ,
   
     {
@@ -10145,6 +10161,22 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-08-08 08:32:23 +0000"
+    } ,
+  
+    {
+      "title"    : "Конец проекта не виден в начале",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "organizations grow by applying a straightforward process",
       "category" : "",
       "tags"     : "quotes",
@@ -10174,14 +10206,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405151307/",
       "date"     : "2024-05-15 10:08:03 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-08 08:31:16 +0000"
     } ,
   
     {
@@ -10241,27 +10265,11 @@
     } ,
   
     {
-      "title"    : "2024 06 08 универсальность adrs",
+      "title"    : "general approach to presenting to senior leaders",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
-      "date"     : "2024-06-08 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 06 11 почему дедлайны не работают",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-06-11-pochemu-dedlajny-ne-rabotayut/",
-      "date"     : "2024-06-11 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-08 08:31:16 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405231302/",
+      "date"     : "2024-05-23 10:02:26 +0000"
     } ,
   
     {
@@ -10277,7 +10285,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-08 08:31:16 +0000"
+      "date"     : "2024-08-08 08:32:23 +0000"
     } ,
   
     {
@@ -10285,7 +10293,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-08 08:31:16 +0000"
+      "date"     : "2024-08-08 08:32:23 +0000"
     } 
   
 ]
