@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-08 08:36:33 +0000"
+      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-08 08:36:33 +0000"
+      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-08 08:36:33 +0000"
+      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -129,14 +129,6 @@
     } ,
   
     {
-      "title"    : "чего я хочу от человека?",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202101112030/",
-      "date"     : "2021-01-11 16:17:19 +0000"
-    } ,
-  
-    {
       "title"    : "Снижайте стресс, проявляя эмпатию к другим",
       "category" : "",
       "tags"     : "quotes",
@@ -238,6 +230,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202106142032/",
       "date"     : "2021-06-14 17:31:05 +0000"
+    } ,
+  
+    {
+      "title"    : "Универсальный обучающий алгоритм",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202106172039/",
+      "date"     : "2021-06-17 17:32:29 +0000"
     } ,
   
     {
@@ -1585,6 +1585,14 @@
     } ,
   
     {
+      "title"    : "Говорим о проблемах честно, но не грубо",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109231040/",
+      "date"     : "2021-09-23 07:40:00 +0000"
+    } ,
+  
+    {
       "title"    : "Округляйте цифры до полезного читателю уровня точности",
       "category" : "",
       "tags"     : "quotes",
@@ -2017,14 +2025,6 @@
     } ,
   
     {
-      "title"    : "Говорим о проблемах честно, но не грубо",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109231040/",
-      "date"     : "2021-09-23 07:40:00 +0000"
-    } ,
-  
-    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2054,6 +2054,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110242321/",
       "date"     : "2021-10-24 20:21:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
     } ,
   
     {
@@ -2225,6 +2233,14 @@
     } ,
   
     {
+      "title"    : "Делай то что считаешь правильным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
+      "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
       "title"    : "2022 01 09 проблема аббревиатур",
       "category" : "",
       "tags"     : "",
@@ -2277,14 +2293,6 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Модели письма",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3905,6 +3913,14 @@
     } ,
   
     {
+      "title"    : "The explosive child",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/the-explosive-child/",
+      "date"     : "2022-06-15 06:12:05 +0000"
+    } ,
+  
+    {
       "title"    : "стратегия подразумевает открытый перечень проблем",
       "category" : "",
       "tags"     : "quotes",
@@ -4534,22 +4550,6 @@
       "tags"     : "article, chernov_sharit",
       "url"      : "/openbox/articles/202208071137/",
       "date"     : "2022-08-07 08:37:08 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-08 08:36:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Универсальный обучающий алгоритм",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202106172039/",
-      "date"     : "2021-06-17 17:32:29 +0000"
     } ,
   
     {
@@ -5957,6 +5957,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/quotes/202204120908/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -7633,6 +7641,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-08 08:38:14 +0000"
+    } ,
+  
+    {
+      "title"    : "чего я хочу от человека?",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202101112030/",
+      "date"     : "2021-01-11 16:17:19 +0000"
+    } ,
+  
+    {
       "title"    : "Про доступы в продакшен",
       "category" : "",
       "tags"     : "",
@@ -8457,6 +8481,22 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-08-08 08:38:14 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "слова указывающие на правила",
       "category" : "",
       "tags"     : "quotes",
@@ -8830,14 +8870,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202309111232/",
       "date"     : "2023-09-11 09:32:52 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-08 08:36:33 +0000"
     } ,
   
     {
@@ -9337,38 +9369,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-08 08:36:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Делай то что считаешь правильным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
-      "date"     : "2022-01-07 19:11:25 +0000"
-    } ,
-  
-    {
-      "title"    : "The explosive child",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/the-explosive-child/",
-      "date"     : "2022-06-15 06:12:05 +0000"
-    } ,
-  
-    {
       "title"    : "государство борется с бюрократией. а население ее воссоздает",
       "category" : "",
       "tags"     : "quotes",
@@ -9494,6 +9494,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202401181238/",
       "date"     : "2024-01-18 09:38:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -9761,30 +9769,6 @@
     } ,
   
     {
-      "title"    : "create value - not capture",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180937/",
-      "date"     : "2024-03-18 06:37:37 +0000"
-    } ,
-  
-    {
-      "title"    : "algorithm for product success",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403180938/",
-      "date"     : "2024-03-18 06:38:06 +0000"
-    } ,
-  
-    {
-      "title"    : "entrypoints for a startup ideas",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403182108/",
-      "date"     : "2024-03-18 18:09:01 +0000"
-    } ,
-  
-    {
       "title"    : "creator first, entrepreneur second",
       "category" : "",
       "tags"     : "quotes",
@@ -9793,35 +9777,11 @@
     } ,
   
     {
-      "title"    : "the best communities shared interests, values, and abilities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250941/",
-      "date"     : "2024-03-25 06:41:49 +0000"
-    } ,
-  
-    {
-      "title"    : "ask questions to identify your communities",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250942/",
-      "date"     : "2024-03-25 06:42:05 +0000"
-    } ,
-  
-    {
       "title"    : "entrepreneurs get rid of community problems",
       "category" : "",
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202403250943/",
       "date"     : "2024-03-25 06:42:15 +0000"
-    } ,
-  
-    {
-      "title"    : "four different types of utility",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202403250944/",
-      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9854,6 +9814,78 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-03-31-za-chto-platyat-dengi/",
       "date"     : "2024-03-31 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 04 03 инструменты против культуры",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
+      "date"     : "2024-04-03 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 06 08 универсальность adrs",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
+      "date"     : "2024-06-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-08-08 08:38:14 +0000"
+    } ,
+  
+    {
+      "title"    : "create value - not capture",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180937/",
+      "date"     : "2024-03-18 06:37:37 +0000"
+    } ,
+  
+    {
+      "title"    : "algorithm for product success",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403180938/",
+      "date"     : "2024-03-18 06:38:06 +0000"
+    } ,
+  
+    {
+      "title"    : "entrypoints for a startup ideas",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403182108/",
+      "date"     : "2024-03-18 18:09:01 +0000"
+    } ,
+  
+    {
+      "title"    : "the best communities shared interests, values, and abilities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250941/",
+      "date"     : "2024-03-25 06:41:49 +0000"
+    } ,
+  
+    {
+      "title"    : "ask questions to identify your communities",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250942/",
+      "date"     : "2024-03-25 06:42:05 +0000"
+    } ,
+  
+    {
+      "title"    : "four different types of utility",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202403250944/",
+      "date"     : "2024-03-25 06:42:35 +0000"
     } ,
   
     {
@@ -9894,14 +9926,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202404020907/",
       "date"     : "2024-04-02 06:04:13 +0000"
-    } ,
-  
-    {
-      "title"    : "2024 04 03 инструменты против культуры",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-04-03-instrumenty-protiv-kultury/",
-      "date"     : "2024-04-03 00:00:00 +0000"
     } ,
   
     {
@@ -10193,6 +10217,14 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-08-08 08:38:14 +0000"
+    } ,
+  
+    {
       "title"    : "thinking through changes",
       "category" : "",
       "tags"     : "quotes",
@@ -10206,22 +10238,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405221404/",
       "date"     : "2024-05-22 11:04:42 +0000"
-    } ,
-  
-    {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-08 08:36:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
     {
@@ -10265,11 +10281,11 @@
     } ,
   
     {
-      "title"    : "2024 06 08 универсальность adrs",
+      "title"    : "management at core is a moral profession",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2024-06-08-universalnost-ad-rs/",
-      "date"     : "2024-06-08 00:00:00 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202405290921/",
+      "date"     : "2024-05-29 06:21:25 +0000"
     } ,
   
     {
@@ -10289,19 +10305,11 @@
     } ,
   
     {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-08 08:36:33 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-08 08:36:33 +0000"
+      "date"     : "2024-08-08 08:38:14 +0000"
     } ,
   
     {
@@ -10309,7 +10317,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-08 08:36:33 +0000"
+      "date"     : "2024-08-08 08:38:14 +0000"
     } 
   
 ]
