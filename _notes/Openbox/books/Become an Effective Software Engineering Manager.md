@@ -1,10 +1,19 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Become an Effective Software Engineering Manager","category":"book","status":"Reviewing","tags":["books"],"rating":4,"date":"2023-09-13","modified_at":"2024-06-18T17:10:13+03:00","dg-path":"/books/Become an Effective Software Engineering Manager.md","permalink":"/books/become-an-effective-software-engineering-manager/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Become an Effective Software Engineering Manager","category":"book","status":"Reviewing","tags":["books"],"rating":4,"date":"2023-09-13","modified_at":"2024-08-13T13:54:35+03:00","dg-path":"/books/Become an Effective Software Engineering Manager.md","permalink":"/books/become-an-effective-software-engineering-manager/","dgPassFrontmatter":true}
 ---
 
 
 
 
+Книга рассказывает про [[Openbox/управление командой разработки\|управление командой разработки]] at scale так сказать. Опыт автора составляет гиперрост команды Uber (удвоение каждые полгода в течение трёх лет). Виден, что подход везде идёт через призму стандартизации и [[Openbox/competencies/системное мышление\|системного мышления]]. 
+
+Собственно, краткие рассмотренные топики были такие:
+- [[Openbox/competencies/системное мышление\|системное мышление]] через stocks and flows
+- размер команды и сколько требуется для дежурств
+- построение общих процессов через маленькие эксперименты
+- залезли в продуктовую часть через [[Openbox/постановка целей\|постановку целей]]
+
+и закончили тем, что менеджмент - это в первую очередь позиция по морали и этики в организации. а не для потогонки и управления. 
 
 ## Цитаты
 
@@ -23,17 +32,17 @@
 - [[Openbox/quotes/202405271003\|202405271003]]: making technical migrations cheap and running clean reorganizations.
 - [[Openbox/quotes/202405290833\|202405290833]]: hire slightly ahead of growth
 - [[Openbox/quotes/202405290921\|202405290921]]: management at core is a moral profession
-- [[Openbox/quotes/202405301017\|202405301017]]: with the right people, any process works, and with the wrong people, no process works
 - [[Openbox/quotes/202405151310\|202405151310]]: shifting scope works better than moving people
+- [[Openbox/quotes/202405151318\|202405151318]]: cost of 10x engineer headcount
+- [[Openbox/quotes/202405161249\|202405161249]]: vacation from interview every three month
+- [[Openbox/quotes/202405301017\|202405301017]]: with the right people, any process works, and with the wrong people, no process works
 - [[Openbox/quotes/202405301027\|202405301027]]: three types of engineering management jobs
 - [[Openbox/quotes/202405301028\|202405301028]]: a lot less competition for hard work
 - [[Openbox/quotes/202406051217\|202406051217]]: career defined by luck and learn rate
-- [[Openbox/quotes/202405151318\|202405151318]]: cost of 10x engineer headcount
-- [[Openbox/quotes/202405161249\|202405161249]]: vacation from interview every three month
 
 
 ## Задачи
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels ✅ 2024-08-08
-- [ ] #task Написать выдержку из книги
+- [x] #task Написать выдержку из книги ⏳ 2024-08-09 ✅ 2024-08-13
 - [ ] #task Доработать свои заметки на основе идей из книг
