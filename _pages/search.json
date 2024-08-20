@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -46,14 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-08-13 11:25:20 +0000"
     } ,
   
     {
@@ -2073,6 +2065,14 @@
     } ,
   
     {
+      "title"    : "Организовывать знания вокруг концепций",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
+      "date"     : "2021-10-25 08:44:26 +0000"
+    } ,
+  
+    {
       "title"    : "Концептуальное пространство",
       "category" : "",
       "tags"     : "",
@@ -2265,6 +2265,14 @@
     } ,
   
     {
+      "title"    : "Ladder of casuality",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ladder-of-casuality/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "Prefer duplication over the wrong abstraction",
       "category" : "",
       "tags"     : "",
@@ -2289,10 +2297,10 @@
     } ,
   
     {
-      "title"    : "Модели письма",
+      "title"    : "Как преодолеть противоречия",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/modeli-pisma/",
+      "url"      : "/openbox/kak-preodolet-protivorechiya/",
       "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
@@ -3894,14 +3902,6 @@
       "tags"     : "",
       "url"      : "/openbox/postgres-sql/",
       "date"     : "2022-06-14 06:11:13 +0000"
-    } ,
-  
-    {
-      "title"    : "Решения   это ставки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/resheniya-eto-stavki/",
-      "date"     : "2022-06-14 16:31:03 +0000"
     } ,
   
     {
@@ -5961,6 +5961,14 @@
     } ,
   
     {
+      "title"    : "Obsidian",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Без критики   нет роста",
       "category" : "",
       "tags"     : "",
@@ -6638,6 +6646,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2023-02-06-problema-ttm/",
       "date"     : "2023-02-06 17:21:30 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -8113,14 +8129,6 @@
     } ,
   
     {
-      "title"    : "good designer spend more time in design phase",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202305310926/",
-      "date"     : "2023-05-31 05:26:36 +0000"
-    } ,
-  
-    {
       "title"    : "the most important software design principles",
       "category" : "",
       "tags"     : "quotes",
@@ -8142,6 +8150,14 @@
       "tags"     : "",
       "url"      : "/openbox/omg-essense/",
       "date"     : "2023-06-03 07:01:09 +0000"
+    } ,
+  
+    {
+      "title"    : "good designer spend more time in design phase",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202305310926/",
+      "date"     : "2023-05-31 05:26:36 +0000"
     } ,
   
     {
@@ -8545,6 +8561,22 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-08-20 20:20:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Модели письма",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/modeli-pisma/",
+      "date"     : "2022-01-11 06:42:40 +0000"
+    } ,
+  
+    {
       "title"    : "трагедия общин",
       "category" : "",
       "tags"     : "quotes",
@@ -8622,14 +8654,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202308171247/",
       "date"     : "2023-08-17 08:47:41 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-08-13 11:25:20 +0000"
     } ,
   
     {
@@ -9417,38 +9441,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-08-13 11:25:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Организовывать знания вокруг концепций",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizovyvat-znaniya-vokrug-konczepczij/",
-      "date"     : "2021-10-25 08:44:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Ladder of casuality",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Как преодолеть противоречия",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kak-preodolet-protivorechiya/",
-      "date"     : "2022-01-11 06:42:40 +0000"
-    } ,
-  
-    {
       "title"    : "tips for back-of-the-envelope estimation",
       "category" : "",
       "tags"     : "quotes",
@@ -9494,6 +9486,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202401181005/",
       "date"     : "2024-01-18 07:05:29 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-08-20 20:20:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Решения   это ставки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/resheniya-eto-stavki/",
+      "date"     : "2022-06-14 16:31:03 +0000"
     } ,
   
     {
@@ -9753,11 +9761,19 @@
     } ,
   
     {
+      "title"    : "Любимые выступления",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/lyubimye-vystupleniya/",
+      "date"     : "2024-04-15 10:34:20 +0000"
+    } ,
+  
+    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -9974,14 +9990,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202404150950/",
       "date"     : "2024-04-15 06:49:19 +0000"
-    } ,
-  
-    {
-      "title"    : "Любимые выступления",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/lyubimye-vystupleniya/",
-      "date"     : "2024-04-15 10:34:20 +0000"
     } ,
   
     {
@@ -10301,15 +10309,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-08-13 11:25:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian/",
-      "date"     : "2023-01-14 09:31:40 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -10369,6 +10369,14 @@
     } ,
   
     {
+      "title"    : "trend of a planet-full of people contains a huge inertia",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202407290940/",
+      "date"     : "2024-07-29 06:40:43 +0000"
+    } ,
+  
+    {
       "title"    : "work with people who give a shit",
       "category" : "",
       "tags"     : "quotes",
@@ -10389,7 +10397,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } ,
   
     {
@@ -10397,7 +10405,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-08-13 11:25:20 +0000"
+      "date"     : "2024-08-20 20:20:16 +0000"
     } 
   
 ]
