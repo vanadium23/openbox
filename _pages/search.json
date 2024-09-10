@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-09-10 19:42:33 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-09-10 19:42:33 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -849,14 +857,6 @@
     } ,
   
     {
-      "title"    : "Объяснения не образуют иерархию, а работают на любом уровне.",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202108141807/",
-      "date"     : "2021-08-14 15:07:00 +0000"
-    } ,
-  
-    {
       "title"    : "Универсальность проще достигнуть через ограниченный набор правил",
       "category" : "",
       "tags"     : "quotes",
@@ -1449,6 +1449,14 @@
     } ,
   
     {
+      "title"    : "Объяснения не образуют иерархию, а работают на любом уровне.",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202108141807/",
+      "date"     : "2021-08-14 15:07:00 +0000"
+    } ,
+  
+    {
       "title"    : "Правила составления правил",
       "category" : "",
       "tags"     : "",
@@ -1525,6 +1533,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/metadannye-v-zametkah/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -2222,6 +2238,14 @@
       "tags"     : "",
       "url"      : "/openbox/delaj-to-chto-schitaesh-pravilnym/",
       "date"     : "2022-01-07 19:11:25 +0000"
+    } ,
+  
+    {
+      "title"    : "2022 01 09 проблема аббревиатур",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2022-01-09-problema-abbreviatur/",
+      "date"     : "2022-01-09 09:31:40 +0000"
     } ,
   
     {
@@ -6097,14 +6121,6 @@
     } ,
   
     {
-      "title"    : "Важно то, чем занимаешься каждый день",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vazhno-to-chem-zanimaeshsya-kazhdyj-den/",
-      "date"     : "2023-01-15 16:34:43 +0000"
-    } ,
-  
-    {
       "title"    : "The Definition of “graph” and Terminologies",
       "category" : "",
       "tags"     : "quotes",
@@ -6625,14 +6641,6 @@
     } ,
   
     {
-      "title"    : "2023 02 06 проблема ttm",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2023-02-06-problema-ttm/",
-      "date"     : "2023-02-06 17:21:30 +0000"
-    } ,
-  
-    {
       "title"    : "2023 02 26 плюс минус уровень",
       "category" : "",
       "tags"     : "",
@@ -6689,19 +6697,11 @@
     } ,
   
     {
-      "title"    : "Zettelkasten",
+      "title"    : "2023 02 06 проблема ttm",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-09-10 19:42:33 +0000"
-    } ,
-  
-    {
-      "title"    : "2022 01 09 проблема аббревиатур",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/chernov-sharit/2022-01-09-problema-abbreviatur/",
-      "date"     : "2022-01-09 09:31:40 +0000"
+      "url"      : "/openbox/chernov-sharit/2023-02-06-problema-ttm/",
+      "date"     : "2023-02-06 17:21:30 +0000"
     } ,
   
     {
@@ -7137,6 +7137,14 @@
     } ,
   
     {
+      "title"    : "How to replace estimations and guesses with a Monte Carlo simulation",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202303090250/",
+      "date"     : "2023-03-09 10:50:33 +0000"
+    } ,
+  
+    {
       "title"    : "2023 03 09 код как конвенция",
       "category" : "",
       "tags"     : "",
@@ -7158,6 +7166,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202303111006/",
       "date"     : "2023-03-11 06:06:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Развитие ребёнка by петрановская",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/articles/razvitie-rebyonka-by-petranovskaya/",
+      "date"     : "2023-03-11 07:13:36 +0000"
     } ,
   
     {
@@ -7445,7 +7461,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-09-10 19:42:33 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -8153,6 +8169,14 @@
     } ,
   
     {
+      "title"    : "Obsidian Templater",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/software/obsidian-templater/",
+      "date"     : "2023-06-07 12:10:10 +0000"
+    } ,
+  
+    {
       "title"    : "to offer an apology, your motives have to change",
       "category" : "",
       "tags"     : "quotes",
@@ -8201,6 +8225,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-09-10 19:43:51 +0000"
+    } ,
+  
+    {
       "title"    : "common disbeliefs in dialogue",
       "category" : "",
       "tags"     : "quotes",
@@ -8222,14 +8254,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306270951/",
       "date"     : "2023-06-27 05:51:44 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-09-10 19:42:33 +0000"
     } ,
   
     {
@@ -9409,14 +9433,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-09-10 19:42:33 +0000"
-    } ,
-  
-    {
       "title"    : "tips for back-of-the-envelope estimation",
       "category" : "",
       "tags"     : "quotes",
@@ -9457,19 +9473,19 @@
     } ,
   
     {
-      "title"    : "How to replace estimations and guesses with a Monte Carlo simulation",
+      "title"    : "Evergreen",
       "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202303090250/",
-      "date"     : "2023-03-09 10:50:33 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
-      "title"    : "Развитие ребёнка by петрановская",
+      "title"    : "Важно то, чем занимаешься каждый день",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/articles/razvitie-rebyonka-by-petranovskaya/",
-      "date"     : "2023-03-11 07:13:36 +0000"
+      "url"      : "/openbox/vazhno-to-chem-zanimaeshsya-kazhdyj-den/",
+      "date"     : "2023-01-15 16:34:43 +0000"
     } ,
   
     {
@@ -9829,15 +9845,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-09-10 19:42:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Обработка входящей информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
-      "date"     : "2021-09-23 05:57:26 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -10385,6 +10393,22 @@
     } ,
   
     {
+      "title"    : "2024 08 24 система сдержек и противовесов",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-08-24-sistema-sderzhek-i-protivovesov/",
+      "date"     : "2024-08-24 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 08 25 решённые проблемы человечества",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-08-25-reshyonnye-problemy-chelovechestva/",
+      "date"     : "2024-08-25 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "2024 08 26 решённые проблемы человечества",
       "category" : "",
       "tags"     : "",
@@ -10430,6 +10454,14 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-09-01-znaete-teoriyu-kategorij/",
       "date"     : "2024-09-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -10489,27 +10521,11 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-09-10 19:42:33 +0000"
-    } ,
-  
-    {
-      "title"    : "Obsidian Templater",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/software/obsidian-templater/",
-      "date"     : "2023-06-07 12:10:10 +0000"
-    } ,
-  
-    {
       "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-09-10 19:42:33 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
     } ,
   
     {
@@ -10517,7 +10533,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-09-10 19:42:33 +0000"
+      "date"     : "2024-09-10 19:43:51 +0000"
     } 
   
 ]
