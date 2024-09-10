@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"date":"2022-06-20T08:22:27+03:00","modified_at":"2024-09-10T22:46:34+03:00","cssClasses":"table-wide","dg-path":"/shelves/Chernov sharit.md","permalink":"/shelves/chernov-sharit/","dgPassFrontmatter":true}
+{"toc":true,"dg-publish":true,"date":"2022-06-20T08:22:27+03:00","modified_at":"2024-09-10T23:19:47+03:00","cssClasses":"table-wide","dg-path":"/shelves/Chernov sharit.md","permalink":"/shelves/chernov-sharit/","dgPassFrontmatter":true}
 ---
 
 
