@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-09-10 19:57:42 +0000"
+      "date"     : "2024-09-10 19:59:27 +0000"
     } ,
   
     {
@@ -13,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-09-10 19:57:42 +0000"
+      "date"     : "2024-09-10 19:59:27 +0000"
     } ,
   
     {
@@ -21,7 +21,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-09-10 19:57:42 +0000"
+      "date"     : "2024-09-10 19:59:27 +0000"
     } ,
   
     {
@@ -46,14 +46,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2021-01-09-standarty-eto-ne-pravila/",
       "date"     : "2021-01-09 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-09-10 19:57:42 +0000"
     } ,
   
     {
@@ -1529,6 +1521,14 @@
     } ,
   
     {
+      "title"    : "Критическая цепь проекта",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/kriticheskaya-czep-proekta/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
       "title"    : "Метаданные в заметках",
       "category" : "",
       "tags"     : "",
@@ -1537,26 +1537,10 @@
     } ,
   
     {
-      "title"    : "Обработка входящей информации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
       "title"    : "Техника pomodoro",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/tehnika-pomodoro/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Учёба впрок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/uchyoba-vprok/",
       "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
@@ -1857,14 +1841,6 @@
     } ,
   
     {
-      "title"    : "Правила упрощения",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202110042032/",
-      "date"     : "2021-10-04 17:32:00 +0000"
-    } ,
-  
-    {
       "title"    : "Чеклист критики",
       "category" : "",
       "tags"     : "quotes",
@@ -1878,6 +1854,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202110101340/",
       "date"     : "2021-10-10 10:40:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Ставь ограничения на издержки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
+      "date"     : "2021-10-11 08:40:52 +0000"
     } ,
   
     {
@@ -2073,6 +2057,14 @@
     } ,
   
     {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
       "title"    : "Указывать в тексте ограничения",
       "category" : "",
       "tags"     : "quotes",
@@ -2173,6 +2165,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/perczentili-luchshe-srednih/",
+      "date"     : "2021-11-07 08:28:06 +0000"
+    } ,
+  
+    {
+      "title"    : "Состояние потока",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sostoyanie-potoka/",
       "date"     : "2021-11-07 08:28:06 +0000"
     } ,
   
@@ -6041,6 +6041,14 @@
     } ,
   
     {
+      "title"    : "Пункты проведения технического аудита",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/punkty-provedeniya-tehnicheskogo-audita/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "Цикл непрерывных улучшений",
       "category" : "",
       "tags"     : "",
@@ -7345,6 +7353,22 @@
     } ,
   
     {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-09-10 19:59:27 +0000"
+    } ,
+  
+    {
+      "title"    : "Правила упрощения",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202110042032/",
+      "date"     : "2021-10-04 17:32:00 +0000"
+    } ,
+  
+    {
       "title"    : "Пример системного мышления на командировках",
       "category" : "",
       "tags"     : "quotes",
@@ -7430,6 +7454,14 @@
       "tags"     : "",
       "url"      : "/openbox/javascript/",
       "date"     : "2023-04-05 07:40:43 +0000"
+    } ,
+  
+    {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-09-10 19:59:27 +0000"
     } ,
   
     {
@@ -7833,14 +7865,6 @@
     } ,
   
     {
-      "title"    : "Выгружать все вещи из головы",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vygruzhat-vse-veshhi-iz-golovy/",
-      "date"     : "2023-05-18 07:28:44 +0000"
-    } ,
-  
-    {
       "title"    : "не спешите становиться руководителем",
       "category" : "",
       "tags"     : "quotes",
@@ -8201,6 +8225,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-09-10 19:59:27 +0000"
+    } ,
+  
+    {
       "title"    : "common disbeliefs in dialogue",
       "category" : "",
       "tags"     : "quotes",
@@ -8222,14 +8254,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306270951/",
       "date"     : "2023-06-27 05:51:44 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-09-10 19:57:42 +0000"
     } ,
   
     {
@@ -9585,46 +9609,6 @@
     } ,
   
     {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-09-10 19:57:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Критическая цепь проекта",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/kriticheskaya-czep-proekta/",
-      "date"     : "2021-09-23 05:57:26 +0000"
-    } ,
-  
-    {
-      "title"    : "Ставь ограничения на издержки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/stav-ogranicheniya-na-izderzhki/",
-      "date"     : "2021-10-11 08:40:52 +0000"
-    } ,
-  
-    {
-      "title"    : "Состояние потока",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sostoyanie-potoka/",
-      "date"     : "2021-11-07 08:28:06 +0000"
-    } ,
-  
-    {
-      "title"    : "Пункты проведения технического аудита",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/punkty-provedeniya-tehnicheskogo-audita/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
       "title"    : "схема проведения спринта по дням",
       "category" : "",
       "tags"     : "quotes",
@@ -9993,22 +9977,6 @@
     } ,
   
     {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-09-10 19:57:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
-    } ,
-  
-    {
       "title"    : "company will grow as quickly as customers determine it will grow",
       "category" : "",
       "tags"     : "quotes",
@@ -10070,6 +10038,22 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405032105/",
       "date"     : "2024-05-03 18:05:38 +0000"
+    } ,
+  
+    {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-09-10 19:59:27 +0000"
+    } ,
+  
+    {
+      "title"    : "Обработка входящей информации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obrabotka-vhodyashhej-informaczii/",
+      "date"     : "2021-09-23 05:57:26 +0000"
     } ,
   
     {
@@ -10361,6 +10345,30 @@
     } ,
   
     {
+      "title"    : "2024 07 16 учитывать последствия",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-07-16-uchityvat-posledstviya/",
+      "date"     : "2024-07-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 07 17 issue tree",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-07-17-issue-tree/",
+      "date"     : "2024-07-17 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 07 18 граф причин",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-07-18-graf-prichin/",
+      "date"     : "2024-07-18 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "2024 07 19 дерево текущей реальности",
       "category" : "",
       "tags"     : "",
@@ -10601,14 +10609,6 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-09-10 19:57:42 +0000"
-    } ,
-  
-    {
       "title"    : "2024 09 01 знаете теорию категорий",
       "category" : "",
       "tags"     : "",
@@ -10622,6 +10622,30 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-09-02-proektirovanie-logina/",
       "date"     : "2024-09-02 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-09-10 19:59:27 +0000"
+    } ,
+  
+    {
+      "title"    : "Учёба впрок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/uchyoba-vprok/",
+      "date"     : "2021-09-23 05:57:26 +0000"
+    } ,
+  
+    {
+      "title"    : "Выгружать все вещи из головы",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vygruzhat-vse-veshhi-iz-golovy/",
+      "date"     : "2023-05-18 07:28:44 +0000"
     } ,
   
     {
@@ -10673,11 +10697,11 @@
     } ,
   
     {
-      "title"    : "",
+      "title"    : "Тезис как название заметки",
       "category" : "",
       "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-09-10 19:57:42 +0000"
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-09-10 19:59:27 +0000"
     } ,
   
     {
@@ -10685,7 +10709,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-09-10 19:57:42 +0000"
+      "date"     : "2024-09-10 19:59:27 +0000"
     } 
   
 ]
