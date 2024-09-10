@@ -5,15 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-09-10 19:39:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Para",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/para/",
-      "date"     : "2024-09-10 19:39:16 +0000"
+      "date"     : "2024-09-10 19:40:14 +0000"
     } ,
   
     {
@@ -21,7 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-09-10 19:39:16 +0000"
+      "date"     : "2024-09-10 19:40:14 +0000"
     } ,
   
     {
@@ -1705,6 +1697,14 @@
     } ,
   
     {
+      "title"    : "Poincaré recurrence theorem",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202109282304/",
+      "date"     : "2021-09-28 20:04:00 +0000"
+    } ,
+  
+    {
       "title"    : "Irreversibility as impossibility to distinguish",
       "category" : "",
       "tags"     : "quotes",
@@ -2025,6 +2025,14 @@
     } ,
   
     {
+      "title"    : "Para",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/para/",
+      "date"     : "2024-09-10 19:40:14 +0000"
+    } ,
+  
+    {
       "title"    : "Пять приёмов сильного текста",
       "category" : "",
       "tags"     : "quotes",
@@ -2070,14 +2078,6 @@
       "tags"     : "",
       "url"      : "/openbox/konczeptualnoe-prostranstvo/",
       "date"     : "2021-10-25 08:48:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Оценка стоимости труда",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/oczenka-stoimosti-truda/",
-      "date"     : "2021-10-25 09:18:09 +0000"
     } ,
   
     {
@@ -2633,6 +2633,14 @@
     } ,
   
     {
+      "title"    : "Правила качественной коммуникации",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
+      "date"     : "2022-02-06 10:27:56 +0000"
+    } ,
+  
+    {
       "title"    : "Брать или не брать. Как собеседовать разработчика.",
       "category" : "book",
       "tags"     : "books",
@@ -2878,6 +2886,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/domain-driven-design-distilled/",
       "date"     : "2022-05-03 09:57:45 +0000"
+    } ,
+  
+    {
+      "title"    : "Цифровой архив",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/czifrovoj-arhiv/",
+      "date"     : "2022-05-03 11:21:54 +0000"
     } ,
   
     {
@@ -3697,6 +3713,14 @@
     } ,
   
     {
+      "title"    : "Организация удалённой работы",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
+      "date"     : "2022-06-06 06:04:28 +0000"
+    } ,
+  
+    {
       "title"    : "Архитектура сервиса",
       "category" : "",
       "tags"     : "",
@@ -3918,6 +3942,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202206160805/",
       "date"     : "2022-06-16 05:05:16 +0000"
+    } ,
+  
+    {
+      "title"    : "Технический долг",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tehnicheskij-dolg/",
+      "date"     : "2022-06-16 06:46:20 +0000"
     } ,
   
     {
@@ -5825,6 +5857,14 @@
     } ,
   
     {
+      "title"    : "Event storming",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/event-storming/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
       "title"    : "торговля перемещает товары для увеличения ценности",
       "category" : "",
       "tags"     : "",
@@ -5981,6 +6021,14 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/konecz-proekta-ne-viden-v-nachale/",
+      "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "Мотивация сотрудников",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/motivacziya-sotrudnikov/",
       "date"     : "2023-01-14 09:31:40 +0000"
     } ,
   
@@ -6678,14 +6726,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202302120856/",
       "date"     : "2023-02-12 04:56:55 +0000"
-    } ,
-  
-    {
-      "title"    : "способы принятия решений в группах",
-      "category" : "",
-      "tags"     : "article",
-      "url"      : "/openbox/articles/202302120559/",
-      "date"     : "2023-02-12 13:59:29 +0000"
     } ,
   
     {
@@ -7409,6 +7449,14 @@
     } ,
   
     {
+      "title"    : "О причинах ведения [публичного] архива",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
+      "date"     : "2024-09-10 19:40:14 +0000"
+    } ,
+  
+    {
       "title"    : "что такое альфы проекта",
       "category" : "",
       "tags"     : "quotes",
@@ -7446,22 +7494,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/a-philosophy-of-software-design/",
       "date"     : "2023-04-22 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "О причинах ведения [публичного] архива",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-09-10 19:39:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Poincaré recurrence theorem",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202109282304/",
-      "date"     : "2021-09-28 20:04:00 +0000"
     } ,
   
     {
@@ -7606,6 +7638,14 @@
       "tags"     : "books",
       "url"      : "/openbox/books/sistemnaya-zhizn/",
       "date"     : "2023-05-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Про доступы в продакшен",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
+      "date"     : "2023-05-08 13:05:36 +0000"
     } ,
   
     {
@@ -8185,6 +8225,14 @@
     } ,
   
     {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-09-10 19:40:14 +0000"
+    } ,
+  
+    {
       "title"    : "questions for rest of the story",
       "category" : "",
       "tags"     : "quotes",
@@ -8222,14 +8270,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202306282132/",
       "date"     : "2023-06-28 17:32:21 +0000"
-    } ,
-  
-    {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-09-10 19:39:16 +0000"
     } ,
   
     {
@@ -9429,7 +9469,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/evergreen/",
-      "date"     : "2024-09-10 19:39:16 +0000"
+      "date"     : "2024-09-10 19:40:14 +0000"
     } ,
   
     {
@@ -9438,6 +9478,14 @@
       "tags"     : "",
       "url"      : "/openbox/punkty-provedeniya-tehnicheskogo-audita/",
       "date"     : "2023-01-14 09:31:40 +0000"
+    } ,
+  
+    {
+      "title"    : "способы принятия решений в группах",
+      "category" : "",
+      "tags"     : "article",
+      "url"      : "/openbox/articles/202302120559/",
+      "date"     : "2023-02-12 13:59:29 +0000"
     } ,
   
     {
@@ -9745,6 +9793,22 @@
     } ,
   
     {
+      "title"    : "Не будь плюшкиным",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ne-bud-plyushkinym/",
+      "date"     : "2024-09-10 19:40:14 +0000"
+    } ,
+  
+    {
+      "title"    : "Оценка стоимости труда",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/oczenka-stoimosti-truda/",
+      "date"     : "2021-10-25 09:18:09 +0000"
+    } ,
+  
+    {
       "title"    : "creator first, entrepreneur second",
       "category" : "",
       "tags"     : "quotes",
@@ -9798,14 +9862,6 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-03-27-pro-udalyonku/",
       "date"     : "2024-03-27 00:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Gunicorn",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gunicorn/",
-      "date"     : "2024-03-28 12:43:19 +0000"
     } ,
   
     {
@@ -9998,70 +10054,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202405032103/",
       "date"     : "2024-05-03 18:03:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Не будь плюшкиным",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-09-10 19:39:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Правила качественной коммуникации",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pravila-kachestvennoj-kommunikaczii/",
-      "date"     : "2022-02-06 10:27:56 +0000"
-    } ,
-  
-    {
-      "title"    : "Цифровой архив",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/czifrovoj-arhiv/",
-      "date"     : "2022-05-03 11:21:54 +0000"
-    } ,
-  
-    {
-      "title"    : "Организация удалённой работы",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/organizacziya-udalyonnoj-raboty/",
-      "date"     : "2022-06-06 06:04:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Технический долг",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tehnicheskij-dolg/",
-      "date"     : "2022-06-16 06:46:20 +0000"
-    } ,
-  
-    {
-      "title"    : "Event storming",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/event-storming/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Мотивация сотрудников",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/motivacziya-sotrudnikov/",
-      "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Про доступы в продакшен",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/pro-dostupy-v-prodakshen/",
-      "date"     : "2023-05-08 13:05:36 +0000"
     } ,
   
     {
@@ -10393,6 +10385,22 @@
     } ,
   
     {
+      "title"    : "2024 08 31 context context",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-08-31-context-context/",
+      "date"     : "2024-08-31 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "2024 09 01 знаете теорию категорий",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/chernov-sharit/2024-09-01-znaete-teoriyu-kategorij/",
+      "date"     : "2024-09-01 00:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "2024 09 02 проектирование логина",
       "category" : "",
       "tags"     : "",
@@ -10417,6 +10425,14 @@
     } ,
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/obsidian-tasks",
+      "date"     : "2024-09-10 19:40:14 +0000"
+    } ,
+  
+    {
       "title"    : "2024 09 05 sad и лес",
       "category" : "",
       "tags"     : "",
@@ -10430,6 +10446,22 @@
       "tags"     : "",
       "url"      : "/openbox/chernov-sharit/2024-09-06-bednost-taksonomij/",
       "date"     : "2024-09-06 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Gunicorn",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gunicorn/",
+      "date"     : "2024-03-28 12:43:19 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-09-10 19:40:14 +0000"
     } ,
   
     {
@@ -10449,27 +10481,11 @@
     } ,
   
     {
-      "title"    : "",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-09-10 19:39:16 +0000"
-    } ,
-  
-    {
-      "title"    : "Тезис как название заметки",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-09-10 19:39:16 +0000"
-    } ,
-  
-    {
       "title"    : "Экзокортекс",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-09-10 19:39:16 +0000"
+      "date"     : "2024-09-10 19:40:14 +0000"
     } 
   
 ]
