@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Books]]","title":"Thinking in systems","category":"book","status":"Completed","tags":["books"],"rating":4,"date":"2024-05-17","modified_at":"2024-10-22T11:37:56+03:00","dg-path":"/books/Thinking in systems.md","permalink":"/books/thinking-in-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Books]]","title":"Thinking in systems","category":"book","status":"Completed","tags":["books"],"rating":4,"date":"2024-05-17","modified_at":"2024-10-22T11:38:06+03:00","dg-path":"/books/Thinking in systems.md","permalink":"/books/thinking-in-systems/","dgPassFrontmatter":true}
 ---
 
 
@@ -113,4 +113,4 @@ Mindsets and Models
 
 - [x] #task Обработать все выдержки из книги в рамках Zettels ⏳ 2024-09-17 ✅ 2024-09-18
 - [ ] #task Доработать свои заметки на основе идей из книг
-- [ ] #task Перенести выдержку из книги в заметку ➕ 2024-07-17 ⏳ 2024-10-22
+- [x] #task Перенести выдержку из книги в заметку ➕ 2024-07-17 ⏳ 2024-10-22 ✅ 2024-10-22
