@@ -5,7 +5,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/bullet-journal/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -13,15 +13,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/para/",
-      "date"     : "2024-10-17 07:13:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Zettelkasten",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/zettelkasten/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -1881,6 +1873,14 @@
     } ,
   
     {
+      "title"    : "Система оценок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/sistema-oczenok/",
+      "date"     : "2021-10-12 08:20:42 +0000"
+    } ,
+  
+    {
       "title"    : "Понятийный минимум",
       "category" : "",
       "tags"     : "",
@@ -2113,6 +2113,22 @@
     } ,
   
     {
+      "title"    : "How to make sense of any mess",
+      "category" : "book",
+      "tags"     : "books",
+      "url"      : "/openbox/books/how-to-make-sense-of-any-mess/",
+      "date"     : "2022-04-16 15:53:11 +0000"
+    } ,
+  
+    {
+      "title"    : "Evergreen",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/evergreen/",
+      "date"     : "2024-10-22 08:38:03 +0000"
+    } ,
+  
+    {
       "title"    : "Каждый в чем-то прав",
       "category" : "",
       "tags"     : "quotes",
@@ -2238,14 +2254,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202201102052/",
       "date"     : "2022-01-10 17:52:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Ladder of casuality",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/ladder-of-casuality/",
-      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -2721,14 +2729,6 @@
     } ,
   
     {
-      "title"    : "How to make sense of any mess",
-      "category" : "book",
-      "tags"     : "books",
-      "url"      : "/openbox/books/how-to-make-sense-of-any-mess/",
-      "date"     : "2022-04-16 15:53:11 +0000"
-    } ,
-  
-    {
       "title"    : "To do is to know",
       "category" : "",
       "tags"     : "",
@@ -2902,6 +2902,14 @@
       "tags"     : "",
       "url"      : "/openbox/myshlenie-pismom/",
       "date"     : "2022-05-07 17:18:51 +0000"
+    } ,
+  
+    {
+      "title"    : "Мышление должно происходить во вне",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
+      "date"     : "2022-05-07 17:52:21 +0000"
     } ,
   
     {
@@ -5065,14 +5073,6 @@
     } ,
   
     {
-      "title"    : "Choose your battles carefully and keep calm",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202208302159/",
-      "date"     : "2022-08-30 18:59:10 +0000"
-    } ,
-  
-    {
       "title"    : "Bad names make you open the box",
       "category" : "",
       "tags"     : "article",
@@ -5126,14 +5126,6 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202209011550/",
       "date"     : "2022-09-01 12:50:26 +0000"
-    } ,
-  
-    {
-      "title"    : "a long list of ingredients that are critical to successful product development",
-      "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202209012126/",
-      "date"     : "2022-09-01 18:26:49 +0000"
     } ,
   
     {
@@ -5758,14 +5750,6 @@
       "tags"     : "books",
       "url"      : "/openbox/books/nenasilstvennoe-obshhenie/",
       "date"     : "2023-01-14 09:31:40 +0000"
-    } ,
-  
-    {
-      "title"    : "Evergreen",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/evergreen/",
-      "date"     : "2024-10-17 07:13:28 +0000"
     } ,
   
     {
@@ -7169,14 +7153,6 @@
     } ,
   
     {
-      "title"    : "рост - это не развитие",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/rost-eto-ne-razvitie/",
-      "date"     : "2023-03-11 08:16:17 +0000"
-    } ,
-  
-    {
       "title"    : "Писательство",
       "category" : "",
       "tags"     : "competencies, skills",
@@ -8145,6 +8121,30 @@
     } ,
   
     {
+      "title"    : "Zettelkasten",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/zettelkasten/",
+      "date"     : "2024-10-22 08:38:03 +0000"
+    } ,
+  
+    {
+      "title"    : "Choose your battles carefully and keep calm",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202208302159/",
+      "date"     : "2022-08-30 18:59:10 +0000"
+    } ,
+  
+    {
+      "title"    : "a long list of ingredients that are critical to successful product development",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202209012126/",
+      "date"     : "2022-09-01 18:26:49 +0000"
+    } ,
+  
+    {
       "title"    : "Performance review",
       "category" : "",
       "tags"     : "",
@@ -8473,30 +8473,6 @@
     } ,
   
     {
-      "title"    : "Ведение заметок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/vedenie-zametok/",
-      "date"     : "2024-10-17 07:13:28 +0000"
-    } ,
-  
-    {
-      "title"    : "Система оценок",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/sistema-oczenok/",
-      "date"     : "2021-10-12 08:20:42 +0000"
-    } ,
-  
-    {
-      "title"    : "Мышление должно происходить во вне",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/myshlenie-dolzhno-proishodit-vo-vne/",
-      "date"     : "2022-05-07 17:52:21 +0000"
-    } ,
-  
-    {
       "title"    : "хорошие вопросы - хорошая обратная связь",
       "category" : "",
       "tags"     : "quotes",
@@ -8518,6 +8494,14 @@
       "tags"     : "quotes",
       "url"      : "/openbox/quotes/202307141527/",
       "date"     : "2023-07-14 11:27:55 +0000"
+    } ,
+  
+    {
+      "title"    : "Ведение заметок",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/vedenie-zametok/",
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -8689,11 +8673,19 @@
     } ,
   
     {
+      "title"    : "confidence to begin work without the answers",
+      "category" : "",
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202308220947/",
+      "date"     : "2023-08-22 06:47:27 +0000"
+    } ,
+  
+    {
       "title"    : "",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/obsidian-tasks",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -8705,11 +8697,11 @@
     } ,
   
     {
-      "title"    : "confidence to begin work without the answers",
+      "title"    : "рост - это не развитие",
       "category" : "",
-      "tags"     : "quotes",
-      "url"      : "/openbox/quotes/202308220947/",
-      "date"     : "2023-08-22 06:47:27 +0000"
+      "tags"     : "",
+      "url"      : "/openbox/rost-eto-ne-razvitie/",
+      "date"     : "2023-03-11 08:16:17 +0000"
     } ,
   
     {
@@ -8825,11 +8817,27 @@
     } ,
   
     {
+      "title"    : "Gunicorn",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/gunicorn/",
+      "date"     : "2024-03-28 12:43:19 +0000"
+    } ,
+  
+    {
       "title"    : "Не будь плюшкиным",
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ne-bud-plyushkinym/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
+    } ,
+  
+    {
+      "title"    : "Тезис как название заметки",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -9857,14 +9865,6 @@
     } ,
   
     {
-      "title"    : "Gunicorn",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/gunicorn/",
-      "date"     : "2024-03-28 12:43:19 +0000"
-    } ,
-  
-    {
       "title"    : "2024 03 31 за что платят деньги",
       "category" : "",
       "tags"     : "",
@@ -9877,7 +9877,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/o-prichinah-vedeniya-arhiva/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
     } ,
   
     {
@@ -9886,6 +9886,14 @@
       "tags"     : "",
       "url"      : "/openbox/konczeptualnoe-prostranstvo/",
       "date"     : "2021-10-25 08:48:42 +0000"
+    } ,
+  
+    {
+      "title"    : "Ladder of casuality",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/openbox/ladder-of-casuality/",
+      "date"     : "2022-01-11 06:42:40 +0000"
     } ,
   
     {
@@ -11057,11 +11065,11 @@
     } ,
   
     {
-      "title"    : "Тезис как название заметки",
+      "title"    : "places to Intervene in a System (in increasing order of effectiveness)",
       "category" : "",
-      "tags"     : "",
-      "url"      : "/openbox/tezis-kak-nazvanie-zametki/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "tags"     : "quotes",
+      "url"      : "/openbox/quotes/202410221136/",
+      "date"     : "2024-10-22 08:36:37 +0000"
     } ,
   
     {
@@ -11069,7 +11077,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/openbox/ekzokorteks/",
-      "date"     : "2024-10-17 07:13:28 +0000"
+      "date"     : "2024-10-22 08:38:03 +0000"
     } 
   
 ]
