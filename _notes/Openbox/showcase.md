@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"share":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2024-10-31T17:43:22+03:00","dg-path":"/showcase.md","permalink":"/showcase/","dgPassFrontmatter":true}
+{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2024-10-31T17:43:22+03:00","dg-path":"showcase.md","permalink":"/showcase/","dgPassFrontmatter":true}
 ---
 
 
@@ -77,3 +77,4 @@
 - [[Openbox/books/Экономика здравого смысла\|Экономика здравого смысла]]
 - [[Openbox/books/джедайские техники\|джедайские техники]]
 
+{ .block-language-dataview}
