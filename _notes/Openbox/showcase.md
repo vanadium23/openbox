@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2024-10-31T17:43:22+03:00","dg-path":"showcase.md","permalink":"/showcase/","dgPassFrontmatter":true}
+{"dg-publish":true,"toc":true,"date":"2023-05-21T16:21:54+04:00","modified_at":"2024-10-31T18:19:41+03:00","dg-path":"showcase.md","permalink":"/showcase/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,6 +19,10 @@
 > [!NOTE] Title
 > Contents
 
+## Images
+
+Diff в digital garden:
+![Pasted image 20241031181932.png](/img/user/_media/Pasted%20image%2020241031181932.png)
 
 ## Dataview
 
