@@ -22,7 +22,7 @@
 ## Images
 
 Diff в digital garden:
-![Pasted image 20241031181932.png](/img/user/_media/Pasted%20image%2020241031181932.png)
+![Pasted image 20241031181932.png](/openbox/assets/img/Pasted%20image%2020241031181932.png)
 
 ## Dataview
 
