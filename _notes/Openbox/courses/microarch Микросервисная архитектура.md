@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"up":"[[Courses]]","tags":["courses"],"rating":4,"source":"https://microarch.ru/","date":"2024-07-17T16:33:14+03:00","modified_at":"2024-10-31T15:43:06+03:00","dg-path":"/courses/microarch Микросервисная архитектура.md","permalink":"/courses/microarch-mikroservisnaya-arhitektura/","dgPassFrontmatter":true}
+{"dg-publish":true,"up":"[[Courses]]","tags":["courses"],"rating":3,"source":"https://microarch.ru/","date":"2024-07-17T16:33:14+03:00","modified_at":"2024-11-02T11:12:23+03:00","dg-path":"courses/microarch Микросервисная архитектура.md","permalink":"/courses/microarch-mikroservisnaya-arhitektura/","dgPassFrontmatter":true}
 ---
 
 
